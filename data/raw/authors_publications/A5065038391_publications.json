@@ -1,0 +1,4110 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 27,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W1974962040",
+            "doi": "https://doi.org/10.1016/j.procs.2012.04.129",
+            "title": "Improving System Predictability and Performance via Hardware Accelerated Data Structures",
+            "display_name": "Improving System Predictability and Performance via Hardware Accelerated Data Structures",
+            "publication_year": 2012,
+            "publication_date": "2012-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1974962040",
+                "doi": "https://doi.org/10.1016/j.procs.2012.04.129",
+                "mag": "1974962040"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2012.04.129",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2012.04.129",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5090678158",
+                        "display_name": "Chetan Kumar Ng",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I173911158",
+                            "display_name": "Iowa State University",
+                            "ror": "https://ror.org/04rswrd78",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Chetan Kumar Ng",
+                    "raw_affiliation_strings": [
+                        "Iowa State University Department of Electrical and Computer Engineering Ames IA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Iowa State University Department of Electrical and Computer Engineering Ames IA",
+                            "institution_ids": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5041772756",
+                        "display_name": "Sudhanshu Vyas",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I173911158",
+                            "display_name": "Iowa State University",
+                            "ror": "https://ror.org/04rswrd78",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sudhanshu Vyas",
+                    "raw_affiliation_strings": [
+                        "Iowa State University Department of Electrical and Computer Engineering Ames IA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Iowa State University Department of Electrical and Computer Engineering Ames IA",
+                            "institution_ids": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5065038391",
+                        "display_name": "Jonathan Shidal",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jonathan A. Shidal",
+                    "raw_affiliation_strings": [
+                        "Washington University, Computer Science and Engineering, St. Louis, MO"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University, Computer Science and Engineering, St. Louis, MO",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5073393999",
+                        "display_name": "Ron K. Cytron",
+                        "orcid": "https://orcid.org/0009-0009-5915-602X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ron K. Cytron",
+                    "raw_affiliation_strings": [
+                        "Washington University, Computer Science and Engineering, St. Louis, MO"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University, Computer Science and Engineering, St. Louis, MO",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5076029698",
+                        "display_name": "Christopher Gill",
+                        "orcid": "https://orcid.org/0000-0003-0366-8586"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Christopher D. Gill",
+                    "raw_affiliation_strings": [
+                        "Washington University, Computer Science and Engineering, St. Louis, MO"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University, Computer Science and Engineering, St. Louis, MO",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081541206",
+                        "display_name": "Joseph Zambreno",
+                        "orcid": "https://orcid.org/0000-0002-0566-5744"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I173911158",
+                            "display_name": "Iowa State University",
+                            "ror": "https://ror.org/04rswrd78",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Joseph Zambreno",
+                    "raw_affiliation_strings": [
+                        "Iowa State University Department of Electrical and Computer Engineering Ames IA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Iowa State University Department of Electrical and Computer Engineering Ames IA",
+                            "institution_ids": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5026774201",
+                        "display_name": "Phillip H. Jones",
+                        "orcid": "https://orcid.org/0000-0002-8220-7552"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I173911158",
+                            "display_name": "Iowa State University",
+                            "ror": "https://ror.org/04rswrd78",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Phillip H. Jones",
+                    "raw_affiliation_strings": [
+                        "Iowa State University Department of Electrical and Computer Engineering Ames IA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Iowa State University Department of Electrical and Computer Engineering Ames IA",
+                            "institution_ids": [
+                                "https://openalex.org/I173911158"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.879,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 9,
+            "citation_normalized_percentile": {
+                "value": 0.815509,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 84,
+                "max": 85
+            },
+            "biblio": {
+                "volume": "9",
+                "issue": null,
+                "first_page": "1197",
+                "last_page": "1205"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10933",
+                "display_name": "Real-Time Scheduling in Embedded Systems",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10933",
+                    "display_name": "Real-Time Scheduling in Embedded Systems",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10904",
+                    "display_name": "Reconfigurable Computing Systems and Design Methods",
+                    "score": 0.997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9962,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/predictability",
+                    "display_name": "Predictability",
+                    "score": 0.83947647
+                },
+                {
+                    "id": "https://openalex.org/keywords/multiprocessor-scheduling",
+                    "display_name": "Multiprocessor Scheduling",
+                    "score": 0.614544
+                },
+                {
+                    "id": "https://openalex.org/keywords/scheduling-algorithms",
+                    "display_name": "Scheduling Algorithms",
+                    "score": 0.605305
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.572013
+                },
+                {
+                    "id": "https://openalex.org/keywords/reconfigurable-computing",
+                    "display_name": "Reconfigurable Computing",
+                    "score": 0.559948
+                },
+                {
+                    "id": "https://openalex.org/keywords/dynamic-reconfiguration",
+                    "display_name": "Dynamic Reconfiguration",
+                    "score": 0.55809
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.9334583
+                },
+                {
+                    "id": "https://openalex.org/C197640229",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2534066",
+                    "display_name": "Predictability",
+                    "level": 2,
+                    "score": 0.83947647
+                },
+                {
+                    "id": "https://openalex.org/C9390403",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3966",
+                    "display_name": "Computer hardware",
+                    "level": 1,
+                    "score": 0.41245645
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.33406606
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.32743767
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2012.04.129",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2012.04.129",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.44,
+                    "display_name": "Reduced inequalities",
+                    "id": "https://metadata.un.org/sdg/10"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 13,
+            "referenced_works": [
+                "https://openalex.org/W1921912946",
+                "https://openalex.org/W1923325560",
+                "https://openalex.org/W1975746772",
+                "https://openalex.org/W2001326614",
+                "https://openalex.org/W2005239962",
+                "https://openalex.org/W2100638929",
+                "https://openalex.org/W2131005318",
+                "https://openalex.org/W2150348132",
+                "https://openalex.org/W2168185757",
+                "https://openalex.org/W2171337528",
+                "https://openalex.org/W2330831676",
+                "https://openalex.org/W26816055",
+                "https://openalex.org/W4239542614"
+            ],
+            "related_works": [
+                "https://openalex.org/W3124648670",
+                "https://openalex.org/W2523870901",
+                "https://openalex.org/W2381737837",
+                "https://openalex.org/W2381275640",
+                "https://openalex.org/W2369375926",
+                "https://openalex.org/W2154371368",
+                "https://openalex.org/W2118112569",
+                "https://openalex.org/W2103962833",
+                "https://openalex.org/W1974962040",
+                "https://openalex.org/W1527837723"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0,
+                    78
+                ],
+                "Dynamic": [
+                    1
+                ],
+                "Data-Driven": [
+                    2
+                ],
+                "Application": [
+                    3
+                ],
+                "Systems,": [
+                    4
+                ],
+                "applications": [
+                    5
+                ],
+                "must": [
+                    6
+                ],
+                "dynamically": [
+                    7
+                ],
+                "adapt": [
+                    8
+                ],
+                "their": [
+                    9
+                ],
+                "behavior": [
+                    10
+                ],
+                "in": [
+                    11,
+                    38,
+                    74,
+                    114,
+                    119
+                ],
+                "response": [
+                    12,
+                    39
+                ],
+                "to": [
+                    13,
+                    23,
+                    28,
+                    40,
+                    148,
+                    162
+                ],
+                "objectives": [
+                    14
+                ],
+                "and": [
+                    15,
+                    47,
+                    96,
+                    117,
+                    135
+                ],
+                "conditions": [
+                    16
+                ],
+                "that": [
+                    17,
+                    32,
+                    92
+                ],
+                "change": [
+                    18
+                ],
+                "while": [
+                    19
+                ],
+                "deployed.": [
+                    20
+                ],
+                "One": [
+                    21
+                ],
+                "approach": [
+                    22
+                ],
+                "achieve": [
+                    24
+                ],
+                "dynamic": [
+                    25,
+                    42,
+                    66
+                ],
+                "adaptation": [
+                    26,
+                    51
+                ],
+                "is": [
+                    27,
+                    59,
+                    109,
+                    151
+                ],
+                "o": [
+                    29
+                ],
+                "er": [
+                    30
+                ],
+                "middleware": [
+                    31
+                ],
+                "facilitates": [
+                    33
+                ],
+                "component": [
+                    34
+                ],
+                "migration": [
+                    35
+                ],
+                "between": [
+                    36,
+                    175
+                ],
+                "modalities": [
+                    37
+                ],
+                "such": [
+                    41
+                ],
+                "changes.": [
+                    43
+                ],
+                "The": [
+                    44,
+                    122,
+                    146
+                ],
+                "triggering,": [
+                    45
+                ],
+                "planning,": [
+                    46
+                ],
+                "cost": [
+                    48
+                ],
+                "evaluation": [
+                    49
+                ],
+                "of": [
+                    50,
+                    100,
+                    156,
+                    178,
+                    185
+                ],
+                "takes": [
+                    52
+                ],
+                "place": [
+                    53
+                ],
+                "within": [
+                    54
+                ],
+                "a": [
+                    55,
+                    60,
+                    83,
+                    154
+                ],
+                "scheduler.": [
+                    56,
+                    102
+                ],
+                "Scheduling": [
+                    57,
+                    129
+                ],
+                "overhead": [
+                    58,
+                    95
+                ],
+                "major": [
+                    61
+                ],
+                "limiting": [
+                    62
+                ],
+                "factor": [
+                    63
+                ],
+                "for": [
+                    64,
+                    88,
+                    189
+                ],
+                "implementing": [
+                    65
+                ],
+                "scheduling": [
+                    67,
+                    138
+                ],
+                "algorithms": [
+                    68
+                ],
+                "with": [
+                    69,
+                    182
+                ],
+                "high": [
+                    70
+                ],
+                "frequency": [
+                    71
+                ],
+                "timer-tick": [
+                    72
+                ],
+                "resolution": [
+                    73
+                ],
+                "real": [
+                    75,
+                    89
+                ],
+                "time": [
+                    76,
+                    90
+                ],
+                "systems.": [
+                    77
+                ],
+                "this": [
+                    79
+                ],
+                "paper,": [
+                    80
+                ],
+                "we": [
+                    81
+                ],
+                "present": [
+                    82
+                ],
+                "scalable": [
+                    84
+                ],
+                "hardware": [
+                    85,
+                    105,
+                    123
+                ],
+                "scheduler": [
+                    86,
+                    124,
+                    150
+                ],
+                "architecture": [
+                    87
+                ],
+                "systems": [
+                    91
+                ],
+                "reduces": [
+                    93
+                ],
+                "processing": [
+                    94
+                ],
+                "improves": [
+                    97
+                ],
+                "timing": [
+                    98
+                ],
+                "predictability": [
+                    99
+                ],
+                "the": [
+                    101,
+                    149,
+                    163,
+                    183
+                ],
+                "A": [
+                    103
+                ],
+                "new": [
+                    104
+                ],
+                "priority": [
+                    106,
+                    136
+                ],
+                "queue": [
+                    107
+                ],
+                "design": [
+                    108
+                ],
+                "presented,": [
+                    110
+                ],
+                "which": [
+                    111,
+                    140
+                ],
+                "supports": [
+                    112,
+                    125
+                ],
+                "insertions": [
+                    113
+                ],
+                "constant": [
+                    115
+                ],
+                "time,": [
+                    116
+                ],
+                "removals": [
+                    118
+                ],
+                "O(logn)": [
+                    120
+                ],
+                "time.": [
+                    121
+                ],
+                "three": [
+                    126
+                ],
+                "(Rate": [
+                    127
+                ],
+                "Monotonic": [
+                    128
+                ],
+                "(RMS),": [
+                    130
+                ],
+                "Earliest": [
+                    131
+                ],
+                "Deadline": [
+                    132
+                ],
+                "First": [
+                    133
+                ],
+                "(EDF),": [
+                    134
+                ],
+                "based)": [
+                    137
+                ],
+                "algorithms,": [
+                    139
+                ],
+                "can": [
+                    141
+                ],
+                "be": [
+                    142
+                ],
+                "configured": [
+                    143
+                ],
+                "during": [
+                    144
+                ],
+                "run-time.": [
+                    145
+                ],
+                "interface": [
+                    147
+                ],
+                "provided": [
+                    152
+                ],
+                "through": [
+                    153
+                ],
+                "set": [
+                    155,
+                    166
+                ],
+                "custom": [
+                    157
+                ],
+                "instructions": [
+                    158
+                ],
+                "as": [
+                    159
+                ],
+                "an": [
+                    160,
+                    179
+                ],
+                "extension": [
+                    161
+                ],
+                "processors": [
+                    164
+                ],
+                "instruction": [
+                    165
+                ],
+                "architecture.": [
+                    167
+                ],
+                "We": [
+                    168
+                ],
+                "also": [
+                    169
+                ],
+                "report": [
+                    170
+                ],
+                "on": [
+                    171
+                ],
+                "our": [
+                    172
+                ],
+                "experience": [
+                    173
+                ],
+                "migrating": [
+                    174
+                ],
+                "two": [
+                    176
+                ],
+                "implementations": [
+                    177
+                ],
+                "ordered-set": [
+                    180
+                ],
+                "implementation,": [
+                    181
+                ],
+                "goal": [
+                    184
+                ],
+                "providing": [
+                    186
+                ],
+                "predictable": [
+                    187
+                ],
+                "performance": [
+                    188
+                ],
+                "real-time": [
+                    190
+                ],
+                "applications.": [
+                    191
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1974962040",
+            "counts_by_year": [
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T19:57:36.562956",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2083166000",
+            "doi": "https://doi.org/10.1145/2618128.2618133",
+            "title": "Trash in cache",
+            "display_name": "Trash in cache",
+            "publication_year": 2014,
+            "publication_date": "2014-06-10",
+            "ids": {
+                "openalex": "https://openalex.org/W2083166000",
+                "doi": "https://doi.org/10.1145/2618128.2618133",
+                "mag": "2083166000"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1145/2618128.2618133",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5065038391",
+                        "display_name": "Jonathan Shidal",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jonathan Shidal",
+                    "raw_affiliation_strings": [
+                        "(, Washington University in St. Louis)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "(, Washington University in St. Louis)",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016767858",
+                        "display_name": "Zachary Gottlieb",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zachary Gottlieb",
+                    "raw_affiliation_strings": [
+                        "(, Washington University in St. Louis)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "(, Washington University in St. Louis)",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5073393999",
+                        "display_name": "Ron K. Cytron",
+                        "orcid": "https://orcid.org/0009-0009-5915-602X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ron K. Cytron",
+                    "raw_affiliation_strings": [
+                        "(, Washington University in St. Louis)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "(, Washington University in St. Louis)",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102732379",
+                        "display_name": "Krishna M. Kavi",
+                        "orcid": "https://orcid.org/0000-0003-1581-8166"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I123534392",
+                            "display_name": "University of North Texas",
+                            "ror": "https://ror.org/00v97ad02",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I123534392"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krishna M. Kavi",
+                    "raw_affiliation_strings": [
+                        "University of North Texas"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of North Texas",
+                            "institution_ids": [
+                                "https://openalex.org/I123534392"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.608,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 6,
+            "citation_normalized_percentile": {
+                "value": 0.784789,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 82,
+                "max": 83
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10772",
+                    "display_name": "Distributed Fault Tolerance and Consistency in Systems",
+                    "score": 0.9989,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/benchmarking",
+                    "display_name": "Benchmarking",
+                    "score": 0.482512
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.83178264
+                },
+                {
+                    "id": "https://openalex.org/C115537543",
+                    "wikidata": "https://www.wikidata.org/wiki/Q165596",
+                    "display_name": "Cache",
+                    "level": 2,
+                    "score": 0.78961146
+                },
+                {
+                    "id": "https://openalex.org/C194739806",
+                    "wikidata": "https://www.wikidata.org/wiki/Q66221",
+                    "display_name": "Computer data storage",
+                    "level": 2,
+                    "score": 0.5286658
+                },
+                {
+                    "id": "https://openalex.org/C2777212361",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5127848",
+                    "display_name": "Class (philosophy)",
+                    "level": 2,
+                    "score": 0.5163149
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.42470905
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.40693587
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.33534214
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1145/2618128.2618133",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 14,
+            "referenced_works": [
+                "https://openalex.org/W1630129538",
+                "https://openalex.org/W1730238501",
+                "https://openalex.org/W2019810896",
+                "https://openalex.org/W2097157718",
+                "https://openalex.org/W2114459515",
+                "https://openalex.org/W2120139852",
+                "https://openalex.org/W2127122252",
+                "https://openalex.org/W2131533407",
+                "https://openalex.org/W2141157907",
+                "https://openalex.org/W2144334298",
+                "https://openalex.org/W2145079763",
+                "https://openalex.org/W2154904877",
+                "https://openalex.org/W2166091242",
+                "https://openalex.org/W3147993829"
+            ],
+            "related_works": [
+                "https://openalex.org/W3033597088",
+                "https://openalex.org/W2957999883",
+                "https://openalex.org/W2796617191",
+                "https://openalex.org/W2372542233",
+                "https://openalex.org/W2370313323",
+                "https://openalex.org/W2366024859",
+                "https://openalex.org/W2357388125",
+                "https://openalex.org/W2356060994",
+                "https://openalex.org/W2317981192",
+                "https://openalex.org/W1605665967"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "gap": [
+                    1
+                ],
+                "between": [
+                    2
+                ],
+                "processing": [
+                    3
+                ],
+                "and": [
+                    4,
+                    14,
+                    39,
+                    60,
+                    76
+                ],
+                "storage": [
+                    5,
+                    48,
+                    65
+                ],
+                "speeds": [
+                    6
+                ],
+                "remains": [
+                    7
+                ],
+                "a": [
+                    8
+                ],
+                "concern": [
+                    9
+                ],
+                "for": [
+                    10,
+                    78
+                ],
+                "computer": [
+                    11
+                ],
+                "system": [
+                    12
+                ],
+                "designers": [
+                    13
+                ],
+                "application": [
+                    15,
+                    128
+                ],
+                "developers.": [
+                    16
+                ],
+                "This": [
+                    17
+                ],
+                "disparity": [
+                    18
+                ],
+                "can": [
+                    19,
+                    54,
+                    85,
+                    123,
+                    129
+                ],
+                "be": [
+                    20,
+                    86,
+                    114,
+                    124
+                ],
+                "bridged": [
+                    21
+                ],
+                "in": [
+                    22
+                ],
+                "part": [
+                    23
+                ],
+                "by": [
+                    24
+                ],
+                "eliminating": [
+                    25
+                ],
+                "unnecessary": [
+                    26
+                ],
+                "stores,": [
+                    27
+                ],
+                "thereby": [
+                    28
+                ],
+                "reducing": [
+                    29
+                ],
+                "the": [
+                    30,
+                    37,
+                    43,
+                    47,
+                    51,
+                    62,
+                    127,
+                    133
+                ],
+                "amount": [
+                    31
+                ],
+                "of": [
+                    32,
+                    46,
+                    64,
+                    82,
+                    92
+                ],
+                "traffic": [
+                    33,
+                    53
+                ],
+                "that": [
+                    34,
+                    67,
+                    84,
+                    97,
+                    101,
+                    126
+                ],
+                "flows": [
+                    35
+                ],
+                "from": [
+                    36,
+                    119
+                ],
+                "processor": [
+                    38
+                ],
+                "first-level": [
+                    40
+                ],
+                "caches": [
+                    41
+                ],
+                "to": [
+                    42,
+                    113,
+                    117
+                ],
+                "slower": [
+                    44
+                ],
+                "components": [
+                    45,
+                    66
+                ],
+                "subsystem.": [
+                    49
+                ],
+                "Reducing": [
+                    50
+                ],
+                "\"write\"": [
+                    52
+                ],
+                "improve": [
+                    55
+                ],
+                "program": [
+                    56
+                ],
+                "performance,": [
+                    57
+                ],
+                "save": [
+                    58
+                ],
+                "power,": [
+                    59
+                ],
+                "increase": [
+                    61
+                ],
+                "longevity": [
+                    63
+                ],
+                "have": [
+                    68,
+                    73
+                ],
+                "limited": [
+                    69
+                ],
+                "write": [
+                    70,
+                    99
+                ],
+                "endurance.": [
+                    71
+                ],
+                "Techniques": [
+                    72
+                ],
+                "been": [
+                    74
+                ],
+                "proposed": [
+                    75
+                ],
+                "evaluated": [
+                    77
+                ],
+                "identifying": [
+                    79
+                ],
+                "various": [
+                    80
+                ],
+                "classes": [
+                    81
+                ],
+                "stores": [
+                    83,
+                    94
+                ],
+                "silenced.": [
+                    87
+                ],
+                "A": [
+                    88
+                ],
+                "relatively": [
+                    89
+                ],
+                "unexplored": [
+                    90
+                ],
+                "class": [
+                    91
+                ],
+                "such": [
+                    93
+                ],
+                "are": [
+                    95
+                ],
+                "those": [
+                    96
+                ],
+                "would": [
+                    98
+                ],
+                "data": [
+                    100,
+                    107
+                ],
+                "is": [
+                    102
+                ],
+                "dirty,": [
+                    103
+                ],
+                "but": [
+                    104
+                ],
+                "dead.": [
+                    105
+                ],
+                "Such": [
+                    106
+                ],
+                "appears": [
+                    108
+                ],
+                "as": [
+                    109
+                ],
+                "if": [
+                    110
+                ],
+                "it": [
+                    111,
+                    122
+                ],
+                "needs": [
+                    112
+                ],
+                "written": [
+                    115
+                ],
+                "back": [
+                    116
+                ],
+                "memory": [
+                    118
+                ],
+                "cache,": [
+                    120
+                ],
+                "yet": [
+                    121
+                ],
+                "proven": [
+                    125
+                ],
+                "never": [
+                    130
+                ],
+                "subsequently": [
+                    131
+                ],
+                "access": [
+                    132
+                ],
+                "data.": [
+                    134
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2083166000",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-20T00:16:14.604419",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2032073104",
+            "doi": "https://doi.org/10.1145/2754169.2754183",
+            "title": "Recycling trash in cache",
+            "display_name": "Recycling trash in cache",
+            "publication_year": 2015,
+            "publication_date": "2015-06-08",
+            "ids": {
+                "openalex": "https://openalex.org/W2032073104",
+                "doi": "https://doi.org/10.1145/2754169.2754183",
+                "mag": "2032073104"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1145/2754169.2754183",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5065038391",
+                        "display_name": "Jonathan Shidal",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jonathan Shidal",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA.",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5030056999",
+                        "display_name": "Ari J. Spilo",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ari J. Spilo",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA.",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5071569856",
+                        "display_name": "Paul T. Scheid",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paul T. Scheid",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA.",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5073393999",
+                        "display_name": "Ron K. Cytron",
+                        "orcid": "https://orcid.org/0009-0009-5915-602X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ron K. Cytron",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA.",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102732379",
+                        "display_name": "Krishna M. Kavi",
+                        "orcid": "https://orcid.org/0000-0003-1581-8166"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I123534392",
+                            "display_name": "University of North Texas",
+                            "ror": "https://ror.org/00v97ad02",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I123534392"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krishna M. Kavi",
+                    "raw_affiliation_strings": [
+                        "University of North Texas, USA, ,"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of North Texas, USA, ,",
+                            "institution_ids": [
+                                "https://openalex.org/I123534392"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.653,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.37308,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 77,
+                "max": 79
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10772",
+                    "display_name": "Distributed Fault Tolerance and Consistency in Systems",
+                    "score": 0.9992,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9986,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/cache-pollution",
+                    "display_name": "Cache pollution",
+                    "score": 0.7306954
+                },
+                {
+                    "id": "https://openalex.org/keywords/cache-invalidation",
+                    "display_name": "Cache invalidation",
+                    "score": 0.5465124
+                },
+                {
+                    "id": "https://openalex.org/keywords/cache-oblivious-algorithm",
+                    "display_name": "Cache-oblivious algorithm",
+                    "score": 0.5366321
+                },
+                {
+                    "id": "https://openalex.org/keywords/page-cache",
+                    "display_name": "Page cache",
+                    "score": 0.5044602
+                },
+                {
+                    "id": "https://openalex.org/keywords/smart-cache",
+                    "display_name": "Smart Cache",
+                    "score": 0.50328726
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-storage",
+                    "display_name": "Distributed Storage",
+                    "score": 0.493731
+                },
+                {
+                    "id": "https://openalex.org/keywords/storage-management",
+                    "display_name": "Storage management",
+                    "score": 0.4341122
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C115537543",
+                    "wikidata": "https://www.wikidata.org/wiki/Q165596",
+                    "display_name": "Cache",
+                    "level": 2,
+                    "score": 0.8953587
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.81751674
+                },
+                {
+                    "id": "https://openalex.org/C201148951",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015976",
+                    "display_name": "Cache coloring",
+                    "level": 4,
+                    "score": 0.7960334
+                },
+                {
+                    "id": "https://openalex.org/C113166858",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015981",
+                    "display_name": "Cache pollution",
+                    "level": 5,
+                    "score": 0.7306954
+                },
+                {
+                    "id": "https://openalex.org/C38556500",
+                    "wikidata": "https://www.wikidata.org/wiki/Q13404475",
+                    "display_name": "Cache algorithms",
+                    "level": 4,
+                    "score": 0.6594199
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5670328
+                },
+                {
+                    "id": "https://openalex.org/C25536678",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015977",
+                    "display_name": "Cache invalidation",
+                    "level": 5,
+                    "score": 0.5465124
+                },
+                {
+                    "id": "https://openalex.org/C59687516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015938",
+                    "display_name": "Cache-oblivious algorithm",
+                    "level": 5,
+                    "score": 0.5366321
+                },
+                {
+                    "id": "https://openalex.org/C36340418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7124288",
+                    "display_name": "Page cache",
+                    "level": 5,
+                    "score": 0.5044602
+                },
+                {
+                    "id": "https://openalex.org/C167713795",
+                    "wikidata": "https://www.wikidata.org/wiki/Q352090",
+                    "display_name": "Smart Cache",
+                    "level": 5,
+                    "score": 0.50328726
+                },
+                {
+                    "id": "https://openalex.org/C2984984529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7619925",
+                    "display_name": "Storage management",
+                    "level": 2,
+                    "score": 0.4341122
+                },
+                {
+                    "id": "https://openalex.org/C189783530",
+                    "wikidata": "https://www.wikidata.org/wiki/Q352090",
+                    "display_name": "CPU cache",
+                    "level": 3,
+                    "score": 0.42194745
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.3534465
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1145/2754169.2754183",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320306076",
+                    "funder_display_name": "National Science Foundation",
+                    "award_id": "1237425"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 29,
+            "referenced_works": [
+                "https://openalex.org/W1513729078",
+                "https://openalex.org/W1555915743",
+                "https://openalex.org/W161541143",
+                "https://openalex.org/W1859071697",
+                "https://openalex.org/W192504973",
+                "https://openalex.org/W2012116223",
+                "https://openalex.org/W2015068790",
+                "https://openalex.org/W2028080565",
+                "https://openalex.org/W2048588974",
+                "https://openalex.org/W2083166000",
+                "https://openalex.org/W2084263997",
+                "https://openalex.org/W2097157718",
+                "https://openalex.org/W2099798359",
+                "https://openalex.org/W2100819849",
+                "https://openalex.org/W2112832394",
+                "https://openalex.org/W2120139852",
+                "https://openalex.org/W2127122252",
+                "https://openalex.org/W2131533407",
+                "https://openalex.org/W2139911964",
+                "https://openalex.org/W2144334298",
+                "https://openalex.org/W2154904877",
+                "https://openalex.org/W2162435060",
+                "https://openalex.org/W2162883775",
+                "https://openalex.org/W2166091242",
+                "https://openalex.org/W2172055295",
+                "https://openalex.org/W3147993829",
+                "https://openalex.org/W4237650861",
+                "https://openalex.org/W4252801914",
+                "https://openalex.org/W97458590"
+            ],
+            "related_works": [
+                "https://openalex.org/W4249918808",
+                "https://openalex.org/W3162409362",
+                "https://openalex.org/W2976775806",
+                "https://openalex.org/W2147511796",
+                "https://openalex.org/W2130688751",
+                "https://openalex.org/W2121191383",
+                "https://openalex.org/W2103666812",
+                "https://openalex.org/W2088799683",
+                "https://openalex.org/W1529275186",
+                "https://openalex.org/W1506955979"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "disparity": [
+                    1
+                ],
+                "between": [
+                    2
+                ],
+                "processing": [
+                    3
+                ],
+                "and": [
+                    4,
+                    17,
+                    151,
+                    165
+                ],
+                "storage": [
+                    5,
+                    74,
+                    80,
+                    150,
+                    154
+                ],
+                "speeds": [
+                    6
+                ],
+                "can": [
+                    7,
+                    43,
+                    103
+                ],
+                "be": [
+                    8,
+                    44
+                ],
+                "bridged": [
+                    9
+                ],
+                "in": [
+                    10,
+                    34,
+                    64,
+                    81,
+                    123
+                ],
+                "part": [
+                    11
+                ],
+                "by": [
+                    12,
+                    30,
+                    72,
+                    141
+                ],
+                "reducing": [
+                    13
+                ],
+                "the": [
+                    14,
+                    20,
+                    49,
+                    65,
+                    69,
+                    92,
+                    100,
+                    112,
+                    125,
+                    131,
+                    136,
+                    144,
+                    163
+                ],
+                "traffic": [
+                    15,
+                    29,
+                    63,
+                    70
+                ],
+                "into": [
+                    16
+                ],
+                "out": [
+                    18
+                ],
+                "of": [
+                    19,
+                    41,
+                    167
+                ],
+                "slower": [
+                    21,
+                    52
+                ],
+                "memory": [
+                    22
+                ],
+                "components.": [
+                    23
+                ],
+                "Some": [
+                    24
+                ],
+                "recent": [
+                    25
+                ],
+                "studies": [
+                    26
+                ],
+                "reduce": [
+                    27
+                ],
+                "such": [
+                    28,
+                    153
+                ],
+                "determining": [
+                    31
+                ],
+                "dead": [
+                    32,
+                    79,
+                    149
+                ],
+                "data": [
+                    33
+                ],
+                "cache,": [
+                    35
+                ],
+                "showing": [
+                    36
+                ],
+                "that": [
+                    37,
+                    171
+                ],
+                "a": [
+                    38,
+                    59,
+                    85,
+                    119,
+                    168
+                ],
+                "significant": [
+                    39
+                ],
+                "fraction": [
+                    40
+                ],
+                "writes": [
+                    42
+                ],
+                "squashed": [
+                    45
+                ],
+                "before": [
+                    46
+                ],
+                "they": [
+                    47
+                ],
+                "make": [
+                    48
+                ],
+                "trip": [
+                    50
+                ],
+                "toward": [
+                    51
+                ],
+                "memory.": [
+                    53
+                ],
+                "In": [
+                    54
+                ],
+                "this": [
+                    55
+                ],
+                "paper,": [
+                    56
+                ],
+                "we": [
+                    57,
+                    161
+                ],
+                "examine": [
+                    58
+                ],
+                "technique": [
+                    60
+                ],
+                "for": [
+                    61,
+                    94
+                ],
+                "eliminating": [
+                    62
+                ],
+                "other": [
+                    66
+                ],
+                "direction,": [
+                    67
+                ],
+                "specifically": [
+                    68
+                ],
+                "induced": [
+                    71
+                ],
+                "dynamic": [
+                    73
+                ],
+                "allocation.": [
+                    75
+                ],
+                "We": [
+                    76,
+                    89,
+                    116
+                ],
+                "consider": [
+                    77,
+                    118
+                ],
+                "recycling": [
+                    78,
+                    95
+                ],
+                "cache": [
+                    82,
+                    175
+                ],
+                "to": [
+                    83,
+                    147
+                ],
+                "satisfy": [
+                    84
+                ],
+                "program's": [
+                    86
+                ],
+                "storage-allocation": [
+                    87
+                ],
+                "requests.": [
+                    88
+                ],
+                "first": [
+                    90
+                ],
+                "evaluate": [
+                    91
+                ],
+                "potential": [
+                    93
+                ],
+                "under": [
+                    96
+                ],
+                "favorable": [
+                    97
+                ],
+                "circumstances,": [
+                    98
+                ],
+                "where": [
+                    99
+                ],
+                "associated": [
+                    101,
+                    126
+                ],
+                "logic": [
+                    102,
+                    127
+                ],
+                "run": [
+                    104
+                ],
+                "at": [
+                    105
+                ],
+                "full": [
+                    106
+                ],
+                "speed": [
+                    107
+                ],
+                "with": [
+                    108,
+                    174
+                ],
+                "no": [
+                    109
+                ],
+                "impact": [
+                    110
+                ],
+                "on": [
+                    111
+                ],
+                "cache's": [
+                    113,
+                    132,
+                    137
+                ],
+                "normal": [
+                    114
+                ],
+                "behavior.": [
+                    115
+                ],
+                "then": [
+                    117
+                ],
+                "more": [
+                    120
+                ],
+                "practical": [
+                    121
+                ],
+                "implementation,": [
+                    122
+                ],
+                "which": [
+                    124
+                ],
+                "executes": [
+                    128
+                ],
+                "independently": [
+                    129
+                ],
+                "from": [
+                    130
+                ],
+                "critical": [
+                    133
+                ],
+                "path.": [
+                    134
+                ],
+                "Here,": [
+                    135
+                ],
+                "performance": [
+                    138
+                ],
+                "is": [
+                    139,
+                    158
+                ],
+                "unfettered": [
+                    140
+                ],
+                "recycling,": [
+                    142
+                ],
+                "but": [
+                    143
+                ],
+                "operations": [
+                    145
+                ],
+                "necessary": [
+                    146
+                ],
+                "determine": [
+                    148
+                ],
+                "recycle": [
+                    152
+                ],
+                "execute": [
+                    155
+                ],
+                "as": [
+                    156
+                ],
+                "time": [
+                    157
+                ],
+                "available.": [
+                    159
+                ],
+                "Finally,": [
+                    160
+                ],
+                "present": [
+                    162
+                ],
+                "design": [
+                    164
+                ],
+                "analysis": [
+                    166
+                ],
+                "hardware": [
+                    169
+                ],
+                "implementation": [
+                    170
+                ],
+                "scales": [
+                    172
+                ],
+                "well": [
+                    173
+                ],
+                "size": [
+                    176
+                ],
+                "without": [
+                    177
+                ],
+                "sacrificing": [
+                    178
+                ],
+                "too": [
+                    179
+                ],
+                "much": [
+                    180
+                ],
+                "performance.": [
+                    181
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2032073104",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T00:50:01.131598",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2412081475",
+            "doi": "https://doi.org/10.7936/k7125qxx",
+            "title": "Exploiting the Weak Generational Hypothesis for Write Reduction and Object Recycling",
+            "display_name": "Exploiting the Weak Generational Hypothesis for Write Reduction and Object Recycling",
+            "publication_year": 2016,
+            "publication_date": "2016-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2412081475",
+                "doi": "https://doi.org/10.7936/k7125qxx",
+                "mag": "2412081475"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1169&context=eng_etds",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5065038391",
+                        "display_name": "Jonathan Shidal",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jonathan Andrew Shidal",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5065038391"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 66
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9994,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9942,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9918,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/regenerating-codes",
+                    "display_name": "Regenerating Codes",
+                    "score": 0.628512
+                },
+                {
+                    "id": "https://openalex.org/keywords/erasure-coding",
+                    "display_name": "Erasure Coding",
+                    "score": 0.544319
+                },
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.536642
+                },
+                {
+                    "id": "https://openalex.org/keywords/heterogeneous-computing",
+                    "display_name": "Heterogeneous Computing",
+                    "score": 0.520816
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.514348
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2781238097",
+                    "wikidata": "https://www.wikidata.org/wiki/Q175026",
+                    "display_name": "Object (grammar)",
+                    "level": 2,
+                    "score": 0.6265993
+                },
+                {
+                    "id": "https://openalex.org/C111335779",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3454686",
+                    "display_name": "Reduction (mathematics)",
+                    "level": 2,
+                    "score": 0.55422074
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.46818224
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.35445404
+                },
+                {
+                    "id": "https://openalex.org/C15744967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9418",
+                    "display_name": "Psychology",
+                    "level": 0,
+                    "score": 0.3363381
+                },
+                {
+                    "id": "https://openalex.org/C149782125",
+                    "wikidata": "https://www.wikidata.org/wiki/Q160039",
+                    "display_name": "Econometrics",
+                    "level": 1,
+                    "score": 0.32459953
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.31421512
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.2689782
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1169&context=eng_etds",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 52,
+            "referenced_works": [
+                "https://openalex.org/W1513729078",
+                "https://openalex.org/W1555915743",
+                "https://openalex.org/W1596586791",
+                "https://openalex.org/W1630129538",
+                "https://openalex.org/W1859071697",
+                "https://openalex.org/W1899349177",
+                "https://openalex.org/W1965601529",
+                "https://openalex.org/W1967121117",
+                "https://openalex.org/W1968887845",
+                "https://openalex.org/W1983096721",
+                "https://openalex.org/W2012116223",
+                "https://openalex.org/W2015068790",
+                "https://openalex.org/W2019810896",
+                "https://openalex.org/W2028080565",
+                "https://openalex.org/W2032073104",
+                "https://openalex.org/W2045255985",
+                "https://openalex.org/W2048588974",
+                "https://openalex.org/W2048592325",
+                "https://openalex.org/W2049384349",
+                "https://openalex.org/W2059073305",
+                "https://openalex.org/W2083166000",
+                "https://openalex.org/W2100819849",
+                "https://openalex.org/W2102449048",
+                "https://openalex.org/W2104098106",
+                "https://openalex.org/W2105962789",
+                "https://openalex.org/W2112832394",
+                "https://openalex.org/W2114459515",
+                "https://openalex.org/W2116316682",
+                "https://openalex.org/W2117703621",
+                "https://openalex.org/W2118420116",
+                "https://openalex.org/W2120139852",
+                "https://openalex.org/W2120635877",
+                "https://openalex.org/W2121762814",
+                "https://openalex.org/W2131533407",
+                "https://openalex.org/W2135393827",
+                "https://openalex.org/W2137239193",
+                "https://openalex.org/W2139911964",
+                "https://openalex.org/W2141157907",
+                "https://openalex.org/W2144334298",
+                "https://openalex.org/W2145092757",
+                "https://openalex.org/W2145106894",
+                "https://openalex.org/W2146340823",
+                "https://openalex.org/W2151953248",
+                "https://openalex.org/W2154904877",
+                "https://openalex.org/W2156858199",
+                "https://openalex.org/W2158364508",
+                "https://openalex.org/W2162435060",
+                "https://openalex.org/W2166091242",
+                "https://openalex.org/W2169905488",
+                "https://openalex.org/W2172055295",
+                "https://openalex.org/W3147993829",
+                "https://openalex.org/W97458590"
+            ],
+            "related_works": [],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2412081475",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T02:38:31.530247",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W4247149471",
+            "doi": "https://doi.org/10.1145/2887746.2754183",
+            "title": "Recycling trash in cache",
+            "display_name": "Recycling trash in cache",
+            "publication_year": 2015,
+            "publication_date": "2015-06-14",
+            "ids": {
+                "openalex": "https://openalex.org/W4247149471",
+                "doi": "https://doi.org/10.1145/2887746.2754183"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1145/2887746.2754183",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S148324379",
+                    "display_name": "ACM SIGPLAN Notices",
+                    "issn_l": "0362-1340",
+                    "issn": [
+                        "0362-1340",
+                        "1558-1160"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319798",
+                    "host_organization_name": "Association for Computing Machinery",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319798"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Association for Computing Machinery"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5065038391",
+                        "display_name": "Jonathan Shidal",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jonathan Shidal",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5030056999",
+                        "display_name": "Ari J. Spilo",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ari J. Spilo",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5071569856",
+                        "display_name": "Paul T. Scheid",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paul T. Scheid",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5073393999",
+                        "display_name": "Ron K. Cytron",
+                        "orcid": "https://orcid.org/0009-0009-5915-602X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204465549",
+                            "display_name": "Washington University in St. Louis",
+                            "ror": "https://ror.org/01yc7t268",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ron K. Cytron",
+                    "raw_affiliation_strings": [
+                        "Washington University at St. Louis, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Washington University at St. Louis, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I204465549"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102732379",
+                        "display_name": "Krishna M. Kavi",
+                        "orcid": "https://orcid.org/0000-0003-1581-8166"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I123534392",
+                            "display_name": "University of North Texas",
+                            "ror": "https://ror.org/00v97ad02",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I123534392"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krishna M. Kavi",
+                    "raw_affiliation_strings": [
+                        "University of North Texas, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of North Texas, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I123534392"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 66
+            },
+            "biblio": {
+                "volume": "50",
+                "issue": "11",
+                "first_page": "118",
+                "last_page": "130"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10772",
+                    "display_name": "Distributed Fault Tolerance and Consistency in Systems",
+                    "score": 0.9992,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9985,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/cache-pollution",
+                    "display_name": "Cache pollution",
+                    "score": 0.71913004
+                },
+                {
+                    "id": "https://openalex.org/keywords/cache-invalidation",
+                    "display_name": "Cache invalidation",
+                    "score": 0.5608616
+                },
+                {
+                    "id": "https://openalex.org/keywords/cache-oblivious-algorithm",
+                    "display_name": "Cache-oblivious algorithm",
+                    "score": 0.53474444
+                },
+                {
+                    "id": "https://openalex.org/keywords/smart-cache",
+                    "display_name": "Smart Cache",
+                    "score": 0.5171694
+                },
+                {
+                    "id": "https://openalex.org/keywords/page-cache",
+                    "display_name": "Page cache",
+                    "score": 0.49858332
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-storage",
+                    "display_name": "Distributed Storage",
+                    "score": 0.493731
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8881018
+                },
+                {
+                    "id": "https://openalex.org/C115537543",
+                    "wikidata": "https://www.wikidata.org/wiki/Q165596",
+                    "display_name": "Cache",
+                    "level": 2,
+                    "score": 0.8828949
+                },
+                {
+                    "id": "https://openalex.org/C201148951",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015976",
+                    "display_name": "Cache coloring",
+                    "level": 4,
+                    "score": 0.7635354
+                },
+                {
+                    "id": "https://openalex.org/C113166858",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015981",
+                    "display_name": "Cache pollution",
+                    "level": 5,
+                    "score": 0.71913004
+                },
+                {
+                    "id": "https://openalex.org/C38556500",
+                    "wikidata": "https://www.wikidata.org/wiki/Q13404475",
+                    "display_name": "Cache algorithms",
+                    "level": 4,
+                    "score": 0.630648
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.60269433
+                },
+                {
+                    "id": "https://openalex.org/C25536678",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015977",
+                    "display_name": "Cache invalidation",
+                    "level": 5,
+                    "score": 0.5608616
+                },
+                {
+                    "id": "https://openalex.org/C59687516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5015938",
+                    "display_name": "Cache-oblivious algorithm",
+                    "level": 5,
+                    "score": 0.53474444
+                },
+                {
+                    "id": "https://openalex.org/C167713795",
+                    "wikidata": "https://www.wikidata.org/wiki/Q352090",
+                    "display_name": "Smart Cache",
+                    "level": 5,
+                    "score": 0.5171694
+                },
+                {
+                    "id": "https://openalex.org/C36340418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7124288",
+                    "display_name": "Page cache",
+                    "level": 5,
+                    "score": 0.49858332
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.4195179
+                },
+                {
+                    "id": "https://openalex.org/C189783530",
+                    "wikidata": "https://www.wikidata.org/wiki/Q352090",
+                    "display_name": "CPU cache",
+                    "level": 3,
+                    "score": 0.41576636
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.33137453
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1145/2887746.2754183",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S148324379",
+                        "display_name": "ACM SIGPLAN Notices",
+                        "issn_l": "0362-1340",
+                        "issn": [
+                            "0362-1340",
+                            "1558-1160"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319798",
+                        "host_organization_name": "Association for Computing Machinery",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319798"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Association for Computing Machinery"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320306076",
+                    "funder_display_name": "National Science Foundation",
+                    "award_id": "1237425"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 20,
+            "referenced_works": [
+                "https://openalex.org/W1555915743",
+                "https://openalex.org/W1859071697",
+                "https://openalex.org/W2012116223",
+                "https://openalex.org/W2028080565",
+                "https://openalex.org/W2048588974",
+                "https://openalex.org/W2083166000",
+                "https://openalex.org/W2084263997",
+                "https://openalex.org/W2097157718",
+                "https://openalex.org/W2099798359",
+                "https://openalex.org/W2100819849",
+                "https://openalex.org/W2112832394",
+                "https://openalex.org/W2127122252",
+                "https://openalex.org/W2131533407",
+                "https://openalex.org/W2144334298",
+                "https://openalex.org/W2162435060",
+                "https://openalex.org/W2162883775",
+                "https://openalex.org/W2166091242",
+                "https://openalex.org/W4237650861",
+                "https://openalex.org/W4252801914",
+                "https://openalex.org/W97458590"
+            ],
+            "related_works": [
+                "https://openalex.org/W4252570104",
+                "https://openalex.org/W2734782074",
+                "https://openalex.org/W2546991807",
+                "https://openalex.org/W2535115842",
+                "https://openalex.org/W2121191383",
+                "https://openalex.org/W2116323004",
+                "https://openalex.org/W2098406302",
+                "https://openalex.org/W2076114130",
+                "https://openalex.org/W2020176098",
+                "https://openalex.org/W1584415117"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "disparity": [
+                    1
+                ],
+                "between": [
+                    2
+                ],
+                "processing": [
+                    3
+                ],
+                "and": [
+                    4,
+                    17,
+                    151,
+                    165
+                ],
+                "storage": [
+                    5,
+                    74,
+                    80,
+                    150,
+                    154
+                ],
+                "speeds": [
+                    6
+                ],
+                "can": [
+                    7,
+                    43,
+                    103
+                ],
+                "be": [
+                    8,
+                    44
+                ],
+                "bridged": [
+                    9
+                ],
+                "in": [
+                    10,
+                    34,
+                    64,
+                    81,
+                    123
+                ],
+                "part": [
+                    11
+                ],
+                "by": [
+                    12,
+                    30,
+                    72,
+                    141
+                ],
+                "reducing": [
+                    13
+                ],
+                "the": [
+                    14,
+                    20,
+                    49,
+                    65,
+                    69,
+                    92,
+                    100,
+                    112,
+                    125,
+                    131,
+                    136,
+                    144,
+                    163
+                ],
+                "traffic": [
+                    15,
+                    29,
+                    63,
+                    70
+                ],
+                "into": [
+                    16
+                ],
+                "out": [
+                    18
+                ],
+                "of": [
+                    19,
+                    41,
+                    167
+                ],
+                "slower": [
+                    21,
+                    52
+                ],
+                "memory": [
+                    22
+                ],
+                "components.": [
+                    23
+                ],
+                "Some": [
+                    24
+                ],
+                "recent": [
+                    25
+                ],
+                "studies": [
+                    26
+                ],
+                "reduce": [
+                    27
+                ],
+                "such": [
+                    28,
+                    153
+                ],
+                "determining": [
+                    31
+                ],
+                "dead": [
+                    32,
+                    79,
+                    149
+                ],
+                "data": [
+                    33
+                ],
+                "cache,": [
+                    35
+                ],
+                "showing": [
+                    36
+                ],
+                "that": [
+                    37,
+                    171
+                ],
+                "a": [
+                    38,
+                    59,
+                    85,
+                    119,
+                    168
+                ],
+                "significant": [
+                    39
+                ],
+                "fraction": [
+                    40
+                ],
+                "writes": [
+                    42
+                ],
+                "squashed": [
+                    45
+                ],
+                "before": [
+                    46
+                ],
+                "they": [
+                    47
+                ],
+                "make": [
+                    48
+                ],
+                "trip": [
+                    50
+                ],
+                "toward": [
+                    51
+                ],
+                "memory.": [
+                    53
+                ],
+                "In": [
+                    54
+                ],
+                "this": [
+                    55
+                ],
+                "paper,": [
+                    56
+                ],
+                "we": [
+                    57,
+                    161
+                ],
+                "examine": [
+                    58
+                ],
+                "technique": [
+                    60
+                ],
+                "for": [
+                    61,
+                    94
+                ],
+                "eliminating": [
+                    62
+                ],
+                "other": [
+                    66
+                ],
+                "direction,": [
+                    67
+                ],
+                "specifically": [
+                    68
+                ],
+                "induced": [
+                    71
+                ],
+                "dynamic": [
+                    73
+                ],
+                "allocation.": [
+                    75
+                ],
+                "We": [
+                    76,
+                    89,
+                    116
+                ],
+                "consider": [
+                    77,
+                    118
+                ],
+                "recycling": [
+                    78,
+                    95
+                ],
+                "cache": [
+                    82,
+                    175
+                ],
+                "to": [
+                    83,
+                    147
+                ],
+                "satisfy": [
+                    84
+                ],
+                "program's": [
+                    86
+                ],
+                "storage-allocation": [
+                    87
+                ],
+                "requests.": [
+                    88
+                ],
+                "first": [
+                    90
+                ],
+                "evaluate": [
+                    91
+                ],
+                "potential": [
+                    93
+                ],
+                "under": [
+                    96
+                ],
+                "favorable": [
+                    97
+                ],
+                "circumstances,": [
+                    98
+                ],
+                "where": [
+                    99
+                ],
+                "associated": [
+                    101,
+                    126
+                ],
+                "logic": [
+                    102,
+                    127
+                ],
+                "run": [
+                    104
+                ],
+                "at": [
+                    105
+                ],
+                "full": [
+                    106
+                ],
+                "speed": [
+                    107
+                ],
+                "with": [
+                    108,
+                    174
+                ],
+                "no": [
+                    109
+                ],
+                "impact": [
+                    110
+                ],
+                "on": [
+                    111
+                ],
+                "cache's": [
+                    113,
+                    132,
+                    137
+                ],
+                "normal": [
+                    114
+                ],
+                "behavior.": [
+                    115
+                ],
+                "then": [
+                    117
+                ],
+                "more": [
+                    120
+                ],
+                "practical": [
+                    121
+                ],
+                "implementation,": [
+                    122
+                ],
+                "which": [
+                    124
+                ],
+                "executes": [
+                    128
+                ],
+                "independently": [
+                    129
+                ],
+                "from": [
+                    130
+                ],
+                "critical": [
+                    133
+                ],
+                "path.": [
+                    134
+                ],
+                "Here,": [
+                    135
+                ],
+                "performance": [
+                    138
+                ],
+                "is": [
+                    139,
+                    158
+                ],
+                "unfettered": [
+                    140
+                ],
+                "recycling,": [
+                    142
+                ],
+                "but": [
+                    143
+                ],
+                "operations": [
+                    145
+                ],
+                "necessary": [
+                    146
+                ],
+                "determine": [
+                    148
+                ],
+                "recycle": [
+                    152
+                ],
+                "execute": [
+                    155
+                ],
+                "as": [
+                    156
+                ],
+                "time": [
+                    157
+                ],
+                "available.": [
+                    159
+                ],
+                "Finally,": [
+                    160
+                ],
+                "present": [
+                    162
+                ],
+                "design": [
+                    164
+                ],
+                "analysis": [
+                    166
+                ],
+                "hardware": [
+                    169
+                ],
+                "implementation": [
+                    170
+                ],
+                "scales": [
+                    172
+                ],
+                "well": [
+                    173
+                ],
+                "size": [
+                    176
+                ],
+                "without": [
+                    177
+                ],
+                "sacrificing": [
+                    178
+                ],
+                "too": [
+                    179
+                ],
+                "much": [
+                    180
+                ],
+                "performance.": [
+                    181
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4247149471",
+            "counts_by_year": [],
+            "updated_date": "2024-09-26T09:14:46.196983",
+            "created_date": "2022-05-12"
+        }
+    ],
+    "group_by": []
+}

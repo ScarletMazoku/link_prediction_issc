@@ -1,0 +1,4569 @@
+{
+    "meta": {
+        "count": 7,
+        "db_response_time_ms": 51,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W1984584030",
+            "doi": "https://doi.org/10.1016/j.jocs.2011.03.002",
+            "title": "Modeling the memory and performance impacts of loop fusion",
+            "display_name": "Modeling the memory and performance impacts of loop fusion",
+            "publication_year": 2011,
+            "publication_date": "2011-03-17",
+            "ids": {
+                "openalex": "https://openalex.org/W1984584030",
+                "doi": "https://doi.org/10.1016/j.jocs.2011.03.002",
+                "mag": "1984584030"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2011.03.002",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5030371924",
+                        "display_name": "Ian Karlin",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ian Karlin",
+                    "raw_affiliation_strings": [
+                        "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5041552096",
+                        "display_name": "Elizabeth R. Jessup",
+                        "orcid": "https://orcid.org/0000-0002-7740-9985"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Elizabeth Jessup",
+                    "raw_affiliation_strings": [
+                        "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Erik Silkensen",
+                    "raw_affiliation_strings": [
+                        "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 2810,
+                "currency": "USD",
+                "value_usd": 2810,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 2.197,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 6,
+            "citation_normalized_percentile": {
+                "value": 0.77655,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 83
+            },
+            "biblio": {
+                "volume": "3",
+                "issue": "3",
+                "first_page": "120",
+                "last_page": "126"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9951,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11195",
+                    "display_name": "Optimization Techniques in Simulation Modeling",
+                    "score": 0.9878,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.52376
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C184670325",
+                    "wikidata": "https://www.wikidata.org/wiki/Q512604",
+                    "display_name": "Loop (graph theory)",
+                    "level": 2,
+                    "score": 0.5796293
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.57028484
+                },
+                {
+                    "id": "https://openalex.org/C158525013",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2593739",
+                    "display_name": "Fusion",
+                    "level": 2,
+                    "score": 0.56166965
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.34263277
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.17645639
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.jocs.2011.03.002",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S192071280",
+                        "display_name": "Journal of Computational Science",
+                        "issn_l": "1877-7503",
+                        "issn": [
+                            "1877-7503",
+                            "1877-7511"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 21,
+            "referenced_works": [
+                "https://openalex.org/W1503523422",
+                "https://openalex.org/W1551026808",
+                "https://openalex.org/W1985823812",
+                "https://openalex.org/W1999024797",
+                "https://openalex.org/W2003368909",
+                "https://openalex.org/W2059564324",
+                "https://openalex.org/W2063774307",
+                "https://openalex.org/W2073061372",
+                "https://openalex.org/W2110955718",
+                "https://openalex.org/W2115215129",
+                "https://openalex.org/W2142252451",
+                "https://openalex.org/W2145194992",
+                "https://openalex.org/W2151675573",
+                "https://openalex.org/W2164326463",
+                "https://openalex.org/W2169492033",
+                "https://openalex.org/W2332864379",
+                "https://openalex.org/W2914356985",
+                "https://openalex.org/W4230426658",
+                "https://openalex.org/W4231299715",
+                "https://openalex.org/W4256701974",
+                "https://openalex.org/W54401871"
+            ],
+            "related_works": [
+                "https://openalex.org/W4391913857",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2478288626",
+                "https://openalex.org/W24774503",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2014821076",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": {
+                "On": [
+                    0
+                ],
+                "modern": [
+                    1
+                ],
+                "processors,": [
+                    2
+                ],
+                "data": [
+                    3,
+                    67
+                ],
+                "transfer": [
+                    4
+                ],
+                "exceeds": [
+                    5
+                ],
+                "floating-point": [
+                    6
+                ],
+                "operations": [
+                    7
+                ],
+                "as": [
+                    8,
+                    43
+                ],
+                "the": [
+                    9,
+                    30,
+                    70,
+                    78
+                ],
+                "predominant": [
+                    10
+                ],
+                "cost": [
+                    11
+                ],
+                "in": [
+                    12
+                ],
+                "many": [
+                    13
+                ],
+                "linear": [
+                    14
+                ],
+                "algebra": [
+                    15
+                ],
+                "computations.": [
+                    16
+                ],
+                "One": [
+                    17
+                ],
+                "tuning": [
+                    18
+                ],
+                "technique": [
+                    19
+                ],
+                "that": [
+                    20,
+                    57,
+                    86
+                ],
+                "focuses": [
+                    21
+                ],
+                "on": [
+                    22
+                ],
+                "reducing": [
+                    23
+                ],
+                "memory": [
+                    24,
+                    51,
+                    71,
+                    80
+                ],
+                "accesses": [
+                    25
+                ],
+                "is": [
+                    26,
+                    41
+                ],
+                "loop": [
+                    27,
+                    34,
+                    63,
+                    92
+                ],
+                "fusion.": [
+                    28
+                ],
+                "Determining": [
+                    29
+                ],
+                "optimum": [
+                    31
+                ],
+                "amount": [
+                    32
+                ],
+                "of": [
+                    33
+                ],
+                "fusion": [
+                    35,
+                    44,
+                    64,
+                    93
+                ],
+                "to": [
+                    36,
+                    38,
+                    76,
+                    83,
+                    90
+                ],
+                "apply": [
+                    37
+                ],
+                "a": [
+                    39,
+                    55
+                ],
+                "routine": [
+                    40
+                ],
+                "difficult": [
+                    42
+                ],
+                "can": [
+                    45,
+                    87
+                ],
+                "both": [
+                    46
+                ],
+                "positively": [
+                    47
+                ],
+                "and": [
+                    48,
+                    59
+                ],
+                "negatively": [
+                    49
+                ],
+                "impact": [
+                    50
+                ],
+                "traffic.": [
+                    52
+                ],
+                "We": [
+                    53,
+                    73
+                ],
+                "present": [
+                    54
+                ],
+                "model": [
+                    56
+                ],
+                "accurately": [
+                    58
+                ],
+                "efficiently": [
+                    60
+                ],
+                "evaluates": [
+                    61
+                ],
+                "how": [
+                    62,
+                    75
+                ],
+                "choices": [
+                    65
+                ],
+                "affect": [
+                    66
+                ],
+                "movement": [
+                    68
+                ],
+                "through": [
+                    69
+                ],
+                "hierarchy.": [
+                    72
+                ],
+                "show": [
+                    74
+                ],
+                "convert": [
+                    77
+                ],
+                "model’s": [
+                    79
+                ],
+                "traffic": [
+                    81
+                ],
+                "predictions": [
+                    82
+                ],
+                "runtime": [
+                    84
+                ],
+                "estimates": [
+                    85
+                ],
+                "be": [
+                    88
+                ],
+                "used": [
+                    89
+                ],
+                "compare": [
+                    91
+                ],
+                "variants.": [
+                    94
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1984584030",
+            "counts_by_year": [
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-26T18:57:37.074582",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1984584030",
+            "doi": "https://doi.org/10.1016/j.jocs.2011.03.002",
+            "title": "Modeling the memory and performance impacts of loop fusion",
+            "display_name": "Modeling the memory and performance impacts of loop fusion",
+            "publication_year": 2012,
+            "publication_date": "2012-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1984584030",
+                "doi": "https://doi.org/10.1016/j.jocs.2011.03.002",
+                "mag": "1984584030"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2011.03.002",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5030371924",
+                        "display_name": "Ian Karlin",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ian Karlin",
+                    "raw_affiliation_strings": [
+                        "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5041552096",
+                        "display_name": "Elizabeth R. Jessup",
+                        "orcid": "https://orcid.org/0000-0002-7740-9985"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Elizabeth Jessup",
+                    "raw_affiliation_strings": [
+                        "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Erik Silkensen",
+                    "raw_affiliation_strings": [
+                        "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado at Boulder, Department of Computer Science, 430 UCB, Boulder, CO 80309, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 2810,
+                "currency": "USD",
+                "value_usd": 2810,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 2.197,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 6,
+            "citation_normalized_percentile": {
+                "value": 0.77655,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 83
+            },
+            "biblio": {
+                "volume": "3",
+                "issue": "3",
+                "first_page": "120",
+                "last_page": "126"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9951,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11195",
+                    "display_name": "Optimization Techniques in Simulation Modeling",
+                    "score": 0.9878,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.52376
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C184670325",
+                    "wikidata": "https://www.wikidata.org/wiki/Q512604",
+                    "display_name": "Loop (graph theory)",
+                    "level": 2,
+                    "score": 0.5796293
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.57028484
+                },
+                {
+                    "id": "https://openalex.org/C158525013",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2593739",
+                    "display_name": "Fusion",
+                    "level": 2,
+                    "score": 0.56166965
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.34263277
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.17645639
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.jocs.2011.03.002",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S192071280",
+                        "display_name": "Journal of Computational Science",
+                        "issn_l": "1877-7503",
+                        "issn": [
+                            "1877-7503",
+                            "1877-7511"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 21,
+            "referenced_works": [
+                "https://openalex.org/W1503523422",
+                "https://openalex.org/W1551026808",
+                "https://openalex.org/W1985823812",
+                "https://openalex.org/W1999024797",
+                "https://openalex.org/W2003368909",
+                "https://openalex.org/W2059564324",
+                "https://openalex.org/W2063774307",
+                "https://openalex.org/W2073061372",
+                "https://openalex.org/W2110955718",
+                "https://openalex.org/W2115215129",
+                "https://openalex.org/W2142252451",
+                "https://openalex.org/W2145194992",
+                "https://openalex.org/W2151675573",
+                "https://openalex.org/W2164326463",
+                "https://openalex.org/W2169492033",
+                "https://openalex.org/W2332864379",
+                "https://openalex.org/W2914356985",
+                "https://openalex.org/W4230426658",
+                "https://openalex.org/W4231299715",
+                "https://openalex.org/W4256701974",
+                "https://openalex.org/W54401871"
+            ],
+            "related_works": [
+                "https://openalex.org/W4391913857",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2478288626",
+                "https://openalex.org/W24774503",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2014821076",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": {
+                "On": [
+                    0
+                ],
+                "modern": [
+                    1
+                ],
+                "processors,": [
+                    2
+                ],
+                "data": [
+                    3,
+                    67
+                ],
+                "transfer": [
+                    4
+                ],
+                "exceeds": [
+                    5
+                ],
+                "floating-point": [
+                    6
+                ],
+                "operations": [
+                    7
+                ],
+                "as": [
+                    8,
+                    43
+                ],
+                "the": [
+                    9,
+                    30,
+                    70,
+                    78
+                ],
+                "predominant": [
+                    10
+                ],
+                "cost": [
+                    11
+                ],
+                "in": [
+                    12
+                ],
+                "many": [
+                    13
+                ],
+                "linear": [
+                    14
+                ],
+                "algebra": [
+                    15
+                ],
+                "computations.": [
+                    16
+                ],
+                "One": [
+                    17
+                ],
+                "tuning": [
+                    18
+                ],
+                "technique": [
+                    19
+                ],
+                "that": [
+                    20,
+                    57,
+                    86
+                ],
+                "focuses": [
+                    21
+                ],
+                "on": [
+                    22
+                ],
+                "reducing": [
+                    23
+                ],
+                "memory": [
+                    24,
+                    51,
+                    71,
+                    80
+                ],
+                "accesses": [
+                    25
+                ],
+                "is": [
+                    26,
+                    41
+                ],
+                "loop": [
+                    27,
+                    34,
+                    63,
+                    92
+                ],
+                "fusion.": [
+                    28
+                ],
+                "Determining": [
+                    29
+                ],
+                "optimum": [
+                    31
+                ],
+                "amount": [
+                    32
+                ],
+                "of": [
+                    33
+                ],
+                "fusion": [
+                    35,
+                    44,
+                    64,
+                    93
+                ],
+                "to": [
+                    36,
+                    38,
+                    76,
+                    83,
+                    90
+                ],
+                "apply": [
+                    37
+                ],
+                "a": [
+                    39,
+                    55
+                ],
+                "routine": [
+                    40
+                ],
+                "difficult": [
+                    42
+                ],
+                "can": [
+                    45,
+                    87
+                ],
+                "both": [
+                    46
+                ],
+                "positively": [
+                    47
+                ],
+                "and": [
+                    48,
+                    59
+                ],
+                "negatively": [
+                    49
+                ],
+                "impact": [
+                    50
+                ],
+                "traffic.": [
+                    52
+                ],
+                "We": [
+                    53,
+                    73
+                ],
+                "present": [
+                    54
+                ],
+                "model": [
+                    56
+                ],
+                "accurately": [
+                    58
+                ],
+                "efficiently": [
+                    60
+                ],
+                "evaluates": [
+                    61
+                ],
+                "how": [
+                    62,
+                    75
+                ],
+                "choices": [
+                    65
+                ],
+                "affect": [
+                    66
+                ],
+                "movement": [
+                    68
+                ],
+                "through": [
+                    69
+                ],
+                "hierarchy.": [
+                    72
+                ],
+                "show": [
+                    74
+                ],
+                "convert": [
+                    77
+                ],
+                "model’s": [
+                    79
+                ],
+                "traffic": [
+                    81
+                ],
+                "predictions": [
+                    82
+                ],
+                "runtime": [
+                    84
+                ],
+                "estimates": [
+                    85
+                ],
+                "be": [
+                    88
+                ],
+                "used": [
+                    89
+                ],
+                "compare": [
+                    91
+                ],
+                "variants.": [
+                    94
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1984584030",
+            "counts_by_year": [
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-08-31T15:28:55.287207",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2110994387",
+            "doi": "https://doi.org/10.1007/978-3-642-40447-4_5",
+            "title": "Well-Typed Islands Parse Faster",
+            "display_name": "Well-Typed Islands Parse Faster",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2110994387",
+                "doi": "https://doi.org/10.1007/978-3-642-40447-4_5",
+                "mag": "2110994387"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-642-40447-4_5",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "http://arxiv.org/pdf/1201.0024",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Erik Silkensen",
+                    "raw_affiliation_strings": [
+                        "Univ of Colorado/Boulder (USA)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ of Colorado/Boulder (USA)",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5033999458",
+                        "display_name": "Jeremy G. Siek",
+                        "orcid": "https://orcid.org/0000-0002-9894-4856"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jeremy Siek",
+                    "raw_affiliation_strings": [
+                        "Univ of Colorado/Boulder (USA)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ of Colorado/Boulder (USA)",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.726,
+            "has_fulltext": false,
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.735641,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 82
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "69",
+                "last_page": "84"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10126",
+                "display_name": "Program Analysis and Verification Techniques",
+                "score": 0.999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10126",
+                    "display_name": "Program Analysis and Verification Techniques",
+                    "score": 0.999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10142",
+                    "display_name": "Formal Methods in Software Verification and Control",
+                    "score": 0.9972,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11450",
+                    "display_name": "Model-Driven Engineering in Software Development",
+                    "score": 0.9969,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-languages",
+                    "display_name": "Domain-Specific Languages",
+                    "score": 0.581161
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C186644900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194152",
+                    "display_name": "Parsing",
+                    "level": 2,
+                    "score": 0.6685524
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.48814568
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.19345284
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-642-40447-4_5",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://arxiv.org/abs/1201.0024",
+                    "pdf_url": "http://arxiv.org/pdf/1201.0024",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": null,
+                    "pdf_url": "http://arxiv.org/pdf/1201.0024.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "http://arxiv.org/abs/1201.0024",
+                "pdf_url": "http://arxiv.org/pdf/1201.0024",
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 38,
+            "referenced_works": [
+                "https://openalex.org/W124381426",
+                "https://openalex.org/W132990795",
+                "https://openalex.org/W1493349649",
+                "https://openalex.org/W1511588645",
+                "https://openalex.org/W1511793964",
+                "https://openalex.org/W1528415032",
+                "https://openalex.org/W1541653499",
+                "https://openalex.org/W1544135626",
+                "https://openalex.org/W1549379126",
+                "https://openalex.org/W1586167239",
+                "https://openalex.org/W1749568426",
+                "https://openalex.org/W182831726",
+                "https://openalex.org/W1839902311",
+                "https://openalex.org/W1908013816",
+                "https://openalex.org/W1964494435",
+                "https://openalex.org/W1966385085",
+                "https://openalex.org/W1973186567",
+                "https://openalex.org/W1991227409",
+                "https://openalex.org/W2011166386",
+                "https://openalex.org/W2011702717",
+                "https://openalex.org/W2013399578",
+                "https://openalex.org/W2018045485",
+                "https://openalex.org/W2053634777",
+                "https://openalex.org/W2072040469",
+                "https://openalex.org/W2101718506",
+                "https://openalex.org/W2134287022",
+                "https://openalex.org/W2134495021",
+                "https://openalex.org/W2150662408",
+                "https://openalex.org/W2188282233",
+                "https://openalex.org/W2344699011",
+                "https://openalex.org/W2531563875",
+                "https://openalex.org/W3003374142",
+                "https://openalex.org/W3004896733",
+                "https://openalex.org/W4234528212",
+                "https://openalex.org/W4235903093",
+                "https://openalex.org/W4250678240",
+                "https://openalex.org/W599757216",
+                "https://openalex.org/W70764853"
+            ],
+            "related_works": [
+                "https://openalex.org/W2594281132",
+                "https://openalex.org/W2502722637",
+                "https://openalex.org/W2384808441",
+                "https://openalex.org/W2364838364",
+                "https://openalex.org/W2355975493",
+                "https://openalex.org/W2044680471",
+                "https://openalex.org/W2020749411",
+                "https://openalex.org/W2002952260",
+                "https://openalex.org/W1840287803",
+                "https://openalex.org/W1564661574"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "addresses": [
+                    2
+                ],
+                "the": [
+                    3,
+                    9,
+                    24,
+                    31,
+                    38,
+                    52,
+                    64,
+                    80,
+                    90,
+                    100
+                ],
+                "problem": [
+                    4
+                ],
+                "of": [
+                    5,
+                    11,
+                    26,
+                    34,
+                    41,
+                    54,
+                    66,
+                    74,
+                    82,
+                    93,
+                    102,
+                    118
+                ],
+                "specifying": [
+                    6
+                ],
+                "and": [
+                    7
+                ],
+                "parsing": [
+                    8,
+                    47,
+                    76,
+                    96
+                ],
+                "syntax": [
+                    10,
+                    33,
+                    81
+                ],
+                "domain-specific": [
+                    12
+                ],
+                "languages": [
+                    13,
+                    56
+                ],
+                "(DSLs)": [
+                    14
+                ],
+                "in": [
+                    15,
+                    46
+                ],
+                "a": [
+                    16,
+                    67,
+                    71,
+                    119
+                ],
+                "modular,": [
+                    17
+                ],
+                "user-friendly": [
+                    18
+                ],
+                "way.": [
+                    19
+                ],
+                "We": [
+                    20,
+                    62,
+                    105
+                ],
+                "want": [
+                    21
+                ],
+                "to": [
+                    22,
+                    59,
+                    77,
+                    109,
+                    113
+                ],
+                "enable": [
+                    23
+                ],
+                "design": [
+                    25,
+                    65
+                ],
+                "composable": [
+                    27,
+                    83
+                ],
+                "DSLs": [
+                    28,
+                    36,
+                    49,
+                    103,
+                    115
+                ],
+                "that": [
+                    29,
+                    51,
+                    69,
+                    89
+                ],
+                "combine": [
+                    30
+                ],
+                "natural": [
+                    32
+                ],
+                "external": [
+                    35
+                ],
+                "with": [
+                    37
+                ],
+                "easy": [
+                    39
+                ],
+                "implementation": [
+                    40
+                ],
+                "internal": [
+                    42
+                ],
+                "DSLs.": [
+                    43,
+                    84
+                ],
+                "The": [
+                    44
+                ],
+                "challenge": [
+                    45
+                ],
+                "these": [
+                    48
+                ],
+                "is": [
+                    50,
+                    57
+                ],
+                "composition": [
+                    53
+                ],
+                "several": [
+                    55
+                ],
+                "likely": [
+                    58
+                ],
+                "contain": [
+                    60
+                ],
+                "ambiguities.": [
+                    61
+                ],
+                "present": [
+                    63
+                ],
+                "system": [
+                    68
+                ],
+                "uses": [
+                    70
+                ],
+                "type-oriented": [
+                    72,
+                    94
+                ],
+                "variant": [
+                    73
+                ],
+                "island": [
+                    75,
+                    95
+                ],
+                "efficiently": [
+                    78
+                ],
+                "parse": [
+                    79
+                ],
+                "In": [
+                    85
+                ],
+                "particular,": [
+                    86
+                ],
+                "we": [
+                    87
+                ],
+                "argue": [
+                    88
+                ],
+                "running": [
+                    91
+                ],
+                "time": [
+                    92
+                ],
+                "doesn’t": [
+                    97
+                ],
+                "depend": [
+                    98
+                ],
+                "on": [
+                    99,
+                    116
+                ],
+                "number": [
+                    101
+                ],
+                "imported.": [
+                    104
+                ],
+                "also": [
+                    106
+                ],
+                "show": [
+                    107
+                ],
+                "how": [
+                    108
+                ],
+                "use": [
+                    110
+                ],
+                "our": [
+                    111
+                ],
+                "tool": [
+                    112
+                ],
+                "implement": [
+                    114
+                ],
+                "top": [
+                    117
+                ],
+                "host": [
+                    120
+                ],
+                "language": [
+                    121
+                ],
+                "such": [
+                    122
+                ],
+                "as": [
+                    123
+                ],
+                "Typed": [
+                    124
+                ],
+                "Racket.": [
+                    125
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2110994387",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-08-15T09:32:47.004416",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1985823812",
+            "doi": "https://doi.org/10.1016/j.procs.2010.04.209",
+            "title": "Understanding memory effects in the automated generation of optimized matrix algebra kernels",
+            "display_name": "Understanding memory effects in the automated generation of optimized matrix algebra kernels",
+            "publication_year": 2010,
+            "publication_date": "2010-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1985823812",
+                "doi": "https://doi.org/10.1016/j.procs.2010.04.209",
+                "mag": "1985823812"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2010.04.209",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2010.04.209",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5041552096",
+                        "display_name": "Elizabeth R. Jessup",
+                        "orcid": "https://orcid.org/0000-0002-7740-9985"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Elizabeth R. Jessup",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of Colorado, 430 UCB, Boulder, CO 80309"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of Colorado, 430 UCB, Boulder, CO 80309",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5030371924",
+                        "display_name": "Ian Karlin",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ian Karlin",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of Colorado, 430 UCB, Boulder, CO 80309"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of Colorado, 430 UCB, Boulder, CO 80309",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Erik Silkensen",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of Colorado, 430 UCB, Boulder, CO 80309"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of Colorado, 430 UCB, Boulder, CO 80309",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5011114543",
+                        "display_name": "Geoffrey Belter",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Geoffrey Belter",
+                    "raw_affiliation_strings": [
+                        "Department of Electrical, Computer, and Energy Engineering, University of Colorado, 425 UCB, Boulder, CO 80309"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Electrical, Computer, and Energy Engineering, University of Colorado, 425 UCB, Boulder, CO 80309",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5033999458",
+                        "display_name": "Jeremy G. Siek",
+                        "orcid": "https://orcid.org/0000-0002-9894-4856"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jeremy Siek",
+                    "raw_affiliation_strings": [
+                        "Department of Electrical, Computer, and Energy Engineering, University of Colorado, 425 UCB, Boulder, CO 80309"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Electrical, Computer, and Energy Engineering, University of Colorado, 425 UCB, Boulder, CO 80309",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.773,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 2,
+            "citation_normalized_percentile": {
+                "value": 0.665219,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 71,
+                "max": 75
+            },
+            "biblio": {
+                "volume": "1",
+                "issue": "1",
+                "first_page": "1873",
+                "last_page": "1881"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10904",
+                    "display_name": "Reconfigurable Computing Systems and Design Methods",
+                    "score": 0.9996,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10363",
+                    "display_name": "Low-Power VLSI Circuit Design and Optimization",
+                    "score": 0.9974,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/loop-fusion",
+                    "display_name": "Loop fusion",
+                    "score": 0.6971303
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.506853
+                },
+                {
+                    "id": "https://openalex.org/keywords/matrix",
+                    "display_name": "Matrix (chemical analysis)",
+                    "score": 0.46132082
+                },
+                {
+                    "id": "https://openalex.org/keywords/linear-algebra",
+                    "display_name": "Linear algebra",
+                    "score": 0.4442761
+                },
+                {
+                    "id": "https://openalex.org/keywords/memory-model",
+                    "display_name": "Memory model",
+                    "score": 0.4369383
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8921746
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.7635895
+                },
+                {
+                    "id": "https://openalex.org/C82653869",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6675821",
+                    "display_name": "Loop fusion",
+                    "level": 3,
+                    "score": 0.6971303
+                },
+                {
+                    "id": "https://openalex.org/C101468663",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1620158",
+                    "display_name": "Modular design",
+                    "level": 2,
+                    "score": 0.6365806
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.5467188
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5399639
+                },
+                {
+                    "id": "https://openalex.org/C184670325",
+                    "wikidata": "https://www.wikidata.org/wiki/Q512604",
+                    "display_name": "Loop (graph theory)",
+                    "level": 2,
+                    "score": 0.46475425
+                },
+                {
+                    "id": "https://openalex.org/C106487976",
+                    "wikidata": "https://www.wikidata.org/wiki/Q685816",
+                    "display_name": "Matrix (chemical analysis)",
+                    "level": 2,
+                    "score": 0.46132082
+                },
+                {
+                    "id": "https://openalex.org/C139352143",
+                    "wikidata": "https://www.wikidata.org/wiki/Q82571",
+                    "display_name": "Linear algebra",
+                    "level": 2,
+                    "score": 0.4442761
+                },
+                {
+                    "id": "https://openalex.org/C12186640",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6815743",
+                    "display_name": "Memory model",
+                    "level": 3,
+                    "score": 0.4369383
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.38505736
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.36117685
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.33101922
+                },
+                {
+                    "id": "https://openalex.org/C133875982",
+                    "wikidata": "https://www.wikidata.org/wiki/Q764810",
+                    "display_name": "Shared memory",
+                    "level": 2,
+                    "score": 0.24707758
+                },
+                {
+                    "id": "https://openalex.org/C192562407",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228736",
+                    "display_name": "Materials science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C159985019",
+                    "wikidata": "https://www.wikidata.org/wiki/Q181790",
+                    "display_name": "Composite material",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2010.04.209",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2010.04.209",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320306076",
+                    "funder_display_name": "National Science Foundation",
+                    "award_id": "CCF-0830458"
+                },
+                {
+                    "funder": "https://openalex.org/F4320306076",
+                    "funder_display_name": "National Science Foundation",
+                    "award_id": "0846121"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 35,
+            "referenced_works": [
+                "https://openalex.org/W1502188345",
+                "https://openalex.org/W1518917853",
+                "https://openalex.org/W1520483132",
+                "https://openalex.org/W1569709052",
+                "https://openalex.org/W1665412445",
+                "https://openalex.org/W1843640069",
+                "https://openalex.org/W1851570257",
+                "https://openalex.org/W1964031104",
+                "https://openalex.org/W1972209410",
+                "https://openalex.org/W1987551307",
+                "https://openalex.org/W2000059748",
+                "https://openalex.org/W2002257715",
+                "https://openalex.org/W2007451249",
+                "https://openalex.org/W2027745336",
+                "https://openalex.org/W2031775479",
+                "https://openalex.org/W2038205735",
+                "https://openalex.org/W2065983078",
+                "https://openalex.org/W2066349733",
+                "https://openalex.org/W2099059741",
+                "https://openalex.org/W2099625934",
+                "https://openalex.org/W2110955718",
+                "https://openalex.org/W2115215129",
+                "https://openalex.org/W2119042753",
+                "https://openalex.org/W2124644009",
+                "https://openalex.org/W2149381887",
+                "https://openalex.org/W2151675573",
+                "https://openalex.org/W2158737060",
+                "https://openalex.org/W2164326463",
+                "https://openalex.org/W2168519934",
+                "https://openalex.org/W2169492033",
+                "https://openalex.org/W2599363584",
+                "https://openalex.org/W2605759657",
+                "https://openalex.org/W2912460030",
+                "https://openalex.org/W3000042898",
+                "https://openalex.org/W592646905"
+            ],
+            "related_works": [
+                "https://openalex.org/W4205359103",
+                "https://openalex.org/W2481821631",
+                "https://openalex.org/W2114948246",
+                "https://openalex.org/W2068516599",
+                "https://openalex.org/W2017719803",
+                "https://openalex.org/W2016388920",
+                "https://openalex.org/W1841795997",
+                "https://openalex.org/W1776429635",
+                "https://openalex.org/W1596526459",
+                "https://openalex.org/W1488601362"
+            ],
+            "abstract_inverted_index": {
+                "Efficient": [
+                    0
+                ],
+                "implementation": [
+                    1
+                ],
+                "of": [
+                    2,
+                    10,
+                    29,
+                    68,
+                    84,
+                    99,
+                    106
+                ],
+                "matrix": [
+                    3,
+                    51
+                ],
+                "algebra": [
+                    4,
+                    52
+                ],
+                "is": [
+                    5,
+                    21
+                ],
+                "important": [
+                    6,
+                    18
+                ],
+                "to": [
+                    7,
+                    42,
+                    46,
+                    102
+                ],
+                "the": [
+                    8,
+                    27,
+                    35,
+                    40,
+                    66,
+                    74,
+                    82,
+                    87,
+                    92,
+                    97,
+                    103
+                ],
+                "performance": [
+                    9
+                ],
+                "many": [
+                    11
+                ],
+                "large": [
+                    12
+                ],
+                "and": [
+                    13,
+                    34
+                ],
+                "complex": [
+                    14
+                ],
+                "physical": [
+                    15
+                ],
+                "models.": [
+                    16
+                ],
+                "Among": [
+                    17
+                ],
+                "tuning": [
+                    19
+                ],
+                "techniques": [
+                    20
+                ],
+                "loop": [
+                    22,
+                    48,
+                    69
+                ],
+                "fusion": [
+                    23,
+                    49,
+                    70
+                ],
+                "which": [
+                    24,
+                    63
+                ],
+                "can": [
+                    25
+                ],
+                "reduce": [
+                    26
+                ],
+                "amount": [
+                    28
+                ],
+                "data": [
+                    30
+                ],
+                "moved": [
+                    31
+                ],
+                "between": [
+                    32
+                ],
+                "memory": [
+                    33,
+                    61,
+                    107
+                ],
+                "processor.": [
+                    36
+                ],
+                "We": [
+                    37,
+                    76,
+                    89
+                ],
+                "have": [
+                    38
+                ],
+                "developed": [
+                    39
+                ],
+                "Build": [
+                    41
+                ],
+                "Order": [
+                    43
+                ],
+                "(BTO)": [
+                    44
+                ],
+                "compiler": [
+                    45
+                ],
+                "automate": [
+                    47
+                ],
+                "for": [
+                    50
+                ],
+                "kernels.": [
+                    53
+                ],
+                "In": [
+                    54
+                ],
+                "this": [
+                    55
+                ],
+                "paper,": [
+                    56
+                ],
+                "we": [
+                    57
+                ],
+                "present": [
+                    58
+                ],
+                "BTO’s": [
+                    59
+                ],
+                "analytic": [
+                    60
+                ],
+                "model": [
+                    62
+                ],
+                "substantially": [
+                    64
+                ],
+                "reduces": [
+                    65
+                ],
+                "number": [
+                    67
+                ],
+                "options": [
+                    71
+                ],
+                "considered": [
+                    72
+                ],
+                "by": [
+                    73
+                ],
+                "compiler.": [
+                    75
+                ],
+                "introduce": [
+                    77
+                ],
+                "an": [
+                    78
+                ],
+                "example": [
+                    79
+                ],
+                "that": [
+                    80
+                ],
+                "motivates": [
+                    81
+                ],
+                "inclusion": [
+                    83
+                ],
+                "registers": [
+                    85
+                ],
+                "in": [
+                    86
+                ],
+                "model.": [
+                    88
+                ],
+                "demonstrate": [
+                    90
+                ],
+                "how": [
+                    91
+                ],
+                "model’s": [
+                    93,
+                    104
+                ],
+                "modular": [
+                    94
+                ],
+                "design": [
+                    95
+                ],
+                "facilitates": [
+                    96
+                ],
+                "addition": [
+                    98
+                ],
+                "register": [
+                    100
+                ],
+                "allocation": [
+                    101
+                ],
+                "set": [
+                    105
+                ],
+                "components,": [
+                    108
+                ],
+                "improving": [
+                    109
+                ],
+                "its": [
+                    110
+                ],
+                "accuracy.": [
+                    111
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1985823812",
+            "counts_by_year": [
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-24T08:34:50.409387",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2297021862",
+            "doi": null,
+            "title": "Type-Oriented Island Parsing",
+            "display_name": "Type-Oriented Island Parsing",
+            "publication_year": 2012,
+            "publication_date": "2012-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2297021862",
+                "mag": "2297021862"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://scholar.colorado.edu/csci_gradetds/43/",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Erik Joseph Silkensen",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5085444970"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11269",
+                "display_name": "Text Compression and Indexing Algorithms",
+                "score": 0.9141,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11269",
+                    "display_name": "Text Compression and Indexing Algorithms",
+                    "score": 0.9141,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/text-indexing",
+                    "display_name": "Text Indexing",
+                    "score": 0.642252
+                },
+                {
+                    "id": "https://openalex.org/keywords/approximate-matching",
+                    "display_name": "Approximate Matching",
+                    "score": 0.606203
+                },
+                {
+                    "id": "https://openalex.org/keywords/string-matching",
+                    "display_name": "String Matching",
+                    "score": 0.588365
+                },
+                {
+                    "id": "https://openalex.org/keywords/hashing",
+                    "display_name": "Hashing",
+                    "score": 0.555701
+                },
+                {
+                    "id": "https://openalex.org/keywords/algorithms",
+                    "display_name": "Algorithms",
+                    "score": 0.505585
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C186644900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194152",
+                    "display_name": "Parsing",
+                    "level": 2,
+                    "score": 0.5193547
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.47254845
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.4238907
+                },
+                {
+                    "id": "https://openalex.org/C204321447",
+                    "wikidata": "https://www.wikidata.org/wiki/Q30642",
+                    "display_name": "Natural language processing",
+                    "level": 1,
+                    "score": 0.39649737
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://scholar.colorado.edu/csci_gradetds/43/",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Climate action",
+                    "score": 0.63,
+                    "id": "https://metadata.un.org/sdg/13"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2297021862",
+            "counts_by_year": [],
+            "updated_date": "2024-09-16T18:33:19.037243",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2952864661",
+            "doi": null,
+            "title": "Well-typed Islands Parse Faster",
+            "display_name": "Well-typed Islands Parse Faster",
+            "publication_year": 2011,
+            "publication_date": "2011-12-29",
+            "ids": {
+                "openalex": "https://openalex.org/W2952864661",
+                "mag": "2952864661"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://arxiv.org/pdf/1201.0024",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Erik Silkensen",
+                    "raw_affiliation_strings": [
+                        "Univ. of Colorado, Boulder, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ. of Colorado, Boulder, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5033999458",
+                        "display_name": "Jeremy G. Siek",
+                        "orcid": "https://orcid.org/0000-0002-9894-4856"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jeremy G. Siek",
+                    "raw_affiliation_strings": [
+                        "Univ. of Colorado, Boulder, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ. of Colorado, Boulder, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10126",
+                "display_name": "Program Analysis and Verification Techniques",
+                "score": 0.9989,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10126",
+                    "display_name": "Program Analysis and Verification Techniques",
+                    "score": 0.9989,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11450",
+                    "display_name": "Model-Driven Engineering in Software Development",
+                    "score": 0.9973,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10142",
+                    "display_name": "Formal Methods in Software Verification and Control",
+                    "score": 0.9966,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-languages",
+                    "display_name": "Domain-Specific Languages",
+                    "score": 0.585059
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.84392816
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.81325555
+                },
+                {
+                    "id": "https://openalex.org/C186644900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194152",
+                    "display_name": "Parsing",
+                    "level": 2,
+                    "score": 0.7812226
+                },
+                {
+                    "id": "https://openalex.org/C60048249",
+                    "wikidata": "https://www.wikidata.org/wiki/Q37437",
+                    "display_name": "Syntax",
+                    "level": 2,
+                    "score": 0.601565
+                },
+                {
+                    "id": "https://openalex.org/C101468663",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1620158",
+                    "display_name": "Modular design",
+                    "level": 2,
+                    "score": 0.520885
+                },
+                {
+                    "id": "https://openalex.org/C114408938",
+                    "wikidata": "https://www.wikidata.org/wiki/Q333373",
+                    "display_name": "Abstract syntax",
+                    "level": 3,
+                    "score": 0.44679853
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.20923734
+                },
+                {
+                    "id": "https://openalex.org/C184337299",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+                    "display_name": "Semantics (computer science)",
+                    "level": 2,
+                    "score": 0.20435062
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://arxiv.org/pdf/1201.0024",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 25,
+            "referenced_works": [
+                "https://openalex.org/W124381426",
+                "https://openalex.org/W132990795",
+                "https://openalex.org/W1493349649",
+                "https://openalex.org/W1511588645",
+                "https://openalex.org/W1528415032",
+                "https://openalex.org/W1541653499",
+                "https://openalex.org/W1544135626",
+                "https://openalex.org/W1549379126",
+                "https://openalex.org/W1749568426",
+                "https://openalex.org/W1908013816",
+                "https://openalex.org/W1964494435",
+                "https://openalex.org/W1973186567",
+                "https://openalex.org/W1991227409",
+                "https://openalex.org/W2011166386",
+                "https://openalex.org/W2011702717",
+                "https://openalex.org/W2013399578",
+                "https://openalex.org/W2018045485",
+                "https://openalex.org/W2053634777",
+                "https://openalex.org/W2072040469",
+                "https://openalex.org/W2134287022",
+                "https://openalex.org/W2134495021",
+                "https://openalex.org/W2155281402",
+                "https://openalex.org/W2188282233",
+                "https://openalex.org/W2344699011",
+                "https://openalex.org/W599757216"
+            ],
+            "related_works": [
+                "https://openalex.org/W3212744718",
+                "https://openalex.org/W3179689006",
+                "https://openalex.org/W3101850750",
+                "https://openalex.org/W3100864431",
+                "https://openalex.org/W3004785238",
+                "https://openalex.org/W2912256776",
+                "https://openalex.org/W2589182629",
+                "https://openalex.org/W2584597517",
+                "https://openalex.org/W2564970793",
+                "https://openalex.org/W2170136203",
+                "https://openalex.org/W2161976503",
+                "https://openalex.org/W2131012971",
+                "https://openalex.org/W2058009893",
+                "https://openalex.org/W1953786023",
+                "https://openalex.org/W19213215",
+                "https://openalex.org/W1714137607",
+                "https://openalex.org/W1620182406",
+                "https://openalex.org/W1586230214",
+                "https://openalex.org/W1578346141",
+                "https://openalex.org/W127275198"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "addresses": [
+                    2
+                ],
+                "the": [
+                    3,
+                    9,
+                    26,
+                    33,
+                    40,
+                    54,
+                    71,
+                    87,
+                    106
+                ],
+                "problem": [
+                    4
+                ],
+                "of": [
+                    5,
+                    11,
+                    28,
+                    36,
+                    43,
+                    56,
+                    73,
+                    81,
+                    89,
+                    108,
+                    124
+                ],
+                "specifying": [
+                    6
+                ],
+                "and": [
+                    7
+                ],
+                "parsing": [
+                    8,
+                    49,
+                    83,
+                    99
+                ],
+                "syntax": [
+                    10,
+                    35,
+                    88
+                ],
+                "domain-specific": [
+                    12
+                ],
+                "languages": [
+                    13,
+                    60
+                ],
+                "(DSLs)": [
+                    14
+                ],
+                "in": [
+                    15,
+                    48
+                ],
+                "a": [
+                    16,
+                    74,
+                    78,
+                    125
+                ],
+                "modular,": [
+                    17
+                ],
+                "user-friendly": [
+                    18
+                ],
+                "way.": [
+                    19
+                ],
+                "That": [
+                    20
+                ],
+                "is,": [
+                    21
+                ],
+                "we": [
+                    22,
+                    69,
+                    94
+                ],
+                "want": [
+                    23
+                ],
+                "to": [
+                    24,
+                    63,
+                    84,
+                    105,
+                    115,
+                    119
+                ],
+                "enable": [
+                    25
+                ],
+                "design": [
+                    27,
+                    72
+                ],
+                "composable": [
+                    29,
+                    50,
+                    90
+                ],
+                "DSLs": [
+                    30,
+                    38,
+                    51,
+                    109,
+                    121
+                ],
+                "that": [
+                    31,
+                    53,
+                    76
+                ],
+                "combine": [
+                    32
+                ],
+                "natural": [
+                    34
+                ],
+                "external": [
+                    37
+                ],
+                "with": [
+                    39,
+                    103
+                ],
+                "easy": [
+                    41
+                ],
+                "implementation": [
+                    42
+                ],
+                "internal": [
+                    44
+                ],
+                "DSLs.": [
+                    45,
+                    91
+                ],
+                "The": [
+                    46
+                ],
+                "challenge": [
+                    47
+                ],
+                "is": [
+                    52,
+                    61,
+                    100
+                ],
+                "composition": [
+                    55
+                ],
+                "several": [
+                    57
+                ],
+                "(individually": [
+                    58
+                ],
+                "unambiguous)": [
+                    59
+                ],
+                "likely": [
+                    62
+                ],
+                "contain": [
+                    64
+                ],
+                "ambiguities.": [
+                    65
+                ],
+                "In": [
+                    66,
+                    92
+                ],
+                "this": [
+                    67
+                ],
+                "paper,": [
+                    68
+                ],
+                "present": [
+                    70
+                ],
+                "system": [
+                    75
+                ],
+                "uses": [
+                    77
+                ],
+                "type-oriented": [
+                    79,
+                    97
+                ],
+                "variant": [
+                    80
+                ],
+                "island": [
+                    82,
+                    98
+                ],
+                "efficiently": [
+                    85
+                ],
+                "parse": [
+                    86
+                ],
+                "particular,": [
+                    93
+                ],
+                "show": [
+                    95,
+                    113
+                ],
+                "how": [
+                    96,
+                    114
+                ],
+                "constant": [
+                    101
+                ],
+                "time": [
+                    102
+                ],
+                "respect": [
+                    104
+                ],
+                "number": [
+                    107
+                ],
+                "imported.": [
+                    110
+                ],
+                "We": [
+                    111
+                ],
+                "also": [
+                    112
+                ],
+                "use": [
+                    116
+                ],
+                "our": [
+                    117
+                ],
+                "tool": [
+                    118
+                ],
+                "implement": [
+                    120
+                ],
+                "on": [
+                    122
+                ],
+                "top": [
+                    123
+                ],
+                "host": [
+                    126
+                ],
+                "language": [
+                    127
+                ],
+                "such": [
+                    128
+                ],
+                "as": [
+                    129
+                ],
+                "Typed": [
+                    130
+                ],
+                "Racket.": [
+                    131
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2952864661",
+            "counts_by_year": [],
+            "updated_date": "2024-09-19T03:48:13.087500",
+            "created_date": "2019-06-27"
+        },
+        {
+            "id": "https://openalex.org/W4297996923",
+            "doi": "https://doi.org/10.48550/arxiv.1201.0024",
+            "title": "Well-typed Islands Parse Faster",
+            "display_name": "Well-typed Islands Parse Faster",
+            "publication_year": 2012,
+            "publication_date": "2012-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4297996923",
+                "doi": "https://doi.org/10.48550/arxiv.1201.0024"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/1201.0024",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "arxiv",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/abs/1201.0024",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5085444970",
+                        "display_name": "Erik Silkensen",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Silkensen, Erik",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5033999458",
+                        "display_name": "Jeremy G. Siek",
+                        "orcid": "https://orcid.org/0000-0002-9894-4856"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Siek, Jeremy G.",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11450",
+                "display_name": "Model-Driven Engineering in Software Development",
+                "score": 0.9968,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1712",
+                    "display_name": "Software"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11450",
+                    "display_name": "Model-Driven Engineering in Software Development",
+                    "score": 0.9968,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10142",
+                    "display_name": "Formal Methods in Software Verification and Control",
+                    "score": 0.9903,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10126",
+                    "display_name": "Program Analysis and Verification Techniques",
+                    "score": 0.9902,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-languages",
+                    "display_name": "Domain-Specific Languages",
+                    "score": 0.585059
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.84214437
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.8087073
+                },
+                {
+                    "id": "https://openalex.org/C186644900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194152",
+                    "display_name": "Parsing",
+                    "level": 2,
+                    "score": 0.77947676
+                },
+                {
+                    "id": "https://openalex.org/C60048249",
+                    "wikidata": "https://www.wikidata.org/wiki/Q37437",
+                    "display_name": "Syntax",
+                    "level": 2,
+                    "score": 0.609289
+                },
+                {
+                    "id": "https://openalex.org/C101468663",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1620158",
+                    "display_name": "Modular design",
+                    "level": 2,
+                    "score": 0.53335875
+                },
+                {
+                    "id": "https://openalex.org/C114408938",
+                    "wikidata": "https://www.wikidata.org/wiki/Q333373",
+                    "display_name": "Abstract syntax",
+                    "level": 3,
+                    "score": 0.4505133
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.21278185
+                },
+                {
+                    "id": "https://openalex.org/C184337299",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+                    "display_name": "Semantics (computer science)",
+                    "level": 2,
+                    "score": 0.20809513
+                }
+            ],
+            "mesh": [],
+            "locations_count": 4,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/1201.0024",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": null,
+                    "pdf_url": "http://arxiv.org/pdf/1201.0024.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://arxiv.org/abs/1201.0024",
+                    "pdf_url": "http://arxiv.org/pdf/1201.0024",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.1201.0024",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/1201.0024",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4319867150",
+                "https://openalex.org/W4294189394",
+                "https://openalex.org/W4206294449",
+                "https://openalex.org/W2613250302",
+                "https://openalex.org/W2399811286",
+                "https://openalex.org/W2168778844",
+                "https://openalex.org/W2143166528",
+                "https://openalex.org/W2077104824",
+                "https://openalex.org/W2005927140",
+                "https://openalex.org/W1988370859"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "addresses": [
+                    2
+                ],
+                "the": [
+                    3,
+                    9,
+                    26,
+                    33,
+                    40,
+                    54,
+                    71,
+                    87,
+                    106
+                ],
+                "problem": [
+                    4
+                ],
+                "of": [
+                    5,
+                    11,
+                    28,
+                    36,
+                    43,
+                    56,
+                    73,
+                    81,
+                    89,
+                    108,
+                    124
+                ],
+                "specifying": [
+                    6
+                ],
+                "and": [
+                    7
+                ],
+                "parsing": [
+                    8,
+                    49,
+                    83,
+                    99
+                ],
+                "syntax": [
+                    10,
+                    35,
+                    88
+                ],
+                "domain-specific": [
+                    12
+                ],
+                "languages": [
+                    13,
+                    60
+                ],
+                "(DSLs)": [
+                    14
+                ],
+                "in": [
+                    15,
+                    48
+                ],
+                "a": [
+                    16,
+                    74,
+                    78,
+                    125
+                ],
+                "modular,": [
+                    17
+                ],
+                "user-friendly": [
+                    18
+                ],
+                "way.": [
+                    19
+                ],
+                "That": [
+                    20
+                ],
+                "is,": [
+                    21
+                ],
+                "we": [
+                    22,
+                    69,
+                    94
+                ],
+                "want": [
+                    23
+                ],
+                "to": [
+                    24,
+                    63,
+                    84,
+                    105,
+                    115,
+                    119
+                ],
+                "enable": [
+                    25
+                ],
+                "design": [
+                    27,
+                    72
+                ],
+                "composable": [
+                    29,
+                    50,
+                    90
+                ],
+                "DSLs": [
+                    30,
+                    38,
+                    51,
+                    109,
+                    121
+                ],
+                "that": [
+                    31,
+                    53,
+                    76
+                ],
+                "combine": [
+                    32
+                ],
+                "natural": [
+                    34
+                ],
+                "external": [
+                    37
+                ],
+                "with": [
+                    39,
+                    103
+                ],
+                "easy": [
+                    41
+                ],
+                "implementation": [
+                    42
+                ],
+                "internal": [
+                    44
+                ],
+                "DSLs.": [
+                    45,
+                    91
+                ],
+                "The": [
+                    46
+                ],
+                "challenge": [
+                    47
+                ],
+                "is": [
+                    52,
+                    61,
+                    100
+                ],
+                "composition": [
+                    55
+                ],
+                "several": [
+                    57
+                ],
+                "(individually": [
+                    58
+                ],
+                "unambiguous)": [
+                    59
+                ],
+                "likely": [
+                    62
+                ],
+                "contain": [
+                    64
+                ],
+                "ambiguities.": [
+                    65
+                ],
+                "In": [
+                    66,
+                    92
+                ],
+                "this": [
+                    67
+                ],
+                "paper,": [
+                    68
+                ],
+                "present": [
+                    70
+                ],
+                "system": [
+                    75
+                ],
+                "uses": [
+                    77
+                ],
+                "type-oriented": [
+                    79,
+                    97
+                ],
+                "variant": [
+                    80
+                ],
+                "island": [
+                    82,
+                    98
+                ],
+                "efficiently": [
+                    85
+                ],
+                "parse": [
+                    86
+                ],
+                "particular,": [
+                    93
+                ],
+                "show": [
+                    95,
+                    113
+                ],
+                "how": [
+                    96,
+                    114
+                ],
+                "constant": [
+                    101
+                ],
+                "time": [
+                    102
+                ],
+                "respect": [
+                    104
+                ],
+                "number": [
+                    107
+                ],
+                "imported.": [
+                    110
+                ],
+                "We": [
+                    111
+                ],
+                "also": [
+                    112
+                ],
+                "use": [
+                    116
+                ],
+                "our": [
+                    117
+                ],
+                "tool": [
+                    118
+                ],
+                "implement": [
+                    120
+                ],
+                "on": [
+                    122
+                ],
+                "top": [
+                    123
+                ],
+                "host": [
+                    126
+                ],
+                "language": [
+                    127
+                ],
+                "such": [
+                    128
+                ],
+                "as": [
+                    129
+                ],
+                "Typed": [
+                    130
+                ],
+                "Racket.": [
+                    131
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4297996923",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T13:35:42.295790",
+            "created_date": "2022-10-01"
+        }
+    ],
+    "group_by": []
+}

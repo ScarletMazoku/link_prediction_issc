@@ -1,0 +1,2935 @@
+{
+    "meta": {
+        "count": 3,
+        "db_response_time_ms": 49,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2503637667",
+            "doi": "https://doi.org/10.1016/j.procs.2016.05.328",
+            "title": "Wildfire Spread Prediction and Assimilation for FARSITE Using Ensemble Kalman Filtering 1",
+            "display_name": "Wildfire Spread Prediction and Assimilation for FARSITE Using Ensemble Kalman Filtering 1",
+            "publication_year": 2016,
+            "publication_date": "2016-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2503637667",
+                "doi": "https://doi.org/10.1016/j.procs.2016.05.328",
+                "mag": "2503637667"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.328",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2016.05.328",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5084699643",
+                        "display_name": "Thayjes Srivas",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Thayjes Srivas",
+                    "raw_affiliation_strings": [
+                        "Department of MAE, University of California, San Diego, U.S.A"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of MAE, University of California, San Diego, U.S.A",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5085798297",
+                        "display_name": "Tomás Artès",
+                        "orcid": "https://orcid.org/0000-0002-4105-5468"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I123044942",
+                            "display_name": "Universitat Autònoma de Barcelona",
+                            "ror": "https://ror.org/052g8jq94",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I123044942"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tomàs Artés",
+                    "raw_affiliation_strings": [
+                        "Autonomous University of Barcelona, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Autonomous University of Barcelona, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I123044942"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5090602985",
+                        "display_name": "Raymond A. de Callafon",
+                        "orcid": "https://orcid.org/0000-0003-3426-0161"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raymond A. de Callafon",
+                    "raw_affiliation_strings": [
+                        "Department of MAE, University of California, San Diego, U.S.A"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of MAE, University of California, San Diego, U.S.A",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5028701796",
+                        "display_name": "İlkay Altıntaş",
+                        "orcid": "https://orcid.org/0000-0002-2196-0305"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ilkay Altintas",
+                    "raw_affiliation_strings": [
+                        "SDSC, University of California, San Diego, U.S.A"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "SDSC, University of California, San Diego, U.S.A",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5084699643"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I36258959"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.743,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 35,
+            "citation_normalized_percentile": {
+                "value": 0.87678,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 94,
+                "max": 95
+            },
+            "biblio": {
+                "volume": "80",
+                "issue": null,
+                "first_page": "897",
+                "last_page": "908"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10555",
+                "display_name": "Impact of Climate Change on Forest Wildfires",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2306",
+                    "display_name": "Global and Planetary Change"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10555",
+                    "display_name": "Impact of Climate Change on Forest Wildfires",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10266",
+                    "display_name": "Global Forest Drought Response and Climate Change",
+                    "score": 0.9972,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/perimeter",
+                    "display_name": "Perimeter",
+                    "score": 0.62568605
+                },
+                {
+                    "id": "https://openalex.org/keywords/ensemble-kalman-filter",
+                    "display_name": "Ensemble Kalman Filter",
+                    "score": 0.591667
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-assimilation",
+                    "display_name": "Data Assimilation",
+                    "score": 0.568408
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24552861",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670177",
+                    "display_name": "Data assimilation",
+                    "level": 2,
+                    "score": 0.8891829
+                },
+                {
+                    "id": "https://openalex.org/C157286648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q846780",
+                    "display_name": "Kalman filter",
+                    "level": 2,
+                    "score": 0.768764
+                },
+                {
+                    "id": "https://openalex.org/C79334102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072268",
+                    "display_name": "Ensemble Kalman filter",
+                    "level": 4,
+                    "score": 0.7603202
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7001487
+                },
+                {
+                    "id": "https://openalex.org/C98503990",
+                    "wikidata": "https://www.wikidata.org/wiki/Q28474",
+                    "display_name": "Perimeter",
+                    "level": 2,
+                    "score": 0.62568605
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.37743133
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.33913347
+                },
+                {
+                    "id": "https://openalex.org/C39432304",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188847",
+                    "display_name": "Environmental science",
+                    "level": 0,
+                    "score": 0.32486176
+                },
+                {
+                    "id": "https://openalex.org/C206833254",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5421817",
+                    "display_name": "Extended Kalman filter",
+                    "level": 3,
+                    "score": 0.32134125
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.20844772
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.14820352
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.086891174
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.328",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://escholarship.org/uc/item/4w55x7hg",
+                    "pdf_url": "https://escholarship.org/content/qt4w55x7hg/qt4w55x7hg.pdf?t=oil1e2",
+                    "source": {
+                        "id": "https://openalex.org/S4306400115",
+                        "display_name": "eScholarship (California Digital Library)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I2801248553",
+                        "host_organization_name": "California Digital Library",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I2801248553"
+                        ],
+                        "host_organization_lineage_names": [
+                            "California Digital Library"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.328",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 25,
+            "referenced_works": [
+                "https://openalex.org/W133067373",
+                "https://openalex.org/W133894003",
+                "https://openalex.org/W1522319528",
+                "https://openalex.org/W1531419578",
+                "https://openalex.org/W1546878848",
+                "https://openalex.org/W1555798574",
+                "https://openalex.org/W1571411223",
+                "https://openalex.org/W1617879682",
+                "https://openalex.org/W1653720760",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W2093805255",
+                "https://openalex.org/W2113769878",
+                "https://openalex.org/W2119007379",
+                "https://openalex.org/W2122801340",
+                "https://openalex.org/W2131286733",
+                "https://openalex.org/W2131579983",
+                "https://openalex.org/W2158595370",
+                "https://openalex.org/W2162886934",
+                "https://openalex.org/W2163324173",
+                "https://openalex.org/W2170611232",
+                "https://openalex.org/W2405716453",
+                "https://openalex.org/W3125718666",
+                "https://openalex.org/W37217007",
+                "https://openalex.org/W4252365432",
+                "https://openalex.org/W871842247"
+            ],
+            "related_works": [
+                "https://openalex.org/W4246354917",
+                "https://openalex.org/W4212971657",
+                "https://openalex.org/W2991541038",
+                "https://openalex.org/W2525014937",
+                "https://openalex.org/W2393565244",
+                "https://openalex.org/W2377052976",
+                "https://openalex.org/W2363380593",
+                "https://openalex.org/W2089385108",
+                "https://openalex.org/W1996382496",
+                "https://openalex.org/W1949985943"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "extends": [
+                    2
+                ],
+                "FARSITE": [
+                    3
+                ],
+                "(a": [
+                    4
+                ],
+                "software": [
+                    5
+                ],
+                "used": [
+                    6,
+                    56,
+                    86
+                ],
+                "for": [
+                    7,
+                    61,
+                    144
+                ],
+                "wildfire": [
+                    8,
+                    34,
+                    133
+                ],
+                "modeling": [
+                    9
+                ],
+                "and": [
+                    10,
+                    20,
+                    50,
+                    81,
+                    122,
+                    140
+                ],
+                "simulation)": [
+                    11
+                ],
+                "to": [
+                    12,
+                    29,
+                    57,
+                    87
+                ],
+                "incorporate": [
+                    13
+                ],
+                "data": [
+                    14,
+                    39,
+                    72,
+                    146
+                ],
+                "assimilation": [
+                    15,
+                    40,
+                    147
+                ],
+                "techniques": [
+                    16
+                ],
+                "based": [
+                    17
+                ],
+                "on": [
+                    18,
+                    44,
+                    116,
+                    131
+                ],
+                "noisy": [
+                    19
+                ],
+                "limited": [
+                    21,
+                    78
+                ],
+                "spatial": [
+                    22,
+                    79
+                ],
+                "resolution": [
+                    23,
+                    80
+                ],
+                "observations": [
+                    24
+                ],
+                "of": [
+                    25,
+                    33,
+                    64,
+                    67
+                ],
+                "the": [
+                    26,
+                    31,
+                    46,
+                    51,
+                    62,
+                    65,
+                    68,
+                    93,
+                    102,
+                    113,
+                    118,
+                    123,
+                    136
+                ],
+                "fire": [
+                    27,
+                    48,
+                    53,
+                    74,
+                    94,
+                    120,
+                    125,
+                    139
+                ],
+                "perimeter": [
+                    28,
+                    49,
+                    54,
+                    75,
+                    95,
+                    121
+                ],
+                "improve": [
+                    30
+                ],
+                "accuracy": [
+                    32
+                ],
+                "spread": [
+                    35,
+                    66
+                ],
+                "predictions.": [
+                    36
+                ],
+                "To": [
+                    37
+                ],
+                "include": [
+                    38
+                ],
+                "in": [
+                    41,
+                    92,
+                    106
+                ],
+                "FARSITE,": [
+                    42
+                ],
+                "uncertainty": [
+                    43,
+                    84,
+                    114
+                ],
+                "both": [
+                    45,
+                    117
+                ],
+                "simulated": [
+                    47,
+                    119
+                ],
+                "measured": [
+                    52,
+                    124
+                ],
+                "is": [
+                    55,
+                    99,
+                    129
+                ],
+                "formulate": [
+                    58,
+                    88
+                ],
+                "optimal": [
+                    59,
+                    90
+                ],
+                "updates": [
+                    60
+                ],
+                "prediction": [
+                    63
+                ],
+                "wild-": [
+                    69
+                ],
+                "fire.": [
+                    70
+                ],
+                "For": [
+                    71
+                ],
+                "assimilation,": [
+                    73
+                ],
+                "measurements": [
+                    76
+                ],
+                "with": [
+                    77
+                ],
+                "a": [
+                    82,
+                    132
+                ],
+                "known": [
+                    83
+                ],
+                "are": [
+                    85
+                ],
+                "an": [
+                    89,
+                    107
+                ],
+                "adjustment": [
+                    91,
+                    98
+                ],
+                "prediction.": [
+                    96
+                ],
+                "The": [
+                    97,
+                    127
+                ],
+                "calculated": [
+                    100
+                ],
+                "from": [
+                    101
+                ],
+                "Kalman": [
+                    103,
+                    109
+                ],
+                "filter": [
+                    104,
+                    110
+                ],
+                "gain": [
+                    105
+                ],
+                "Ensemble": [
+                    108
+                ],
+                "that": [
+                    111
+                ],
+                "exploits": [
+                    112
+                ],
+                "information": [
+                    115
+                ],
+                "perimeter.": [
+                    126
+                ],
+                "approach": [
+                    128
+                ],
+                "illustrated": [
+                    130
+                ],
+                "simulation": [
+                    134
+                ],
+                "representing": [
+                    135
+                ],
+                "2014": [
+                    137
+                ],
+                "Cocos": [
+                    138
+                ],
+                "presents": [
+                    141
+                ],
+                "comparison": [
+                    142
+                ],
+                "results": [
+                    143
+                ],
+                "hourly": [
+                    145
+                ],
+                "results.": [
+                    148
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2503637667",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-01T10:51:04.644782",
+            "created_date": "2016-08-23"
+        },
+        {
+            "id": "https://openalex.org/W2623898072",
+            "doi": "https://doi.org/10.1016/j.procs.2017.05.197",
+            "title": "Data Assimilation of Wildfires with Fuel Adjustment Factors in farsite using Ensemble Kalman Filtering * *This work is funded by NSF 1331615 under CI, Information Technology Research and SEES Hazards programs",
+            "display_name": "Data Assimilation of Wildfires with Fuel Adjustment Factors in farsite using Ensemble Kalman Filtering * *This work is funded by NSF 1331615 under CI, Information Technology Research and SEES Hazards programs",
+            "publication_year": 2017,
+            "publication_date": "2017-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2623898072",
+                "doi": "https://doi.org/10.1016/j.procs.2017.05.197",
+                "mag": "2623898072"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.197",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2017.05.197",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5084699643",
+                        "display_name": "Thayjes Srivas",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Thayjes Srivas",
+                    "raw_affiliation_strings": [
+                        "Dept. of Mechanical and Aerospace Engineering University of California San Diego, La Jolla, CA, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dept. of Mechanical and Aerospace Engineering University of California San Diego, La Jolla, CA, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5090602985",
+                        "display_name": "Raymond A. de Callafon",
+                        "orcid": "https://orcid.org/0000-0003-3426-0161"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Raymond A. de Callafon",
+                    "raw_affiliation_strings": [
+                        "Dept. of Mechanical and Aerospace Engineering University of California San Diego, La Jolla, CA, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dept. of Mechanical and Aerospace Engineering University of California San Diego, La Jolla, CA, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002534857",
+                        "display_name": "Daniel Crawl",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I181653535",
+                            "display_name": "San Diego Supercomputer Center",
+                            "ror": "https://ror.org/04mg3nk07",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I181653535",
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Daniel Crawl",
+                    "raw_affiliation_strings": [
+                        "San Diego Supercomputer Center University of California San Diego, La Jolla, CA, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "San Diego Supercomputer Center University of California San Diego, La Jolla, CA, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959",
+                                "https://openalex.org/I181653535"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5028701796",
+                        "display_name": "İlkay Altıntaş",
+                        "orcid": "https://orcid.org/0000-0002-2196-0305"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I181653535",
+                            "display_name": "San Diego Supercomputer Center",
+                            "ror": "https://ror.org/04mg3nk07",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I181653535",
+                                "https://openalex.org/I36258959"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Ilkay Altintas",
+                    "raw_affiliation_strings": [
+                        "San Diego Supercomputer Center University of California San Diego, La Jolla, CA, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "San Diego Supercomputer Center University of California San Diego, La Jolla, CA, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I181653535",
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5084699643",
+                "https://openalex.org/A5090602985",
+                "https://openalex.org/A5002534857",
+                "https://openalex.org/A5028701796"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I36258959",
+                "https://openalex.org/I36258959",
+                "https://openalex.org/I36258959",
+                "https://openalex.org/I181653535",
+                "https://openalex.org/I181653535",
+                "https://openalex.org/I36258959"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.447,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 25,
+            "citation_normalized_percentile": {
+                "value": 0.845624,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 92,
+                "max": 93
+            },
+            "biblio": {
+                "volume": "108",
+                "issue": null,
+                "first_page": "1572",
+                "last_page": "1581"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10555",
+                "display_name": "Impact of Climate Change on Forest Wildfires",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2306",
+                    "display_name": "Global and Planetary Change"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10555",
+                    "display_name": "Impact of Climate Change on Forest Wildfires",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10535",
+                    "display_name": "Landslide Hazards and Risk Assessment",
+                    "score": 0.9976,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2308",
+                        "display_name": "Management, Monitoring, Policy and Law"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/ensemble-kalman-filter",
+                    "display_name": "Ensemble Kalman Filter",
+                    "score": 0.592681
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-assimilation",
+                    "display_name": "Data Assimilation",
+                    "score": 0.532284
+                },
+                {
+                    "id": "https://openalex.org/keywords/assimilation",
+                    "display_name": "Assimilation (phonology)",
+                    "score": 0.44024622
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24552861",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670177",
+                    "display_name": "Data assimilation",
+                    "level": 2,
+                    "score": 0.8614705
+                },
+                {
+                    "id": "https://openalex.org/C79334102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072268",
+                    "display_name": "Ensemble Kalman filter",
+                    "level": 4,
+                    "score": 0.7103676
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7022264
+                },
+                {
+                    "id": "https://openalex.org/C157286648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q846780",
+                    "display_name": "Kalman filter",
+                    "level": 2,
+                    "score": 0.66233397
+                },
+                {
+                    "id": "https://openalex.org/C18762648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42213",
+                    "display_name": "Work (physics)",
+                    "level": 2,
+                    "score": 0.47350127
+                },
+                {
+                    "id": "https://openalex.org/C75649859",
+                    "wikidata": "https://www.wikidata.org/wiki/Q148877",
+                    "display_name": "Assimilation (phonology)",
+                    "level": 2,
+                    "score": 0.44024622
+                },
+                {
+                    "id": "https://openalex.org/C39432304",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188847",
+                    "display_name": "Environmental science",
+                    "level": 0,
+                    "score": 0.4169485
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.40039808
+                },
+                {
+                    "id": "https://openalex.org/C206833254",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5421817",
+                    "display_name": "Extended Kalman filter",
+                    "level": 3,
+                    "score": 0.40009132
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.1982624
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.078330874
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C78519656",
+                    "wikidata": "https://www.wikidata.org/wiki/Q101333",
+                    "display_name": "Mechanical engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.197",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.197",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 21,
+            "referenced_works": [
+                "https://openalex.org/W1522319528",
+                "https://openalex.org/W1531419578",
+                "https://openalex.org/W1546878848",
+                "https://openalex.org/W1555798574",
+                "https://openalex.org/W1574538885",
+                "https://openalex.org/W1617879682",
+                "https://openalex.org/W1653720760",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W2093805255",
+                "https://openalex.org/W2113769878",
+                "https://openalex.org/W2119007379",
+                "https://openalex.org/W2122801340",
+                "https://openalex.org/W2131286733",
+                "https://openalex.org/W2131579983",
+                "https://openalex.org/W2158595370",
+                "https://openalex.org/W2162886934",
+                "https://openalex.org/W2163324173",
+                "https://openalex.org/W2503637667",
+                "https://openalex.org/W3125718666",
+                "https://openalex.org/W37217007",
+                "https://openalex.org/W871842247"
+            ],
+            "related_works": [
+                "https://openalex.org/W4212971657",
+                "https://openalex.org/W2991541038",
+                "https://openalex.org/W2525014937",
+                "https://openalex.org/W2393565244",
+                "https://openalex.org/W2377052976",
+                "https://openalex.org/W2363380593",
+                "https://openalex.org/W2089385108",
+                "https://openalex.org/W2039176626",
+                "https://openalex.org/W1996382496",
+                "https://openalex.org/W1949985943"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "shows": [
+                    2
+                ],
+                "the": [
+                    3,
+                    6,
+                    27,
+                    37,
+                    55,
+                    85,
+                    89,
+                    104,
+                    115,
+                    134
+                ],
+                "extension": [
+                    4
+                ],
+                "of": [
+                    5,
+                    29,
+                    41,
+                    57,
+                    67,
+                    103,
+                    133
+                ],
+                "wildfire": [
+                    7,
+                    30,
+                    112
+                ],
+                "simulation": [
+                    8,
+                    113
+                ],
+                "tool": [
+                    9
+                ],
+                "FARSITE": [
+                    10
+                ],
+                "to": [
+                    11,
+                    25
+                ],
+                "allow": [
+                    12
+                ],
+                "for": [
+                    13,
+                    59
+                ],
+                "data": [
+                    14,
+                    106
+                ],
+                "assimilation": [
+                    15,
+                    65,
+                    107
+                ],
+                "capabilities": [
+                    16
+                ],
+                "on": [
+                    17,
+                    88,
+                    110,
+                    126
+                ],
+                "both": [
+                    18,
+                    68
+                ],
+                "fire": [
+                    19,
+                    34,
+                    69,
+                    91,
+                    99,
+                    135
+                ],
+                "perimeters": [
+                    20,
+                    35,
+                    70
+                ],
+                "and": [
+                    21,
+                    71,
+                    96,
+                    128
+                ],
+                "fuel": [
+                    22,
+                    44,
+                    48,
+                    61,
+                    72,
+                    93,
+                    122
+                ],
+                "adjustment": [
+                    23,
+                    45,
+                    73,
+                    94,
+                    123
+                ],
+                "factors": [
+                    24,
+                    46,
+                    74,
+                    95,
+                    124
+                ],
+                "improve": [
+                    26
+                ],
+                "accuracy": [
+                    28
+                ],
+                "spread": [
+                    31,
+                    58
+                ],
+                "predictions.": [
+                    32
+                ],
+                "While": [
+                    33
+                ],
+                "characterize": [
+                    36
+                ],
+                "overall": [
+                    38
+                ],
+                "burn": [
+                    39
+                ],
+                "scar": [
+                    40
+                ],
+                "a": [
+                    42,
+                    97,
+                    111
+                ],
+                "wildfire,": [
+                    43
+                ],
+                "are": [
+                    47,
+                    75
+                ],
+                "model": [
+                    49
+                ],
+                "specific": [
+                    50
+                ],
+                "calibration": [
+                    51
+                ],
+                "numbers": [
+                    52
+                ],
+                "that": [
+                    53,
+                    83
+                ],
+                "adjust": [
+                    54
+                ],
+                "rate": [
+                    56
+                ],
+                "each": [
+                    60
+                ],
+                "type": [
+                    62
+                ],
+                "independently.": [
+                    63
+                ],
+                "Data": [
+                    64
+                ],
+                "updates": [
+                    66
+                ],
+                "calculated": [
+                    76
+                ],
+                "from": [
+                    77
+                ],
+                "an": [
+                    78
+                ],
+                "Ensemble": [
+                    79
+                ],
+                "Kalman": [
+                    80
+                ],
+                "Filter": [
+                    81
+                ],
+                "(EnKF)": [
+                    82
+                ],
+                "exploits": [
+                    84
+                ],
+                "uncertainty": [
+                    86
+                ],
+                "information": [
+                    87
+                ],
+                "simulated": [
+                    90
+                ],
+                "perimeter,": [
+                    92
+                ],
+                "measured": [
+                    98
+                ],
+                "perimeter.": [
+                    100,
+                    136
+                ],
+                "The": [
+                    101
+                ],
+                "effectiveness": [
+                    102
+                ],
+                "proposed": [
+                    105
+                ],
+                "is": [
+                    108
+                ],
+                "illustrated": [
+                    109
+                ],
+                "representing": [
+                    114
+                ],
+                "2014": [
+                    116
+                ],
+                "Cocos": [
+                    117
+                ],
+                "fire,": [
+                    118
+                ],
+                "tracking": [
+                    119
+                ],
+                "time": [
+                    120
+                ],
+                "varying": [
+                    121
+                ],
+                "based": [
+                    125
+                ],
+                "noisy": [
+                    127
+                ],
+                "limited": [
+                    129
+                ],
+                "spatial": [
+                    130
+                ],
+                "resolution": [
+                    131
+                ],
+                "observations": [
+                    132
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2623898072",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-26T07:38:47.432091",
+            "created_date": "2017-06-15"
+        },
+        {
+            "id": "https://openalex.org/W2605692817",
+            "doi": "https://doi.org/10.1016/j.conengprac.2017.03.005",
+            "title": "Ensemble-based simultaneous input and state estimation for nonlinear dynamic systems with application to wildfire data assimilation",
+            "display_name": "Ensemble-based simultaneous input and state estimation for nonlinear dynamic systems with application to wildfire data assimilation",
+            "publication_year": 2017,
+            "publication_date": "2017-04-20",
+            "ids": {
+                "openalex": "https://openalex.org/W2605692817",
+                "doi": "https://doi.org/10.1016/j.conengprac.2017.03.005",
+                "mag": "2605692817"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.conengprac.2017.03.005",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S105928092",
+                    "display_name": "Control Engineering Practice",
+                    "issn_l": "0967-0661",
+                    "issn": [
+                        "0967-0661",
+                        "1873-6939"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5049358578",
+                        "display_name": "Huazhen Fang",
+                        "orcid": "https://orcid.org/0000-0003-4759-1672"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I146416000",
+                            "display_name": "University of Kansas",
+                            "ror": "https://ror.org/001tmjg57",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I146416000"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Huazhen Fang",
+                    "raw_affiliation_strings": [
+                        "Department of Mechanical Engineering, University of Kansas, Lawrence, KS 66045, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Mechanical Engineering, University of Kansas, Lawrence, KS 66045, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I146416000"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5084699643",
+                        "display_name": "Thayjes Srivas",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Thayjes Srivas",
+                    "raw_affiliation_strings": [
+                        "Department of Mechanical & Aerospace Engineering, University of California, San Diego, La Jolla, CA 92093, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Mechanical & Aerospace Engineering, University of California, San Diego, La Jolla, CA 92093, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5090602985",
+                        "display_name": "Raymond A. de Callafon",
+                        "orcid": "https://orcid.org/0000-0003-3426-0161"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raymond A. de Callafon",
+                    "raw_affiliation_strings": [
+                        "Department of Mechanical & Aerospace Engineering, University of California, San Diego, La Jolla, CA 92093, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Mechanical & Aerospace Engineering, University of California, San Diego, La Jolla, CA 92093, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5029030150",
+                        "display_name": "Mulugeta Haile",
+                        "orcid": "https://orcid.org/0000-0002-3038-9155"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I166416128",
+                            "display_name": "DEVCOM Army Research Laboratory",
+                            "ror": "https://ror.org/011hc8f90",
+                            "country_code": "US",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I1304082316",
+                                "https://openalex.org/I1330347796",
+                                "https://openalex.org/I166416128",
+                                "https://openalex.org/I2802705668",
+                                "https://openalex.org/I4210088792",
+                                "https://openalex.org/I4210154437"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mulugeta A. Haile",
+                    "raw_affiliation_strings": [
+                        "Vehicle Technology Directorate, US Army Research Laboratory, Aberdeen, MD 21005, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Vehicle Technology Directorate, US Army Research Laboratory, Aberdeen, MD 21005, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I166416128"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5049358578"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I146416000"
+            ],
+            "apc_list": {
+                "value": 3070,
+                "currency": "USD",
+                "value_usd": 3070,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 1.391,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 22,
+            "citation_normalized_percentile": {
+                "value": 0.851182,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 91,
+                "max": 92
+            },
+            "biblio": {
+                "volume": "63",
+                "issue": null,
+                "first_page": "104",
+                "last_page": "115"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10466",
+                "display_name": "Numerical Weather Prediction Models",
+                "score": 0.9979,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1902",
+                    "display_name": "Atmospheric Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9979,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10029",
+                    "display_name": "Climate Change and Variability Research",
+                    "score": 0.9861,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10266",
+                    "display_name": "Global Forest Drought Response and Climate Change",
+                    "score": 0.9842,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/smoothing",
+                    "display_name": "Smoothing",
+                    "score": 0.54674053
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-assimilation",
+                    "display_name": "Data Assimilation",
+                    "score": 0.517606
+                },
+                {
+                    "id": "https://openalex.org/keywords/ensemble-kalman-filter",
+                    "display_name": "Ensemble Kalman Filter",
+                    "score": 0.51508
+                },
+                {
+                    "id": "https://openalex.org/keywords/state-variable",
+                    "display_name": "State variable",
+                    "score": 0.45882037
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24552861",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670177",
+                    "display_name": "Data assimilation",
+                    "level": 2,
+                    "score": 0.7426622
+                },
+                {
+                    "id": "https://openalex.org/C157286648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q846780",
+                    "display_name": "Kalman filter",
+                    "level": 2,
+                    "score": 0.678933
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.62468827
+                },
+                {
+                    "id": "https://openalex.org/C79334102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072268",
+                    "display_name": "Ensemble Kalman filter",
+                    "level": 4,
+                    "score": 0.59248996
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.57139105
+                },
+                {
+                    "id": "https://openalex.org/C3770464",
+                    "wikidata": "https://www.wikidata.org/wiki/Q775963",
+                    "display_name": "Smoothing",
+                    "level": 2,
+                    "score": 0.54674053
+                },
+                {
+                    "id": "https://openalex.org/C107673813",
+                    "wikidata": "https://www.wikidata.org/wiki/Q812534",
+                    "display_name": "Bayesian probability",
+                    "level": 2,
+                    "score": 0.49859643
+                },
+                {
+                    "id": "https://openalex.org/C52421305",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1151499",
+                    "display_name": "Particle filter",
+                    "level": 3,
+                    "score": 0.4750609
+                },
+                {
+                    "id": "https://openalex.org/C129537906",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7603913",
+                    "display_name": "State variable",
+                    "level": 2,
+                    "score": 0.45882037
+                },
+                {
+                    "id": "https://openalex.org/C106131492",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072260",
+                    "display_name": "Filter (signal processing)",
+                    "level": 2,
+                    "score": 0.42096663
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.4171776
+                },
+                {
+                    "id": "https://openalex.org/C206833254",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5421817",
+                    "display_name": "Extended Kalman filter",
+                    "level": 3,
+                    "score": 0.37795582
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.3734696
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.343471
+                },
+                {
+                    "id": "https://openalex.org/C47446073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5165890",
+                    "display_name": "Control theory (sociology)",
+                    "level": 3,
+                    "score": 0.33382425
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.2993474
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.26897198
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2775924081",
+                    "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+                    "display_name": "Control (management)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.conengprac.2017.03.005",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S105928092",
+                        "display_name": "Control Engineering Practice",
+                        "issn_l": "0967-0661",
+                        "issn": [
+                            "0967-0661",
+                            "1873-6939"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "score": 0.57,
+                    "display_name": "Affordable and clean energy",
+                    "id": "https://metadata.un.org/sdg/7"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 67,
+            "referenced_works": [
+                "https://openalex.org/W101124278",
+                "https://openalex.org/W1513008779",
+                "https://openalex.org/W1522319528",
+                "https://openalex.org/W1525941546",
+                "https://openalex.org/W1531419578",
+                "https://openalex.org/W1542912205",
+                "https://openalex.org/W1555798574",
+                "https://openalex.org/W1571231739",
+                "https://openalex.org/W1584623820",
+                "https://openalex.org/W1587348082",
+                "https://openalex.org/W1921511217",
+                "https://openalex.org/W1970227820",
+                "https://openalex.org/W1976552644",
+                "https://openalex.org/W197987057",
+                "https://openalex.org/W1980864082",
+                "https://openalex.org/W1990438944",
+                "https://openalex.org/W2001818647",
+                "https://openalex.org/W2005318276",
+                "https://openalex.org/W2007384560",
+                "https://openalex.org/W2007459995",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W2013133952",
+                "https://openalex.org/W2016026577",
+                "https://openalex.org/W2036988922",
+                "https://openalex.org/W2049789198",
+                "https://openalex.org/W2051635647",
+                "https://openalex.org/W2056870323",
+                "https://openalex.org/W2057288362",
+                "https://openalex.org/W2057798714",
+                "https://openalex.org/W2062505545",
+                "https://openalex.org/W2064286311",
+                "https://openalex.org/W2064815138",
+                "https://openalex.org/W2070913611",
+                "https://openalex.org/W2083093485",
+                "https://openalex.org/W2088578412",
+                "https://openalex.org/W2098115494",
+                "https://openalex.org/W2099371695",
+                "https://openalex.org/W2111248943",
+                "https://openalex.org/W2113758277",
+                "https://openalex.org/W2113769878",
+                "https://openalex.org/W2120389216",
+                "https://openalex.org/W2120731138",
+                "https://openalex.org/W2125079402",
+                "https://openalex.org/W2126369440",
+                "https://openalex.org/W2135528721",
+                "https://openalex.org/W2138562316",
+                "https://openalex.org/W2140786825",
+                "https://openalex.org/W2141454563",
+                "https://openalex.org/W2142089368",
+                "https://openalex.org/W2150003528",
+                "https://openalex.org/W2157098139",
+                "https://openalex.org/W2160444846",
+                "https://openalex.org/W2162188693",
+                "https://openalex.org/W2162886934",
+                "https://openalex.org/W2163324173",
+                "https://openalex.org/W2163570113",
+                "https://openalex.org/W2168667129",
+                "https://openalex.org/W2291551472",
+                "https://openalex.org/W2293807537",
+                "https://openalex.org/W3125718666",
+                "https://openalex.org/W3212637519",
+                "https://openalex.org/W37217007",
+                "https://openalex.org/W4212908912",
+                "https://openalex.org/W4302383442",
+                "https://openalex.org/W562014690",
+                "https://openalex.org/W635291686",
+                "https://openalex.org/W871842247"
+            ],
+            "related_works": [
+                "https://openalex.org/W4246354917",
+                "https://openalex.org/W4212971657",
+                "https://openalex.org/W2991541038",
+                "https://openalex.org/W2613759229",
+                "https://openalex.org/W2393565244",
+                "https://openalex.org/W2377052976",
+                "https://openalex.org/W2363380593",
+                "https://openalex.org/W2089385108",
+                "https://openalex.org/W1996382496",
+                "https://openalex.org/W1949985943"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "a": [
+                    3,
+                    19,
+                    45,
+                    55,
+                    62,
+                    75
+                ],
+                "study": [
+                    4
+                ],
+                "of": [
+                    5,
+                    48,
+                    64,
+                    89,
+                    102,
+                    111,
+                    129,
+                    150,
+                    187
+                ],
+                "simultaneous": [
+                    6,
+                    25
+                ],
+                "input": [
+                    7,
+                    26,
+                    37,
+                    92,
+                    119,
+                    205
+                ],
+                "and": [
+                    8,
+                    22,
+                    27,
+                    38,
+                    70,
+                    93,
+                    115,
+                    120
+                ],
+                "state": [
+                    9,
+                    28,
+                    39,
+                    94,
+                    121,
+                    140,
+                    162
+                ],
+                "estimation": [
+                    10,
+                    163
+                ],
+                "for": [
+                    11,
+                    67,
+                    160
+                ],
+                "nonlinear": [
+                    12,
+                    138
+                ],
+                "dynamic": [
+                    13,
+                    139
+                ],
+                "systems,": [
+                    14
+                ],
+                "which": [
+                    15,
+                    157
+                ],
+                "is": [
+                    16,
+                    82,
+                    158,
+                    176,
+                    190
+                ],
+                "formulated": [
+                    17
+                ],
+                "as": [
+                    18,
+                    147,
+                    203
+                ],
+                "filtering": [
+                    20,
+                    29,
+                    69
+                ],
+                "problem": [
+                    21,
+                    33
+                ],
+                "defining": [
+                    23
+                ],
+                "the": [
+                    24,
+                    42,
+                    60,
+                    86,
+                    90,
+                    105,
+                    109,
+                    112,
+                    118,
+                    124,
+                    130,
+                    151,
+                    167,
+                    179,
+                    188,
+                    207
+                ],
+                "(SISF)": [
+                    30
+                ],
+                "approach.": [
+                    31
+                ],
+                "The": [
+                    32,
+                    79,
+                    126,
+                    142,
+                    172
+                ],
+                "considers": [
+                    34
+                ],
+                "both": [
+                    35,
+                    68
+                ],
+                "unknown": [
+                    36,
+                    49,
+                    91
+                ],
+                "variables,": [
+                    40
+                ],
+                "where": [
+                    41,
+                    197
+                ],
+                "inputs": [
+                    43
+                ],
+                "offer": [
+                    44
+                ],
+                "general": [
+                    46
+                ],
+                "description": [
+                    47
+                ],
+                "signals": [
+                    50
+                ],
+                "driving": [
+                    51,
+                    206
+                ],
+                "or": [
+                    52
+                ],
+                "existing": [
+                    53
+                ],
+                "in": [
+                    54,
+                    74
+                ],
+                "system.": [
+                    56
+                ],
+                "To": [
+                    57
+                ],
+                "deal": [
+                    58
+                ],
+                "with": [
+                    59
+                ],
+                "problem,": [
+                    61
+                ],
+                "set": [
+                    63
+                ],
+                "ensemble-based": [
+                    65
+                ],
+                "approaches": [
+                    66
+                ],
+                "smoothing": [
+                    71
+                ],
+                "are": [
+                    72,
+                    209
+                ],
+                "developed": [
+                    73
+                ],
+                "Bayesian": [
+                    76
+                ],
+                "statistical": [
+                    77
+                ],
+                "framework.": [
+                    78
+                ],
+                "fundamental": [
+                    80
+                ],
+                "notion": [
+                    81
+                ],
+                "to": [
+                    83,
+                    107,
+                    166
+                ],
+                "approximately": [
+                    84
+                ],
+                "represent": [
+                    85
+                ],
+                "probability": [
+                    87,
+                    113
+                ],
+                "distributions": [
+                    88
+                ],
+                "variables": [
+                    95
+                ],
+                "conditioned": [
+                    96
+                ],
+                "on": [
+                    97,
+                    170,
+                    178,
+                    192
+                ],
+                "output": [
+                    98
+                ],
+                "measurements": [
+                    99
+                ],
+                "by": [
+                    100,
+                    136,
+                    164
+                ],
+                "ensembles": [
+                    101,
+                    106
+                ],
+                "samples,": [
+                    103
+                ],
+                "propagate": [
+                    104
+                ],
+                "track": [
+                    108
+                ],
+                "evolution": [
+                    110
+                ],
+                "distributions,": [
+                    114
+                ],
+                "then": [
+                    116
+                ],
+                "extract": [
+                    117
+                ],
+                "estimates": [
+                    122
+                ],
+                "from": [
+                    123
+                ],
+                "ensembles.": [
+                    125
+                ],
+                "computational": [
+                    127
+                ],
+                "efficiency": [
+                    128
+                ],
+                "proposed": [
+                    131,
+                    173
+                ],
+                "method": [
+                    132
+                ],
+                "allows": [
+                    133
+                ],
+                "application": [
+                    134
+                ],
+                "characterized": [
+                    135
+                ],
+                "high-dimensional": [
+                    137
+                ],
+                "representations.": [
+                    141
+                ],
+                "results": [
+                    143
+                ],
+                "can": [
+                    144
+                ],
+                "be": [
+                    145
+                ],
+                "regarded": [
+                    146
+                ],
+                "an": [
+                    148,
+                    184,
+                    204
+                ],
+                "extension": [
+                    149
+                ],
+                "celebrated": [
+                    152
+                ],
+                "ensemble": [
+                    153
+                ],
+                "Kalman": [
+                    154
+                ],
+                "filter": [
+                    155
+                ],
+                "(EnKF),": [
+                    156
+                ],
+                "intended": [
+                    159
+                ],
+                "only": [
+                    161
+                ],
+                "design,": [
+                    165
+                ],
+                "new": [
+                    168
+                ],
+                "inquiry": [
+                    169
+                ],
+                "SISF.": [
+                    171,
+                    212
+                ],
+                "SISF": [
+                    174
+                ],
+                "approach": [
+                    175
+                ],
+                "validated": [
+                    177
+                ],
+                "forty-dimension": [
+                    180
+                ],
+                "Lorenz'96": [
+                    181
+                ],
+                "model.": [
+                    182
+                ],
+                "Furthermore,": [
+                    183
+                ],
+                "elaborate": [
+                    185
+                ],
+                "demonstration": [
+                    186
+                ],
+                "effectiveness": [
+                    189
+                ],
+                "illustrated": [
+                    191
+                ],
+                "data-driven": [
+                    193
+                ],
+                "wildfire": [
+                    194,
+                    208
+                ],
+                "data": [
+                    195
+                ],
+                "assimilation,": [
+                    196
+                ],
+                "uncertain": [
+                    198
+                ],
+                "wind": [
+                    199
+                ],
+                "conditions": [
+                    200
+                ],
+                "that": [
+                    201
+                ],
+                "act": [
+                    202
+                ],
+                "estimated": [
+                    210
+                ],
+                "using": [
+                    211
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2605692817",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 6
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-17T19:05:10.134222",
+            "created_date": "2017-04-28"
+        }
+    ],
+    "group_by": []
+}

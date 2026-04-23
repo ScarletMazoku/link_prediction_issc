@@ -1,0 +1,5692 @@
+{
+    "meta": {
+        "count": 6,
+        "db_response_time_ms": 47,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2405855321",
+            "doi": "https://doi.org/10.1016/j.parco.2016.05.014",
+            "title": "Parallel iterative refinement linear least squares solvers based on all-reduce operations",
+            "display_name": "Parallel iterative refinement linear least squares solvers based on all-reduce operations",
+            "publication_year": 2016,
+            "publication_date": "2016-05-27",
+            "ids": {
+                "openalex": "https://openalex.org/W2405855321",
+                "doi": "https://doi.org/10.1016/j.parco.2016.05.014",
+                "mag": "2405855321"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.parco.2016.05.014",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S112708030",
+                    "display_name": "Parallel Computing",
+                    "issn_l": "0167-8191",
+                    "issn": [
+                        "0167-8191",
+                        "1872-7336"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5029233788",
+                        "display_name": "Karl E. Prikopa",
+                        "orcid": "https://orcid.org/0000-0002-3681-9339"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Karl E. Prikopa",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5021065276",
+                        "display_name": "Wilfried N. Gansterer",
+                        "orcid": "https://orcid.org/0000-0001-5170-1251"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Wilfried N. Gansterer",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5020491580",
+                        "display_name": "Elias Wimmer",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Elias Wimmer",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5021065276"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I129774422"
+            ],
+            "apc_list": {
+                "value": 2680,
+                "currency": "USD",
+                "value_usd": 2680,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.506,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 12,
+            "citation_normalized_percentile": {
+                "value": 0.881974,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 88,
+                "max": 89
+            },
+            "biblio": {
+                "volume": "57",
+                "issue": null,
+                "first_page": "167",
+                "last_page": "184"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10792",
+                "display_name": "Matrix Algorithms and Iterative Methods",
+                "score": 0.9995,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1703",
+                    "display_name": "Computational Theory and Mathematics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10963",
+                    "display_name": "Numerical Optimization Techniques",
+                    "score": 0.9792,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2612",
+                        "display_name": "Numerical Analysis"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9792,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/iterative-refinement",
+                    "display_name": "Iterative refinement",
+                    "score": 0.8213494
+                },
+                {
+                    "id": "https://openalex.org/keywords/overdetermined-system",
+                    "display_name": "Overdetermined system",
+                    "score": 0.8086902
+                },
+                {
+                    "id": "https://openalex.org/keywords/qr-decomposition",
+                    "display_name": "QR decomposition",
+                    "score": 0.6403139
+                },
+                {
+                    "id": "https://openalex.org/keywords/iterative-methods",
+                    "display_name": "Iterative Methods",
+                    "score": 0.559525
+                },
+                {
+                    "id": "https://openalex.org/keywords/sparse-linear-systems",
+                    "display_name": "Sparse Linear Systems",
+                    "score": 0.557685
+                },
+                {
+                    "id": "https://openalex.org/keywords/mixed-integer-nonlinear-programs",
+                    "display_name": "Mixed-Integer Nonlinear Programs",
+                    "score": 0.542349
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.533147
+                },
+                {
+                    "id": "https://openalex.org/keywords/nonlinear-programming",
+                    "display_name": "Nonlinear Programming",
+                    "score": 0.510165
+                },
+                {
+                    "id": "https://openalex.org/keywords/least-squares-function-approximation",
+                    "display_name": "Least-squares function approximation",
+                    "score": 0.43772116
+                },
+                {
+                    "id": "https://openalex.org/keywords/linear-equation",
+                    "display_name": "Linear equation",
+                    "score": 0.42351484
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2779982483",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6094420",
+                    "display_name": "Iterative refinement",
+                    "level": 2,
+                    "score": 0.8213494
+                },
+                {
+                    "id": "https://openalex.org/C81901731",
+                    "wikidata": "https://www.wikidata.org/wiki/Q331348",
+                    "display_name": "Overdetermined system",
+                    "level": 2,
+                    "score": 0.8086902
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.71355927
+                },
+                {
+                    "id": "https://openalex.org/C188060507",
+                    "wikidata": "https://www.wikidata.org/wiki/Q653242",
+                    "display_name": "QR decomposition",
+                    "level": 3,
+                    "score": 0.6403139
+                },
+                {
+                    "id": "https://openalex.org/C159694833",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+                    "display_name": "Iterative method",
+                    "level": 2,
+                    "score": 0.6305967
+                },
+                {
+                    "id": "https://openalex.org/C6802819",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1072174",
+                    "display_name": "Linear system",
+                    "level": 2,
+                    "score": 0.58614767
+                },
+                {
+                    "id": "https://openalex.org/C2779343474",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+                    "display_name": "Context (archaeology)",
+                    "level": 2,
+                    "score": 0.5776801
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5712771
+                },
+                {
+                    "id": "https://openalex.org/C58663186",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6553462",
+                    "display_name": "Linear least squares",
+                    "level": 3,
+                    "score": 0.53790694
+                },
+                {
+                    "id": "https://openalex.org/C187834632",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188804",
+                    "display_name": "Factorization",
+                    "level": 2,
+                    "score": 0.49654633
+                },
+                {
+                    "id": "https://openalex.org/C94523830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11203",
+                    "display_name": "System of linear equations",
+                    "level": 2,
+                    "score": 0.47815308
+                },
+                {
+                    "id": "https://openalex.org/C9936470",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6510405",
+                    "display_name": "Least-squares function approximation",
+                    "level": 3,
+                    "score": 0.43772116
+                },
+                {
+                    "id": "https://openalex.org/C77346573",
+                    "wikidata": "https://www.wikidata.org/wiki/Q484637",
+                    "display_name": "Linear equation",
+                    "level": 2,
+                    "score": 0.42351484
+                },
+                {
+                    "id": "https://openalex.org/C120373497",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1087987",
+                    "display_name": "Parallel algorithm",
+                    "level": 2,
+                    "score": 0.4102052
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.40696004
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.40606272
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.3988948
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.2738946
+                },
+                {
+                    "id": "https://openalex.org/C158693339",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190524",
+                    "display_name": "Eigenvalues and eigenvectors",
+                    "level": 2,
+                    "score": 0.11306569
+                },
+                {
+                    "id": "https://openalex.org/C185429906",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1130160",
+                    "display_name": "Estimator",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C151730666",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7205",
+                    "display_name": "Paleontology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C22789450",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420904",
+                    "display_name": "Singular value decomposition",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.parco.2016.05.014",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S112708030",
+                        "display_name": "Parallel Computing",
+                        "issn_l": "0167-8191",
+                        "issn": [
+                            "0167-8191",
+                            "1872-7336"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 40,
+            "referenced_works": [
+                "https://openalex.org/W1576147600",
+                "https://openalex.org/W1796058793",
+                "https://openalex.org/W1986858853",
+                "https://openalex.org/W1988201922",
+                "https://openalex.org/W2010315317",
+                "https://openalex.org/W2016182223",
+                "https://openalex.org/W2016279572",
+                "https://openalex.org/W2018192914",
+                "https://openalex.org/W2032052535",
+                "https://openalex.org/W2044752722",
+                "https://openalex.org/W2073677307",
+                "https://openalex.org/W2078126355",
+                "https://openalex.org/W2095597068",
+                "https://openalex.org/W2102069044",
+                "https://openalex.org/W2109828727",
+                "https://openalex.org/W2111593426",
+                "https://openalex.org/W2119623923",
+                "https://openalex.org/W2124661136",
+                "https://openalex.org/W2130842379",
+                "https://openalex.org/W2131613942",
+                "https://openalex.org/W2132292023",
+                "https://openalex.org/W2140206057",
+                "https://openalex.org/W2143092196",
+                "https://openalex.org/W2145032215",
+                "https://openalex.org/W2154641788",
+                "https://openalex.org/W2157237396",
+                "https://openalex.org/W2160827399",
+                "https://openalex.org/W2166627125",
+                "https://openalex.org/W2168612748",
+                "https://openalex.org/W2171404670",
+                "https://openalex.org/W2950745813",
+                "https://openalex.org/W308560790",
+                "https://openalex.org/W4206535609",
+                "https://openalex.org/W4230108662",
+                "https://openalex.org/W4233049725",
+                "https://openalex.org/W4248520246",
+                "https://openalex.org/W4300421229",
+                "https://openalex.org/W4302564868",
+                "https://openalex.org/W626464944",
+                "https://openalex.org/W94439627"
+            ],
+            "related_works": [
+                "https://openalex.org/W4388254714",
+                "https://openalex.org/W4382519919",
+                "https://openalex.org/W4224254018",
+                "https://openalex.org/W2800623701",
+                "https://openalex.org/W2145045474",
+                "https://openalex.org/W2109828727",
+                "https://openalex.org/W2046580780",
+                "https://openalex.org/W2013383295",
+                "https://openalex.org/W2001929360",
+                "https://openalex.org/W1988771669"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    70,
+                    87,
+                    138
+                ],
+                "present": [
+                    1
+                ],
+                "the": [
+                    2,
+                    26,
+                    32,
+                    51,
+                    62,
+                    81,
+                    85,
+                    92,
+                    97,
+                    100,
+                    108,
+                    122,
+                    130,
+                    140,
+                    156,
+                    163
+                ],
+                "novel": [
+                    3
+                ],
+                "parallel": [
+                    4,
+                    33,
+                    82,
+                    136,
+                    149
+                ],
+                "linear": [
+                    5,
+                    15
+                ],
+                "least": [
+                    6
+                ],
+                "squares": [
+                    7
+                ],
+                "solvers": [
+                    8,
+                    23,
+                    197
+                ],
+                "ARPLS-IR": [
+                    9,
+                    144
+                ],
+                "and": [
+                    10,
+                    35,
+                    102,
+                    145,
+                    192
+                ],
+                "ARPLS-MPIR": [
+                    11,
+                    146
+                ],
+                "for": [
+                    12,
+                    189
+                ],
+                "dense": [
+                    13
+                ],
+                "overdetermined": [
+                    14
+                ],
+                "systems.": [
+                    16
+                ],
+                "All": [
+                    17
+                ],
+                "internode": [
+                    18
+                ],
+                "communication": [
+                    19,
+                    164
+                ],
+                "of": [
+                    20,
+                    28,
+                    43,
+                    84,
+                    91,
+                    99,
+                    110,
+                    143
+                ],
+                "our": [
+                    21
+                ],
+                "ARPLS": [
+                    22,
+                    93
+                ],
+                "arises": [
+                    24
+                ],
+                "in": [
+                    25,
+                    56,
+                    76,
+                    103
+                ],
+                "context": [
+                    27,
+                    105
+                ],
+                "all-reduce": [
+                    29
+                ],
+                "operations": [
+                    30
+                ],
+                "across": [
+                    31
+                ],
+                "system": [
+                    34
+                ],
+                "therefore": [
+                    36
+                ],
+                "they": [
+                    37
+                ],
+                "benefit": [
+                    38
+                ],
+                "directly": [
+                    39
+                ],
+                "from": [
+                    40,
+                    198
+                ],
+                "efficient": [
+                    41
+                ],
+                "implementations": [
+                    42
+                ],
+                "such": [
+                    44
+                ],
+                "operations.": [
+                    45
+                ],
+                "Our": [
+                    46
+                ],
+                "approach": [
+                    47,
+                    168
+                ],
+                "is": [
+                    48,
+                    64
+                ],
+                "based": [
+                    49,
+                    151,
+                    169
+                ],
+                "on": [
+                    50,
+                    96,
+                    152,
+                    170,
+                    176,
+                    186
+                ],
+                "semi-normal": [
+                    52,
+                    123
+                ],
+                "equations,": [
+                    53
+                ],
+                "which": [
+                    54
+                ],
+                "are": [
+                    55
+                ],
+                "general": [
+                    57
+                ],
+                "not": [
+                    58
+                ],
+                "backward": [
+                    59
+                ],
+                "stable.": [
+                    60
+                ],
+                "However,": [
+                    61
+                ],
+                "method": [
+                    63,
+                    109
+                ],
+                "stabilised": [
+                    65
+                ],
+                "by": [
+                    66
+                ],
+                "using": [
+                    67
+                ],
+                "iterative": [
+                    68,
+                    74,
+                    114,
+                    127
+                ],
+                "refinement.": [
+                    69,
+                    115
+                ],
+                "show": [
+                    71
+                ],
+                "that": [
+                    72,
+                    121
+                ],
+                "performing": [
+                    73
+                ],
+                "refinement": [
+                    75,
+                    128
+                ],
+                "mixed": [
+                    77
+                ],
+                "precision": [
+                    78
+                ],
+                "also": [
+                    79,
+                    106
+                ],
+                "increases": [
+                    80
+                ],
+                "performance": [
+                    83,
+                    179
+                ],
+                "algorithm.": [
+                    86
+                ],
+                "consider": [
+                    88
+                ],
+                "different": [
+                    89
+                ],
+                "variants": [
+                    90
+                ],
+                "algorithm": [
+                    94
+                ],
+                "depending": [
+                    95
+                ],
+                "conditioning": [
+                    98
+                ],
+                "problem": [
+                    101
+                ],
+                "this": [
+                    104
+                ],
+                "evaluate": [
+                    107
+                ],
+                "normal": [
+                    111,
+                    157
+                ],
+                "equations": [
+                    112,
+                    124
+                ],
+                "with": [
+                    113,
+                    125
+                ],
+                "For": [
+                    116
+                ],
+                "ill-conditioned": [
+                    117,
+                    190
+                ],
+                "systems,": [
+                    118
+                ],
+                "we": [
+                    119,
+                    160
+                ],
+                "demonstrate": [
+                    120
+                ],
+                "standard": [
+                    126
+                ],
+                "achieve": [
+                    129
+                ],
+                "best": [
+                    131
+                ],
+                "accuracy": [
+                    132
+                ],
+                "compared": [
+                    133
+                ],
+                "to": [
+                    134,
+                    166,
+                    184
+                ],
+                "other": [
+                    135
+                ],
+                "solvers.": [
+                    137
+                ],
+                "discuss": [
+                    139
+                ],
+                "conceptual": [
+                    141
+                ],
+                "advantages": [
+                    142
+                ],
+                "over": [
+                    147,
+                    195
+                ],
+                "alternative": [
+                    148
+                ],
+                "approaches": [
+                    150
+                ],
+                "QR": [
+                    153,
+                    172
+                ],
+                "factorisation": [
+                    154
+                ],
+                "or": [
+                    155,
+                    200
+                ],
+                "equations.": [
+                    158
+                ],
+                "Moreover,": [
+                    159
+                ],
+                "analytically": [
+                    161
+                ],
+                "compare": [
+                    162
+                ],
+                "cost": [
+                    165
+                ],
+                "an": [
+                    167
+                ],
+                "communication-avoiding": [
+                    171
+                ],
+                "factorisation.": [
+                    173
+                ],
+                "Numerical": [
+                    174
+                ],
+                "experiments": [
+                    175
+                ],
+                "a": [
+                    177
+                ],
+                "high": [
+                    178
+                ],
+                "cluster": [
+                    180
+                ],
+                "illustrate": [
+                    181
+                ],
+                "speed-ups": [
+                    182
+                ],
+                "up": [
+                    183
+                ],
+                "3820": [
+                    185
+                ],
+                "2048": [
+                    187
+                ],
+                "cores": [
+                    188
+                ],
+                "tall": [
+                    191
+                ],
+                "skinny": [
+                    193
+                ],
+                "matrices": [
+                    194
+                ],
+                "state-of-the-art": [
+                    196
+                ],
+                "DPLASMA": [
+                    199
+                ],
+                "ScaLAPACK.": [
+                    201
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2405855321",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T04:00:43.035635",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2980136536",
+            "doi": "https://doi.org/10.1016/j.jpdc.2019.09.006",
+            "title": "Fault-tolerant least squares solvers for wireless sensor networks based on gossiping",
+            "display_name": "Fault-tolerant least squares solvers for wireless sensor networks based on gossiping",
+            "publication_year": 2019,
+            "publication_date": "2019-10-11",
+            "ids": {
+                "openalex": "https://openalex.org/W2980136536",
+                "doi": "https://doi.org/10.1016/j.jpdc.2019.09.006",
+                "mag": "2980136536"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.jpdc.2019.09.006",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S157146593",
+                    "display_name": "Journal of Parallel and Distributed Computing",
+                    "issn_l": "0743-7315",
+                    "issn": [
+                        "0743-7315",
+                        "1096-0848"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5029233788",
+                        "display_name": "Karl E. Prikopa",
+                        "orcid": "https://orcid.org/0000-0002-3681-9339"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Karl E. Prikopa",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5021065276",
+                        "display_name": "Wilfried N. Gansterer",
+                        "orcid": "https://orcid.org/0000-0001-5170-1251"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Wilfried N. Gansterer",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5021065276"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I129774422"
+            ],
+            "apc_list": {
+                "value": 3160,
+                "currency": "USD",
+                "value_usd": 3160,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.668,
+            "has_fulltext": false,
+            "cited_by_count": 6,
+            "citation_normalized_percentile": {
+                "value": 0.766683,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 83
+            },
+            "biblio": {
+                "volume": "136",
+                "issue": null,
+                "first_page": "52",
+                "last_page": "62"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11233",
+                "display_name": "Adaptive Filtering in Non-Gaussian Signal Processing",
+                "score": 0.9954,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11233",
+                    "display_name": "Adaptive Filtering in Non-Gaussian Signal Processing",
+                    "score": 0.9954,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10249",
+                    "display_name": "Distributed Multi-Agent Coordination and Control",
+                    "score": 0.9887,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12611",
+                    "display_name": "Photonic Reservoir Computing for Neural Computation",
+                    "score": 0.9806,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.5612637
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-optimization",
+                    "display_name": "Distributed Optimization",
+                    "score": 0.552899
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8567491
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.5612637
+                },
+                {
+                    "id": "https://openalex.org/C130120984",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2835898",
+                    "display_name": "Distributed algorithm",
+                    "level": 2,
+                    "score": 0.5354412
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.49502248
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.49251613
+                },
+                {
+                    "id": "https://openalex.org/C62611344",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1062658",
+                    "display_name": "Node (physics)",
+                    "level": 2,
+                    "score": 0.46245125
+                },
+                {
+                    "id": "https://openalex.org/C63540848",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3140932",
+                    "display_name": "Fault tolerance",
+                    "level": 2,
+                    "score": 0.4420938
+                },
+                {
+                    "id": "https://openalex.org/C159694833",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+                    "display_name": "Iterative method",
+                    "level": 2,
+                    "score": 0.43565345
+                },
+                {
+                    "id": "https://openalex.org/C555944384",
+                    "wikidata": "https://www.wikidata.org/wiki/Q249",
+                    "display_name": "Wireless",
+                    "level": 2,
+                    "score": 0.42772
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.jpdc.2019.09.006",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S157146593",
+                        "display_name": "Journal of Parallel and Distributed Computing",
+                        "issn_l": "0743-7315",
+                        "issn": [
+                            "0743-7315",
+                            "1096-0848"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320321003",
+                    "funder_display_name": "Vienna Science and Technology Fund",
+                    "award_id": "ICT15-113"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 34,
+            "referenced_works": [
+                "https://openalex.org/W1515174872",
+                "https://openalex.org/W1560700853",
+                "https://openalex.org/W1796058793",
+                "https://openalex.org/W1966287322",
+                "https://openalex.org/W1980448497",
+                "https://openalex.org/W1984051532",
+                "https://openalex.org/W1984977694",
+                "https://openalex.org/W1986858853",
+                "https://openalex.org/W2010315317",
+                "https://openalex.org/W2016182223",
+                "https://openalex.org/W2018192914",
+                "https://openalex.org/W2020804487",
+                "https://openalex.org/W2024307985",
+                "https://openalex.org/W2044752722",
+                "https://openalex.org/W2061771500",
+                "https://openalex.org/W2066332749",
+                "https://openalex.org/W2073677307",
+                "https://openalex.org/W2091734247",
+                "https://openalex.org/W2121820607",
+                "https://openalex.org/W2124432683",
+                "https://openalex.org/W2130359405",
+                "https://openalex.org/W2140206057",
+                "https://openalex.org/W2154834860",
+                "https://openalex.org/W2242288901",
+                "https://openalex.org/W2405855321",
+                "https://openalex.org/W2963157432",
+                "https://openalex.org/W3022909171",
+                "https://openalex.org/W308560790",
+                "https://openalex.org/W3150959508",
+                "https://openalex.org/W4233049725",
+                "https://openalex.org/W4300421229",
+                "https://openalex.org/W4302564868",
+                "https://openalex.org/W562372631",
+                "https://openalex.org/W630423399"
+            ],
+            "related_works": [
+                "https://openalex.org/W8322802",
+                "https://openalex.org/W68941528",
+                "https://openalex.org/W4255427455",
+                "https://openalex.org/W4206451355",
+                "https://openalex.org/W314331466",
+                "https://openalex.org/W3120490799",
+                "https://openalex.org/W3033593267",
+                "https://openalex.org/W2186864281",
+                "https://openalex.org/W2049545441",
+                "https://openalex.org/W1966025497"
+            ],
+            "abstract_inverted_index": {
+                "Many": [
+                    0
+                ],
+                "applications": [
+                    1
+                ],
+                "in": [
+                    2,
+                    92,
+                    196
+                ],
+                "large": [
+                    3
+                ],
+                "loosely": [
+                    4
+                ],
+                "connected": [
+                    5
+                ],
+                "distributed": [
+                    6,
+                    15,
+                    26,
+                    120,
+                    143,
+                    183,
+                    219
+                ],
+                "networks": [
+                    7
+                ],
+                "(such": [
+                    8
+                ],
+                "as": [
+                    9
+                ],
+                "wireless": [
+                    10
+                ],
+                "sensor": [
+                    11
+                ],
+                "networks)": [
+                    12
+                ],
+                "require": [
+                    13,
+                    29,
+                    42
+                ],
+                "the": [
+                    14,
+                    34,
+                    54,
+                    76,
+                    79,
+                    83,
+                    99,
+                    104,
+                    124,
+                    151,
+                    154,
+                    175,
+                    186,
+                    229
+                ],
+                "solution": [
+                    16
+                ],
+                "of": [
+                    17,
+                    67,
+                    72,
+                    126,
+                    178,
+                    212,
+                    231,
+                    250
+                ],
+                "linear": [
+                    18,
+                    61
+                ],
+                "least": [
+                    19,
+                    220
+                ],
+                "squares": [
+                    20,
+                    221
+                ],
+                "(dLLS)": [
+                    21
+                ],
+                "problems.": [
+                    22
+                ],
+                "Ideally,": [
+                    23
+                ],
+                "a": [
+                    24,
+                    43,
+                    116,
+                    147,
+                    200,
+                    207,
+                    239,
+                    247
+                ],
+                "truly": [
+                    25,
+                    182,
+                    218
+                ],
+                "algorithm": [
+                    27,
+                    118
+                ],
+                "should": [
+                    28
+                ],
+                "very": [
+                    30
+                ],
+                "little": [
+                    31
+                ],
+                "coordination": [
+                    32
+                ],
+                "between": [
+                    33,
+                    111
+                ],
+                "nodes.": [
+                    35
+                ],
+                "This": [
+                    36
+                ],
+                "favours": [
+                    37
+                ],
+                "algorithms": [
+                    38,
+                    141
+                ],
+                "which": [
+                    39,
+                    95,
+                    122,
+                    157
+                ],
+                "do": [
+                    40
+                ],
+                "not": [
+                    41,
+                    96
+                ],
+                "fusion": [
+                    44
+                ],
+                "centre,": [
+                    45
+                ],
+                "cluster": [
+                    46
+                ],
+                "heads": [
+                    47
+                ],
+                "or": [
+                    48,
+                    168
+                ],
+                "any": [
+                    49
+                ],
+                "multi-hop": [
+                    50
+                ],
+                "communication.": [
+                    51
+                ],
+                "We": [
+                    52,
+                    63,
+                    145,
+                    172,
+                    223
+                ],
+                "present": [
+                    53
+                ],
+                "novel": [
+                    55,
+                    69
+                ],
+                "dLLS": [
+                    56
+                ],
+                "solver": [
+                    57
+                ],
+                "GLS-IR": [
+                    58,
+                    134,
+                    179,
+                    213,
+                    236
+                ],
+                "for": [
+                    59,
+                    119,
+                    142
+                ],
+                "overdetermined": [
+                    60
+                ],
+                "systems.": [
+                    62
+                ],
+                "investigate": [
+                    64
+                ],
+                "two": [
+                    65
+                ],
+                "variants": [
+                    66
+                ],
+                "our": [
+                    68
+                ],
+                "solver,": [
+                    70
+                ],
+                "one": [
+                    71
+                ],
+                "them": [
+                    73
+                ],
+                "based": [
+                    74,
+                    81
+                ],
+                "on": [
+                    75,
+                    82
+                ],
+                "semi-normal": [
+                    77
+                ],
+                "equations,": [
+                    78
+                ],
+                "other": [
+                    80,
+                    216
+                ],
+                "normal": [
+                    84
+                ],
+                "equations.": [
+                    85
+                ],
+                "Both": [
+                    86
+                ],
+                "are": [
+                    87,
+                    194
+                ],
+                "combined": [
+                    88
+                ],
+                "with": [
+                    89
+                ],
+                "iterative": [
+                    90,
+                    232
+                ],
+                "refinement": [
+                    91,
+                    233
+                ],
+                "mixed": [
+                    93
+                ],
+                "precision,": [
+                    94
+                ],
+                "only": [
+                    97
+                ],
+                "stabilises": [
+                    98
+                ],
+                "methods": [
+                    100
+                ],
+                "but": [
+                    101
+                ],
+                "also": [
+                    102,
+                    224
+                ],
+                "decreases": [
+                    103
+                ],
+                "communication": [
+                    105,
+                    110,
+                    125,
+                    176,
+                    210
+                ],
+                "cost.": [
+                    106
+                ],
+                "In": [
+                    107
+                ],
+                "GLS-IR,": [
+                    108
+                ],
+                "all": [
+                    109
+                ],
+                "nodes": [
+                    112
+                ],
+                "is": [
+                    113,
+                    158
+                ],
+                "contained": [
+                    114
+                ],
+                "within": [
+                    115
+                ],
+                "gossip-based": [
+                    117
+                ],
+                "aggregation,": [
+                    121
+                ],
+                "limits": [
+                    123
+                ],
+                "each": [
+                    127
+                ],
+                "node": [
+                    128
+                ],
+                "to": [
+                    129,
+                    150,
+                    160,
+                    180,
+                    198,
+                    215,
+                    228,
+                    242
+                ],
+                "its": [
+                    130
+                ],
+                "immediate": [
+                    131
+                ],
+                "neighbourhood.": [
+                    132
+                ],
+                "Therefore,": [
+                    133
+                ],
+                "benefits": [
+                    135
+                ],
+                "directly": [
+                    136
+                ],
+                "from": [
+                    137,
+                    162
+                ],
+                "efficient": [
+                    138
+                ],
+                "and": [
+                    139,
+                    166,
+                    234
+                ],
+                "fault-tolerant": [
+                    140,
+                    148
+                ],
+                "aggregation.": [
+                    144
+                ],
+                "use": [
+                    146
+                ],
+                "alternative": [
+                    149
+                ],
+                "push-sum": [
+                    152
+                ],
+                "method,": [
+                    153
+                ],
+                "push-flow": [
+                    155
+                ],
+                "algorithm,": [
+                    156
+                ],
+                "able": [
+                    159
+                ],
+                "recover": [
+                    161
+                ],
+                "silent": [
+                    163
+                ],
+                "message": [
+                    164,
+                    251
+                ],
+                "loss": [
+                    165,
+                    252
+                ],
+                "temporary": [
+                    167
+                ],
+                "permanent": [
+                    169
+                ],
+                "link": [
+                    170
+                ],
+                "failures.": [
+                    171
+                ],
+                "analytically": [
+                    173
+                ],
+                "compare": [
+                    174
+                ],
+                "cost": [
+                    177,
+                    211
+                ],
+                "existing": [
+                    181,
+                    217
+                ],
+                "algorithms.": [
+                    184
+                ],
+                "Since": [
+                    185
+                ],
+                "theoretical": [
+                    187
+                ],
+                "analysis": [
+                    188
+                ],
+                "contains": [
+                    189
+                ],
+                "problem-dependent": [
+                    190
+                ],
+                "parameters,": [
+                    191
+                ],
+                "numerical": [
+                    192
+                ],
+                "experiments": [
+                    193,
+                    205
+                ],
+                "needed": [
+                    195
+                ],
+                "order": [
+                    197
+                ],
+                "get": [
+                    199
+                ],
+                "complete": [
+                    201
+                ],
+                "picture.": [
+                    202
+                ],
+                "Our": [
+                    203
+                ],
+                "simulation": [
+                    204
+                ],
+                "illustrate": [
+                    206,
+                    225
+                ],
+                "significantly": [
+                    208
+                ],
+                "reduced": [
+                    209
+                ],
+                "compared": [
+                    214
+                ],
+                "solvers.": [
+                    222
+                ],
+                "that": [
+                    226
+                ],
+                "due": [
+                    227
+                ],
+                "properties": [
+                    230
+                ],
+                "push-flow,": [
+                    235
+                ],
+                "can": [
+                    237
+                ],
+                "achieve": [
+                    238
+                ],
+                "result": [
+                    240
+                ],
+                "accurate": [
+                    241
+                ],
+                "machine": [
+                    243
+                ],
+                "precision": [
+                    244
+                ],
+                "even": [
+                    245
+                ],
+                "if": [
+                    246
+                ],
+                "high": [
+                    248
+                ],
+                "amount": [
+                    249
+                ],
+                "occurs.": [
+                    253
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2980136536",
+            "counts_by_year": [
+                {
+                    "year": 2022,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-15T03:04:41.011872",
+            "created_date": "2019-10-18"
+        },
+        {
+            "id": "https://openalex.org/W2091149181",
+            "doi": "https://doi.org/10.1016/j.procs.2013.06.002",
+            "title": "On Mixed Precision Iterative Refinement for Eigenvalue Problems",
+            "display_name": "On Mixed Precision Iterative Refinement for Eigenvalue Problems",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2091149181",
+                "doi": "https://doi.org/10.1016/j.procs.2013.06.002",
+                "mag": "2091149181"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.06.002",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2013.06.002",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5029233788",
+                        "display_name": "Karl E. Prikopa",
+                        "orcid": "https://orcid.org/0000-0002-3681-9339"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210099593",
+                            "display_name": "Computer Algorithms for Medicine",
+                            "ror": "https://ror.org/00zky6d38",
+                            "country_code": "AT",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210099593"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Karl E. Prikopa",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Research Group Theory and Applications of Algorithms, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Research Group Theory and Applications of Algorithms, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I4210099593",
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5021065276",
+                        "display_name": "Wilfried N. Gansterer",
+                        "orcid": "https://orcid.org/0000-0001-5170-1251"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210099593",
+                            "display_name": "Computer Algorithms for Medicine",
+                            "ror": "https://ror.org/00zky6d38",
+                            "country_code": "AT",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210099593"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Wilfried N. Gansterer",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Research Group Theory and Applications of Algorithms, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Research Group Theory and Applications of Algorithms, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I4210099593",
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5021065276"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I4210099593",
+                "https://openalex.org/I129774422"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.32,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.68944,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 82
+            },
+            "biblio": {
+                "volume": "18",
+                "issue": null,
+                "first_page": "2647",
+                "last_page": "2650"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10792",
+                "display_name": "Matrix Algorithms and Iterative Methods",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1703",
+                    "display_name": "Computational Theory and Mathematics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11697",
+                    "display_name": "Floating-Point Arithmetic in Scientific Computation",
+                    "score": 0.9994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9983,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/iterative-refinement",
+                    "display_name": "Iterative refinement",
+                    "score": 0.75193965
+                },
+                {
+                    "id": "https://openalex.org/keywords/saddle-point",
+                    "display_name": "Saddle point",
+                    "score": 0.69282204
+                },
+                {
+                    "id": "https://openalex.org/keywords/eigenvalue-problems",
+                    "display_name": "Eigenvalue Problems",
+                    "score": 0.615744
+                },
+                {
+                    "id": "https://openalex.org/keywords/iterative-methods",
+                    "display_name": "Iterative Methods",
+                    "score": 0.600785
+                },
+                {
+                    "id": "https://openalex.org/keywords/adaptive-mesh-refinement",
+                    "display_name": "Adaptive Mesh Refinement",
+                    "score": 0.555031
+                },
+                {
+                    "id": "https://openalex.org/keywords/saddle-point-problems",
+                    "display_name": "Saddle Point Problems",
+                    "score": 0.552524
+                },
+                {
+                    "id": "https://openalex.org/keywords/matrix-computations",
+                    "display_name": "Matrix Computations",
+                    "score": 0.549279
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.82286376
+                },
+                {
+                    "id": "https://openalex.org/C2779982483",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6094420",
+                    "display_name": "Iterative refinement",
+                    "level": 2,
+                    "score": 0.75193965
+                },
+                {
+                    "id": "https://openalex.org/C2681867",
+                    "wikidata": "https://www.wikidata.org/wiki/Q690935",
+                    "display_name": "Saddle point",
+                    "level": 2,
+                    "score": 0.69282204
+                },
+                {
+                    "id": "https://openalex.org/C158693339",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190524",
+                    "display_name": "Eigenvalues and eigenvectors",
+                    "level": 2,
+                    "score": 0.61019963
+                },
+                {
+                    "id": "https://openalex.org/C159694833",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+                    "display_name": "Iterative method",
+                    "level": 2,
+                    "score": 0.5883772
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.56696564
+                },
+                {
+                    "id": "https://openalex.org/C84211073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117879",
+                    "display_name": "Floating point",
+                    "level": 2,
+                    "score": 0.47996926
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.4681148
+                },
+                {
+                    "id": "https://openalex.org/C165696696",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11287",
+                    "display_name": "Exploit",
+                    "level": 2,
+                    "score": 0.45786786
+                },
+                {
+                    "id": "https://openalex.org/C28719098",
+                    "wikidata": "https://www.wikidata.org/wiki/Q44946",
+                    "display_name": "Point (geometry)",
+                    "level": 2,
+                    "score": 0.42995894
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.13650963
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2013.06.002",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.06.002",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 7,
+            "referenced_works": [
+                "https://openalex.org/W1975721804",
+                "https://openalex.org/W2045651847",
+                "https://openalex.org/W2084743588",
+                "https://openalex.org/W2111593426",
+                "https://openalex.org/W2141870784",
+                "https://openalex.org/W4229666556",
+                "https://openalex.org/W4285719527"
+            ],
+            "related_works": [
+                "https://openalex.org/W3150959508",
+                "https://openalex.org/W3150370983",
+                "https://openalex.org/W3006775069",
+                "https://openalex.org/W2984553902",
+                "https://openalex.org/W2895720711",
+                "https://openalex.org/W2788561539",
+                "https://openalex.org/W2239119680",
+                "https://openalex.org/W2034475059",
+                "https://openalex.org/W1771726367",
+                "https://openalex.org/W144062141"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0
+                ],
+                "investigate": [
+                    1
+                ],
+                "novel": [
+                    2,
+                    90
+                ],
+                "iterative": [
+                    3,
+                    104
+                ],
+                "refinement": [
+                    4,
+                    105
+                ],
+                "methods": [
+                    5
+                ],
+                "for": [
+                    6,
+                    19
+                ],
+                "solving": [
+                    7
+                ],
+                "eigenvalue": [
+                    8
+                ],
+                "problems": [
+                    9,
+                    31
+                ],
+                "which": [
+                    10,
+                    76
+                ],
+                "are": [
+                    11,
+                    32,
+                    51,
+                    65
+                ],
+                "derived": [
+                    12
+                ],
+                "from": [
+                    13
+                ],
+                "Newton's": [
+                    14
+                ],
+                "method.": [
+                    15
+                ],
+                "In": [
+                    16
+                ],
+                "particular,": [
+                    17
+                ],
+                "approaches": [
+                    18
+                ],
+                "the": [
+                    20,
+                    23,
+                    40,
+                    47,
+                    63,
+                    80,
+                    88,
+                    99
+                ],
+                "solution": [
+                    21,
+                    75
+                ],
+                "of": [
+                    22,
+                    43,
+                    49
+                ],
+                "resulting": [
+                    24
+                ],
+                "linear": [
+                    25
+                ],
+                "system": [
+                    26
+                ],
+                "based": [
+                    27
+                ],
+                "on": [
+                    28
+                ],
+                "saddle": [
+                    29
+                ],
+                "point": [
+                    30,
+                    96
+                ],
+                "compared": [
+                    33
+                ],
+                "and": [
+                    34,
+                    58,
+                    110
+                ],
+                "evaluated.": [
+                    35
+                ],
+                "The": [
+                    36
+                ],
+                "algorithms": [
+                    37
+                ],
+                "presented": [
+                    38,
+                    92
+                ],
+                "exploit": [
+                    39
+                ],
+                "performance": [
+                    41
+                ],
+                "benefits": [
+                    42
+                ],
+                "mixed": [
+                    44
+                ],
+                "precision,": [
+                    45,
+                    71
+                ],
+                "where": [
+                    46
+                ],
+                "majority": [
+                    48
+                ],
+                "operations": [
+                    50,
+                    97
+                ],
+                "performed": [
+                    52
+                ],
+                "at": [
+                    53
+                ],
+                "a": [
+                    54,
+                    68,
+                    74
+                ],
+                "lower": [
+                    55
+                ],
+                "working": [
+                    56
+                ],
+                "precision": [
+                    57
+                ],
+                "only": [
+                    59,
+                    102
+                ],
+                "critical": [
+                    60
+                ],
+                "steps": [
+                    61
+                ],
+                "within": [
+                    62
+                ],
+                "algorithm": [
+                    64
+                ],
+                "computed": [
+                    66
+                ],
+                "in": [
+                    67
+                ],
+                "higher": [
+                    69
+                ],
+                "target": [
+                    70,
+                    81
+                ],
+                "leading": [
+                    72
+                ],
+                "to": [
+                    73,
+                    79
+                ],
+                "is": [
+                    77
+                ],
+                "accurate": [
+                    78
+                ],
+                "precision.": [
+                    82
+                ],
+                "A": [
+                    83
+                ],
+                "complexity": [
+                    84
+                ],
+                "analysis": [
+                    85
+                ],
+                "shows": [
+                    86
+                ],
+                "that": [
+                    87
+                ],
+                "best": [
+                    89
+                ],
+                "method": [
+                    91
+                ],
+                "requires": [
+                    93
+                ],
+                "fewer": [
+                    94
+                ],
+                "floating": [
+                    95
+                ],
+                "than": [
+                    98
+                ],
+                "so": [
+                    100
+                ],
+                "far": [
+                    101
+                ],
+                "existing": [
+                    103
+                ],
+                "eigensolver": [
+                    106
+                ],
+                "by": [
+                    107
+                ],
+                "Dongarra,": [
+                    108
+                ],
+                "Moler": [
+                    109
+                ],
+                "Wilkinson.": [
+                    111
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2091149181",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-25T04:11:53.492744",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2586525815",
+            "doi": "https://doi.org/10.1016/j.jpdc.2017.01.022",
+            "title": "Fault tolerant communication-optimal 2.5D matrix multiplication",
+            "display_name": "Fault tolerant communication-optimal 2.5D matrix multiplication",
+            "publication_year": 2017,
+            "publication_date": "2017-02-10",
+            "ids": {
+                "openalex": "https://openalex.org/W2586525815",
+                "doi": "https://doi.org/10.1016/j.jpdc.2017.01.022",
+                "mag": "2586525815"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.jpdc.2017.01.022",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S157146593",
+                    "display_name": "Journal of Parallel and Distributed Computing",
+                    "issn_l": "0743-7315",
+                    "issn": [
+                        "0743-7315",
+                        "1096-0848"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5038165314",
+                        "display_name": "Michael Moldaschl",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michael Moldaschl",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5029233788",
+                        "display_name": "Karl E. Prikopa",
+                        "orcid": "https://orcid.org/0000-0002-3681-9339"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Karl E. Prikopa",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5021065276",
+                        "display_name": "Wilfried N. Gansterer",
+                        "orcid": "https://orcid.org/0000-0001-5170-1251"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Wilfried N. Gansterer",
+                    "raw_affiliation_strings": [
+                        "University of Vienna, Faculty of Computer Science, Vienna, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Vienna, Faculty of Computer Science, Vienna, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5021065276"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I129774422"
+            ],
+            "apc_list": {
+                "value": 3160,
+                "currency": "USD",
+                "value_usd": 3160,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.21,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.84097,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 82
+            },
+            "biblio": {
+                "volume": "104",
+                "issue": null,
+                "first_page": "179",
+                "last_page": "190"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10772",
+                "display_name": "Distributed Fault Tolerance and Consistency in Systems",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10772",
+                    "display_name": "Distributed Fault Tolerance and Consistency in Systems",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9981,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10829",
+                    "display_name": "Networks on Chip in System-on-Chip Design",
+                    "score": 0.9958,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/checksum",
+                    "display_name": "Checksum",
+                    "score": 0.6951231
+                },
+                {
+                    "id": "https://openalex.org/keywords/fault-tolerance",
+                    "display_name": "Fault Tolerance",
+                    "score": 0.57124
+                },
+                {
+                    "id": "https://openalex.org/keywords/checkpointing",
+                    "display_name": "Checkpointing",
+                    "score": 0.519824
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.510399
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.83268154
+                },
+                {
+                    "id": "https://openalex.org/C63540848",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3140932",
+                    "display_name": "Fault tolerance",
+                    "level": 2,
+                    "score": 0.7812301
+                },
+                {
+                    "id": "https://openalex.org/C2779960059",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7113681",
+                    "display_name": "Overhead (engineering)",
+                    "level": 2,
+                    "score": 0.74886775
+                },
+                {
+                    "id": "https://openalex.org/C162372511",
+                    "wikidata": "https://www.wikidata.org/wiki/Q218341",
+                    "display_name": "Checksum",
+                    "level": 2,
+                    "score": 0.6951231
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.60872215
+                },
+                {
+                    "id": "https://openalex.org/C2780595030",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3860309",
+                    "display_name": "Multiplication (music)",
+                    "level": 2,
+                    "score": 0.5666139
+                },
+                {
+                    "id": "https://openalex.org/C17349429",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1049914",
+                    "display_name": "Matrix multiplication",
+                    "level": 3,
+                    "score": 0.53792167
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.4970174
+                },
+                {
+                    "id": "https://openalex.org/C2779343474",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+                    "display_name": "Context (archaeology)",
+                    "level": 2,
+                    "score": 0.48098814
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.44989604
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.26527426
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.1256668
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C84114770",
+                    "wikidata": "https://www.wikidata.org/wiki/Q46344",
+                    "display_name": "Quantum",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C151730666",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7205",
+                    "display_name": "Paleontology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.jpdc.2017.01.022",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S157146593",
+                        "display_name": "Journal of Parallel and Distributed Computing",
+                        "issn_l": "0743-7315",
+                        "issn": [
+                            "0743-7315",
+                            "1096-0848"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320321003",
+                    "funder_display_name": "Vienna Science and Technology Fund",
+                    "award_id": "ICT15-113"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 41,
+            "referenced_works": [
+                "https://openalex.org/W1584278023",
+                "https://openalex.org/W1598993252",
+                "https://openalex.org/W1893923069",
+                "https://openalex.org/W1986905947",
+                "https://openalex.org/W1991300616",
+                "https://openalex.org/W1993660990",
+                "https://openalex.org/W2005319504",
+                "https://openalex.org/W2007024473",
+                "https://openalex.org/W201315547",
+                "https://openalex.org/W2013641642",
+                "https://openalex.org/W2020804487",
+                "https://openalex.org/W2031260715",
+                "https://openalex.org/W2036641664",
+                "https://openalex.org/W2039042415",
+                "https://openalex.org/W2052455844",
+                "https://openalex.org/W2056999868",
+                "https://openalex.org/W2061887253",
+                "https://openalex.org/W2063924830",
+                "https://openalex.org/W2072072075",
+                "https://openalex.org/W2083613288",
+                "https://openalex.org/W2088552220",
+                "https://openalex.org/W2091180845",
+                "https://openalex.org/W2115647171",
+                "https://openalex.org/W2120185818",
+                "https://openalex.org/W2122249806",
+                "https://openalex.org/W2124232842",
+                "https://openalex.org/W2128577831",
+                "https://openalex.org/W2146351362",
+                "https://openalex.org/W2149719295",
+                "https://openalex.org/W2155934041",
+                "https://openalex.org/W2156174274",
+                "https://openalex.org/W2159249499",
+                "https://openalex.org/W2161416813",
+                "https://openalex.org/W2168748809",
+                "https://openalex.org/W255480450",
+                "https://openalex.org/W2598689602",
+                "https://openalex.org/W3004493283",
+                "https://openalex.org/W3022909171",
+                "https://openalex.org/W3101575975",
+                "https://openalex.org/W4242361160",
+                "https://openalex.org/W4249982028"
+            ],
+            "related_works": [
+                "https://openalex.org/W4287593139",
+                "https://openalex.org/W4239424132",
+                "https://openalex.org/W4206811032",
+                "https://openalex.org/W3099313426",
+                "https://openalex.org/W2995605830",
+                "https://openalex.org/W2136799148",
+                "https://openalex.org/W2123437881",
+                "https://openalex.org/W2086146848",
+                "https://openalex.org/W1862835629",
+                "https://openalex.org/W1506547947"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0,
+                    19
+                ],
+                "future": [
+                    1
+                ],
+                "computing": [
+                    2
+                ],
+                "systems,": [
+                    3
+                ],
+                "handling": [
+                    4
+                ],
+                "faults": [
+                    5
+                ],
+                "efficiently": [
+                    6,
+                    73
+                ],
+                "at": [
+                    7,
+                    158
+                ],
+                "the": [
+                    8,
+                    44,
+                    88,
+                    99,
+                    105,
+                    108,
+                    125,
+                    136,
+                    165
+                ],
+                "algorithmic": [
+                    9
+                ],
+                "level": [
+                    10
+                ],
+                "is": [
+                    11
+                ],
+                "expected": [
+                    12
+                ],
+                "to": [
+                    13,
+                    46,
+                    72,
+                    76
+                ],
+                "become": [
+                    14
+                ],
+                "more": [
+                    15,
+                    17
+                ],
+                "and": [
+                    16,
+                    128,
+                    144,
+                    148
+                ],
+                "important.": [
+                    18
+                ],
+                "this": [
+                    20
+                ],
+                "paper,": [
+                    21
+                ],
+                "we": [
+                    22,
+                    42,
+                    69,
+                    91
+                ],
+                "illustrate": [
+                    23,
+                    124,
+                    149
+                ],
+                "that": [
+                    24,
+                    93,
+                    150
+                ],
+                "in": [
+                    25,
+                    50,
+                    104,
+                    162
+                ],
+                "practice": [
+                    26
+                ],
+                "classical": [
+                    27,
+                    163
+                ],
+                "algorithm-based": [
+                    28
+                ],
+                "fault": [
+                    29,
+                    59,
+                    97,
+                    102,
+                    137
+                ],
+                "tolerance": [
+                    30,
+                    103,
+                    138
+                ],
+                "(ABFT)": [
+                    31
+                ],
+                "cannot": [
+                    32
+                ],
+                "protect": [
+                    33,
+                    77
+                ],
+                "all": [
+                    34,
+                    51
+                ],
+                "exponent": [
+                    35
+                ],
+                "bits": [
+                    36
+                ],
+                "of": [
+                    37,
+                    101,
+                    107,
+                    131,
+                    139,
+                    170
+                ],
+                "a": [
+                    38,
+                    121
+                ],
+                "floating-point": [
+                    39
+                ],
+                "number.": [
+                    40
+                ],
+                "Consequently,": [
+                    41
+                ],
+                "extend": [
+                    43
+                ],
+                "method": [
+                    45,
+                    152
+                ],
+                "recover": [
+                    47
+                ],
+                "from": [
+                    48
+                ],
+                "bit-flips": [
+                    49,
+                    84,
+                    147,
+                    156
+                ],
+                "positions": [
+                    52
+                ],
+                "without": [
+                    53
+                ],
+                "additional": [
+                    54
+                ],
+                "overhead.": [
+                    55
+                ],
+                "We": [
+                    56,
+                    134
+                ],
+                "also": [
+                    57,
+                    154
+                ],
+                "derive": [
+                    58
+                ],
+                "detection": [
+                    60
+                ],
+                "conditions": [
+                    61
+                ],
+                "suitable": [
+                    62
+                ],
+                "for": [
+                    63,
+                    94
+                ],
+                "multiple": [
+                    64
+                ],
+                "checksum": [
+                    65
+                ],
+                "encoding": [
+                    66
+                ],
+                "vectors.": [
+                    67
+                ],
+                "Moreover,": [
+                    68
+                ],
+                "show": [
+                    70,
+                    92
+                ],
+                "how": [
+                    71
+                ],
+                "employ": [
+                    74
+                ],
+                "ABFT": [
+                    75
+                ],
+                "communication-optimal": [
+                    78
+                ],
+                "parallel": [
+                    79
+                ],
+                "2.5D": [
+                    80,
+                    109
+                ],
+                "matrix": [
+                    81,
+                    110
+                ],
+                "multiplication": [
+                    82,
+                    111
+                ],
+                "against": [
+                    83
+                ],
+                "occurring": [
+                    85,
+                    157
+                ],
+                "silently": [
+                    86
+                ],
+                "during": [
+                    87
+                ],
+                "computation.": [
+                    89
+                ],
+                "Furthermore,": [
+                    90
+                ],
+                "very": [
+                    95
+                ],
+                "low": [
+                    96,
+                    129
+                ],
+                "rates": [
+                    98
+                ],
+                "overhead": [
+                    100,
+                    130,
+                    166
+                ],
+                "context": [
+                    106
+                ],
+                "algorithms": [
+                    112
+                ],
+                "can": [
+                    113,
+                    153
+                ],
+                "be": [
+                    114
+                ],
+                "reduced": [
+                    115
+                ],
+                "even": [
+                    116
+                ],
+                "further.": [
+                    117
+                ],
+                "Numerical": [
+                    118
+                ],
+                "experiments": [
+                    119
+                ],
+                "on": [
+                    120
+                ],
+                "high-performance": [
+                    122
+                ],
+                "cluster": [
+                    123
+                ],
+                "high": [
+                    126,
+                    159
+                ],
+                "scalability": [
+                    127
+                ],
+                "our": [
+                    132,
+                    140,
+                    151,
+                    171
+                ],
+                "algorithms.": [
+                    133
+                ],
+                "demonstrate": [
+                    135
+                ],
+                "approach": [
+                    141,
+                    172
+                ],
+                "with": [
+                    142,
+                    174
+                ],
+                "randomly": [
+                    143
+                ],
+                "asynchronously": [
+                    145
+                ],
+                "injected": [
+                    146
+                ],
+                "handle": [
+                    155
+                ],
+                "frequencies.": [
+                    160
+                ],
+                "Like": [
+                    161
+                ],
+                "ABFT,": [
+                    164
+                ],
+                "per": [
+                    167
+                ],
+                "correctable": [
+                    168
+                ],
+                "bit-flip": [
+                    169
+                ],
+                "decreases": [
+                    173
+                ],
+                "increasing": [
+                    175
+                ],
+                "error": [
+                    176
+                ],
+                "rate.": [
+                    177
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2586525815",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-17T18:57:04.661888",
+            "created_date": "2017-02-17"
+        },
+        {
+            "id": "https://openalex.org/W308560790",
+            "doi": "https://doi.org/10.1007/978-3-319-09873-9_34",
+            "title": "Analysis and Comparison of Truly Distributed Solvers for Linear Least Squares Problems on Wireless Sensor Networks",
+            "display_name": "Analysis and Comparison of Truly Distributed Solvers for Linear Least Squares Problems on Wireless Sensor Networks",
+            "publication_year": 2014,
+            "publication_date": "2014-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W308560790",
+                "doi": "https://doi.org/10.1007/978-3-319-09873-9_34",
+                "mag": "308560790"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/978-3-319-09873-9_34",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09873-9_34.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09873-9_34.pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5029233788",
+                        "display_name": "Karl E. Prikopa",
+                        "orcid": "https://orcid.org/0000-0002-3681-9339"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Karl E. Prikopa",
+                    "raw_affiliation_strings": [
+                        "Univ. of Vienna#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ. of Vienna#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5057522327",
+                        "display_name": "Hana Straková",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hana Straková",
+                    "raw_affiliation_strings": [
+                        "Univ. of Vienna#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ. of Vienna#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5021065276",
+                        "display_name": "Wilfried N. Gansterer",
+                        "orcid": "https://orcid.org/0000-0001-5170-1251"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I129774422",
+                            "display_name": "University of Vienna",
+                            "ror": "https://ror.org/03prydq77",
+                            "country_code": "AT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Wilfried N. Gansterer",
+                    "raw_affiliation_strings": [
+                        "Univ. of Vienna#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Univ. of Vienna#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I129774422"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 8.671,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.806234,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 82
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "403",
+                "last_page": "414"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11233",
+                "display_name": "Adaptive Filtering in Non-Gaussian Signal Processing",
+                "score": 0.9956,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11233",
+                    "display_name": "Adaptive Filtering in Non-Gaussian Signal Processing",
+                    "score": 0.9956,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10080",
+                    "display_name": "Wireless Sensor Networks: Survey and Applications",
+                    "score": 0.9916,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12879",
+                    "display_name": "Decentralized Inference in Wireless Sensor Networks",
+                    "score": 0.9867,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.6600367
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-detection",
+                    "display_name": "Distributed Detection",
+                    "score": 0.54916
+                },
+                {
+                    "id": "https://openalex.org/keywords/wireless-sensor-networks",
+                    "display_name": "Wireless Sensor Networks",
+                    "score": 0.546106
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-estimation",
+                    "display_name": "Distributed Estimation",
+                    "score": 0.523128
+                },
+                {
+                    "id": "https://openalex.org/keywords/mobile-sensor-deployment",
+                    "display_name": "Mobile Sensor Deployment",
+                    "score": 0.508509
+                },
+                {
+                    "id": "https://openalex.org/keywords/brooks–iyengar-algorithm",
+                    "display_name": "Brooks–Iyengar algorithm",
+                    "score": 0.43092245
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8297085
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.6600367
+                },
+                {
+                    "id": "https://openalex.org/C130120984",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2835898",
+                    "display_name": "Distributed algorithm",
+                    "level": 2,
+                    "score": 0.6479063
+                },
+                {
+                    "id": "https://openalex.org/C24590314",
+                    "wikidata": "https://www.wikidata.org/wiki/Q336038",
+                    "display_name": "Wireless sensor network",
+                    "level": 2,
+                    "score": 0.5988821
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.5399018
+                },
+                {
+                    "id": "https://openalex.org/C62611344",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1062658",
+                    "display_name": "Node (physics)",
+                    "level": 2,
+                    "score": 0.48316687
+                },
+                {
+                    "id": "https://openalex.org/C555944384",
+                    "wikidata": "https://www.wikidata.org/wiki/Q249",
+                    "display_name": "Wireless",
+                    "level": 2,
+                    "score": 0.45512268
+                },
+                {
+                    "id": "https://openalex.org/C10000559",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4975143",
+                    "display_name": "Brooks–Iyengar algorithm",
+                    "level": 5,
+                    "score": 0.43092245
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.3848011
+                },
+                {
+                    "id": "https://openalex.org/C108037233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11375",
+                    "display_name": "Wireless network",
+                    "level": 3,
+                    "score": 0.37601364
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.35860988
+                },
+                {
+                    "id": "https://openalex.org/C41971633",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6398155",
+                    "display_name": "Key distribution in wireless sensor networks",
+                    "level": 4,
+                    "score": 0.25306284
+                },
+                {
+                    "id": "https://openalex.org/C31258907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+                    "display_name": "Computer network",
+                    "level": 1,
+                    "score": 0.25268397
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-319-09873-9_34",
+                    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09873-9_34.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/978-3-319-09873-9_34",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09873-9_34.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 23,
+            "referenced_works": [
+                "https://openalex.org/W1515174872",
+                "https://openalex.org/W1796058793",
+                "https://openalex.org/W1980448497",
+                "https://openalex.org/W1982829517",
+                "https://openalex.org/W1984051532",
+                "https://openalex.org/W1989806527",
+                "https://openalex.org/W1993950010",
+                "https://openalex.org/W2000074722",
+                "https://openalex.org/W2024307985",
+                "https://openalex.org/W2044752722",
+                "https://openalex.org/W2057941682",
+                "https://openalex.org/W2061771500",
+                "https://openalex.org/W2088097241",
+                "https://openalex.org/W2091477454",
+                "https://openalex.org/W2110100895",
+                "https://openalex.org/W2121820607",
+                "https://openalex.org/W2122516815",
+                "https://openalex.org/W2124432683",
+                "https://openalex.org/W2130359405",
+                "https://openalex.org/W2140206057",
+                "https://openalex.org/W2166627125",
+                "https://openalex.org/W2288176647",
+                "https://openalex.org/W2963157432"
+            ],
+            "related_works": [
+                "https://openalex.org/W2574352415",
+                "https://openalex.org/W2473312420",
+                "https://openalex.org/W2414729482",
+                "https://openalex.org/W2354495280",
+                "https://openalex.org/W2293710996",
+                "https://openalex.org/W2150793856",
+                "https://openalex.org/W2136748136",
+                "https://openalex.org/W2054636681",
+                "https://openalex.org/W2033765737",
+                "https://openalex.org/W1525620987"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "solution": [
+                    1,
+                    174
+                ],
+                "of": [
+                    2,
+                    38,
+                    115,
+                    130,
+                    146
+                ],
+                "linear": [
+                    3
+                ],
+                "least": [
+                    4,
+                    40,
+                    83
+                ],
+                "squares": [
+                    5,
+                    41,
+                    84
+                ],
+                "problems": [
+                    6
+                ],
+                "across": [
+                    7
+                ],
+                "large": [
+                    8
+                ],
+                "loosely": [
+                    9
+                ],
+                "connected": [
+                    10
+                ],
+                "distributed": [
+                    11,
+                    19,
+                    39,
+                    61,
+                    92,
+                    108,
+                    121
+                ],
+                "networks": [
+                    12
+                ],
+                "(such": [
+                    13
+                ],
+                "as": [
+                    14
+                ],
+                "wireless": [
+                    15
+                ],
+                "sensor": [
+                    16
+                ],
+                "networks)": [
+                    17
+                ],
+                "requires": [
+                    18,
+                    159
+                ],
+                "algorithms": [
+                    20,
+                    62
+                ],
+                "which": [
+                    21,
+                    63,
+                    87
+                ],
+                "ideally": [
+                    22
+                ],
+                "need": [
+                    23
+                ],
+                "very": [
+                    24
+                ],
+                "little": [
+                    25
+                ],
+                "or": [
+                    26,
+                    72
+                ],
+                "no": [
+                    27
+                ],
+                "coordination": [
+                    28
+                ],
+                "between": [
+                    29,
+                    98
+                ],
+                "the": [
+                    30,
+                    45,
+                    81,
+                    104,
+                    112,
+                    118,
+                    127,
+                    166
+                ],
+                "nodes.": [
+                    31
+                ],
+                "We": [
+                    32,
+                    55,
+                    149
+                ],
+                "first": [
+                    33
+                ],
+                "provide": [
+                    34
+                ],
+                "an": [
+                    35
+                ],
+                "extensive": [
+                    36
+                ],
+                "overview": [
+                    37
+                ],
+                "solvers": [
+                    42
+                ],
+                "appearing": [
+                    43
+                ],
+                "in": [
+                    44,
+                    59
+                ],
+                "literature": [
+                    46
+                ],
+                "and": [
+                    47,
+                    117,
+                    144
+                ],
+                "classify": [
+                    48
+                ],
+                "them": [
+                    49
+                ],
+                "according": [
+                    50
+                ],
+                "to": [
+                    51,
+                    170
+                ],
+                "their": [
+                    52
+                ],
+                "communication": [
+                    53,
+                    97,
+                    113,
+                    128
+                ],
+                "patterns.": [
+                    54
+                ],
+                "are": [
+                    56
+                ],
+                "particularly": [
+                    57
+                ],
+                "interested": [
+                    58
+                ],
+                "truly": [
+                    60,
+                    120
+                ],
+                "do": [
+                    64
+                ],
+                "not": [
+                    65
+                ],
+                "require": [
+                    66
+                ],
+                "a": [
+                    67,
+                    89,
+                    132,
+                    172
+                ],
+                "fusion": [
+                    68
+                ],
+                "centre,": [
+                    69
+                ],
+                "cluster": [
+                    70
+                ],
+                "heads": [
+                    71
+                ],
+                "any": [
+                    73
+                ],
+                "multi-hop": [
+                    74
+                ],
+                "communication.": [
+                    75
+                ],
+                "Beyond": [
+                    76
+                ],
+                "existing": [
+                    77,
+                    119,
+                    168
+                ],
+                "methods,": [
+                    78
+                ],
+                "we": [
+                    79
+                ],
+                "propose": [
+                    80
+                ],
+                "novel": [
+                    82,
+                    156
+                ],
+                "solver": [
+                    85,
+                    158
+                ],
+                "PSDLS,": [
+                    86
+                ],
+                "utilises": [
+                    88
+                ],
+                "recently": [
+                    90
+                ],
+                "developed": [
+                    91
+                ],
+                "QR": [
+                    93
+                ],
+                "factorisation": [
+                    94
+                ],
+                "algorithm.": [
+                    95
+                ],
+                "All": [
+                    96
+                ],
+                "nodes": [
+                    99
+                ],
+                "is": [
+                    100
+                ],
+                "exclusively": [
+                    101
+                ],
+                "performed": [
+                    102
+                ],
+                "within": [
+                    103
+                ],
+                "push-sum": [
+                    105
+                ],
+                "algorithm": [
+                    106
+                ],
+                "for": [
+                    107
+                ],
+                "aggregation.We": [
+                    109
+                ],
+                "analytically": [
+                    110
+                ],
+                "compare": [
+                    111
+                ],
+                "cost": [
+                    114,
+                    129
+                ],
+                "PSDLS": [
+                    116,
+                    157
+                ],
+                "algorithms.": [
+                    122
+                ],
+                "In": [
+                    123
+                ],
+                "all": [
+                    124
+                ],
+                "these": [
+                    125
+                ],
+                "algorithms,": [
+                    126
+                ],
+                "reaching": [
+                    131
+                ],
+                "predefined": [
+                    133,
+                    173
+                ],
+                "accuracy": [
+                    134
+                ],
+                "depends": [
+                    135
+                ],
+                "on": [
+                    136
+                ],
+                "many": [
+                    137
+                ],
+                "factors,": [
+                    138
+                ],
+                "including": [
+                    139
+                ],
+                "network": [
+                    140
+                ],
+                "topology,": [
+                    141
+                ],
+                "problem": [
+                    142
+                ],
+                "size,": [
+                    143
+                ],
+                "settings": [
+                    145
+                ],
+                "algorithm-specific": [
+                    147
+                ],
+                "parameters.": [
+                    148
+                ],
+                "illustrate": [
+                    150
+                ],
+                "with": [
+                    151
+                ],
+                "simulation": [
+                    152
+                ],
+                "experiments": [
+                    153
+                ],
+                "that": [
+                    154
+                ],
+                "our": [
+                    155
+                ],
+                "significantly": [
+                    160
+                ],
+                "fewer": [
+                    161
+                ],
+                "messages": [
+                    162
+                ],
+                "per": [
+                    163
+                ],
+                "node": [
+                    164
+                ],
+                "than": [
+                    165
+                ],
+                "previously": [
+                    167
+                ],
+                "methods": [
+                    169
+                ],
+                "reach": [
+                    171
+                ],
+                "accuracy.": [
+                    175
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W308560790",
+            "counts_by_year": [
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 3
+                }
+            ],
+            "updated_date": "2024-09-01T00:34:01.248714",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2123648001",
+            "doi": null,
+            "title": "Analysis and Evaluation of Binary Cascade Iterative Refinement and Comparison to other Iterative Refinement Algorithms for Solving Linear Systems",
+            "display_name": "Analysis and Evaluation of Binary Cascade Iterative Refinement and Comparison to other Iterative Refinement Algorithms for Solving Linear Systems",
+            "publication_year": 2011,
+            "publication_date": "2011-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2123648001",
+                "mag": "2123648001"
+            },
+            "language": "de",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://othes.univie.ac.at/16030/1/2011-09-02_0404511.pdf",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5029233788",
+                        "display_name": "Karl E. Prikopa",
+                        "orcid": "https://orcid.org/0000-0002-3681-9339"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Karl E. Prikopa",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5029233788"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.318,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.442096,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 65,
+                "max": 72
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11697",
+                "display_name": "Floating-Point Arithmetic in Scientific Computation",
+                "score": 0.9995,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1703",
+                    "display_name": "Computational Theory and Mathematics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11697",
+                    "display_name": "Floating-Point Arithmetic in Scientific Computation",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9963,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10363",
+                    "display_name": "Low-Power VLSI Circuit Design and Optimization",
+                    "score": 0.9864,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.517152
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-precision-computation",
+                    "display_name": "High-Precision Computation",
+                    "score": 0.510623
+                },
+                {
+                    "id": "https://openalex.org/keywords/approximate-computing",
+                    "display_name": "Approximate Computing",
+                    "score": 0.504418
+                },
+                {
+                    "id": "https://openalex.org/keywords/accuracy-guaranteed-bit-width-optimization",
+                    "display_name": "Accuracy-Guaranteed Bit-Width Optimization",
+                    "score": 0.50316
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.48083198
+                },
+                {
+                    "id": "https://openalex.org/C159694833",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+                    "display_name": "Iterative method",
+                    "level": 2,
+                    "score": 0.4491666
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.4121371
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.34530511
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://othes.univie.ac.at/16030/1/2011-09-02_0404511.pdf",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 22,
+            "referenced_works": [
+                "https://openalex.org/W1669598709",
+                "https://openalex.org/W187041579",
+                "https://openalex.org/W1871270088",
+                "https://openalex.org/W1965351873",
+                "https://openalex.org/W1966287322",
+                "https://openalex.org/W1967281400",
+                "https://openalex.org/W1988201922",
+                "https://openalex.org/W2000833532",
+                "https://openalex.org/W2032875563",
+                "https://openalex.org/W2052534905",
+                "https://openalex.org/W2053489736",
+                "https://openalex.org/W2073677307",
+                "https://openalex.org/W2075453197",
+                "https://openalex.org/W2088391536",
+                "https://openalex.org/W2094337817",
+                "https://openalex.org/W2111593426",
+                "https://openalex.org/W2119623923",
+                "https://openalex.org/W2124661136",
+                "https://openalex.org/W2168775671",
+                "https://openalex.org/W2169178492",
+                "https://openalex.org/W2207050309",
+                "https://openalex.org/W2548341626"
+            ],
+            "related_works": [],
+            "abstract_inverted_index": {
+                "Iterative": [
+                    0,
+                    51,
+                    62,
+                    75,
+                    92,
+                    110,
+                    160
+                ],
+                "Refinement": [
+                    1,
+                    63,
+                    76,
+                    93,
+                    161
+                ],
+                "ist": [
+                    2
+                ],
+                "eine": [
+                    3,
+                    65
+                ],
+                "weitverbreitete": [
+                    4
+                ],
+                "Methode": [
+                    5
+                ],
+                "um": [
+                    6,
+                    68,
+                    84,
+                    94,
+                    217
+                ],
+                "die": [
+                    7,
+                    57,
+                    78,
+                    95,
+                    113,
+                    132,
+                    147,
+                    168,
+                    172,
+                    207,
+                    218
+                ],
+                "Rundungsfehler": [
+                    8
+                ],
+                "einer": [
+                    9
+                ],
+                "Losung": [
+                    10
+                ],
+                "eines": [
+                    11
+                ],
+                "linearen": [
+                    12
+                ],
+                "Gleichungssystems": [
+                    13
+                ],
+                "zu": [
+                    14,
+                    26,
+                    35,
+                    71,
+                    87,
+                    100,
+                    225
+                ],
+                "verbessern.": [
+                    15,
+                    72
+                ],
+                "Die": [
+                    16,
+                    144,
+                    188
+                ],
+                "Kosten": [
+                    17,
+                    28
+                ],
+                "der": [
+                    18,
+                    29,
+                    124,
+                    174,
+                    182,
+                    209,
+                    220
+                ],
+                "iterativen": [
+                    19
+                ],
+                "Verbesserung": [
+                    20
+                ],
+                "sind": [
+                    21
+                ],
+                "sehr": [
+                    22
+                ],
+                "gering": [
+                    23
+                ],
+                "im": [
+                    24
+                ],
+                "Vergleich": [
+                    25
+                ],
+                "den": [
+                    27,
+                    117,
+                    139
+                ],
+                "Matrixfaktorisierung,": [
+                    30
+                ],
+                "das": [
+                    31,
+                    69,
+                    85
+                ],
+                "Verfahren": [
+                    32,
+                    175
+                ],
+                "fuhrt": [
+                    33
+                ],
+                "aber": [
+                    34
+                ],
+                "einem": [
+                    36
+                ],
+                "Ergebnis": [
+                    37,
+                    70,
+                    86
+                ],
+                "welches": [
+                    38,
+                    112
+                ],
+                "bis": [
+                    39
+                ],
+                "zur": [
+                    40
+                ],
+                "Maschinengenauigkeit": [
+                    41
+                ],
+                "korrekt": [
+                    42
+                ],
+                "sein": [
+                    43
+                ],
+                "kann.": [
+                    44
+                ],
+                "Es": [
+                    45
+                ],
+                "existieren": [
+                    46
+                ],
+                "viele": [
+                    47
+                ],
+                "Variationen": [
+                    48
+                ],
+                "des": [
+                    49,
+                    98
+                ],
+                "Standard": [
+                    50
+                ],
+                "Refinements,": [
+                    52
+                ],
+                "welche": [
+                    53,
+                    129,
+                    137,
+                    155
+                ],
+                "verschiedenen": [
+                    54,
+                    189,
+                    210,
+                    221
+                ],
+                "Arbeitsgenauigkeiten": [
+                    55,
+                    114
+                ],
+                "fur": [
+                    56
+                ],
+                "Berechnungen": [
+                    58
+                ],
+                "verwenden.": [
+                    59
+                ],
+                "Extra": [
+                    60
+                ],
+                "Precise": [
+                    61
+                ],
+                "verwendet": [
+                    64,
+                    90
+                ],
+                "hohere": [
+                    66,
+                    96
+                ],
+                "Genauigkeit,": [
+                    67
+                ],
+                "Mixed": [
+                    73
+                ],
+                "Precision": [
+                    74
+                ],
+                "versucht": [
+                    77
+                ],
+                "Vorteile": [
+                    79
+                ],
+                "von": [
+                    80,
+                    126,
+                    138,
+                    149
+                ],
+                "niedrigeren": [
+                    81
+                ],
+                "Genauigkeiten": [
+                    82,
+                    190
+                ],
+                "auszunutzen,": [
+                    83
+                ],
+                "berechnen": [
+                    88
+                ],
+                "und": [
+                    89,
+                    152,
+                    164,
+                    171,
+                    195
+                ],
+                "anschliesend": [
+                    91
+                ],
+                "Genauigkeit": [
+                    97,
+                    170,
+                    178
+                ],
+                "Ergebnisses": [
+                    99
+                ],
+                "gewahrleisten.\r\n\r\nDer": [
+                    101
+                ],
+                "Fokus": [
+                    102
+                ],
+                "dieser": [
+                    103
+                ],
+                "Masterarbeit": [
+                    104,
+                    145
+                ],
+                "liegt": [
+                    105
+                ],
+                "auf": [
+                    106,
+                    116,
+                    123,
+                    131,
+                    167
+                ],
+                "dem": [
+                    107
+                ],
+                "Binary": [
+                    108
+                ],
+                "Cascade": [
+                    109
+                ],
+                "Refinement,": [
+                    111
+                ],
+                "basierend": [
+                    115
+                ],
+                "Eingabedaten": [
+                    118
+                ],
+                "wahlt.": [
+                    119
+                ],
+                "Dieser": [
+                    120
+                ],
+                "Algorithmus": [
+                    121,
+                    157
+                ],
+                "beruht": [
+                    122
+                ],
+                "Verwendung": [
+                    125,
+                    208
+                ],
+                "beliebigen": [
+                    127
+                ],
+                "Genauigkeiten,": [
+                    128
+                ],
+                "nicht": [
+                    130
+                ],
+                "IEEE": [
+                    133
+                ],
+                "Standarddatentypen": [
+                    134
+                ],
+                "beschrankt": [
+                    135
+                ],
+                "sind,": [
+                    136
+                ],
+                "meisten": [
+                    140
+                ],
+                "Hardwareherstellern": [
+                    141
+                ],
+                "unterstutzt": [
+                    142
+                ],
+                "werden.": [
+                    143
+                ],
+                "wird": [
+                    146,
+                    179,
+                    213,
+                    228
+                ],
+                "Eigenschaften": [
+                    148
+                ],
+                "BCIR": [
+                    150
+                ],
+                "analysieren": [
+                    151
+                ],
+                "Experimente": [
+                    153
+                ],
+                "durchfuhren,": [
+                    154
+                ],
+                "diesen": [
+                    156
+                ],
+                "mit": [
+                    158,
+                    180
+                ],
+                "anderen": [
+                    159
+                ],
+                "Methoden": [
+                    162,
+                    222
+                ],
+                "vergleichen": [
+                    163,
+                    224
+                ],
+                "besondere": [
+                    165
+                ],
+                "Aufmerksamkeit": [
+                    166
+                ],
+                "numerische": [
+                    169
+                ],
+                "Konvergenz": [
+                    173
+                ],
+                "legen.\r\n\r\nDie": [
+                    176
+                ],
+                "beliebige": [
+                    177
+                ],
+                "Hilfe": [
+                    181
+                ],
+                "Software": [
+                    183,
+                    193
+                ],
+                "Bibliothek": [
+                    184
+                ],
+                "GNU": [
+                    185
+                ],
+                "MPFR": [
+                    186
+                ],
+                "implementiert.": [
+                    187
+                ],
+                "werden": [
+                    191
+                ],
+                "in": [
+                    192
+                ],
+                "simuliert": [
+                    194
+                ],
+                "liefern": [
+                    196
+                ],
+                "daher": [
+                    197
+                ],
+                "keine": [
+                    198
+                ],
+                "aussagekraftigen": [
+                    199
+                ],
+                "Informationen": [
+                    200
+                ],
+                "uber": [
+                    201,
+                    230
+                ],
+                "einen": [
+                    202
+                ],
+                "Performancegewinn": [
+                    203
+                ],
+                "oder": [
+                    204
+                ],
+                "-verlust": [
+                    205
+                ],
+                "durch": [
+                    206
+                ],
+                "Genauigkeiten.": [
+                    211
+                ],
+                "Daher": [
+                    212
+                ],
+                "ein": [
+                    214
+                ],
+                "Performancemodel": [
+                    215
+                ],
+                "vorgestellt,": [
+                    216
+                ],
+                "Performance": [
+                    219
+                ],
+                "miteinander": [
+                    223
+                ],
+                "konnen.": [
+                    226
+                ],
+                "Dies": [
+                    227
+                ],
+                "Aufschluss": [
+                    229
+                ],
+                "mogliche": [
+                    231
+                ],
+                "Performancegewinne": [
+                    232
+                ],
+                "geben.": [
+                    233
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2123648001",
+            "counts_by_year": [
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T23:00:45.647171",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

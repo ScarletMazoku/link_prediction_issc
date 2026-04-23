@@ -1,0 +1,986 @@
+{
+    "meta": {
+        "count": 1,
+        "db_response_time_ms": 47,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4382703272",
+            "doi": "https://doi.org/10.1007/978-3-031-36021-3_55",
+            "title": "Towards Understanding of Deep Reinforcement Learning Agents Used in Cloud Resource Management",
+            "display_name": "Towards Understanding of Deep Reinforcement Learning Agents Used in Cloud Resource Management",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4382703272",
+                "doi": "https://doi.org/10.1007/978-3-031-36021-3_55"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-031-36021-3_55",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5092369180",
+                        "display_name": "Andrzej Małota",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210087266",
+                            "display_name": "Institute of Computer Science",
+                            "ror": "https://ror.org/003fvp964",
+                            "country_code": "PL",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I99542240"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I126596746",
+                            "display_name": "Jagiellonian University",
+                            "ror": "https://ror.org/03bqmcz70",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I126596746"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Andrzej Małota",
+                    "raw_affiliation_strings": [
+                        "Faculty of Computer Science, Electronics and Telecommunication, Institute of Computer Science, AGH University of Krakow, al. Mickiewicza 30, 30-059, Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Faculty of Computer Science, Electronics and Telecommunication, Institute of Computer Science, AGH University of Krakow, al. Mickiewicza 30, 30-059, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019",
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I126596746"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055444119",
+                        "display_name": "Paweł Koperek",
+                        "orcid": "https://orcid.org/0000-0003-3613-2390"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210087266",
+                            "display_name": "Institute of Computer Science",
+                            "ror": "https://ror.org/003fvp964",
+                            "country_code": "PL",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I99542240"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I126596746",
+                            "display_name": "Jagiellonian University",
+                            "ror": "https://ror.org/03bqmcz70",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I126596746"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paweł Koperek",
+                    "raw_affiliation_strings": [
+                        "Faculty of Computer Science, Electronics and Telecommunication, Institute of Computer Science, AGH University of Krakow, al. Mickiewicza 30, 30-059, Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Faculty of Computer Science, Electronics and Telecommunication, Institute of Computer Science, AGH University of Krakow, al. Mickiewicza 30, 30-059, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019",
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I126596746"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5017653157",
+                        "display_name": "Włodzimierz Funika",
+                        "orcid": "https://orcid.org/0000-0003-3321-7348"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210087266",
+                            "display_name": "Institute of Computer Science",
+                            "ror": "https://ror.org/003fvp964",
+                            "country_code": "PL",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I99542240"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I126596746",
+                            "display_name": "Jagiellonian University",
+                            "ror": "https://ror.org/03bqmcz70",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I126596746"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Włodzimierz Funika",
+                    "raw_affiliation_strings": [
+                        "Faculty of Computer Science, Electronics and Telecommunication, Institute of Computer Science, AGH University of Krakow, al. Mickiewicza 30, 30-059, Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Faculty of Computer Science, Electronics and Telecommunication, Institute of Computer Science, AGH University of Krakow, al. Mickiewicza 30, 30-059, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I126596746",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "561",
+                "last_page": "575"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12026",
+                "display_name": "Explainable Artificial Intelligence",
+                "score": 0.9991,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12026",
+                    "display_name": "Explainable Artificial Intelligence",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11689",
+                    "display_name": "Adversarial Robustness in Deep Learning Models",
+                    "score": 0.9924,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12761",
+                    "display_name": "Adaptation to Concept Drift in Data Streams",
+                    "score": 0.9762,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/deep-learning",
+                    "display_name": "Deep Learning",
+                    "score": 0.508562
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C97541855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q830687",
+                    "display_name": "Reinforcement learning",
+                    "level": 2,
+                    "score": 0.8268839
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.81753945
+                },
+                {
+                    "id": "https://openalex.org/C79974875",
+                    "wikidata": "https://www.wikidata.org/wiki/Q483639",
+                    "display_name": "Cloud computing",
+                    "level": 2,
+                    "score": 0.79179764
+                },
+                {
+                    "id": "https://openalex.org/C5119721",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220501",
+                    "display_name": "Quality of service",
+                    "level": 2,
+                    "score": 0.5669888
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.5229931
+                },
+                {
+                    "id": "https://openalex.org/C2780233690",
+                    "wikidata": "https://www.wikidata.org/wiki/Q535347",
+                    "display_name": "Transparency (behavior)",
+                    "level": 2,
+                    "score": 0.4752462
+                },
+                {
+                    "id": "https://openalex.org/C2779530757",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+                    "display_name": "Quality (philosophy)",
+                    "level": 2,
+                    "score": 0.42306018
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.4088213
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.27104574
+                },
+                {
+                    "id": "https://openalex.org/C31258907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+                    "display_name": "Computer network",
+                    "level": 1,
+                    "score": 0.08716893
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C111472728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9471",
+                    "display_name": "Epistemology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-031-36021-3_55",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "score": 0.44,
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 21,
+            "referenced_works": [
+                "https://openalex.org/W2051813070",
+                "https://openalex.org/W2165918425",
+                "https://openalex.org/W2282821441",
+                "https://openalex.org/W2736601468",
+                "https://openalex.org/W2736768677",
+                "https://openalex.org/W2754431293",
+                "https://openalex.org/W2765615734",
+                "https://openalex.org/W2783992985",
+                "https://openalex.org/W2792641098",
+                "https://openalex.org/W2981030070",
+                "https://openalex.org/W2981731882",
+                "https://openalex.org/W3011398902",
+                "https://openalex.org/W3035721219",
+                "https://openalex.org/W3035902070",
+                "https://openalex.org/W3100003809",
+                "https://openalex.org/W3102564565",
+                "https://openalex.org/W4225834215",
+                "https://openalex.org/W4252214219",
+                "https://openalex.org/W4292638997",
+                "https://openalex.org/W4295720520",
+                "https://openalex.org/W4297789758"
+            ],
+            "related_works": [
+                "https://openalex.org/W4210409506",
+                "https://openalex.org/W3036432313",
+                "https://openalex.org/W3020146686",
+                "https://openalex.org/W2987106317",
+                "https://openalex.org/W2963616097",
+                "https://openalex.org/W2376125216",
+                "https://openalex.org/W2057320978",
+                "https://openalex.org/W2046698369",
+                "https://openalex.org/W1997415650",
+                "https://openalex.org/W1751052531"
+            ],
+            "abstract_inverted_index": {
+                "Cloud": [
+                    0
+                ],
+                "computing": [
+                    1,
+                    12,
+                    17
+                ],
+                "resource": [
+                    2
+                ],
+                "management": [
+                    3
+                ],
+                "is": [
+                    4,
+                    38,
+                    85,
+                    94,
+                    105
+                ],
+                "a": [
+                    5,
+                    20,
+                    32,
+                    66,
+                    91,
+                    118,
+                    126,
+                    174
+                ],
+                "critical": [
+                    6
+                ],
+                "component": [
+                    7
+                ],
+                "of": [
+                    8,
+                    27,
+                    75,
+                    78,
+                    80,
+                    110,
+                    154,
+                    166,
+                    176
+                ],
+                "the": [
+                    9,
+                    25,
+                    28,
+                    76,
+                    98,
+                    129,
+                    150,
+                    159,
+                    164,
+                    167
+                ],
+                "modern": [
+                    10
+                ],
+                "cloud": [
+                    11
+                ],
+                "platforms,": [
+                    13
+                ],
+                "aimed": [
+                    14
+                ],
+                "to": [
+                    15,
+                    45,
+                    88,
+                    107,
+                    134,
+                    144,
+                    173
+                ],
+                "manage": [
+                    16
+                ],
+                "resources": [
+                    18
+                ],
+                "for": [
+                    19
+                ],
+                "given": [
+                    21,
+                    117
+                ],
+                "application": [
+                    22
+                ],
+                "by": [
+                    23,
+                    139,
+                    170
+                ],
+                "minimizing": [
+                    24
+                ],
+                "cost": [
+                    26
+                ],
+                "infrastructure": [
+                    29
+                ],
+                "while": [
+                    30
+                ],
+                "maintaining": [
+                    31
+                ],
+                "Quality-of-Service": [
+                    33
+                ],
+                "(QoS)": [
+                    34
+                ],
+                "conditions.": [
+                    35
+                ],
+                "This": [
+                    36,
+                    142
+                ],
+                "task": [
+                    37
+                ],
+                "usually": [
+                    39
+                ],
+                "solved": [
+                    40
+                ],
+                "using": [
+                    41
+                ],
+                "rule-based": [
+                    42
+                ],
+                "policies.": [
+                    43,
+                    83
+                ],
+                "Due": [
+                    44
+                ],
+                "their": [
+                    46
+                ],
+                "limitations": [
+                    47
+                ],
+                "more": [
+                    48
+                ],
+                "complex": [
+                    49
+                ],
+                "solutions,": [
+                    50
+                ],
+                "such": [
+                    51,
+                    63
+                ],
+                "as": [
+                    52,
+                    72
+                ],
+                "Deep": [
+                    53,
+                    135
+                ],
+                "Reinforcement": [
+                    54
+                ],
+                "Learning": [
+                    55
+                ],
+                "(DRL)": [
+                    56
+                ],
+                "agents": [
+                    57,
+                    64
+                ],
+                "are": [
+                    58
+                ],
+                "being": [
+                    59
+                ],
+                "researched.": [
+                    60
+                ],
+                "Unfortunately,": [
+                    61
+                ],
+                "deploying": [
+                    62
+                ],
+                "in": [
+                    65,
+                    100
+                ],
+                "production": [
+                    67
+                ],
+                "environment": [
+                    68
+                ],
+                "can": [
+                    69
+                ],
+                "be": [
+                    70
+                ],
+                "seen": [
+                    71
+                ],
+                "risky": [
+                    73
+                ],
+                "because": [
+                    74
+                ],
+                "lack": [
+                    77
+                ],
+                "transparency": [
+                    79
+                ],
+                "DRL": [
+                    81,
+                    101,
+                    140,
+                    182
+                ],
+                "decision-making": [
+                    82
+                ],
+                "There": [
+                    84
+                ],
+                "no": [
+                    86
+                ],
+                "way": [
+                    87
+                ],
+                "know": [
+                    89
+                ],
+                "why": [
+                    90,
+                    112
+                ],
+                "certain": [
+                    92,
+                    113
+                ],
+                "decision": [
+                    93
+                ],
+                "made.": [
+                    95
+                ],
+                "To": [
+                    96
+                ],
+                "foster": [
+                    97
+                ],
+                "trust": [
+                    99
+                ],
+                "generated": [
+                    102
+                ],
+                "policies": [
+                    103
+                ],
+                "it": [
+                    104,
+                    172
+                ],
+                "important": [
+                    106
+                ],
+                "provide": [
+                    108
+                ],
+                "means": [
+                    109
+                ],
+                "explaining": [
+                    111
+                ],
+                "decisions": [
+                    114
+                ],
+                "were": [
+                    115
+                ],
+                "made": [
+                    116
+                ],
+                "specific": [
+                    119
+                ],
+                "input.": [
+                    120
+                ],
+                "In": [
+                    121
+                ],
+                "this": [
+                    122
+                ],
+                "paper": [
+                    123
+                ],
+                "we": [
+                    124
+                ],
+                "present": [
+                    125
+                ],
+                "tool": [
+                    127
+                ],
+                "applying": [
+                    128,
+                    171
+                ],
+                "Integrated": [
+                    130
+                ],
+                "Gradients": [
+                    131
+                ],
+                "(IG)": [
+                    132
+                ],
+                "method": [
+                    133
+                ],
+                "Neural": [
+                    136
+                ],
+                "Networks": [
+                    137
+                ],
+                "used": [
+                    138
+                ],
+                "algorithms.": [
+                    141
+                ],
+                "allowed": [
+                    143
+                ],
+                "obtain": [
+                    145
+                ],
+                "feature": [
+                    146
+                ],
+                "attributions": [
+                    147
+                ],
+                "that": [
+                    148
+                ],
+                "show": [
+                    149
+                ],
+                "magnitude": [
+                    151
+                ],
+                "and": [
+                    152
+                ],
+                "direction": [
+                    153
+                ],
+                "each": [
+                    155
+                ],
+                "feature's": [
+                    156
+                ],
+                "influence": [
+                    157
+                ],
+                "on": [
+                    158
+                ],
+                "agent's": [
+                    160
+                ],
+                "decision.": [
+                    161
+                ],
+                "We": [
+                    162
+                ],
+                "verify": [
+                    163
+                ],
+                "viability": [
+                    165
+                ],
+                "proposed": [
+                    168
+                ],
+                "solution": [
+                    169
+                ],
+                "number": [
+                    175
+                ],
+                "sample": [
+                    177
+                ],
+                "use": [
+                    178
+                ],
+                "cases": [
+                    179
+                ],
+                "with": [
+                    180
+                ],
+                "different": [
+                    181
+                ],
+                "agents.": [
+                    183
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4382703272",
+            "counts_by_year": [],
+            "updated_date": "2024-09-19T13:39:34.548573",
+            "created_date": "2023-07-01"
+        }
+    ],
+    "group_by": []
+}

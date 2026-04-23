@@ -1,0 +1,4293 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 29,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W1963750912",
+            "doi": "https://doi.org/10.1109/jstars.2014.2326252",
+            "title": "Efficient Data Structure and Highly Scalable Algorithm for Total-Viewshed Computation",
+            "display_name": "Efficient Data Structure and Highly Scalable Algorithm for Total-Viewshed Computation",
+            "publication_year": 2015,
+            "publication_date": "2015-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1963750912",
+                "doi": "https://doi.org/10.1109/jstars.2014.2326252",
+                "mag": "1963750912"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/jstars.2014.2326252",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S117727964",
+                    "display_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                    "issn_l": "1939-1404",
+                    "issn": [
+                        "1939-1404",
+                        "2151-1535"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319808",
+                    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319808"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electrical and Electronics Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5057876711",
+                        "display_name": "Siham Tabik",
+                        "orcid": "https://orcid.org/0000-0003-4093-5356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Siham Tabik",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5038114406",
+                        "display_name": "Antonio Rodriguez Cervilla",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Antonio R. Cervilla",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5000553837",
+                        "display_name": "Emilio L. Zapata",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Emilio Zapata",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5061737207",
+                        "display_name": "Luis F. Romero",
+                        "orcid": "https://orcid.org/0000-0003-2959-2030"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luis F. Romero",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 1250,
+                "currency": "USD",
+                "value_usd": 1250,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 2.156,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 20,
+            "citation_normalized_percentile": {
+                "value": 0.887946,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 91,
+                "max": 92
+            },
+            "biblio": {
+                "volume": "8",
+                "issue": "1",
+                "first_page": "304",
+                "last_page": "310"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11164",
+                "display_name": "Mapping Forests with Lidar Remote Sensing",
+                "score": 0.9975,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2305",
+                    "display_name": "Environmental Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11164",
+                    "display_name": "Mapping Forests with Lidar Remote Sensing",
+                    "score": 0.9975,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2305",
+                        "display_name": "Environmental Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10191",
+                    "display_name": "Simultaneous Localization and Mapping",
+                    "score": 0.9953,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2202",
+                        "display_name": "Aerospace Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9875,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/viewshed-analysis",
+                    "display_name": "Viewshed analysis",
+                    "score": 0.94389284
+                },
+                {
+                    "id": "https://openalex.org/keywords/geometric-optimization",
+                    "display_name": "Geometric Optimization",
+                    "score": 0.53715
+                },
+                {
+                    "id": "https://openalex.org/keywords/visual-odometry",
+                    "display_name": "Visual Odometry",
+                    "score": 0.50585
+                },
+                {
+                    "id": "https://openalex.org/keywords/algorithm-design",
+                    "display_name": "Algorithm design",
+                    "score": 0.42325735
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24300010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7928833",
+                    "display_name": "Viewshed analysis",
+                    "level": 2,
+                    "score": 0.94389284
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7708802
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.63804716
+                },
+                {
+                    "id": "https://openalex.org/C181843262",
+                    "wikidata": "https://www.wikidata.org/wiki/Q640492",
+                    "display_name": "Digital elevation model",
+                    "level": 2,
+                    "score": 0.62136704
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.58866745
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.5747251
+                },
+                {
+                    "id": "https://openalex.org/C162319229",
+                    "wikidata": "https://www.wikidata.org/wiki/Q175263",
+                    "display_name": "Data structure",
+                    "level": 2,
+                    "score": 0.5211746
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.47197255
+                },
+                {
+                    "id": "https://openalex.org/C106516650",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm design",
+                    "level": 2,
+                    "score": 0.42325735
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.23625597
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.14215058
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/jstars.2014.2326252",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S117727964",
+                        "display_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                        "issn_l": "1939-1404",
+                        "issn": [
+                            "1939-1404",
+                            "2151-1535"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": true,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319808",
+                        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319808"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electrical and Electronics Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/11",
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.42
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 19,
+            "referenced_works": [
+                "https://openalex.org/W1594331830",
+                "https://openalex.org/W1605143842",
+                "https://openalex.org/W1967371417",
+                "https://openalex.org/W2001374582",
+                "https://openalex.org/W2020590137",
+                "https://openalex.org/W2021185330",
+                "https://openalex.org/W2024145315",
+                "https://openalex.org/W2029201188",
+                "https://openalex.org/W2043260551",
+                "https://openalex.org/W2058624632",
+                "https://openalex.org/W2082299402",
+                "https://openalex.org/W2100188364",
+                "https://openalex.org/W2104917647",
+                "https://openalex.org/W2121557370",
+                "https://openalex.org/W2129459042",
+                "https://openalex.org/W2142959563",
+                "https://openalex.org/W2294611568",
+                "https://openalex.org/W2756691713",
+                "https://openalex.org/W3000647221"
+            ],
+            "related_works": [
+                "https://openalex.org/W38707270",
+                "https://openalex.org/W3095366383",
+                "https://openalex.org/W2804091777",
+                "https://openalex.org/W2621351484",
+                "https://openalex.org/W2381869224",
+                "https://openalex.org/W2161385666",
+                "https://openalex.org/W2160601578",
+                "https://openalex.org/W2119753946",
+                "https://openalex.org/W2009341590",
+                "https://openalex.org/W1963750912"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "an": [
+                    3
+                ],
+                "efficient": [
+                    4
+                ],
+                "and": [
+                    5,
+                    66,
+                    75,
+                    82
+                ],
+                "highly": [
+                    6
+                ],
+                "scalable": [
+                    7
+                ],
+                "algorithm,": [
+                    8
+                ],
+                "designed": [
+                    9
+                ],
+                "from": [
+                    10
+                ],
+                "scratch,": [
+                    11
+                ],
+                "to": [
+                    12,
+                    25,
+                    33,
+                    38,
+                    54,
+                    70
+                ],
+                "calculate": [
+                    13
+                ],
+                "total-viewshed": [
+                    14
+                ],
+                "in": [
+                    15
+                ],
+                "large": [
+                    16,
+                    86
+                ],
+                "high-resolution": [
+                    17
+                ],
+                "digital": [
+                    18
+                ],
+                "elevation": [
+                    19
+                ],
+                "models": [
+                    20
+                ],
+                "(DEMs)": [
+                    21
+                ],
+                "without": [
+                    22
+                ],
+                "restrictions": [
+                    23
+                ],
+                "as": [
+                    24
+                ],
+                "whether": [
+                    26
+                ],
+                "or": [
+                    27
+                ],
+                "not": [
+                    28
+                ],
+                "the": [
+                    29,
+                    34,
+                    39,
+                    43,
+                    48,
+                    56,
+                    61,
+                    72,
+                    77,
+                    85,
+                    95,
+                    99,
+                    102
+                ],
+                "observer": [
+                    30
+                ],
+                "is": [
+                    31,
+                    98
+                ],
+                "linked": [
+                    32
+                ],
+                "ground.": [
+                    35
+                ],
+                "The": [
+                    36,
+                    90
+                ],
+                "keys": [
+                    37
+                ],
+                "high": [
+                    40,
+                    78
+                ],
+                "efficiency": [
+                    41
+                ],
+                "of": [
+                    42,
+                    50,
+                    58,
+                    63,
+                    80,
+                    88
+                ],
+                "proposed": [
+                    44,
+                    96
+                ],
+                "method": [
+                    45
+                ],
+                "are:": [
+                    46
+                ],
+                "1)": [
+                    47
+                ],
+                "selection": [
+                    49
+                ],
+                "a": [
+                    51,
+                    64
+                ],
+                "reliable": [
+                    52
+                ],
+                "sampling": [
+                    53
+                ],
+                "represent": [
+                    55
+                ],
+                "subareas": [
+                    57
+                ],
+                "study;": [
+                    59
+                ],
+                "2)": [
+                    60
+                ],
+                "use": [
+                    62
+                ],
+                "compact": [
+                    65
+                ],
+                "stable": [
+                    67
+                ],
+                "data": [
+                    68,
+                    81
+                ],
+                "structure": [
+                    69
+                ],
+                "store": [
+                    71
+                ],
+                "calculated": [
+                    73
+                ],
+                "data;": [
+                    74
+                ],
+                "3)": [
+                    76
+                ],
+                "reutilization": [
+                    79
+                ],
+                "calculation": [
+                    83
+                ],
+                "between": [
+                    84
+                ],
+                "number": [
+                    87
+                ],
+                "viewpoints.": [
+                    89
+                ],
+                "obtained": [
+                    91
+                ],
+                "results": [
+                    92
+                ],
+                "demonstrate": [
+                    93
+                ],
+                "that": [
+                    94
+                ],
+                "algorithm": [
+                    97
+                ],
+                "fastest": [
+                    100
+                ],
+                "over": [
+                    101
+                ],
+                "most": [
+                    103
+                ],
+                "commonly": [
+                    104
+                ],
+                "used": [
+                    105
+                ],
+                "GIS-software": [
+                    106
+                ],
+                "showing": [
+                    107
+                ],
+                "very": [
+                    108
+                ],
+                "similar": [
+                    109
+                ],
+                "numerical": [
+                    110
+                ],
+                "accuracy.": [
+                    111
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1963750912",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-08-31T14:20:43.521225",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1963750912",
+            "doi": "https://doi.org/10.1109/jstars.2014.2326252",
+            "title": "Efficient Data Structure and Highly Scalable Algorithm for Total-Viewshed Computation",
+            "display_name": "Efficient Data Structure and Highly Scalable Algorithm for Total-Viewshed Computation",
+            "publication_year": 2014,
+            "publication_date": "2014-06-19",
+            "ids": {
+                "openalex": "https://openalex.org/W1963750912",
+                "doi": "https://doi.org/10.1109/jstars.2014.2326252",
+                "mag": "1963750912"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/jstars.2014.2326252",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S117727964",
+                    "display_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                    "issn_l": "1939-1404",
+                    "issn": [
+                        "1939-1404",
+                        "2151-1535"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319808",
+                    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319808"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electrical and Electronics Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5057876711",
+                        "display_name": "Siham Tabik",
+                        "orcid": "https://orcid.org/0000-0003-4093-5356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Siham Tabik",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5038114406",
+                        "display_name": "Antonio Rodriguez Cervilla",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Antonio R. Cervilla",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5000553837",
+                        "display_name": "Emilio L. Zapata",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Emilio Zapata",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5061737207",
+                        "display_name": "Luis F. Romero",
+                        "orcid": "https://orcid.org/0000-0003-2959-2030"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luis F. Romero",
+                    "raw_affiliation_strings": [
+                        "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Department of Computer Architecture, University of Màlaga, Malaga, Spain]",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 1250,
+                "currency": "USD",
+                "value_usd": 1250,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 2.156,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 20,
+            "citation_normalized_percentile": {
+                "value": 0.887946,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 90,
+                "max": 91
+            },
+            "biblio": {
+                "volume": "8",
+                "issue": "1",
+                "first_page": "304",
+                "last_page": "310"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11164",
+                "display_name": "Mapping Forests with Lidar Remote Sensing",
+                "score": 0.9975,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2305",
+                    "display_name": "Environmental Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11164",
+                    "display_name": "Mapping Forests with Lidar Remote Sensing",
+                    "score": 0.9975,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2305",
+                        "display_name": "Environmental Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10191",
+                    "display_name": "Simultaneous Localization and Mapping",
+                    "score": 0.9953,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2202",
+                        "display_name": "Aerospace Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9875,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/viewshed-analysis",
+                    "display_name": "Viewshed analysis",
+                    "score": 0.94389284
+                },
+                {
+                    "id": "https://openalex.org/keywords/geometric-optimization",
+                    "display_name": "Geometric Optimization",
+                    "score": 0.53715
+                },
+                {
+                    "id": "https://openalex.org/keywords/visual-odometry",
+                    "display_name": "Visual Odometry",
+                    "score": 0.50585
+                },
+                {
+                    "id": "https://openalex.org/keywords/algorithm-design",
+                    "display_name": "Algorithm design",
+                    "score": 0.42325735
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24300010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7928833",
+                    "display_name": "Viewshed analysis",
+                    "level": 2,
+                    "score": 0.94389284
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7708802
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.63804716
+                },
+                {
+                    "id": "https://openalex.org/C181843262",
+                    "wikidata": "https://www.wikidata.org/wiki/Q640492",
+                    "display_name": "Digital elevation model",
+                    "level": 2,
+                    "score": 0.62136704
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.58866745
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.5747251
+                },
+                {
+                    "id": "https://openalex.org/C162319229",
+                    "wikidata": "https://www.wikidata.org/wiki/Q175263",
+                    "display_name": "Data structure",
+                    "level": 2,
+                    "score": 0.5211746
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.47197255
+                },
+                {
+                    "id": "https://openalex.org/C106516650",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm design",
+                    "level": 2,
+                    "score": 0.42325735
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.23625597
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.14215058
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/jstars.2014.2326252",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S117727964",
+                        "display_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+                        "issn_l": "1939-1404",
+                        "issn": [
+                            "1939-1404",
+                            "2151-1535"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": true,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319808",
+                        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319808"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electrical and Electronics Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/11",
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.42
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 19,
+            "referenced_works": [
+                "https://openalex.org/W1594331830",
+                "https://openalex.org/W1605143842",
+                "https://openalex.org/W1967371417",
+                "https://openalex.org/W2001374582",
+                "https://openalex.org/W2020590137",
+                "https://openalex.org/W2021185330",
+                "https://openalex.org/W2024145315",
+                "https://openalex.org/W2029201188",
+                "https://openalex.org/W2043260551",
+                "https://openalex.org/W2058624632",
+                "https://openalex.org/W2082299402",
+                "https://openalex.org/W2100188364",
+                "https://openalex.org/W2104917647",
+                "https://openalex.org/W2121557370",
+                "https://openalex.org/W2129459042",
+                "https://openalex.org/W2142959563",
+                "https://openalex.org/W2294611568",
+                "https://openalex.org/W2756691713",
+                "https://openalex.org/W3000647221"
+            ],
+            "related_works": [
+                "https://openalex.org/W38707270",
+                "https://openalex.org/W3095366383",
+                "https://openalex.org/W2804091777",
+                "https://openalex.org/W2621351484",
+                "https://openalex.org/W2381869224",
+                "https://openalex.org/W2161385666",
+                "https://openalex.org/W2160601578",
+                "https://openalex.org/W2119753946",
+                "https://openalex.org/W2009341590",
+                "https://openalex.org/W1963750912"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "an": [
+                    3
+                ],
+                "efficient": [
+                    4
+                ],
+                "and": [
+                    5,
+                    66,
+                    75,
+                    82
+                ],
+                "highly": [
+                    6
+                ],
+                "scalable": [
+                    7
+                ],
+                "algorithm,": [
+                    8
+                ],
+                "designed": [
+                    9
+                ],
+                "from": [
+                    10
+                ],
+                "scratch,": [
+                    11
+                ],
+                "to": [
+                    12,
+                    25,
+                    33,
+                    38,
+                    54,
+                    70
+                ],
+                "calculate": [
+                    13
+                ],
+                "total-viewshed": [
+                    14
+                ],
+                "in": [
+                    15
+                ],
+                "large": [
+                    16,
+                    86
+                ],
+                "high-resolution": [
+                    17
+                ],
+                "digital": [
+                    18
+                ],
+                "elevation": [
+                    19
+                ],
+                "models": [
+                    20
+                ],
+                "(DEMs)": [
+                    21
+                ],
+                "without": [
+                    22
+                ],
+                "restrictions": [
+                    23
+                ],
+                "as": [
+                    24
+                ],
+                "whether": [
+                    26
+                ],
+                "or": [
+                    27
+                ],
+                "not": [
+                    28
+                ],
+                "the": [
+                    29,
+                    34,
+                    39,
+                    43,
+                    48,
+                    56,
+                    61,
+                    72,
+                    77,
+                    85,
+                    95,
+                    99,
+                    102
+                ],
+                "observer": [
+                    30
+                ],
+                "is": [
+                    31,
+                    98
+                ],
+                "linked": [
+                    32
+                ],
+                "ground.": [
+                    35
+                ],
+                "The": [
+                    36,
+                    90
+                ],
+                "keys": [
+                    37
+                ],
+                "high": [
+                    40,
+                    78
+                ],
+                "efficiency": [
+                    41
+                ],
+                "of": [
+                    42,
+                    50,
+                    58,
+                    63,
+                    80,
+                    88
+                ],
+                "proposed": [
+                    44,
+                    96
+                ],
+                "method": [
+                    45
+                ],
+                "are:": [
+                    46
+                ],
+                "1)": [
+                    47
+                ],
+                "selection": [
+                    49
+                ],
+                "a": [
+                    51,
+                    64
+                ],
+                "reliable": [
+                    52
+                ],
+                "sampling": [
+                    53
+                ],
+                "represent": [
+                    55
+                ],
+                "subareas": [
+                    57
+                ],
+                "study;": [
+                    59
+                ],
+                "2)": [
+                    60
+                ],
+                "use": [
+                    62
+                ],
+                "compact": [
+                    65
+                ],
+                "stable": [
+                    67
+                ],
+                "data": [
+                    68,
+                    81
+                ],
+                "structure": [
+                    69
+                ],
+                "store": [
+                    71
+                ],
+                "calculated": [
+                    73
+                ],
+                "data;": [
+                    74
+                ],
+                "3)": [
+                    76
+                ],
+                "reutilization": [
+                    79
+                ],
+                "calculation": [
+                    83
+                ],
+                "between": [
+                    84
+                ],
+                "number": [
+                    87
+                ],
+                "viewpoints.": [
+                    89
+                ],
+                "obtained": [
+                    91
+                ],
+                "results": [
+                    92
+                ],
+                "demonstrate": [
+                    93
+                ],
+                "that": [
+                    94
+                ],
+                "algorithm": [
+                    97
+                ],
+                "fastest": [
+                    100
+                ],
+                "over": [
+                    101
+                ],
+                "most": [
+                    103
+                ],
+                "commonly": [
+                    104
+                ],
+                "used": [
+                    105
+                ],
+                "GIS-software": [
+                    106
+                ],
+                "showing": [
+                    107
+                ],
+                "very": [
+                    108
+                ],
+                "similar": [
+                    109
+                ],
+                "numerical": [
+                    110
+                ],
+                "accuracy.": [
+                    111
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1963750912",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-17T11:17:34.461712",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2466586253",
+            "doi": "https://doi.org/10.1111/tgis.12216",
+            "title": "Total 3D‐viewshed Map: Quantifying the Visible Volume in Digital Elevation Models",
+            "display_name": "Total 3D‐viewshed Map: Quantifying the Visible Volume in Digital Elevation Models",
+            "publication_year": 2016,
+            "publication_date": "2016-07-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2466586253",
+                "doi": "https://doi.org/10.1111/tgis.12216",
+                "mag": "2466586253"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1111/tgis.12216",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S859791518",
+                    "display_name": "Transactions in GIS",
+                    "issn_l": "1361-1682",
+                    "issn": [
+                        "1361-1682",
+                        "1467-9671"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320595",
+                    "host_organization_name": "Wiley",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320595"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Wiley"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://riuma.uma.es/xmlui/bitstream/10630/29115/3/02_2016_TGIS_paisaje3d.pdf",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5038114406",
+                        "display_name": "Antonio Rodriguez Cervilla",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Antonio Rodriguez Cervilla",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Architecture University of Málaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Architecture University of Málaga",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5057876711",
+                        "display_name": "Siham Tabik",
+                        "orcid": "https://orcid.org/0000-0003-4093-5356"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Siham Tabik",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Architecture University of Málaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Architecture University of Málaga",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5001883161",
+                        "display_name": "Jesús Vías",
+                        "orcid": "https://orcid.org/0000-0001-9974-4613"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jesús Vías",
+                    "raw_affiliation_strings": [
+                        "Department of Geography University of Málaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Geography University of Málaga",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5085941848",
+                        "display_name": "Matías F. Mérida Rodríguez",
+                        "orcid": "https://orcid.org/0000-0002-9099-4787"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Matías Mérida",
+                    "raw_affiliation_strings": [
+                        "Department of Geography University of Málaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Geography University of Málaga",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5061737207",
+                        "display_name": "Luis F. Romero",
+                        "orcid": "https://orcid.org/0000-0003-2959-2030"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Luis F. Romero",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Architecture University of Málaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Architecture University of Málaga",
+                            "institution_ids": []
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5038114406",
+                "https://openalex.org/A5057876711",
+                "https://openalex.org/A5001883161",
+                "https://openalex.org/A5085941848",
+                "https://openalex.org/A5061737207"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 3450,
+                "currency": "USD",
+                "value_usd": 3450,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.204,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 11,
+            "citation_normalized_percentile": {
+                "value": 0.821944,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": "21",
+                "issue": "3",
+                "first_page": "591",
+                "last_page": "607"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10531",
+                "display_name": "Stereo Vision and Depth Estimation",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1707",
+                    "display_name": "Computer Vision and Pattern Recognition"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10531",
+                    "display_name": "Stereo Vision and Depth Estimation",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10481",
+                    "display_name": "Computer Graphics and Visualization Techniques",
+                    "score": 0.9993,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10191",
+                    "display_name": "Simultaneous Localization and Mapping",
+                    "score": 0.9989,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2202",
+                        "display_name": "Aerospace Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/viewshed-analysis",
+                    "display_name": "Viewshed analysis",
+                    "score": 0.99839973
+                },
+                {
+                    "id": "https://openalex.org/keywords/visibility",
+                    "display_name": "Visibility",
+                    "score": 0.6383502
+                },
+                {
+                    "id": "https://openalex.org/keywords/visual-odometry",
+                    "display_name": "Visual Odometry",
+                    "score": 0.598501
+                },
+                {
+                    "id": "https://openalex.org/keywords/volume-rendering",
+                    "display_name": "Volume Rendering",
+                    "score": 0.586203
+                },
+                {
+                    "id": "https://openalex.org/keywords/visualization",
+                    "display_name": "Visualization",
+                    "score": 0.583297
+                },
+                {
+                    "id": "https://openalex.org/keywords/3d-mapping",
+                    "display_name": "3D Mapping",
+                    "score": 0.577735
+                },
+                {
+                    "id": "https://openalex.org/keywords/depth-estimation",
+                    "display_name": "Depth Estimation",
+                    "score": 0.555899
+                },
+                {
+                    "id": "https://openalex.org/keywords/elevation",
+                    "display_name": "Elevation (ballistics)",
+                    "score": 0.44009724
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24300010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7928833",
+                    "display_name": "Viewshed analysis",
+                    "level": 2,
+                    "score": 0.99839973
+                },
+                {
+                    "id": "https://openalex.org/C181843262",
+                    "wikidata": "https://www.wikidata.org/wiki/Q640492",
+                    "display_name": "Digital elevation model",
+                    "level": 2,
+                    "score": 0.71637595
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.646054
+                },
+                {
+                    "id": "https://openalex.org/C123403432",
+                    "wikidata": "https://www.wikidata.org/wiki/Q654068",
+                    "display_name": "Visibility",
+                    "level": 2,
+                    "score": 0.6383502
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.49546945
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.4896722
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.4817355
+                },
+                {
+                    "id": "https://openalex.org/C20556612",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4469374",
+                    "display_name": "Volume (thermodynamics)",
+                    "level": 2,
+                    "score": 0.4606142
+                },
+                {
+                    "id": "https://openalex.org/C37054046",
+                    "wikidata": "https://www.wikidata.org/wiki/Q641888",
+                    "display_name": "Elevation (ballistics)",
+                    "level": 2,
+                    "score": 0.44009724
+                },
+                {
+                    "id": "https://openalex.org/C41856607",
+                    "wikidata": "https://www.wikidata.org/wiki/Q483130",
+                    "display_name": "Geographic information system",
+                    "level": 2,
+                    "score": 0.4322773
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.3813359
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.31539637
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.24971002
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.24140641
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.16891211
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.09086916
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1111/tgis.12216",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S859791518",
+                        "display_name": "Transactions in GIS",
+                        "issn_l": "1361-1682",
+                        "issn": [
+                            "1361-1682",
+                            "1467-9671"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320595",
+                        "host_organization_name": "Wiley",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320595"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Wiley"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/10630/29115",
+                    "pdf_url": "https://riuma.uma.es/xmlui/bitstream/10630/29115/3/02_2016_TGIS_paisaje3d.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401385",
+                        "display_name": "Repositorio Institucional de la Universidad de Málaga (University of Málaga)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I82767444",
+                        "host_organization_name": "Universidad de Málaga",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I82767444"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Universidad de Málaga"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://hdl.handle.net/10630/29115",
+                "pdf_url": "https://riuma.uma.es/xmlui/bitstream/10630/29115/3/02_2016_TGIS_paisaje3d.pdf",
+                "source": {
+                    "id": "https://openalex.org/S4306401385",
+                    "display_name": "Repositorio Institucional de la Universidad de Málaga (University of Málaga)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I82767444",
+                    "host_organization_name": "Universidad de Málaga",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I82767444"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Universidad de Málaga"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/15",
+                    "display_name": "Life on land",
+                    "score": 0.6
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 20,
+            "referenced_works": [
+                "https://openalex.org/W1963750912",
+                "https://openalex.org/W1967371417",
+                "https://openalex.org/W1969136789",
+                "https://openalex.org/W2002555321",
+                "https://openalex.org/W2024145315",
+                "https://openalex.org/W2029201188",
+                "https://openalex.org/W2029678389",
+                "https://openalex.org/W2043260551",
+                "https://openalex.org/W2052133213",
+                "https://openalex.org/W2085221126",
+                "https://openalex.org/W2099682186",
+                "https://openalex.org/W2100188364",
+                "https://openalex.org/W2104917647",
+                "https://openalex.org/W2111891265",
+                "https://openalex.org/W2121557370",
+                "https://openalex.org/W2129056423",
+                "https://openalex.org/W2885468113",
+                "https://openalex.org/W3000647221",
+                "https://openalex.org/W3033895519",
+                "https://openalex.org/W619873916"
+            ],
+            "related_works": [
+                "https://openalex.org/W4206741056",
+                "https://openalex.org/W3148155918",
+                "https://openalex.org/W3142356932",
+                "https://openalex.org/W2770983078",
+                "https://openalex.org/W2462682329",
+                "https://openalex.org/W2375147464",
+                "https://openalex.org/W2119753946",
+                "https://openalex.org/W2071830897",
+                "https://openalex.org/W2053526712",
+                "https://openalex.org/W1970181469"
+            ],
+            "abstract_inverted_index": {
+                "Abstract": [
+                    0
+                ],
+                "The": [
+                    1,
+                    20
+                ],
+                "3D": [
+                    2,
+                    98
+                ],
+                "perception": [
+                    3,
+                    24
+                ],
+                "of": [
+                    4,
+                    22,
+                    54,
+                    74,
+                    81,
+                    139,
+                    180
+                ],
+                "the": [
+                    5,
+                    35,
+                    40,
+                    46,
+                    52,
+                    72,
+                    79,
+                    103,
+                    110,
+                    122,
+                    133,
+                    159,
+                    178
+                ],
+                "human": [
+                    6
+                ],
+                "eye": [
+                    7
+                ],
+                "is": [
+                    8,
+                    105,
+                    115
+                ],
+                "more": [
+                    9
+                ],
+                "impressive": [
+                    10
+                ],
+                "in": [
+                    11,
+                    16,
+                    29,
+                    48,
+                    64,
+                    90
+                ],
+                "irregular": [
+                    12
+                ],
+                "land": [
+                    13,
+                    18
+                ],
+                "surfaces": [
+                    14
+                ],
+                "than": [
+                    15
+                ],
+                "flat": [
+                    17
+                ],
+                "surfaces.": [
+                    19
+                ],
+                "quantification": [
+                    21
+                ],
+                "this": [
+                    23,
+                    118
+                ],
+                "would": [
+                    25
+                ],
+                "be": [
+                    26,
+                    85
+                ],
+                "very": [
+                    27
+                ],
+                "useful": [
+                    28
+                ],
+                "many": [
+                    30
+                ],
+                "applications.": [
+                    31
+                ],
+                "This": [
+                    32,
+                    156
+                ],
+                "article": [
+                    33,
+                    157
+                ],
+                "presents": [
+                    34,
+                    158
+                ],
+                "first": [
+                    36,
+                    123,
+                    160
+                ],
+                "approach": [
+                    37,
+                    124
+                ],
+                "to": [
+                    38,
+                    97,
+                    101,
+                    125,
+                    176
+                ],
+                "determining": [
+                    39
+                ],
+                "visible": [
+                    41,
+                    134
+                ],
+                "volume,": [
+                    42
+                ],
+                "which": [
+                    43,
+                    77
+                ],
+                "we": [
+                    44,
+                    120,
+                    144
+                ],
+                "call": [
+                    45
+                ],
+                "3D‐viewshed,": [
+                    47
+                ],
+                "each": [
+                    49
+                ],
+                "and": [
+                    50,
+                    153,
+                    167
+                ],
+                "all": [
+                    51,
+                    102
+                ],
+                "points": [
+                    53,
+                    82,
+                    186
+                ],
+                "a": [
+                    55,
+                    75,
+                    91,
+                    95,
+                    127,
+                    140,
+                    150,
+                    181,
+                    188
+                ],
+                "DEM": [
+                    56,
+                    182
+                ],
+                "(Digital": [
+                    57
+                ],
+                "Elevation": [
+                    58
+                ],
+                "Model).": [
+                    59
+                ],
+                "Most": [
+                    60
+                ],
+                "previous": [
+                    61
+                ],
+                "visibility": [
+                    62,
+                    129
+                ],
+                "algorithms": [
+                    63
+                ],
+                "GIS": [
+                    65
+                ],
+                "(Geographic": [
+                    66
+                ],
+                "Information": [
+                    67
+                ],
+                "Systems)": [
+                    68
+                ],
+                "are": [
+                    69
+                ],
+                "based": [
+                    70
+                ],
+                "on": [
+                    71,
+                    187
+                ],
+                "concept": [
+                    73
+                ],
+                "2D‐viewshed,": [
+                    76
+                ],
+                "determines": [
+                    78
+                ],
+                "number": [
+                    80
+                ],
+                "that": [
+                    83,
+                    131
+                ],
+                "can": [
+                    84
+                ],
+                "seen": [
+                    86
+                ],
+                "from": [
+                    87,
+                    136
+                ],
+                "an": [
+                    88,
+                    146
+                ],
+                "observer": [
+                    89
+                ],
+                "DEM.": [
+                    92,
+                    141
+                ],
+                "Extending": [
+                    93
+                ],
+                "such": [
+                    94
+                ],
+                "2D‐viewshed": [
+                    96
+                ],
+                "space,": [
+                    99
+                ],
+                "then": [
+                    100
+                ],
+                "DEM‐points,": [
+                    104
+                ],
+                "too": [
+                    106
+                ],
+                "expensive": [
+                    107
+                ],
+                "computationally": [
+                    108
+                ],
+                "since": [
+                    109
+                ],
+                "viewshed": [
+                    111
+                ],
+                "computation": [
+                    112
+                ],
+                "per": [
+                    113
+                ],
+                "se": [
+                    114
+                ],
+                "costly.": [
+                    116
+                ],
+                "In": [
+                    117,
+                    142
+                ],
+                "work,": [
+                    119
+                ],
+                "propose": [
+                    121
+                ],
+                "compute": [
+                    126,
+                    177
+                ],
+                "new": [
+                    128
+                ],
+                "metric": [
+                    130
+                ],
+                "quantifies": [
+                    132
+                ],
+                "volume": [
+                    135
+                ],
+                "every": [
+                    137
+                ],
+                "point": [
+                    138
+                ],
+                "particular,": [
+                    143
+                ],
+                "developed": [
+                    145
+                ],
+                "efficient": [
+                    147
+                ],
+                "algorithm": [
+                    148,
+                    175
+                ],
+                "with": [
+                    149,
+                    164,
+                    183
+                ],
+                "high": [
+                    151
+                ],
+                "data": [
+                    152
+                ],
+                "calculation": [
+                    154
+                ],
+                "re‐utilization.": [
+                    155
+                ],
+                "total‐3D‐viewshed": [
+                    161,
+                    179
+                ],
+                "maps": [
+                    162
+                ],
+                "together": [
+                    163
+                ],
+                "validation": [
+                    165
+                ],
+                "results": [
+                    166
+                ],
+                "comparative": [
+                    168
+                ],
+                "analysis.": [
+                    169
+                ],
+                "Using": [
+                    170
+                ],
+                "our": [
+                    171
+                ],
+                "highly": [
+                    172
+                ],
+                "scalable": [
+                    173
+                ],
+                "parallel": [
+                    174
+                ],
+                "4": [
+                    184
+                ],
+                "million": [
+                    185
+                ],
+                "Xeon": [
+                    189
+                ],
+                "Processor": [
+                    190
+                ],
+                "E5‐2698": [
+                    191
+                ],
+                "takes": [
+                    192
+                ],
+                "only": [
+                    193
+                ],
+                "1.3": [
+                    194
+                ],
+                "minutes.": [
+                    195
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2466586253",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-20T00:20:20.010072",
+            "created_date": "2016-07-22"
+        },
+        {
+            "id": "https://openalex.org/W619873916",
+            "doi": "https://doi.org/10.1016/j.procs.2015.05.255",
+            "title": "Siting Multiple Observers for Maximum Coverage: An Accurate Approach",
+            "display_name": "Siting Multiple Observers for Maximum Coverage: An Accurate Approach",
+            "publication_year": 2015,
+            "publication_date": "2015-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W619873916",
+                "doi": "https://doi.org/10.1016/j.procs.2015.05.255",
+                "mag": "619873916"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2015.05.255",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2015.05.255",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5038114406",
+                        "display_name": "Antonio Rodriguez Cervilla",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "A.R. Cervilla",
+                    "raw_affiliation_strings": [
+                        "Dpt. Computer Architecture, University of Malaga 29071 Malaga, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dpt. Computer Architecture, University of Malaga 29071 Malaga, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5057876711",
+                        "display_name": "Siham Tabik",
+                        "orcid": "https://orcid.org/0000-0003-4093-5356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "S. Tabik",
+                    "raw_affiliation_strings": [
+                        "Dpt. Computer Architecture, University of Malaga 29071 Malaga, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dpt. Computer Architecture, University of Malaga 29071 Malaga, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5061737207",
+                        "display_name": "Luis F. Romero",
+                        "orcid": "https://orcid.org/0000-0003-2959-2030"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "L.F. Romero",
+                    "raw_affiliation_strings": [
+                        "Dpt. Computer Architecture, University of Malaga 29071 Malaga, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dpt. Computer Architecture, University of Malaga 29071 Malaga, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5038114406",
+                "https://openalex.org/A5057876711",
+                "https://openalex.org/A5061737207"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I82767444",
+                "https://openalex.org/I82767444",
+                "https://openalex.org/I82767444"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.953,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 11,
+            "citation_normalized_percentile": {
+                "value": 0.902975,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": "51",
+                "issue": null,
+                "first_page": "356",
+                "last_page": "365"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10586",
+                "display_name": "Sampling-Based Motion Planning Algorithms",
+                "score": 0.9982,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1707",
+                    "display_name": "Computer Vision and Pattern Recognition"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10586",
+                    "display_name": "Sampling-Based Motion Planning Algorithms",
+                    "score": 0.9982,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9898,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12158",
+                    "display_name": "Missile Guidance and Control Strategies",
+                    "score": 0.9835,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2202",
+                        "display_name": "Aerospace Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/viewshed-analysis",
+                    "display_name": "Viewshed analysis",
+                    "score": 0.99182934
+                },
+                {
+                    "id": "https://openalex.org/keywords/visibility",
+                    "display_name": "Visibility",
+                    "score": 0.8277825
+                },
+                {
+                    "id": "https://openalex.org/keywords/geometric-optimization",
+                    "display_name": "Geometric Optimization",
+                    "score": 0.526077
+                },
+                {
+                    "id": "https://openalex.org/keywords/optimal-motion-planning",
+                    "display_name": "Optimal Motion Planning",
+                    "score": 0.519768
+                },
+                {
+                    "id": "https://openalex.org/keywords/real-time-planning",
+                    "display_name": "Real-Time Planning",
+                    "score": 0.503496
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24300010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7928833",
+                    "display_name": "Viewshed analysis",
+                    "level": 2,
+                    "score": 0.99182934
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8354249
+                },
+                {
+                    "id": "https://openalex.org/C123403432",
+                    "wikidata": "https://www.wikidata.org/wiki/Q654068",
+                    "display_name": "Visibility",
+                    "level": 2,
+                    "score": 0.8277825
+                },
+                {
+                    "id": "https://openalex.org/C161840515",
+                    "wikidata": "https://www.wikidata.org/wiki/Q186131",
+                    "display_name": "Terrain",
+                    "level": 2,
+                    "score": 0.7447113
+                },
+                {
+                    "id": "https://openalex.org/C181843262",
+                    "wikidata": "https://www.wikidata.org/wiki/Q640492",
+                    "display_name": "Digital elevation model",
+                    "level": 2,
+                    "score": 0.6051331
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.58723223
+                },
+                {
+                    "id": "https://openalex.org/C81917197",
+                    "wikidata": "https://www.wikidata.org/wiki/Q628760",
+                    "display_name": "Selection (genetic algorithm)",
+                    "level": 2,
+                    "score": 0.564355
+                },
+                {
+                    "id": "https://openalex.org/C28719098",
+                    "wikidata": "https://www.wikidata.org/wiki/Q44946",
+                    "display_name": "Point (geometry)",
+                    "level": 2,
+                    "score": 0.46626502
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.35825595
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.33843514
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.33098245
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.3279884
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.14227632
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.12546581
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.12083498
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.119199514
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2015.05.255",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/10630/9868",
+                    "pdf_url": "https://riuma.uma.es/xmlui/bitstream/10630/9868/1/paper_653.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401385",
+                        "display_name": "Repositorio Institucional de la Universidad de Málaga (University of Málaga)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I82767444",
+                        "host_organization_name": "Universidad de Málaga",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I82767444"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Universidad de Málaga"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2015.05.255",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/11",
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.72
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 13,
+            "referenced_works": [
+                "https://openalex.org/W1963750912",
+                "https://openalex.org/W1966569201",
+                "https://openalex.org/W2019298113",
+                "https://openalex.org/W2029201188",
+                "https://openalex.org/W2037315895",
+                "https://openalex.org/W2097571405",
+                "https://openalex.org/W2136757478",
+                "https://openalex.org/W2151676833",
+                "https://openalex.org/W3142519342",
+                "https://openalex.org/W3145128584",
+                "https://openalex.org/W31871017",
+                "https://openalex.org/W4252128708",
+                "https://openalex.org/W4285719527"
+            ],
+            "related_works": [
+                "https://openalex.org/W4384068758",
+                "https://openalex.org/W38707270",
+                "https://openalex.org/W2381869224",
+                "https://openalex.org/W2375147464",
+                "https://openalex.org/W2370436901",
+                "https://openalex.org/W2269251525",
+                "https://openalex.org/W2129459042",
+                "https://openalex.org/W2085585455",
+                "https://openalex.org/W2071830897",
+                "https://openalex.org/W1977718889"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    97
+                ],
+                "selection": [
+                    1,
+                    94
+                ],
+                "of": [
+                    2,
+                    6,
+                    46,
+                    48,
+                    68,
+                    84,
+                    92,
+                    95,
+                    133
+                ],
+                "the": [
+                    3,
+                    10,
+                    44,
+                    49,
+                    62,
+                    66,
+                    69,
+                    75,
+                    79,
+                    85,
+                    89,
+                    93,
+                    111,
+                    136
+                ],
+                "minimal": [
+                    4
+                ],
+                "number": [
+                    5,
+                    45
+                ],
+                "observers": [
+                    7,
+                    150
+                ],
+                "that": [
+                    8,
+                    123
+                ],
+                "ensures": [
+                    9
+                ],
+                "maximum": [
+                    11
+                ],
+                "visual": [
+                    12
+                ],
+                "coverage": [
+                    13
+                ],
+                "over": [
+                    14
+                ],
+                "an": [
+                    15,
+                    107
+                ],
+                "area": [
+                    16
+                ],
+                "represented": [
+                    17
+                ],
+                "by": [
+                    18
+                ],
+                "a": [
+                    19,
+                    130
+                ],
+                "digital": [
+                    20
+                ],
+                "elevation": [
+                    21
+                ],
+                "model": [
+                    22
+                ],
+                "(DEM)": [
+                    23
+                ],
+                "have": [
+                    24
+                ],
+                "great": [
+                    25
+                ],
+                "interest": [
+                    26
+                ],
+                "in": [
+                    27,
+                    64,
+                    100
+                ],
+                "many": [
+                    28
+                ],
+                "fields,": [
+                    29
+                ],
+                "e.g.,": [
+                    30
+                ],
+                "telecommunications,": [
+                    31
+                ],
+                "environment": [
+                    32
+                ],
+                "planning,": [
+                    33
+                ],
+                "among": [
+                    34
+                ],
+                "others.": [
+                    35
+                ],
+                "However,": [
+                    36
+                ],
+                "this": [
+                    37
+                ],
+                "problem": [
+                    38
+                ],
+                "is": [
+                    39,
+                    51,
+                    56
+                ],
+                "complex": [
+                    40
+                ],
+                "and": [
+                    41,
+                    87,
+                    141,
+                    148
+                ],
+                "intractable": [
+                    42
+                ],
+                "when": [
+                    43
+                ],
+                "points": [
+                    47,
+                    83
+                ],
+                "DEM": [
+                    50
+                ],
+                "relatively": [
+                    52
+                ],
+                "high.": [
+                    53
+                ],
+                "This": [
+                    54,
+                    127
+                ],
+                "complexity": [
+                    55,
+                    91
+                ],
+                "due": [
+                    57
+                ],
+                "to": [
+                    58,
+                    77,
+                    110,
+                    120
+                ],
+                "three": [
+                    59
+                ],
+                "issues:": [
+                    60
+                ],
+                "1)": [
+                    61
+                ],
+                "difficulty": [
+                    63
+                ],
+                "determining": [
+                    65
+                ],
+                "visibility": [
+                    67,
+                    80
+                ],
+                "terrain": [
+                    70,
+                    86
+                ],
+                "from": [
+                    71
+                ],
+                "one": [
+                    72
+                ],
+                "point,": [
+                    73
+                ],
+                "2)": [
+                    74
+                ],
+                "need": [
+                    76
+                ],
+                "know": [
+                    78
+                ],
+                "at": [
+                    81
+                ],
+                "all": [
+                    82
+                ],
+                "3)": [
+                    88
+                ],
+                "combinatorial": [
+                    90
+                ],
+                "observers.": [
+                    96
+                ],
+                "recent": [
+                    98
+                ],
+                "progress": [
+                    99
+                ],
+                "total-viewshed": [
+                    101
+                ],
+                "maps": [
+                    102
+                ],
+                "computation": [
+                    103
+                ],
+                "not": [
+                    104
+                ],
+                "only": [
+                    105
+                ],
+                "provides": [
+                    106,
+                    142
+                ],
+                "efficient": [
+                    108
+                ],
+                "solution": [
+                    109
+                ],
+                "first": [
+                    112
+                ],
+                "two": [
+                    113
+                ],
+                "problems,": [
+                    114
+                ],
+                "but": [
+                    115
+                ],
+                "also": [
+                    116
+                ],
+                "opens": [
+                    117
+                ],
+                "other": [
+                    118
+                ],
+                "ways": [
+                    119
+                ],
+                "new": [
+                    121,
+                    131
+                ],
+                "solutions": [
+                    122,
+                    144
+                ],
+                "were": [
+                    124
+                ],
+                "unthinkable": [
+                    125
+                ],
+                "previously.": [
+                    126
+                ],
+                "paper": [
+                    128
+                ],
+                "presents": [
+                    129
+                ],
+                "type": [
+                    132
+                ],
+                "cartography,": [
+                    134
+                ],
+                "called": [
+                    135
+                ],
+                "masked": [
+                    137
+                ],
+                "total": [
+                    138
+                ],
+                "viewshed": [
+                    139
+                ],
+                "map,": [
+                    140
+                ],
+                "optimal": [
+                    143
+                ],
+                "for": [
+                    145
+                ],
+                "both": [
+                    146
+                ],
+                "sequential": [
+                    147
+                ],
+                "simultaneous": [
+                    149
+                ],
+                "location.": [
+                    151
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W619873916",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-16T06:44:00.862959",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2295229778",
+            "doi": "https://doi.org/10.1145/2820783.2820865",
+            "title": "3D-viewshed map",
+            "display_name": "3D-viewshed map",
+            "publication_year": 2015,
+            "publication_date": "2015-11-03",
+            "ids": {
+                "openalex": "https://openalex.org/W2295229778",
+                "doi": "https://doi.org/10.1145/2820783.2820865",
+                "mag": "2295229778"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1145/2820783.2820865",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5038114406",
+                        "display_name": "Antonio Rodriguez Cervilla",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "A. R. Cervilla",
+                    "raw_affiliation_strings": [
+                        "University of Malaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Malaga",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5057876711",
+                        "display_name": "Siham Tabik",
+                        "orcid": "https://orcid.org/0000-0003-4093-5356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "S. Tabik",
+                    "raw_affiliation_strings": [
+                        "University of Malaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Malaga",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5061737207",
+                        "display_name": "Luis F. Romero",
+                        "orcid": "https://orcid.org/0000-0003-2959-2030"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I82767444",
+                            "display_name": "Universidad de Málaga",
+                            "ror": "https://ror.org/036b2ww28",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "L. F. Romero",
+                    "raw_affiliation_strings": [
+                        "University of Malaga"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Malaga",
+                            "institution_ids": [
+                                "https://openalex.org/I82767444"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 66
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11164",
+                "display_name": "Mapping Forests with Lidar Remote Sensing",
+                "score": 0.9955,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2305",
+                    "display_name": "Environmental Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11164",
+                    "display_name": "Mapping Forests with Lidar Remote Sensing",
+                    "score": 0.9955,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2305",
+                        "display_name": "Environmental Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10531",
+                    "display_name": "Stereo Vision and Depth Estimation",
+                    "score": 0.9947,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11211",
+                    "display_name": "3D Geospatial Modelling Techniques",
+                    "score": 0.9943,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1907",
+                        "display_name": "Geology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/viewshed-analysis",
+                    "display_name": "Viewshed analysis",
+                    "score": 0.99883044
+                },
+                {
+                    "id": "https://openalex.org/keywords/visibility",
+                    "display_name": "Visibility",
+                    "score": 0.6640169
+                },
+                {
+                    "id": "https://openalex.org/keywords/3d-reconstruction",
+                    "display_name": "3D Reconstruction",
+                    "score": 0.524924
+                },
+                {
+                    "id": "https://openalex.org/keywords/depth-estimation",
+                    "display_name": "Depth Estimation",
+                    "score": 0.521003
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C24300010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7928833",
+                    "display_name": "Viewshed analysis",
+                    "level": 2,
+                    "score": 0.99883044
+                },
+                {
+                    "id": "https://openalex.org/C123403432",
+                    "wikidata": "https://www.wikidata.org/wiki/Q654068",
+                    "display_name": "Visibility",
+                    "level": 2,
+                    "score": 0.6640169
+                },
+                {
+                    "id": "https://openalex.org/C181843262",
+                    "wikidata": "https://www.wikidata.org/wiki/Q640492",
+                    "display_name": "Digital elevation model",
+                    "level": 2,
+                    "score": 0.6613663
+                },
+                {
+                    "id": "https://openalex.org/C41856607",
+                    "wikidata": "https://www.wikidata.org/wiki/Q483130",
+                    "display_name": "Geographic information system",
+                    "level": 2,
+                    "score": 0.58657604
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.5377403
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.49943495
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.45015898
+                },
+                {
+                    "id": "https://openalex.org/C36464697",
+                    "wikidata": "https://www.wikidata.org/wiki/Q451553",
+                    "display_name": "Visualization",
+                    "level": 2,
+                    "score": 0.44685605
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.37871307
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.3344084
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.2849136
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.27456617
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.2439431
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.15749094
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1145/2820783.2820865",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/11",
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.72
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W1493143135",
+                "https://openalex.org/W1963750912",
+                "https://openalex.org/W1967371417",
+                "https://openalex.org/W2020590137",
+                "https://openalex.org/W2021185330",
+                "https://openalex.org/W2024145315",
+                "https://openalex.org/W2029201188",
+                "https://openalex.org/W2043260551",
+                "https://openalex.org/W2052133213",
+                "https://openalex.org/W2058624632",
+                "https://openalex.org/W2099682186",
+                "https://openalex.org/W2104917647",
+                "https://openalex.org/W2149041888",
+                "https://openalex.org/W3000647221",
+                "https://openalex.org/W619873916"
+            ],
+            "related_works": [
+                "https://openalex.org/W4312714547",
+                "https://openalex.org/W3142356932",
+                "https://openalex.org/W2966852472",
+                "https://openalex.org/W2770983078",
+                "https://openalex.org/W2387895021",
+                "https://openalex.org/W2375147464",
+                "https://openalex.org/W2119753946",
+                "https://openalex.org/W2071830897",
+                "https://openalex.org/W1970181469",
+                "https://openalex.org/W1965238403"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    58
+                ],
+                "3D": [
+                    1,
+                    36
+                ],
+                "perception": [
+                    2
+                ],
+                "of": [
+                    3,
+                    30,
+                    71
+                ],
+                "the": [
+                    4,
+                    28,
+                    45,
+                    61
+                ],
+                "human": [
+                    5
+                ],
+                "eye": [
+                    6
+                ],
+                "is": [
+                    7,
+                    38
+                ],
+                "more": [
+                    8
+                ],
+                "impressive": [
+                    9
+                ],
+                "in": [
+                    10,
+                    13,
+                    20
+                ],
+                "irregular": [
+                    11
+                ],
+                "than": [
+                    12
+                ],
+                "flat": [
+                    14
+                ],
+                "landscapes.": [
+                    15
+                ],
+                "Current": [
+                    16
+                ],
+                "visibility": [
+                    17
+                ],
+                "computation": [
+                    18
+                ],
+                "algorithms": [
+                    19
+                ],
+                "Geographic": [
+                    21
+                ],
+                "Information": [
+                    22
+                ],
+                "Systems": [
+                    23
+                ],
+                "(GIS)": [
+                    24
+                ],
+                "are": [
+                    25
+                ],
+                "based": [
+                    26
+                ],
+                "on": [
+                    27,
+                    53
+                ],
+                "concept": [
+                    29
+                ],
+                "2D-viewshed.": [
+                    31
+                ],
+                "Extending": [
+                    32
+                ],
+                "these": [
+                    33
+                ],
+                "methods": [
+                    34
+                ],
+                "to": [
+                    35,
+                    48
+                ],
+                "space": [
+                    37
+                ],
+                "too": [
+                    39
+                ],
+                "expensive": [
+                    40
+                ],
+                "computationally.": [
+                    41
+                ],
+                "This": [
+                    42
+                ],
+                "paper": [
+                    43,
+                    59
+                ],
+                "presents": [
+                    44
+                ],
+                "first": [
+                    46,
+                    62
+                ],
+                "approach": [
+                    47
+                ],
+                "compute": [
+                    49
+                ],
+                "total": [
+                    50,
+                    63,
+                    72,
+                    75
+                ],
+                "3D-viewshed": [
+                    51,
+                    64,
+                    76
+                ],
+                "maps": [
+                    52
+                ],
+                "Digital": [
+                    54
+                ],
+                "Elevation": [
+                    55
+                ],
+                "Models": [
+                    56
+                ],
+                "(DEMs).": [
+                    57
+                ],
+                "provides": [
+                    60
+                ],
+                "map": [
+                    65
+                ],
+                "together": [
+                    66
+                ],
+                "with": [
+                    67
+                ],
+                "a": [
+                    68
+                ],
+                "comparative": [
+                    69
+                ],
+                "study": [
+                    70
+                ],
+                "2D-viewshed": [
+                    73
+                ],
+                "versus": [
+                    74
+                ],
+                "maps.": [
+                    77
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2295229778",
+            "counts_by_year": [],
+            "updated_date": "2024-09-15T16:20:00.760165",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

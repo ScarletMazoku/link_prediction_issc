@@ -1,0 +1,2829 @@
+{
+    "meta": {
+        "count": 3,
+        "db_response_time_ms": 29,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4395681679",
+            "doi": "https://doi.org/10.1016/j.camwa.2024.04.006",
+            "title": "Learning quantities of interest from parametric PDEs: An efficient neural-weighted Minimal Residual approach",
+            "display_name": "Learning quantities of interest from parametric PDEs: An efficient neural-weighted Minimal Residual approach",
+            "publication_year": 2024,
+            "publication_date": "2024-06-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4395681679",
+                "doi": "https://doi.org/10.1016/j.camwa.2024.04.006"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.camwa.2024.04.006",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210205691",
+                    "display_name": "Computers & Mathematics with Applications",
+                    "issn_l": "0898-1221",
+                    "issn": [
+                        "0898-1221",
+                        "1873-7668"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/pdf/2304.01722",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5076524117",
+                        "display_name": "Ignacio Brevis",
+                        "orcid": "https://orcid.org/0000-0003-1620-019X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142263535",
+                            "display_name": "University of Nottingham",
+                            "ror": "https://ror.org/01ee9ar58",
+                            "country_code": "GB",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142263535"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ignacio Brevis",
+                    "raw_affiliation_strings": [
+                        "School of Mathematical Sciences, University of Nottingham, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Mathematical Sciences, University of Nottingham, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I142263535"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5072003067",
+                        "display_name": "Ignacio Muga",
+                        "orcid": "https://orcid.org/0000-0003-4430-5167"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I130474213",
+                            "display_name": "Pontificia Universidad Católica de Valparaíso",
+                            "ror": "https://ror.org/02cafbr77",
+                            "country_code": "CL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I130474213"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CL"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Ignacio Muga",
+                    "raw_affiliation_strings": [
+                        "Instituto de Matemáticas, Pontificia Universidad Católica de Valparaíso, Chile"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Instituto de Matemáticas, Pontificia Universidad Católica de Valparaíso, Chile",
+                            "institution_ids": [
+                                "https://openalex.org/I130474213"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5082696717",
+                        "display_name": "David Pardo",
+                        "orcid": "https://orcid.org/0000-0002-1101-2248"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I110594554",
+                            "display_name": "Ikerbasque",
+                            "ror": "https://ror.org/01cc3fy72",
+                            "country_code": "ES",
+                            "type": "other",
+                            "lineage": [
+                                "https://openalex.org/I110594554"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I169108374",
+                            "display_name": "University of the Basque Country",
+                            "ror": "https://ror.org/000xsnr85",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Pardo",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics, Spain",
+                        "Ikerbasque, Spain",
+                        "Universidad del País Vasco, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Ikerbasque, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I110594554"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Universidad del País Vasco, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101486804",
+                        "display_name": "Oscar Rodriguez",
+                        "orcid": "https://orcid.org/0000-0003-2938-7221"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I169108374",
+                            "display_name": "University of the Basque Country",
+                            "ror": "https://ror.org/000xsnr85",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Oscar Rodriguez",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics, Spain",
+                        "Universidad del País Vasco, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Universidad del País Vasco, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5007817923",
+                        "display_name": "Kristoffer G. van der Zee",
+                        "orcid": "https://orcid.org/0000-0002-6830-8031"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142263535",
+                            "display_name": "University of Nottingham",
+                            "ror": "https://ror.org/01ee9ar58",
+                            "country_code": "GB",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142263535"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kristoffer G. van der Zee",
+                    "raw_affiliation_strings": [
+                        "School of Mathematical Sciences, University of Nottingham, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Mathematical Sciences, University of Nottingham, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I142263535"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 3,
+            "institutions_distinct_count": 5,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5072003067"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I130474213"
+            ],
+            "apc_list": {
+                "value": 3480,
+                "currency": "USD",
+                "value_usd": 3480,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 86
+            },
+            "biblio": {
+                "volume": "164",
+                "issue": null,
+                "first_page": "139",
+                "last_page": "149"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11206",
+                "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                "score": 0.9946,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/3109",
+                    "display_name": "Statistical and Nonlinear Physics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/31",
+                    "display_name": "Physics and Astronomy"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9946,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10320",
+                    "display_name": "Neural Network Fundamentals and Applications",
+                    "score": 0.9808,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10688",
+                    "display_name": "Image Denoising Techniques and Algorithms",
+                    "score": 0.9706,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/model-reduction",
+                    "display_name": "Model Reduction",
+                    "score": 0.587085
+                },
+                {
+                    "id": "https://openalex.org/keywords/backpropagation-learning",
+                    "display_name": "Backpropagation Learning",
+                    "score": 0.581931
+                },
+                {
+                    "id": "https://openalex.org/keywords/recurrent-neural-networks",
+                    "display_name": "Recurrent Neural Networks",
+                    "score": 0.558677
+                },
+                {
+                    "id": "https://openalex.org/keywords/partial-differential-equations",
+                    "display_name": "Partial Differential Equations",
+                    "score": 0.555729
+                },
+                {
+                    "id": "https://openalex.org/keywords/radial-basis-function-networks",
+                    "display_name": "Radial Basis Function Networks",
+                    "score": 0.527273
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.8292109
+                },
+                {
+                    "id": "https://openalex.org/C155512373",
+                    "wikidata": "https://www.wikidata.org/wiki/Q287450",
+                    "display_name": "Residual",
+                    "level": 2,
+                    "score": 0.75607455
+                },
+                {
+                    "id": "https://openalex.org/C117251300",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1849855",
+                    "display_name": "Parametric statistics",
+                    "level": 2,
+                    "score": 0.5962844
+                },
+                {
+                    "id": "https://openalex.org/C159674985",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6823718",
+                    "display_name": "Method of mean weighted residuals",
+                    "level": 4,
+                    "score": 0.5052565
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.48249078
+                },
+                {
+                    "id": "https://openalex.org/C50644808",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192776",
+                    "display_name": "Artificial neural network",
+                    "level": 2,
+                    "score": 0.47261122
+                },
+                {
+                    "id": "https://openalex.org/C47446073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5165890",
+                    "display_name": "Control theory (sociology)",
+                    "level": 3,
+                    "score": 0.36333314
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.2566409
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.2068069
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.13878837
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.13058805
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.12444505
+                },
+                {
+                    "id": "https://openalex.org/C2775924081",
+                    "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+                    "display_name": "Control (management)",
+                    "level": 2,
+                    "score": 0.09001061
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C186899397",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1491980",
+                    "display_name": "Galerkin method",
+                    "level": 3,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.camwa.2024.04.006",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210205691",
+                        "display_name": "Computers & Mathematics with Applications",
+                        "issn_l": "0898-1221",
+                        "issn": [
+                            "0898-1221",
+                            "1873-7668"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2304.01722",
+                    "pdf_url": "https://arxiv.org/pdf/2304.01722",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2304.01722",
+                "pdf_url": "https://arxiv.org/pdf/2304.01722",
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320322930",
+                    "funder_display_name": "Ministerio de Ciencia e Innovación",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320326262",
+                    "funder_display_name": "Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320331146",
+                    "funder_display_name": "Agencia Nacional de Investigación y Desarrollo",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320334627",
+                    "funder_display_name": "Engineering and Physical Sciences Research Council",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320338337",
+                    "funder_display_name": "H2020 Marie Skłodowska-Curie Actions",
+                    "award_id": null
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 23,
+            "referenced_works": [
+                "https://openalex.org/W1503398984",
+                "https://openalex.org/W1583837637",
+                "https://openalex.org/W1976385614",
+                "https://openalex.org/W2134350470",
+                "https://openalex.org/W2169596848",
+                "https://openalex.org/W2735139999",
+                "https://openalex.org/W2766298346",
+                "https://openalex.org/W2768535327",
+                "https://openalex.org/W2884714875",
+                "https://openalex.org/W2979786244",
+                "https://openalex.org/W3008005432",
+                "https://openalex.org/W3083770698",
+                "https://openalex.org/W3107865070",
+                "https://openalex.org/W3153519416",
+                "https://openalex.org/W3154575637",
+                "https://openalex.org/W3166995168",
+                "https://openalex.org/W3167031531",
+                "https://openalex.org/W3178968719",
+                "https://openalex.org/W3209704659",
+                "https://openalex.org/W4207065668",
+                "https://openalex.org/W4285028908",
+                "https://openalex.org/W4307154444",
+                "https://openalex.org/W4308825557"
+            ],
+            "related_works": [
+                "https://openalex.org/W4392389852",
+                "https://openalex.org/W4389395923",
+                "https://openalex.org/W4367701160",
+                "https://openalex.org/W2995651557",
+                "https://openalex.org/W2963101856",
+                "https://openalex.org/W2745121476",
+                "https://openalex.org/W2418863753",
+                "https://openalex.org/W2106833662",
+                "https://openalex.org/W2099433359",
+                "https://openalex.org/W174410013"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    37
+                ],
+                "efficient": [
+                    1,
+                    45
+                ],
+                "approximation": [
+                    2
+                ],
+                "of": [
+                    3,
+                    7,
+                    29,
+                    31,
+                    63,
+                    66,
+                    69
+                ],
+                "parametric": [
+                    4,
+                    35
+                ],
+                "PDEs": [
+                    5
+                ],
+                "is": [
+                    6,
+                    43
+                ],
+                "tremendous": [
+                    8
+                ],
+                "importance": [
+                    9
+                ],
+                "in": [
+                    10,
+                    40,
+                    55
+                ],
+                "science": [
+                    11
+                ],
+                "and": [
+                    12
+                ],
+                "engineering.": [
+                    13
+                ],
+                "In": [
+                    14
+                ],
+                "this": [
+                    15
+                ],
+                "paper,": [
+                    16
+                ],
+                "we": [
+                    17
+                ],
+                "show": [
+                    18
+                ],
+                "how": [
+                    19
+                ],
+                "one": [
+                    20
+                ],
+                "can": [
+                    21
+                ],
+                "train": [
+                    22
+                ],
+                "Galerkin": [
+                    23
+                ],
+                "discretizations": [
+                    24
+                ],
+                "to": [
+                    25,
+                    33
+                ],
+                "efficiently": [
+                    26
+                ],
+                "learn": [
+                    27
+                ],
+                "quantities": [
+                    28,
+                    62
+                ],
+                "interest": [
+                    30
+                ],
+                "solutions": [
+                    32
+                ],
+                "a": [
+                    34
+                ],
+                "PDE.": [
+                    36
+                ],
+                "central": [
+                    38
+                ],
+                "component": [
+                    39
+                ],
+                "our": [
+                    41
+                ],
+                "approach": [
+                    42
+                ],
+                "an": [
+                    44
+                ],
+                "neural-network-weighted": [
+                    46
+                ],
+                "Minimal-Residual": [
+                    47
+                ],
+                "formulation,": [
+                    48
+                ],
+                "which,": [
+                    49
+                ],
+                "after": [
+                    50
+                ],
+                "training,": [
+                    51
+                ],
+                "provides": [
+                    52
+                ],
+                "Galerkin-based": [
+                    53
+                ],
+                "approximations": [
+                    54
+                ],
+                "standard": [
+                    56
+                ],
+                "discrete": [
+                    57,
+                    71
+                ],
+                "spaces": [
+                    58
+                ],
+                "that": [
+                    59
+                ],
+                "have": [
+                    60
+                ],
+                "accurate": [
+                    61
+                ],
+                "interest,": [
+                    64
+                ],
+                "regardless": [
+                    65
+                ],
+                "the": [
+                    67,
+                    70
+                ],
+                "coarseness": [
+                    68
+                ],
+                "space.": [
+                    72
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4395681679",
+            "counts_by_year": [],
+            "updated_date": "2024-09-06T04:17:09.658211",
+            "created_date": "2024-04-27"
+        },
+        {
+            "id": "https://openalex.org/W4382703836",
+            "doi": "https://doi.org/10.1007/978-3-031-36021-3_51",
+            "title": "Memory-Based Monte Carlo Integration for Solving Partial Differential Equations Using Neural Networks",
+            "display_name": "Memory-Based Monte Carlo Integration for Solving Partial Differential Equations Using Neural Networks",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4382703836",
+                "doi": "https://doi.org/10.1007/978-3-031-36021-3_51"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-031-36021-3_51",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5004801449",
+                        "display_name": "Carlos Uriarte",
+                        "orcid": "https://orcid.org/0000-0002-0155-3091"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Carlos Uriarte",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics (BCAM), Bilbao, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5065057468",
+                        "display_name": "Jamie M. Taylor",
+                        "orcid": "https://orcid.org/0000-0002-5423-828X"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jamie M. Taylor",
+                    "raw_affiliation_strings": [
+                        "CUNEF Universidad, Madrid, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "CUNEF Universidad, Madrid, Spain",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5082696717",
+                        "display_name": "David Pardo",
+                        "orcid": "https://orcid.org/0000-0002-1101-2248"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Pardo",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics (BCAM), Bilbao, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101486804",
+                        "display_name": "Oscar Rodriguez",
+                        "orcid": "https://orcid.org/0000-0003-2938-7221"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I169108374",
+                            "display_name": "University of the Basque Country",
+                            "ror": "https://ror.org/000xsnr85",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Oscar A. Rodríguez",
+                    "raw_affiliation_strings": [
+                        "University of the Basque Country (UPV/EHU), Leioa, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of the Basque Country (UPV/EHU), Leioa, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5058772041",
+                        "display_name": "Patrick Vega",
+                        "orcid": "https://orcid.org/0000-0001-6047-9074"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I130474213",
+                            "display_name": "Pontificia Universidad Católica de Valparaíso",
+                            "ror": "https://ror.org/02cafbr77",
+                            "country_code": "CL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I130474213"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Patrick Vega",
+                    "raw_affiliation_strings": [
+                        "Pontificia Universidad Católica de Valparaíso (PUCV), Valparaíso, Chile"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Pontificia Universidad Católica de Valparaíso (PUCV), Valparaíso, Chile",
+                            "institution_ids": [
+                                "https://openalex.org/I130474213"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5004801449"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I2802176441"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "509",
+                "last_page": "516"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11206",
+                "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                "score": 0.9989,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/3109",
+                    "display_name": "Statistical and Nonlinear Physics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/31",
+                    "display_name": "Physics and Astronomy"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9989,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10928",
+                    "display_name": "Uncertainty Quantification and Sensitivity Analysis",
+                    "score": 0.9966,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1804",
+                        "display_name": "Statistics, Probability and Uncertainty"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11205",
+                    "display_name": "Inverse Problems in Mathematical Physics and Imaging",
+                    "score": 0.9939,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2610",
+                        "display_name": "Mathematical Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/overfitting",
+                    "display_name": "Overfitting",
+                    "score": 0.6597167
+                },
+                {
+                    "id": "https://openalex.org/keywords/monte-carlo-simulations",
+                    "display_name": "Monte Carlo Simulations",
+                    "score": 0.595811
+                },
+                {
+                    "id": "https://openalex.org/keywords/monte-carlo-integration",
+                    "display_name": "Monte Carlo integration",
+                    "score": 0.55292094
+                },
+                {
+                    "id": "https://openalex.org/keywords/numerical-computing",
+                    "display_name": "Numerical Computing",
+                    "score": 0.515721
+                },
+                {
+                    "id": "https://openalex.org/keywords/partial-differential-equations",
+                    "display_name": "Partial Differential Equations",
+                    "score": 0.515485
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-reduction",
+                    "display_name": "Model Reduction",
+                    "score": 0.501014
+                },
+                {
+                    "id": "https://openalex.org/keywords/quasi-monte-carlo-method",
+                    "display_name": "Quasi-Monte Carlo method",
+                    "score": 0.4771561
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7698116
+                },
+                {
+                    "id": "https://openalex.org/C19499675",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232207",
+                    "display_name": "Monte Carlo method",
+                    "level": 2,
+                    "score": 0.66079706
+                },
+                {
+                    "id": "https://openalex.org/C22019652",
+                    "wikidata": "https://www.wikidata.org/wiki/Q331309",
+                    "display_name": "Overfitting",
+                    "level": 3,
+                    "score": 0.6597167
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.5942574
+                },
+                {
+                    "id": "https://openalex.org/C127349201",
+                    "wikidata": "https://www.wikidata.org/wiki/Q753445",
+                    "display_name": "Numerical integration",
+                    "level": 2,
+                    "score": 0.5539679
+                },
+                {
+                    "id": "https://openalex.org/C93779851",
+                    "wikidata": "https://www.wikidata.org/wiki/Q271977",
+                    "display_name": "Partial differential equation",
+                    "level": 2,
+                    "score": 0.5530348
+                },
+                {
+                    "id": "https://openalex.org/C132725507",
+                    "wikidata": "https://www.wikidata.org/wiki/Q39879",
+                    "display_name": "Monte Carlo integration",
+                    "level": 5,
+                    "score": 0.55292094
+                },
+                {
+                    "id": "https://openalex.org/C50644808",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192776",
+                    "display_name": "Artificial neural network",
+                    "level": 2,
+                    "score": 0.53516865
+                },
+                {
+                    "id": "https://openalex.org/C2777303404",
+                    "wikidata": "https://www.wikidata.org/wiki/Q759757",
+                    "display_name": "Convergence (economics)",
+                    "level": 2,
+                    "score": 0.5025406
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.48426363
+                },
+                {
+                    "id": "https://openalex.org/C63320529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7269435",
+                    "display_name": "Quasi-Monte Carlo method",
+                    "level": 5,
+                    "score": 0.4771561
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.41504148
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.4120495
+                },
+                {
+                    "id": "https://openalex.org/C13153151",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1639846",
+                    "display_name": "Hybrid Monte Carlo",
+                    "level": 4,
+                    "score": 0.40707582
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.33670282
+                },
+                {
+                    "id": "https://openalex.org/C111350023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1191869",
+                    "display_name": "Markov chain Monte Carlo",
+                    "level": 3,
+                    "score": 0.24866867
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.149295
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C107673813",
+                    "wikidata": "https://www.wikidata.org/wiki/Q812534",
+                    "display_name": "Bayesian probability",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C50522688",
+                    "wikidata": "https://www.wikidata.org/wiki/Q189833",
+                    "display_name": "Economic growth",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-031-36021-3_51",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 16,
+            "referenced_works": [
+                "https://openalex.org/W1978501336",
+                "https://openalex.org/W1988720110",
+                "https://openalex.org/W1994616650",
+                "https://openalex.org/W2760972773",
+                "https://openalex.org/W2899283552",
+                "https://openalex.org/W3011806874",
+                "https://openalex.org/W3122068394",
+                "https://openalex.org/W3174794150",
+                "https://openalex.org/W3209704659",
+                "https://openalex.org/W4207065668",
+                "https://openalex.org/W4281674439",
+                "https://openalex.org/W4308825557",
+                "https://openalex.org/W4309195463",
+                "https://openalex.org/W4312222006",
+                "https://openalex.org/W4317033828",
+                "https://openalex.org/W648263199"
+            ],
+            "related_works": [
+                "https://openalex.org/W4322759505",
+                "https://openalex.org/W4294677683",
+                "https://openalex.org/W3565757",
+                "https://openalex.org/W3139925765",
+                "https://openalex.org/W3011350921",
+                "https://openalex.org/W2883727740",
+                "https://openalex.org/W2488809685",
+                "https://openalex.org/W2082240576",
+                "https://openalex.org/W2081255987",
+                "https://openalex.org/W1996537871"
+            ],
+            "abstract_inverted_index": {
+                "Monte": [
+                    0,
+                    67
+                ],
+                "Carlo": [
+                    1,
+                    68
+                ],
+                "integration": [
+                    2,
+                    55,
+                    69
+                ],
+                "is": [
+                    3,
+                    47
+                ],
+                "a": [
+                    4,
+                    41,
+                    65
+                ],
+                "widely": [
+                    5
+                ],
+                "used": [
+                    6
+                ],
+                "quadrature": [
+                    7
+                ],
+                "rule": [
+                    8
+                ],
+                "to": [
+                    9,
+                    18,
+                    21
+                ],
+                "solve": [
+                    10
+                ],
+                "Partial": [
+                    11
+                ],
+                "Differential": [
+                    12
+                ],
+                "Equations": [
+                    13
+                ],
+                "with": [
+                    14
+                ],
+                "neural": [
+                    15
+                ],
+                "networks": [
+                    16
+                ],
+                "due": [
+                    17
+                ],
+                "its": [
+                    19
+                ],
+                "ability": [
+                    20
+                ],
+                "guarantee": [
+                    22
+                ],
+                "overfitting-free": [
+                    23
+                ],
+                "solutions": [
+                    24
+                ],
+                "and": [
+                    25,
+                    35
+                ],
+                "high-dimensional": [
+                    26
+                ],
+                "scalability.": [
+                    27
+                ],
+                "However,": [
+                    28
+                ],
+                "this": [
+                    29,
+                    46
+                ],
+                "stochastic": [
+                    30
+                ],
+                "method": [
+                    31,
+                    70
+                ],
+                "produces": [
+                    32,
+                    72
+                ],
+                "noisy": [
+                    33
+                ],
+                "losses": [
+                    34
+                ],
+                "gradients": [
+                    36
+                ],
+                "during": [
+                    37,
+                    86
+                ],
+                "training,": [
+                    38
+                ],
+                "which": [
+                    39,
+                    57
+                ],
+                "hinders": [
+                    40
+                ],
+                "proper": [
+                    42
+                ],
+                "convergence": [
+                    43
+                ],
+                "diagnosis.": [
+                    44
+                ],
+                "Typically,": [
+                    45
+                ],
+                "overcome": [
+                    48
+                ],
+                "using": [
+                    49
+                ],
+                "an": [
+                    50
+                ],
+                "immense": [
+                    51
+                ],
+                "(disproportionate)": [
+                    52
+                ],
+                "amount": [
+                    53
+                ],
+                "of": [
+                    54,
+                    82
+                ],
+                "points,": [
+                    56
+                ],
+                "deteriorates": [
+                    58
+                ],
+                "the": [
+                    59,
+                    78
+                ],
+                "training": [
+                    60
+                ],
+                "performance.": [
+                    61
+                ],
+                "This": [
+                    62
+                ],
+                "work": [
+                    63
+                ],
+                "proposes": [
+                    64
+                ],
+                "memory-based": [
+                    66
+                ],
+                "that": [
+                    71
+                ],
+                "accurate": [
+                    73
+                ],
+                "integral": [
+                    74
+                ],
+                "approximations": [
+                    75
+                ],
+                "without": [
+                    76
+                ],
+                "requiring": [
+                    77
+                ],
+                "high": [
+                    79
+                ],
+                "computational": [
+                    80
+                ],
+                "costs": [
+                    81
+                ],
+                "processing": [
+                    83
+                ],
+                "large": [
+                    84
+                ],
+                "samples": [
+                    85
+                ],
+                "training.": [
+                    87
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4382703836",
+            "counts_by_year": [],
+            "updated_date": "2024-09-18T14:31:15.327603",
+            "created_date": "2023-07-01"
+        },
+        {
+            "id": "https://openalex.org/W4386976775",
+            "doi": "https://doi.org/10.1093/gji/ggad362",
+            "title": "Multimodal variational autoencoder for inverse problems in geophysics: application to a 1-D magnetotelluric problem",
+            "display_name": "Multimodal variational autoencoder for inverse problems in geophysics: application to a 1-D magnetotelluric problem",
+            "publication_year": 2023,
+            "publication_date": "2023-09-18",
+            "ids": {
+                "openalex": "https://openalex.org/W4386976775",
+                "doi": "https://doi.org/10.1093/gji/ggad362"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1093/gji/ggad362",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S108821158",
+                    "display_name": "Geophysical Journal International",
+                    "issn_l": "0956-540X",
+                    "issn": [
+                        "0956-540X",
+                        "1365-246X"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310311648",
+                    "host_organization_name": "Oxford University Press",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310311647",
+                        "https://openalex.org/P4310311648"
+                    ],
+                    "host_organization_lineage_names": [
+                        "University of Oxford",
+                        "Oxford University Press"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://bird.bcamath.org/bitstream/20.500.11824/1732/1/rodriguez.pdf",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5101486804",
+                        "display_name": "Oscar Rodriguez",
+                        "orcid": "https://orcid.org/0000-0003-2938-7221"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I169108374",
+                            "display_name": "University of the Basque Country",
+                            "ror": "https://ror.org/000xsnr85",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Oscar Rodriguez",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics (BCAM) , Alameda Mazarredo 14, E-48009 Bilbao , Spain",
+                        "Department of Mathematics, University of the Basque Country (UPV/EHU) , Barrio Sarriena, E-48940 Leioa , Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics (BCAM) , Alameda Mazarredo 14, E-48009 Bilbao , Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Mathematics, University of the Basque Country (UPV/EHU) , Barrio Sarriena, E-48940 Leioa , Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5065057468",
+                        "display_name": "Jamie M. Taylor",
+                        "orcid": "https://orcid.org/0000-0002-5423-828X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jamie M Taylor",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics (BCAM) , Alameda Mazarredo 14, E-48009 Bilbao , Spain",
+                        "Department of Quantitative Methods, CUNEF Universidad , C/ de los Pirineos 55, 28040 Madrid , Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics (BCAM) , Alameda Mazarredo 14, E-48009 Bilbao , Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Quantitative Methods, CUNEF Universidad , C/ de los Pirineos 55, 28040 Madrid , Spain",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5082696717",
+                        "display_name": "David Pardo",
+                        "orcid": "https://orcid.org/0000-0002-1101-2248"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802176441",
+                            "display_name": "Basque Center for Applied Mathematics",
+                            "ror": "https://ror.org/03b21sh32",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I169108374",
+                            "display_name": "University of the Basque Country",
+                            "ror": "https://ror.org/000xsnr85",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I110594554",
+                            "display_name": "Ikerbasque",
+                            "ror": "https://ror.org/01cc3fy72",
+                            "country_code": "ES",
+                            "type": "other",
+                            "lineage": [
+                                "https://openalex.org/I110594554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Pardo",
+                    "raw_affiliation_strings": [
+                        "Basque Center for Applied Mathematics (BCAM) , Alameda Mazarredo 14, E-48009 Bilbao , Spain",
+                        "Basque Foundation for Science (Ikerbasque) , Plaza Euskadi 5, E-48009 Bilbao , Spain",
+                        "Department of Mathematics, University of the Basque Country (UPV/EHU) , Barrio Sarriena, E-48940 Leioa , Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Basque Center for Applied Mathematics (BCAM) , Alameda Mazarredo 14, E-48009 Bilbao , Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I2802176441"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Department of Mathematics, University of the Basque Country (UPV/EHU) , Barrio Sarriena, E-48940 Leioa , Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Basque Foundation for Science (Ikerbasque) , Plaza Euskadi 5, E-48009 Bilbao , Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I110594554"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 2590,
+                "currency": "GBP",
+                "value_usd": 3176,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": "235",
+                "issue": "3",
+                "first_page": "2598",
+                "last_page": "2613"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10271",
+                "display_name": "Seismic Waveform Inversion in Geophysics",
+                "score": 0.998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1908",
+                    "display_name": "Geophysics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10271",
+                    "display_name": "Seismic Waveform Inversion in Geophysics",
+                    "score": 0.998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1908",
+                        "display_name": "Geophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10572",
+                    "display_name": "Geophysical Exploration and Monitoring Techniques",
+                    "score": 0.9971,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1908",
+                        "display_name": "Geophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9954,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/autoencoder",
+                    "display_name": "Autoencoder",
+                    "score": 0.8312179
+                },
+                {
+                    "id": "https://openalex.org/keywords/magnetotellurics",
+                    "display_name": "Magnetotellurics",
+                    "score": 0.7428988
+                },
+                {
+                    "id": "https://openalex.org/keywords/geophysical-inversion",
+                    "display_name": "Geophysical Inversion",
+                    "score": 0.576516
+                },
+                {
+                    "id": "https://openalex.org/keywords/inverse-problems",
+                    "display_name": "Inverse Problems",
+                    "score": 0.558147
+                },
+                {
+                    "id": "https://openalex.org/keywords/inverse-theory",
+                    "display_name": "Inverse theory",
+                    "score": 0.5353945
+                },
+                {
+                    "id": "https://openalex.org/keywords/geophysical-imaging",
+                    "display_name": "Geophysical Imaging",
+                    "score": 0.526647
+                },
+                {
+                    "id": "https://openalex.org/keywords/magnetotelluric-imaging",
+                    "display_name": "Magnetotelluric Imaging",
+                    "score": 0.511981
+                },
+                {
+                    "id": "https://openalex.org/keywords/uncertainty-quantification",
+                    "display_name": "Uncertainty quantification",
+                    "score": 0.43771625
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C101738243",
+                    "wikidata": "https://www.wikidata.org/wiki/Q786435",
+                    "display_name": "Autoencoder",
+                    "level": 3,
+                    "score": 0.8312179
+                },
+                {
+                    "id": "https://openalex.org/C135252773",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1567213",
+                    "display_name": "Inverse problem",
+                    "level": 2,
+                    "score": 0.79801714
+                },
+                {
+                    "id": "https://openalex.org/C112313211",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1413106",
+                    "display_name": "Magnetotellurics",
+                    "level": 3,
+                    "score": 0.7428988
+                },
+                {
+                    "id": "https://openalex.org/C8058405",
+                    "wikidata": "https://www.wikidata.org/wiki/Q46255",
+                    "display_name": "Geophysics",
+                    "level": 1,
+                    "score": 0.6114286
+                },
+                {
+                    "id": "https://openalex.org/C163716315",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901177",
+                    "display_name": "Gaussian",
+                    "level": 2,
+                    "score": 0.57445306
+                },
+                {
+                    "id": "https://openalex.org/C207467116",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4385666",
+                    "display_name": "Inverse",
+                    "level": 2,
+                    "score": 0.5385263
+                },
+                {
+                    "id": "https://openalex.org/C2992863106",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1567213",
+                    "display_name": "Inverse theory",
+                    "level": 3,
+                    "score": 0.5353945
+                },
+                {
+                    "id": "https://openalex.org/C32230216",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7882499",
+                    "display_name": "Uncertainty quantification",
+                    "level": 2,
+                    "score": 0.43771625
+                },
+                {
+                    "id": "https://openalex.org/C50644808",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192776",
+                    "display_name": "Artificial neural network",
+                    "level": 2,
+                    "score": 0.42782295
+                },
+                {
+                    "id": "https://openalex.org/C107673813",
+                    "wikidata": "https://www.wikidata.org/wiki/Q812534",
+                    "display_name": "Bayesian probability",
+                    "level": 2,
+                    "score": 0.41599572
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.39245418
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.37020385
+                },
+                {
+                    "id": "https://openalex.org/C121864883",
+                    "wikidata": "https://www.wikidata.org/wiki/Q677916",
+                    "display_name": "Statistical physics",
+                    "level": 1,
+                    "score": 0.3628089
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.3593567
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.35674775
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.32453597
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.20200041
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.19257241
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.15082103
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.12236008
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C84174578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q889796",
+                    "display_name": "Surface wave",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C69990965",
+                    "wikidata": "https://www.wikidata.org/wiki/Q65402698",
+                    "display_name": "Electrical resistivity and conductivity",
+                    "level": 2,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1093/gji/ggad362",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S108821158",
+                        "display_name": "Geophysical Journal International",
+                        "issn_l": "0956-540X",
+                        "issn": [
+                            "0956-540X",
+                            "1365-246X"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310311648",
+                        "host_organization_name": "Oxford University Press",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310311647",
+                            "https://openalex.org/P4310311648"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Oxford",
+                            "Oxford University Press"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/20.500.11824/1732",
+                    "pdf_url": "https://bird.bcamath.org/bitstream/20.500.11824/1732/1/rodriguez.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401608",
+                        "display_name": "BIRD (Basque Center for Applied Mathematics)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I2802176441",
+                        "host_organization_name": "Basque Center for Applied Mathematics",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I2802176441"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Basque Center for Applied Mathematics"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-nc-sa",
+                    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://hdl.handle.net/20.500.11824/1732",
+                "pdf_url": "https://bird.bcamath.org/bitstream/20.500.11824/1732/1/rodriguez.pdf",
+                "source": {
+                    "id": "https://openalex.org/S4306401608",
+                    "display_name": "BIRD (Basque Center for Applied Mathematics)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I2802176441",
+                    "host_organization_name": "Basque Center for Applied Mathematics",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I2802176441"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Basque Center for Applied Mathematics"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-nc-sa",
+                "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320308055",
+                    "funder_display_name": "State of New Jersey Department of Education",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320321705",
+                    "funder_display_name": "Eusko Jaurlaritza",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320322930",
+                    "funder_display_name": "Ministerio de Ciencia e Innovación",
+                    "award_id": "TED2021-132783B-I00"
+                },
+                {
+                    "funder": "https://openalex.org/F4320322930",
+                    "funder_display_name": "Ministerio de Ciencia e Innovación",
+                    "award_id": "PID2019-108111RB-I00"
+                },
+                {
+                    "funder": "https://openalex.org/F4320322930",
+                    "funder_display_name": "Ministerio de Ciencia e Innovación",
+                    "award_id": "PDC2021-121093-I00"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 73,
+            "referenced_works": [
+                "https://openalex.org/W1536064606",
+                "https://openalex.org/W1579853615",
+                "https://openalex.org/W1583305957",
+                "https://openalex.org/W1595796962",
+                "https://openalex.org/W1640166774",
+                "https://openalex.org/W1653412747",
+                "https://openalex.org/W1951971702",
+                "https://openalex.org/W1965555277",
+                "https://openalex.org/W1969706733",
+                "https://openalex.org/W1993331186",
+                "https://openalex.org/W2003054657",
+                "https://openalex.org/W2021039784",
+                "https://openalex.org/W2023965747",
+                "https://openalex.org/W2033262138",
+                "https://openalex.org/W2102353333",
+                "https://openalex.org/W2113143455",
+                "https://openalex.org/W2114424556",
+                "https://openalex.org/W2126883357",
+                "https://openalex.org/W2129736771",
+                "https://openalex.org/W2137983211",
+                "https://openalex.org/W2143163067",
+                "https://openalex.org/W2168020168",
+                "https://openalex.org/W2250861254",
+                "https://openalex.org/W2326774159",
+                "https://openalex.org/W2503676979",
+                "https://openalex.org/W2510466051",
+                "https://openalex.org/W2534225927",
+                "https://openalex.org/W2584866998",
+                "https://openalex.org/W2611991199",
+                "https://openalex.org/W2741951152",
+                "https://openalex.org/W2765811365",
+                "https://openalex.org/W2789400040",
+                "https://openalex.org/W2789408438",
+                "https://openalex.org/W2793684865",
+                "https://openalex.org/W2798538010",
+                "https://openalex.org/W2802918352",
+                "https://openalex.org/W2810524380",
+                "https://openalex.org/W2897109612",
+                "https://openalex.org/W2899283552",
+                "https://openalex.org/W2900550278",
+                "https://openalex.org/W2912316420",
+                "https://openalex.org/W2917737173",
+                "https://openalex.org/W2963166639",
+                "https://openalex.org/W2963613996",
+                "https://openalex.org/W2969261068",
+                "https://openalex.org/W2970718912",
+                "https://openalex.org/W3004227146",
+                "https://openalex.org/W3007835987",
+                "https://openalex.org/W3009854800",
+                "https://openalex.org/W3014029212",
+                "https://openalex.org/W3014126082",
+                "https://openalex.org/W3016406005",
+                "https://openalex.org/W3036411913",
+                "https://openalex.org/W3080477316",
+                "https://openalex.org/W3082534285",
+                "https://openalex.org/W3092847659",
+                "https://openalex.org/W3110285703",
+                "https://openalex.org/W3118392103",
+                "https://openalex.org/W3120542511",
+                "https://openalex.org/W3128348490",
+                "https://openalex.org/W3134751001",
+                "https://openalex.org/W3184315147",
+                "https://openalex.org/W3189824096",
+                "https://openalex.org/W3200418030",
+                "https://openalex.org/W3212838683",
+                "https://openalex.org/W4206174637",
+                "https://openalex.org/W4210370847",
+                "https://openalex.org/W4213414542",
+                "https://openalex.org/W4226217294",
+                "https://openalex.org/W4292070112",
+                "https://openalex.org/W4294408865",
+                "https://openalex.org/W4306687522",
+                "https://openalex.org/W4307537467"
+            ],
+            "related_works": [
+                "https://openalex.org/W2408887402",
+                "https://openalex.org/W2159342310",
+                "https://openalex.org/W2144366308",
+                "https://openalex.org/W2126249506",
+                "https://openalex.org/W2118767815",
+                "https://openalex.org/W2095761811",
+                "https://openalex.org/W2094453364",
+                "https://openalex.org/W2053069262",
+                "https://openalex.org/W2035870250",
+                "https://openalex.org/W1987968160"
+            ],
+            "abstract_inverted_index": {
+                "SUMMARY": [
+                    0
+                ],
+                "Estimating": [
+                    1
+                ],
+                "subsurface": [
+                    2
+                ],
+                "properties": [
+                    3
+                ],
+                "from": [
+                    4,
+                    93
+                ],
+                "geophysical": [
+                    5,
+                    23,
+                    32,
+                    111
+                ],
+                "measurements": [
+                    6
+                ],
+                "is": [
+                    7,
+                    74,
+                    100,
+                    116
+                ],
+                "a": [
+                    8,
+                    22,
+                    43,
+                    50,
+                    67,
+                    80,
+                    87,
+                    94,
+                    119
+                ],
+                "common": [
+                    9
+                ],
+                "inverse": [
+                    10,
+                    24,
+                    122
+                ],
+                "problem.": [
+                    11
+                ],
+                "Several": [
+                    12
+                ],
+                "Bayesian": [
+                    13
+                ],
+                "methods": [
+                    14
+                ],
+                "currently": [
+                    15
+                ],
+                "aim": [
+                    16
+                ],
+                "to": [
+                    17,
+                    21,
+                    56
+                ],
+                "find": [
+                    18
+                ],
+                "the": [
+                    19,
+                    83,
+                    98,
+                    101,
+                    105,
+                    110
+                ],
+                "solution": [
+                    20,
+                    103
+                ],
+                "problem": [
+                    25,
+                    107,
+                    123
+                ],
+                "and": [
+                    26,
+                    66,
+                    79,
+                    97,
+                    124,
+                    134
+                ],
+                "quantify": [
+                    27
+                ],
+                "its": [
+                    28
+                ],
+                "uncertainty.": [
+                    29,
+                    71
+                ],
+                "However,": [
+                    30
+                ],
+                "most": [
+                    31
+                ],
+                "applications": [
+                    33
+                ],
+                "exhibit": [
+                    34
+                ],
+                "more": [
+                    35
+                ],
+                "than": [
+                    36
+                ],
+                "one": [
+                    37,
+                    85
+                ],
+                "plausible": [
+                    38,
+                    127
+                ],
+                "solution.": [
+                    39
+                ],
+                "Here,": [
+                    40
+                ],
+                "we": [
+                    41
+                ],
+                "propose": [
+                    42
+                ],
+                "multimodal": [
+                    44
+                ],
+                "variational": [
+                    45
+                ],
+                "autoencoder": [
+                    46,
+                    73
+                ],
+                "model": [
+                    47
+                ],
+                "that": [
+                    48,
+                    136
+                ],
+                "employs": [
+                    49
+                ],
+                "mixture": [
+                    51,
+                    88
+                ],
+                "of": [
+                    52,
+                    64,
+                    69,
+                    89,
+                    104
+                ],
+                "truncated": [
+                    53,
+                    90
+                ],
+                "Gaussian": [
+                    54,
+                    91
+                ],
+                "densities": [
+                    55,
+                    92
+                ],
+                "provide": [
+                    57
+                ],
+                "multiple": [
+                    58,
+                    126
+                ],
+                "solutions,": [
+                    59
+                ],
+                "along": [
+                    60
+                ],
+                "with": [
+                    61,
+                    76,
+                    118,
+                    129,
+                    140
+                ],
+                "their": [
+                    62,
+                    70
+                ],
+                "probability": [
+                    63
+                ],
+                "occurrence": [
+                    65
+                ],
+                "quantification": [
+                    68,
+                    132
+                ],
+                "This": [
+                    72
+                ],
+                "assembled": [
+                    75
+                ],
+                "an": [
+                    77
+                ],
+                "encoder": [
+                    78
+                ],
+                "decoder,": [
+                    81
+                ],
+                "where": [
+                    82
+                ],
+                "first": [
+                    84
+                ],
+                "provides": [
+                    86
+                ],
+                "neural": [
+                    95
+                ],
+                "network,": [
+                    96
+                ],
+                "second": [
+                    99
+                ],
+                "numerical": [
+                    102
+                ],
+                "forward": [
+                    106
+                ],
+                "given": [
+                    108
+                ],
+                "by": [
+                    109
+                ],
+                "approach.": [
+                    112
+                ],
+                "The": [
+                    113
+                ],
+                "proposed": [
+                    114
+                ],
+                "method": [
+                    115
+                ],
+                "illustrated": [
+                    117
+                ],
+                "1-D": [
+                    120
+                ],
+                "magnetotelluric": [
+                    121
+                ],
+                "recovers": [
+                    125
+                ],
+                "solutions": [
+                    128
+                ],
+                "different": [
+                    130
+                ],
+                "uncertainty": [
+                    131
+                ],
+                "maps": [
+                    133
+                ],
+                "probabilities": [
+                    135
+                ],
+                "are": [
+                    137
+                ],
+                "in": [
+                    138
+                ],
+                "agreement": [
+                    139
+                ],
+                "known": [
+                    141
+                ],
+                "physical": [
+                    142
+                ],
+                "observations.": [
+                    143
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4386976775",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T00:20:39.458928",
+            "created_date": "2023-09-23"
+        }
+    ],
+    "group_by": []
+}

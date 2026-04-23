@@ -1,0 +1,5094 @@
+{
+    "meta": {
+        "count": 6,
+        "db_response_time_ms": 69,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2622958278",
+            "doi": "https://doi.org/10.1016/j.procs.2017.05.217",
+            "title": "A Multi-level Optimization Strategy to Improve the Performance of Stencil Computation",
+            "display_name": "A Multi-level Optimization Strategy to Improve the Performance of Stencil Computation",
+            "publication_year": 2017,
+            "publication_date": "2017-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2622958278",
+                "doi": "https://doi.org/10.1016/j.procs.2017.05.217",
+                "mag": "2622958278"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.217",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2017.05.217",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019506625",
+                        "display_name": "Gauthier Sornet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I12449238",
+                            "display_name": "Université d'Orléans",
+                            "ror": "https://ror.org/014zrew76",
+                            "country_code": "FR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I12449238"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gauthier Sornet",
+                    "raw_affiliation_strings": [
+                        "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+                        "Pamda - Parallélisme et bases de données (Laboratoire d'Informatique Fondamentale d'Orléans, Université d'Orléans, Bâtiment IIIA, Rue Léonard de Vinci, B.P. 6759, F-45067 ORLEANS Cedex 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Pamda - Parallélisme et bases de données (Laboratoire d'Informatique Fondamentale d'Orléans, Université d'Orléans, Bâtiment IIIA, Rue Léonard de Vinci, B.P. 6759, F-45067 ORLEANS Cedex 2 - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I12449238"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5042957624",
+                        "display_name": "Fabrice Dupros",
+                        "orcid": "https://orcid.org/0000-0002-1069-9949"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Fabrice Dupros",
+                    "raw_affiliation_strings": [
+                        "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5068621969",
+                        "display_name": "Sylvain Jubertie",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I12449238",
+                            "display_name": "Université d'Orléans",
+                            "ror": "https://ror.org/014zrew76",
+                            "country_code": "FR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I12449238"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sylvain Jubertie",
+                    "raw_affiliation_strings": [
+                        "Pamda - Parallélisme et bases de données (Laboratoire d'Informatique Fondamentale d'Orléans, Université d'Orléans, Bâtiment IIIA, Rue Léonard de Vinci, B.P. 6759, F-45067 ORLEANS Cedex 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Pamda - Parallélisme et bases de données (Laboratoire d'Informatique Fondamentale d'Orléans, Université d'Orléans, Bâtiment IIIA, Rue Léonard de Vinci, B.P. 6759, F-45067 ORLEANS Cedex 2 - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I12449238"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.964,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.481302,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 75,
+                "max": 78
+            },
+            "biblio": {
+                "volume": "108",
+                "issue": null,
+                "first_page": "1083",
+                "last_page": "1092"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9987,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9942,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/stencil",
+                    "display_name": "Stencil",
+                    "score": 0.9518137
+                },
+                {
+                    "id": "https://openalex.org/keywords/vectorization",
+                    "display_name": "Vectorization (mathematics)",
+                    "score": 0.59298635
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.586262
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.585517
+                },
+                {
+                    "id": "https://openalex.org/keywords/multicore-architectures",
+                    "display_name": "Multicore Architectures",
+                    "score": 0.566754
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.541581
+                },
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.5367
+                },
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.5023565
+                },
+                {
+                    "id": "https://openalex.org/keywords/memory-bandwidth",
+                    "display_name": "Memory bandwidth",
+                    "score": 0.45782244
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C76752949",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7607499",
+                    "display_name": "Stencil",
+                    "level": 2,
+                    "score": 0.9518137
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.91633207
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.67928755
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.6383944
+                },
+                {
+                    "id": "https://openalex.org/C41681595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7917855",
+                    "display_name": "Vectorization (mathematics)",
+                    "level": 2,
+                    "score": 0.59298635
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.55732775
+                },
+                {
+                    "id": "https://openalex.org/C115537543",
+                    "wikidata": "https://www.wikidata.org/wiki/Q165596",
+                    "display_name": "Cache",
+                    "level": 2,
+                    "score": 0.5265817
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.5023565
+                },
+                {
+                    "id": "https://openalex.org/C2776257435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1576430",
+                    "display_name": "Bandwidth (computing)",
+                    "level": 2,
+                    "score": 0.48494127
+                },
+                {
+                    "id": "https://openalex.org/C188045654",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17148339",
+                    "display_name": "Memory bandwidth",
+                    "level": 2,
+                    "score": 0.45782244
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.42805386
+                },
+                {
+                    "id": "https://openalex.org/C140763907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2714055",
+                    "display_name": "Instruction-level parallelism",
+                    "level": 3,
+                    "score": 0.42364758
+                },
+                {
+                    "id": "https://openalex.org/C2781172179",
+                    "wikidata": "https://www.wikidata.org/wiki/Q853109",
+                    "display_name": "Parallelism (grammar)",
+                    "level": 2,
+                    "score": 0.34236193
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.2193163
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.21518224
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.09144774
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.071495205
+                },
+                {
+                    "id": "https://openalex.org/C31258907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+                    "display_name": "Computer network",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 8,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.217",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-01500637",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-03702849",
+                    "pdf_url": "https://brgm.hal.science/hal-03702849/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://brgm.hal.science/hal-01500637",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://brgm.hal.science/hal-03702849",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-03702849/file/1-s2.0-S1877050917308153-main.pdf",
+                    "pdf_url": "https://hal-brgm.archives-ouvertes.fr/hal-03702849/file/1-s2.0-S1877050917308153-main.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://brgm.hal.science/hal-03702849/file/1-s2.0-S1877050917308153-main.pdf",
+                    "pdf_url": "https://brgm.hal.science/hal-03702849/file/1-s2.0-S1877050917308153-main.pdf",
+                    "source": null,
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-03702849/document",
+                    "pdf_url": "https://hal-brgm.archives-ouvertes.fr/hal-03702849/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.217",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "score": 0.41,
+                    "display_name": "Industry, innovation and infrastructure"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 19,
+            "referenced_works": [
+                "https://openalex.org/W1504320321",
+                "https://openalex.org/W1506424797",
+                "https://openalex.org/W1968013322",
+                "https://openalex.org/W1979457157",
+                "https://openalex.org/W1997147891",
+                "https://openalex.org/W2002555321",
+                "https://openalex.org/W2006682606",
+                "https://openalex.org/W2101285930",
+                "https://openalex.org/W2111914791",
+                "https://openalex.org/W2119042753",
+                "https://openalex.org/W2128679183",
+                "https://openalex.org/W2156300652",
+                "https://openalex.org/W2234212075",
+                "https://openalex.org/W2268800088",
+                "https://openalex.org/W2622151058",
+                "https://openalex.org/W3099448935",
+                "https://openalex.org/W4244150794",
+                "https://openalex.org/W4249968602",
+                "https://openalex.org/W92174080"
+            ],
+            "related_works": [
+                "https://openalex.org/W4300860486",
+                "https://openalex.org/W3205799311",
+                "https://openalex.org/W3137777618",
+                "https://openalex.org/W3104857564",
+                "https://openalex.org/W3092174096",
+                "https://openalex.org/W2950520577",
+                "https://openalex.org/W2769005600",
+                "https://openalex.org/W2109463584",
+                "https://openalex.org/W2105992728",
+                "https://openalex.org/W1229628"
+            ],
+            "abstract_inverted_index": {
+                "Stencil": [
+                    0
+                ],
+                "computation": [
+                    1
+                ],
+                "represents": [
+                    2,
+                    19
+                ],
+                "an": [
+                    3
+                ],
+                "important": [
+                    4
+                ],
+                "numerical": [
+                    5
+                ],
+                "kernel": [
+                    6
+                ],
+                "in": [
+                    7,
+                    135
+                ],
+                "scientific": [
+                    8
+                ],
+                "computing.": [
+                    9
+                ],
+                "Leveraging": [
+                    10
+                ],
+                "multi-core": [
+                    11,
+                    109
+                ],
+                "or": [
+                    12
+                ],
+                "many-core": [
+                    13
+                ],
+                "parallelism": [
+                    14
+                ],
+                "to": [
+                    15,
+                    24,
+                    80
+                ],
+                "optimize": [
+                    16
+                ],
+                "such": [
+                    17
+                ],
+                "operations": [
+                    18
+                ],
+                "a": [
+                    20,
+                    60,
+                    93,
+                    114,
+                    131
+                ],
+                "major": [
+                    21,
+                    74
+                ],
+                "challenge": [
+                    22
+                ],
+                "due": [
+                    23
+                ],
+                "both": [
+                    25
+                ],
+                "the": [
+                    26,
+                    30,
+                    39,
+                    45,
+                    85,
+                    118,
+                    136
+                ],
+                "bandwidth": [
+                    27
+                ],
+                "demand": [
+                    28
+                ],
+                "and": [
+                    29,
+                    44,
+                    70,
+                    101
+                ],
+                "low": [
+                    31
+                ],
+                "arithmetic": [
+                    32
+                ],
+                "intensity.": [
+                    33
+                ],
+                "The": [
+                    34
+                ],
+                "situation": [
+                    35
+                ],
+                "is": [
+                    36,
+                    79
+                ],
+                "worsened": [
+                    37
+                ],
+                "by": [
+                    38,
+                    130
+                ],
+                "complexity": [
+                    40
+                ],
+                "of": [
+                    41,
+                    48,
+                    76,
+                    95,
+                    107,
+                    133
+                ],
+                "current": [
+                    42
+                ],
+                "architectures": [
+                    43
+                ],
+                "potential": [
+                    46
+                ],
+                "impact": [
+                    47
+                ],
+                "various": [
+                    49
+                ],
+                "mechanisms": [
+                    50
+                ],
+                "(cache": [
+                    51
+                ],
+                "memory,": [
+                    52
+                ],
+                "vectorization,": [
+                    53,
+                    67
+                ],
+                "compilation).": [
+                    54
+                ],
+                "In": [
+                    55
+                ],
+                "this": [
+                    56,
+                    77
+                ],
+                "paper,": [
+                    57
+                ],
+                "we": [
+                    58
+                ],
+                "describe": [
+                    59
+                ],
+                "multi-level": [
+                    61
+                ],
+                "optimization": [
+                    62
+                ],
+                "strategy": [
+                    63
+                ],
+                "that": [
+                    64
+                ],
+                "combines": [
+                    65
+                ],
+                "manual": [
+                    66
+                ],
+                "space": [
+                    68
+                ],
+                "tiling": [
+                    69
+                ],
+                "stencil": [
+                    71
+                ],
+                "composition.": [
+                    72
+                ],
+                "A": [
+                    73
+                ],
+                "effort": [
+                    75
+                ],
+                "study": [
+                    78
+                ],
+                "compare": [
+                    81
+                ],
+                "our": [
+                    82,
+                    90
+                ],
+                "results": [
+                    83,
+                    112
+                ],
+                "with": [
+                    84,
+                    92,
+                    117
+                ],
+                "Pochoir": [
+                    86,
+                    128
+                ],
+                "framework.": [
+                    87
+                ],
+                "We": [
+                    88,
+                    125
+                ],
+                "evaluate": [
+                    89
+                ],
+                "methodology": [
+                    91
+                ],
+                "set": [
+                    94
+                ],
+                "three": [
+                    96
+                ],
+                "different": [
+                    97
+                ],
+                "compilers": [
+                    98
+                ],
+                "(Intel,": [
+                    99
+                ],
+                "Clang": [
+                    100
+                ],
+                "GCC)": [
+                    102
+                ],
+                "on": [
+                    103
+                ],
+                "two": [
+                    104
+                ],
+                "recent": [
+                    105
+                ],
+                "generations": [
+                    106
+                ],
+                "Intel": [
+                    108
+                ],
+                "platforms.": [
+                    110
+                ],
+                "Our": [
+                    111
+                ],
+                "show": [
+                    113
+                ],
+                "good": [
+                    115
+                ],
+                "match": [
+                    116
+                ],
+                "theoretical": [
+                    119
+                ],
+                "performance": [
+                    120,
+                    129
+                ],
+                "models": [
+                    121
+                ],
+                "(i.e.": [
+                    122
+                ],
+                "roofline": [
+                    123
+                ],
+                "models).": [
+                    124
+                ],
+                "also": [
+                    126
+                ],
+                "outperform": [
+                    127
+                ],
+                "factor": [
+                    132
+                ],
+                "x2.5": [
+                    134
+                ],
+                "best": [
+                    137
+                ],
+                "case.": [
+                    138
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2622958278",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 3
+                }
+            ],
+            "updated_date": "2024-09-19T18:55:18.289748",
+            "created_date": "2017-06-15"
+        },
+        {
+            "id": "https://openalex.org/W2899485899",
+            "doi": "https://doi.org/10.1109/hpcs.2018.00074",
+            "title": "Performance Analysis of SIMD Vectorization of High-Order Finite-Element Kernels",
+            "display_name": "Performance Analysis of SIMD Vectorization of High-Order Finite-Element Kernels",
+            "publication_year": 2018,
+            "publication_date": "2018-07-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2899485899",
+                "doi": "https://doi.org/10.1109/hpcs.2018.00074",
+                "mag": "2899485899"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/hpcs.2018.00074",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://hal.science/hal-01915519/document",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019506625",
+                        "display_name": "Gauthier Sornet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gauthier Sornet",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5068621969",
+                        "display_name": "Sylvain Jubertie",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210115196",
+                            "display_name": "Laboratoire d’Informatique Fondamentale de Marseille",
+                            "ror": "https://ror.org/022my8t07",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210115196",
+                                "https://openalex.org/I4210142724",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sylvain Jubertie",
+                    "raw_affiliation_strings": [
+                        "Laboratoire d'Informatique Fondamentale d'Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire d'Informatique Fondamentale d'Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210115196"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5042957624",
+                        "display_name": "Fabrice Dupros",
+                        "orcid": "https://orcid.org/0000-0002-1069-9949"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Fabrice Dupros",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5061289747",
+                        "display_name": "Florent de Martin",
+                        "orcid": "https://orcid.org/0000-0003-3746-9067"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Florent de Martin",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5050247937",
+                        "display_name": "Sébastien Limet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210115196",
+                            "display_name": "Laboratoire d’Informatique Fondamentale de Marseille",
+                            "ror": "https://ror.org/022my8t07",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210115196",
+                                "https://openalex.org/I4210142724",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sébastien Limet",
+                    "raw_affiliation_strings": [
+                        "Laboratoire d'Informatique Fondamentale d'Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire d'Informatique Fondamentale d'Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210115196"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.810718,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 75,
+                "max": 77
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9967,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9967,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10481",
+                    "display_name": "Computer Graphics and Visualization Techniques",
+                    "score": 0.9941,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9907,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/simd",
+                    "display_name": "SIMD",
+                    "score": 0.88578045
+                },
+                {
+                    "id": "https://openalex.org/keywords/vectorization",
+                    "display_name": "Vectorization (mathematics)",
+                    "score": 0.816413
+                },
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.6112714
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-element-methods",
+                    "display_name": "Finite Element Methods",
+                    "score": 0.587913
+                },
+                {
+                    "id": "https://openalex.org/keywords/simulations",
+                    "display_name": "Simulations",
+                    "score": 0.579286
+                },
+                {
+                    "id": "https://openalex.org/keywords/volume-rendering",
+                    "display_name": "Volume Rendering",
+                    "score": 0.564215
+                },
+                {
+                    "id": "https://openalex.org/keywords/fluid-simulation",
+                    "display_name": "Fluid Simulation",
+                    "score": 0.554153
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.546268
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C150552126",
+                    "wikidata": "https://www.wikidata.org/wiki/Q339387",
+                    "display_name": "SIMD",
+                    "level": 2,
+                    "score": 0.88578045
+                },
+                {
+                    "id": "https://openalex.org/C41681595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7917855",
+                    "display_name": "Vectorization (mathematics)",
+                    "level": 2,
+                    "score": 0.816413
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.7733984
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.76331043
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.68951774
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.6112714
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.58883554
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.554027
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.5007875
+                },
+                {
+                    "id": "https://openalex.org/C186594467",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1429176",
+                    "display_name": "Flooding (psychology)",
+                    "level": 2,
+                    "score": 0.49919558
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.42990237
+                },
+                {
+                    "id": "https://openalex.org/C113775141",
+                    "wikidata": "https://www.wikidata.org/wiki/Q428691",
+                    "display_name": "Computer engineering",
+                    "level": 1,
+                    "score": 0.40979385
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.34137172
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.33349517
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.13277271
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.12874329
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.09000927
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C15744967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9418",
+                    "display_name": "Psychology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C542102704",
+                    "wikidata": "https://www.wikidata.org/wiki/Q183257",
+                    "display_name": "Psychotherapist",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 8,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/hpcs.2018.00074",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-01915519",
+                    "pdf_url": "https://hal.science/hal-01915519/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.science/hal-01915519v2/file/perf_analysis_SIMD_FEM.pdf",
+                    "pdf_url": "https://hal.science/hal-01915519v2/file/perf_analysis_SIMD_FEM.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.science/hal-01915519v2/document",
+                    "pdf_url": "https://hal.science/hal-01915519v2/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-01915519v1/document",
+                    "pdf_url": "https://hal.archives-ouvertes.fr/hal-01915519v1/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-03703036",
+                    "pdf_url": "https://hal.archives-ouvertes.fr/hal-01915519/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-01915519v2/file/perf_analysis_SIMD_FEM.pdf",
+                    "pdf_url": "https://hal.archives-ouvertes.fr/hal-01915519v2/file/perf_analysis_SIMD_FEM.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-01915519v2/document",
+                    "pdf_url": "https://hal.archives-ouvertes.fr/hal-01915519v2/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://hal.archives-ouvertes.fr/hal-01915519",
+                "pdf_url": "https://hal.science/hal-01915519/document",
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/13",
+                    "score": 0.63,
+                    "display_name": "Climate action"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 32,
+            "referenced_works": [
+                "https://openalex.org/W1545372130",
+                "https://openalex.org/W1621885647",
+                "https://openalex.org/W1946796247",
+                "https://openalex.org/W1976110206",
+                "https://openalex.org/W1980562919",
+                "https://openalex.org/W2002555321",
+                "https://openalex.org/W2021261510",
+                "https://openalex.org/W2028469001",
+                "https://openalex.org/W2047352485",
+                "https://openalex.org/W2059710204",
+                "https://openalex.org/W2077368913",
+                "https://openalex.org/W2079728181",
+                "https://openalex.org/W2083279262",
+                "https://openalex.org/W2098267405",
+                "https://openalex.org/W2103527393",
+                "https://openalex.org/W2109625332",
+                "https://openalex.org/W2154118576",
+                "https://openalex.org/W2154865023",
+                "https://openalex.org/W2205122084",
+                "https://openalex.org/W2268800088",
+                "https://openalex.org/W2313756482",
+                "https://openalex.org/W2398115286",
+                "https://openalex.org/W2487558162",
+                "https://openalex.org/W2566915031",
+                "https://openalex.org/W2612377115",
+                "https://openalex.org/W2754695535",
+                "https://openalex.org/W2758941972",
+                "https://openalex.org/W2776241935",
+                "https://openalex.org/W2788774572",
+                "https://openalex.org/W2807356003",
+                "https://openalex.org/W2997945685",
+                "https://openalex.org/W4238630733"
+            ],
+            "related_works": [
+                "https://openalex.org/W4285390450",
+                "https://openalex.org/W4244894488",
+                "https://openalex.org/W32529763",
+                "https://openalex.org/W3024308452",
+                "https://openalex.org/W2979513934",
+                "https://openalex.org/W2566637483",
+                "https://openalex.org/W2366442643",
+                "https://openalex.org/W2127324789",
+                "https://openalex.org/W2111180768",
+                "https://openalex.org/W2021715972"
+            ],
+            "abstract_inverted_index": {
+                "Physics-based": [
+                    0
+                ],
+                "three-dimensional": [
+                    1
+                ],
+                "numerical": [
+                    2,
+                    32
+                ],
+                "simulations": [
+                    3
+                ],
+                "are": [
+                    4,
+                    9,
+                    106
+                ],
+                "becoming": [
+                    5
+                ],
+                "more": [
+                    6
+                ],
+                "predictive": [
+                    7
+                ],
+                "and": [
+                    8,
+                    27,
+                    91,
+                    103,
+                    182,
+                    198
+                ],
+                "already": [
+                    10
+                ],
+                "essential": [
+                    11
+                ],
+                "for": [
+                    12
+                ],
+                "improving": [
+                    13
+                ],
+                "the": [
+                    14,
+                    31,
+                    59,
+                    65,
+                    69,
+                    83,
+                    110,
+                    125,
+                    145,
+                    150,
+                    153,
+                    161,
+                    164,
+                    166,
+                    171,
+                    185,
+                    191
+                ],
+                "understanding": [
+                    15
+                ],
+                "of": [
+                    16,
+                    51,
+                    68,
+                    72,
+                    75,
+                    89,
+                    152,
+                    163
+                ],
+                "natural": [
+                    17
+                ],
+                "phenomena,": [
+                    18
+                ],
+                "such": [
+                    19,
+                    159
+                ],
+                "as": [
+                    20,
+                    160,
+                    188
+                ],
+                "earthquakes,": [
+                    21
+                ],
+                "tsunami,": [
+                    22
+                ],
+                "flooding": [
+                    23
+                ],
+                "or": [
+                    24,
+                    170
+                ],
+                "climate": [
+                    25
+                ],
+                "change": [
+                    26
+                ],
+                "global": [
+                    28
+                ],
+                "warming.": [
+                    29
+                ],
+                "Among": [
+                    30
+                ],
+                "methods": [
+                    33
+                ],
+                "available": [
+                    34
+                ],
+                "to": [
+                    35,
+                    58,
+                    143,
+                    190
+                ],
+                "support": [
+                    36
+                ],
+                "these": [
+                    37,
+                    52
+                ],
+                "simulations,": [
+                    38
+                ],
+                "Finite-Element": [
+                    39
+                ],
+                "formulations": [
+                    40
+                ],
+                "have": [
+                    41,
+                    120
+                ],
+                "been": [
+                    42
+                ],
+                "implemented": [
+                    43
+                ],
+                "in": [
+                    44
+                ],
+                "several": [
+                    45,
+                    87
+                ],
+                "major": [
+                    46
+                ],
+                "software": [
+                    47,
+                    127
+                ],
+                "packages.": [
+                    48
+                ],
+                "The": [
+                    49
+                ],
+                "efficiency": [
+                    50
+                ],
+                "algorithms": [
+                    53
+                ],
+                "remains": [
+                    54
+                ],
+                "a": [
+                    55,
+                    122,
+                    139
+                ],
+                "challenge": [
+                    56
+                ],
+                "due": [
+                    57
+                ],
+                "irregular": [
+                    60
+                ],
+                "memory": [
+                    61,
+                    93,
+                    167
+                ],
+                "access": [
+                    62,
+                    168
+                ],
+                "that": [
+                    63
+                ],
+                "prevents": [
+                    64
+                ],
+                "squeezing": [
+                    66
+                ],
+                "out": [
+                    67,
+                    74
+                ],
+                "maximum": [
+                    70
+                ],
+                "level": [
+                    71,
+                    85
+                ],
+                "performance": [
+                    73,
+                    151,
+                    193
+                ],
+                "current": [
+                    76
+                ],
+                "architectures.": [
+                    77,
+                    200
+                ],
+                "This": [
+                    78,
+                    136
+                ],
+                "is": [
+                    79
+                ],
+                "particularly": [
+                    80
+                ],
+                "true": [
+                    81
+                ],
+                "at": [
+                    82,
+                    130
+                ],
+                "shared-memory": [
+                    84
+                ],
+                "with": [
+                    86
+                ],
+                "levels": [
+                    88
+                ],
+                "parallelism": [
+                    90
+                ],
+                "complex": [
+                    92
+                ],
+                "hierarchies.": [
+                    94
+                ],
+                "Despite": [
+                    95
+                ],
+                "significant": [
+                    96
+                ],
+                "efforts,": [
+                    97
+                ],
+                "automatic": [
+                    98
+                ],
+                "optimizations": [
+                    99,
+                    181
+                ],
+                "provided": [
+                    100
+                ],
+                "by": [
+                    101
+                ],
+                "compilers": [
+                    102
+                ],
+                "high-level": [
+                    104
+                ],
+                "frameworks": [
+                    105
+                ],
+                "often": [
+                    107
+                ],
+                "far": [
+                    108
+                ],
+                "from": [
+                    109,
+                    113,
+                    124
+                ],
+                "performances": [
+                    111
+                ],
+                "obtained": [
+                    112
+                ],
+                "hand-tuned": [
+                    114
+                ],
+                "implementations.": [
+                    115
+                ],
+                "In": [
+                    116
+                ],
+                "this": [
+                    117,
+                    176
+                ],
+                "paper,": [
+                    118
+                ],
+                "we": [
+                    119,
+                    178,
+                    183
+                ],
+                "extracted": [
+                    121,
+                    154
+                ],
+                "kernel": [
+                    123
+                ],
+                "EFISPEC": [
+                    126
+                ],
+                "package": [
+                    128
+                ],
+                "developed": [
+                    129
+                ],
+                "BRGM": [
+                    131
+                ],
+                "(the": [
+                    132
+                ],
+                "French": [
+                    133
+                ],
+                "Geological": [
+                    134
+                ],
+                "Survey).": [
+                    135
+                ],
+                "application": [
+                    137
+                ],
+                "implements": [
+                    138
+                ],
+                "high-order": [
+                    140
+                ],
+                "finite-element": [
+                    141
+                ],
+                "method": [
+                    142
+                ],
+                "solve": [
+                    144
+                ],
+                "elastodynamic": [
+                    146
+                ],
+                "equation.": [
+                    147
+                ],
+                "We": [
+                    148
+                ],
+                "characterize": [
+                    149
+                ],
+                "mini-app": [
+                    155
+                ],
+                "considering": [
+                    156
+                ],
+                "key": [
+                    157
+                ],
+                "parameters": [
+                    158
+                ],
+                "order": [
+                    162
+                ],
+                "approximation,": [
+                    165
+                ],
+                "pattern": [
+                    169
+                ],
+                "vector": [
+                    172
+                ],
+                "length.": [
+                    173
+                ],
+                "Based": [
+                    174
+                ],
+                "on": [
+                    175,
+                    195
+                ],
+                "study,": [
+                    177
+                ],
+                "detail": [
+                    179
+                ],
+                "specific": [
+                    180
+                ],
+                "discuss": [
+                    184
+                ],
+                "results": [
+                    186
+                ],
+                "measured": [
+                    187
+                ],
+                "regards": [
+                    189
+                ],
+                "roofline": [
+                    192
+                ],
+                "model": [
+                    194
+                ],
+                "Intel": [
+                    196
+                ],
+                "Broadwell": [
+                    197
+                ],
+                "Skylake": [
+                    199
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2899485899",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-14T03:52:35.599598",
+            "created_date": "2018-11-09"
+        },
+        {
+            "id": "https://openalex.org/W2807356003",
+            "doi": "https://doi.org/10.1109/pdp2018.2018.00043",
+            "title": "Data-Layout Reorganization for an Efficient Intra-Node Assembly of a Spectral Finite-Element Method",
+            "display_name": "Data-Layout Reorganization for an Efficient Intra-Node Assembly of a Spectral Finite-Element Method",
+            "publication_year": 2018,
+            "publication_date": "2018-03-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2807356003",
+                "doi": "https://doi.org/10.1109/pdp2018.2018.00043",
+                "mag": "2807356003"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/pdp2018.2018.00043",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://brgm.hal.science/hal-01680058/document",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019506625",
+                        "display_name": "Gauthier Sornet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gauthier Sornet",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5068621969",
+                        "display_name": "Sylvain Jubertie",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210147993",
+                            "display_name": "PAMM",
+                            "ror": "https://ror.org/05mggs005",
+                            "country_code": "NL",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210147993"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sylvain Jubertie",
+                    "raw_affiliation_strings": [
+                        "PaMDA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "PaMDA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210147993"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5042957624",
+                        "display_name": "Fabrice Dupros",
+                        "orcid": "https://orcid.org/0000-0002-1069-9949"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Fabrice Dupros",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5061289747",
+                        "display_name": "Florent de Martin",
+                        "orcid": "https://orcid.org/0000-0003-3746-9067"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Florent de Martin",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5024277226",
+                        "display_name": "Philippe Thierry",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Philippe Thierry",
+                    "raw_affiliation_strings": [
+                        "INTEL"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "INTEL",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5050247937",
+                        "display_name": "Sébastien Limet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210115196",
+                            "display_name": "Laboratoire d’Informatique Fondamentale de Marseille",
+                            "ror": "https://ror.org/022my8t07",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210115196",
+                                "https://openalex.org/I4210142724",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sébastien Limet",
+                    "raw_affiliation_strings": [
+                        "Laboratoire d'Informatique Fondamentale d'Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire d'Informatique Fondamentale d'Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210115196"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.667309,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 62,
+                "max": 70
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10339",
+                "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                "score": 0.9993,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9993,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11263",
+                    "display_name": "Finite-Difference Time-Domain Methods in Electromagnetics",
+                    "score": 0.9965,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11416",
+                    "display_name": "Numerical Integration Methods for Differential Equations",
+                    "score": 0.9912,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2612",
+                        "display_name": "Numerical Analysis"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/simd",
+                    "display_name": "SIMD",
+                    "score": 0.6780428
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-element-methods",
+                    "display_name": "Finite Element Methods",
+                    "score": 0.648445
+                },
+                {
+                    "id": "https://openalex.org/keywords/vectorization",
+                    "display_name": "Vectorization (mathematics)",
+                    "score": 0.5990108
+                },
+                {
+                    "id": "https://openalex.org/keywords/stabilized-methods",
+                    "display_name": "Stabilized Methods",
+                    "score": 0.501605
+                },
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.46440792
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.4161083
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.82728106
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.76785
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.71388024
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.6806127
+                },
+                {
+                    "id": "https://openalex.org/C150552126",
+                    "wikidata": "https://www.wikidata.org/wiki/Q339387",
+                    "display_name": "SIMD",
+                    "level": 2,
+                    "score": 0.6780428
+                },
+                {
+                    "id": "https://openalex.org/C2780513914",
+                    "wikidata": "https://www.wikidata.org/wiki/Q18210350",
+                    "display_name": "Bottleneck",
+                    "level": 2,
+                    "score": 0.6338774
+                },
+                {
+                    "id": "https://openalex.org/C62611344",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1062658",
+                    "display_name": "Node (physics)",
+                    "level": 2,
+                    "score": 0.6207581
+                },
+                {
+                    "id": "https://openalex.org/C41681595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7917855",
+                    "display_name": "Vectorization (mathematics)",
+                    "level": 2,
+                    "score": 0.5990108
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.5064796
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.46440792
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.45145592
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.4161083
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.1084913
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.091225
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 4,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/pdp2018.2018.00043",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-01680058",
+                    "pdf_url": "https://brgm.hal.science/hal-01680058/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://brgm.hal.science/hal-01680058/file/Data-layout%20reorganization%20for%20an%20efficient%20intra-node.pdf",
+                    "pdf_url": "https://brgm.hal.science/hal-01680058/file/Data-layout%20reorganization%20for%20an%20efficient%20intra-node.pdf",
+                    "source": null,
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-01680058/file/Data-layout%20reorganization%20for%20an%20efficient%20intra-node.pdf",
+                    "pdf_url": "https://hal-brgm.archives-ouvertes.fr/hal-01680058/file/Data-layout%20reorganization%20for%20an%20efficient%20intra-node.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-01680058",
+                "pdf_url": "https://brgm.hal.science/hal-01680058/document",
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W1545372130",
+                "https://openalex.org/W1621885647",
+                "https://openalex.org/W1934367655",
+                "https://openalex.org/W1990229554",
+                "https://openalex.org/W2047352485",
+                "https://openalex.org/W2077368913",
+                "https://openalex.org/W2079728181",
+                "https://openalex.org/W2083279262",
+                "https://openalex.org/W2103527393",
+                "https://openalex.org/W2268122618",
+                "https://openalex.org/W2398115286",
+                "https://openalex.org/W2622958278",
+                "https://openalex.org/W4248236105",
+                "https://openalex.org/W4255117177",
+                "https://openalex.org/W4285719527"
+            ],
+            "related_works": [
+                "https://openalex.org/W4285390450",
+                "https://openalex.org/W4244894488",
+                "https://openalex.org/W32529763",
+                "https://openalex.org/W3024308452",
+                "https://openalex.org/W2979513934",
+                "https://openalex.org/W2761732860",
+                "https://openalex.org/W2566637483",
+                "https://openalex.org/W2366442643",
+                "https://openalex.org/W2127324789",
+                "https://openalex.org/W2021715972"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "Finite-Element": [
+                    1
+                ],
+                "Method": [
+                    2,
+                    24
+                ],
+                "(FEM)": [
+                    3
+                ],
+                "is": [
+                    4,
+                    27,
+                    46,
+                    100
+                ],
+                "routinely": [
+                    5
+                ],
+                "used": [
+                    6
+                ],
+                "to": [
+                    7,
+                    70,
+                    110,
+                    140,
+                    172,
+                    220
+                ],
+                "solve": [
+                    8
+                ],
+                "Partial": [
+                    9
+                ],
+                "Differential": [
+                    10
+                ],
+                "Equations": [
+                    11
+                ],
+                "(PDE)": [
+                    12
+                ],
+                "in": [
+                    13,
+                    143,
+                    227
+                ],
+                "various": [
+                    14
+                ],
+                "scientific": [
+                    15
+                ],
+                "domains.": [
+                    16
+                ],
+                "For": [
+                    17
+                ],
+                "seismic": [
+                    18
+                ],
+                "waves": [
+                    19
+                ],
+                "modeling,": [
+                    20
+                ],
+                "the": [
+                    21,
+                    32,
+                    41,
+                    50,
+                    60,
+                    78,
+                    94,
+                    103,
+                    124,
+                    152,
+                    158,
+                    189,
+                    194,
+                    198
+                ],
+                "Spectral": [
+                    22
+                ],
+                "Element": [
+                    23
+                ],
+                "(SEM),": [
+                    25
+                ],
+                "which": [
+                    26
+                ],
+                "a": [
+                    28,
+                    133,
+                    136,
+                    204
+                ],
+                "specific": [
+                    29,
+                    219
+                ],
+                "formulation": [
+                    30
+                ],
+                "of": [
+                    31,
+                    55,
+                    63,
+                    73,
+                    87,
+                    113,
+                    166,
+                    197
+                ],
+                "classical": [
+                    33,
+                    64
+                ],
+                "FEM": [
+                    34,
+                    105,
+                    231
+                ],
+                "approach,": [
+                    35
+                ],
+                "have": [
+                    36
+                ],
+                "gained": [
+                    37
+                ],
+                "significant": [
+                    38,
+                    91,
+                    111
+                ],
+                "attention": [
+                    39
+                ],
+                "for": [
+                    40,
+                    80,
+                    126
+                ],
+                "last": [
+                    42
+                ],
+                "two": [
+                    43
+                ],
+                "decades.": [
+                    44
+                ],
+                "This": [
+                    45,
+                    117
+                ],
+                "explained": [
+                    47
+                ],
+                "both": [
+                    48
+                ],
+                "from": [
+                    49,
+                    59,
+                    102,
+                    123,
+                    135,
+                    175
+                ],
+                "very": [
+                    51
+                ],
+                "good": [
+                    52,
+                    205
+                ],
+                "numerical": [
+                    53
+                ],
+                "accuracy": [
+                    54
+                ],
+                "this": [
+                    56,
+                    129,
+                    221
+                ],
+                "method": [
+                    57
+                ],
+                "and": [
+                    58,
+                    161,
+                    178,
+                    223,
+                    230
+                ],
+                "parallel": [
+                    61
+                ],
+                "performance": [
+                    62,
+                    196,
+                    210
+                ],
+                "MPI-based": [
+                    65
+                ],
+                "implementations": [
+                    66
+                ],
+                "that": [
+                    67,
+                    108,
+                    188,
+                    214
+                ],
+                "scale": [
+                    68
+                ],
+                "up": [
+                    69
+                ],
+                "several": [
+                    71
+                ],
+                "tens": [
+                    72
+                ],
+                "thousands": [
+                    74
+                ],
+                "computing": [
+                    75
+                ],
+                "cores.": [
+                    76
+                ],
+                "Nevertheless,": [
+                    77
+                ],
+                "trend": [
+                    79
+                ],
+                "current": [
+                    81
+                ],
+                "processors": [
+                    82
+                ],
+                "with": [
+                    83,
+                    207
+                ],
+                "an": [
+                    84
+                ],
+                "increasing": [
+                    85
+                ],
+                "level": [
+                    86
+                ],
+                "low-level": [
+                    88
+                ],
+                "parallelism": [
+                    89
+                ],
+                "requires": [
+                    90
+                ],
+                "efforts": [
+                    92
+                ],
+                "at": [
+                    93,
+                    150
+                ],
+                "shared-memory": [
+                    95
+                ],
+                "level.": [
+                    96
+                ],
+                "One": [
+                    97
+                ],
+                "major": [
+                    98
+                ],
+                "bottleneck": [
+                    99
+                ],
+                "coming": [
+                    101
+                ],
+                "standard": [
+                    104
+                ],
+                "assembly": [
+                    106
+                ],
+                "phase": [
+                    107
+                ],
+                "leads": [
+                    109
+                ],
+                "amount": [
+                    112
+                ],
+                "irregular": [
+                    114
+                ],
+                "memory": [
+                    115
+                ],
+                "accesses.": [
+                    116
+                ],
+                "prevents": [
+                    118
+                ],
+                "any": [
+                    119
+                ],
+                "efficient": [
+                    120
+                ],
+                "automatic": [
+                    121
+                ],
+                "optimizations": [
+                    122,
+                    191,
+                    216
+                ],
+                "compiler": [
+                    125
+                ],
+                "instance.": [
+                    127
+                ],
+                "In": [
+                    128
+                ],
+                "paper,": [
+                    130
+                ],
+                "we": [
+                    131,
+                    162
+                ],
+                "extract": [
+                    132
+                ],
+                "kernel": [
+                    134
+                ],
+                "spectral-element": [
+                    137
+                ],
+                "application": [
+                    138
+                ],
+                "dedicated": [
+                    139
+                ],
+                "earthquake": [
+                    141
+                ],
+                "simulations": [
+                    142
+                ],
+                "complex": [
+                    144
+                ],
+                "geological": [
+                    145
+                ],
+                "medium": [
+                    146
+                ],
+                "(EFISPEC": [
+                    147
+                ],
+                "code": [
+                    148
+                ],
+                "developed": [
+                    149
+                ],
+                "BRGM,": [
+                    151
+                ],
+                "French": [
+                    153
+                ],
+                "Geological": [
+                    154
+                ],
+                "Survey).": [
+                    155
+                ],
+                "We": [
+                    156,
+                    212
+                ],
+                "study": [
+                    157
+                ],
+                "intra-node": [
+                    159,
+                    195
+                ],
+                "behavior": [
+                    160
+                ],
+                "propose": [
+                    163
+                ],
+                "different": [
+                    164,
+                    228
+                ],
+                "levels": [
+                    165
+                ],
+                "optimization": [
+                    167
+                ],
+                "(data-layout,": [
+                    168
+                ],
+                "manual": [
+                    169
+                ],
+                "vectorization,": [
+                    170
+                ],
+                "multi-threading)": [
+                    171
+                ],
+                "fully": [
+                    173
+                ],
+                "benefit": [
+                    174
+                ],
+                "SIMD": [
+                    176
+                ],
+                "units": [
+                    177
+                ],
+                "NUMA": [
+                    179
+                ],
+                "architectures.": [
+                    180
+                ],
+                "Experiments": [
+                    181
+                ],
+                "performed": [
+                    182
+                ],
+                "on": [
+                    183
+                ],
+                "Intel": [
+                    184
+                ],
+                "Broadwell": [
+                    185
+                ],
+                "architecture": [
+                    186
+                ],
+                "show": [
+                    187,
+                    203
+                ],
+                "proposed": [
+                    190
+                ],
+                "dramatically": [
+                    192
+                ],
+                "improve": [
+                    193
+                ],
+                "mini-application.": [
+                    199
+                ],
+                "Moreover,": [
+                    200
+                ],
+                "our": [
+                    201
+                ],
+                "results": [
+                    202
+                ],
+                "match": [
+                    206
+                ],
+                "rooflines": [
+                    208
+                ],
+                "theoretical": [
+                    209
+                ],
+                "models.": [
+                    211
+                ],
+                "believe": [
+                    213
+                ],
+                "these": [
+                    215
+                ],
+                "are": [
+                    217
+                ],
+                "not": [
+                    218
+                ],
+                "mini-application": [
+                    222
+                ],
+                "may": [
+                    224
+                ],
+                "be": [
+                    225
+                ],
+                "implemented": [
+                    226
+                ],
+                "SEM": [
+                    229
+                ],
+                "based": [
+                    232
+                ],
+                "solvers": [
+                    233
+                ],
+                "as": [
+                    234
+                ],
+                "well.": [
+                    235
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2807356003",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T18:37:30.589035",
+            "created_date": "2018-06-13"
+        },
+        {
+            "id": "https://openalex.org/W4300914468",
+            "doi": null,
+            "title": "A multi-level optimization strategy to improve the performance of the stencil computation",
+            "display_name": "A multi-level optimization strategy to improve the performance of the stencil computation",
+            "publication_year": 2017,
+            "publication_date": "2017-06-12",
+            "ids": {
+                "openalex": "https://openalex.org/W4300914468"
+            },
+            "language": "en",
+            "primary_location": null,
+            "type": "preprint",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019506625",
+                        "display_name": "Gauthier Sornet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210144566",
+                            "display_name": "Laboratoire de l'Informatique du Parallélisme",
+                            "ror": "https://ror.org/04msnz457",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I100532134",
+                                "https://openalex.org/I113428412",
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I203339264",
+                                "https://openalex.org/I4210144566",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gauthier Sornet",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)",
+                        "Parallélisme et bases de données"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Parallélisme et bases de données",
+                            "institution_ids": [
+                                "https://openalex.org/I4210144566"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5042957624",
+                        "display_name": "Fabrice Dupros",
+                        "orcid": "https://orcid.org/0000-0002-1069-9949"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Fabrice Dupros",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5068621969",
+                        "display_name": "Sylvain Jubertie",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210144566",
+                            "display_name": "Laboratoire de l'Informatique du Parallélisme",
+                            "ror": "https://ror.org/04msnz457",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I100532134",
+                                "https://openalex.org/I113428412",
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I203339264",
+                                "https://openalex.org/I4210144566",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sylvain Jubertie",
+                    "raw_affiliation_strings": [
+                        "Parallélisme et bases de données"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Parallélisme et bases de données",
+                            "institution_ids": [
+                                "https://openalex.org/I4210144566"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 64
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9861,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9861,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10363",
+                    "display_name": "Low-Power VLSI Circuit Design and Optimization",
+                    "score": 0.9741,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11697",
+                    "display_name": "Floating-Point Arithmetic in Scientific Computation",
+                    "score": 0.9437,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/stencil",
+                    "display_name": "Stencil",
+                    "score": 0.9146863
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.642036
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-precision-computation",
+                    "display_name": "High-Precision Computation",
+                    "score": 0.604327
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.59927
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.594034
+                },
+                {
+                    "id": "https://openalex.org/keywords/heterogeneous-computing",
+                    "display_name": "Heterogeneous Computing",
+                    "score": 0.588746
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C76752949",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7607499",
+                    "display_name": "Stencil",
+                    "level": 2,
+                    "score": 0.9146863
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.747805
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.67924994
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.35448742
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.297988
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.14443037
+                }
+            ],
+            "mesh": [],
+            "locations_count": 0,
+            "locations": [],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4200123712",
+                "https://openalex.org/W3122909934",
+                "https://openalex.org/W3091752332",
+                "https://openalex.org/W2804132206",
+                "https://openalex.org/W2624454569",
+                "https://openalex.org/W2497986104",
+                "https://openalex.org/W2169055675",
+                "https://openalex.org/W2083051666",
+                "https://openalex.org/W1936984751",
+                "https://openalex.org/W1572523360"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4300914468",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T15:49:31.574032",
+            "created_date": "2022-10-04"
+        },
+        {
+            "id": "https://openalex.org/W3096727641",
+            "doi": null,
+            "title": "Parallèlisme des calculs numériques appliqué aux géosciences",
+            "display_name": "Parallèlisme des calculs numériques appliqué aux géosciences",
+            "publication_year": 2019,
+            "publication_date": "2019-10-10",
+            "ids": {
+                "openalex": "https://openalex.org/W3096727641",
+                "mag": "3096727641"
+            },
+            "language": "fr",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://hal.archives-ouvertes.fr/tel-02986761",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "dissertation",
+            "type_crossref": "dissertation",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019506625",
+                        "display_name": "Gauthier Sornet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210115196",
+                            "display_name": "Laboratoire d’Informatique Fondamentale de Marseille",
+                            "ror": "https://ror.org/022my8t07",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210115196",
+                                "https://openalex.org/I4210142724",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Gauthier Sornet",
+                    "raw_affiliation_strings": [
+                        "Laboratoire d'Informatique Fondamentale d'Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire d'Informatique Fondamentale d'Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210115196"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5019506625"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I4210115196"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 62
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.9972,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9972,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9778,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11801",
+                    "display_name": "Advanced Techniques in Reservoir Management",
+                    "score": 0.9565,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2212",
+                        "display_name": "Ocean Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.543451
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C15708023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80083",
+                    "display_name": "Humanities",
+                    "level": 1,
+                    "score": 0.87910956
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.46208167
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.31357062
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/tel-02986761",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [],
+            "abstract_inverted_index": {
+                "La": [
+                    0
+                ],
+                "resolution": [
+                    1,
+                    63
+                ],
+                "discrete": [
+                    2
+                ],
+                "de": [
+                    3,
+                    53,
+                    60,
+                    62,
+                    83,
+                    109,
+                    117,
+                    123,
+                    128,
+                    131,
+                    138,
+                    144,
+                    163,
+                    191,
+                    204
+                ],
+                "modele": [
+                    4
+                ],
+                "par": [
+                    5,
+                    30
+                ],
+                "calcul": [
+                    6,
+                    82,
+                    110
+                ],
+                "numerique": [
+                    7
+                ],
+                "profite": [
+                    8
+                ],
+                "a": [
+                    9,
+                    38,
+                    45,
+                    76,
+                    112,
+                    167,
+                    200,
+                    215
+                ],
+                "un": [
+                    10,
+                    107
+                ],
+                "nombre": [
+                    11
+                ],
+                "vertigineux": [
+                    12
+                ],
+                "d’applications": [
+                    13
+                ],
+                "autant": [
+                    14
+                ],
+                "industrielles": [
+                    15
+                ],
+                "qued’interet": [
+                    16
+                ],
+                "general.": [
+                    17
+                ],
+                "Aussi,": [
+                    18
+                ],
+                "il": [
+                    19
+                ],
+                "est": [
+                    20
+                ],
+                "necessaire": [
+                    21
+                ],
+                "que": [
+                    22,
+                    151
+                ],
+                "les": [
+                    23,
+                    31,
+                    88,
+                    120,
+                    152,
+                    161,
+                    180,
+                    220
+                ],
+                "evolutions": [
+                    24,
+                    122
+                ],
+                "heterogenes": [
+                    25
+                ],
+                "des": [
+                    26,
+                    47,
+                    90,
+                    97,
+                    155,
+                    176,
+                    188,
+                    201,
+                    225
+                ],
+                "machines": [
+                    27
+                ],
+                "soient": [
+                    28
+                ],
+                "exploitees": [
+                    29
+                ],
+                "logiciels": [
+                    32
+                ],
+                "decalcul.": [
+                    33
+                ],
+                "Ainsi,": [
+                    34,
+                    171
+                ],
+                "cette": [
+                    35,
+                    164
+                ],
+                "these": [
+                    36,
+                    54,
+                    165
+                ],
+                "vise": [
+                    37
+                ],
+                "explorer": [
+                    39
+                ],
+                "l’impact": [
+                    40
+                ],
+                "du": [
+                    41
+                ],
+                "parallelisme": [
+                    42,
+                    132
+                ],
+                "d’architecture": [
+                    43
+                ],
+                "moderne": [
+                    44
+                ],
+                "destination": [
+                    46
+                ],
+                "calculs": [
+                    48
+                ],
+                "geoscientifiques.Par": [
+                    49
+                ],
+                "consequent,": [
+                    50
+                ],
+                "ces": [
+                    51,
+                    73,
+                    198,
+                    208
+                ],
+                "travaux": [
+                    52,
+                    69,
+                    140,
+                    162
+                ],
+                "s’interessent": [
+                    55
+                ],
+                "tout": [
+                    56
+                ],
+                "particulierement": [
+                    57
+                ],
+                "aux": [
+                    58
+                ],
+                "categories": [
+                    59
+                ],
+                "noyaux": [
+                    61,
+                    74
+                ],
+                "stencil": [
+                    64
+                ],
+                "etelements": [
+                    65
+                ],
+                "finis": [
+                    66
+                ],
+                "spectraux.": [
+                    67
+                ],
+                "Des": [
+                    68
+                ],
+                "deja": [
+                    70
+                ],
+                "realises": [
+                    71
+                ],
+                "sur": [
+                    72
+                ],
+                "consistent": [
+                    75
+                ],
+                "structurer,": [
+                    77
+                ],
+                "decouper": [
+                    78
+                ],
+                "et": [
+                    79,
+                    100,
+                    217
+                ],
+                "attaquer": [
+                    80
+                ],
+                "le": [
+                    81
+                ],
+                "facona": [
+                    84
+                ],
+                "exploiter": [
+                    85
+                ],
+                "en": [
+                    86
+                ],
+                "parallele": [
+                    87
+                ],
+                "ressources": [
+                    89
+                ],
+                "machines.": [
+                    91
+                ],
+                "De": [
+                    92,
+                    183
+                ],
+                "plus,": [
+                    93
+                ],
+                "ils": [
+                    94
+                ],
+                "apportent": [
+                    95
+                ],
+                "egalement": [
+                    96
+                ],
+                "methodes,": [
+                    98
+                ],
+                "modeles": [
+                    99,
+                    177
+                ],
+                "outils": [
+                    101
+                ],
+                "d’analyseexperimentale.": [
+                    102
+                ],
+                "Notre": [
+                    103
+                ],
+                "approche": [
+                    104
+                ],
+                "consiste": [
+                    105
+                ],
+                "pour": [
+                    106
+                ],
+                "noyau": [
+                    108
+                ],
+                "donne": [
+                    111
+                ],
+                "y": [
+                    113
+                ],
+                "cumuler": [
+                    114
+                ],
+                "differentes": [
+                    115
+                ],
+                "capacites": [
+                    116,
+                    130
+                ],
+                "parallelisme.": [
+                    118
+                ],
+                "Eneffet,": [
+                    119
+                ],
+                "dernieres": [
+                    121
+                ],
+                "processeur": [
+                    124
+                ],
+                "Intel": [
+                    125
+                ],
+                "x86": [
+                    126
+                ],
+                "disposent": [
+                    127
+                ],
+                "multiples": [
+                    129
+                ],
+                "superscalaire,": [
+                    133
+                ],
+                "vectoriel": [
+                    134
+                ],
+                "etmulti-coeurs.": [
+                    135
+                ],
+                "Les": [
+                    136
+                ],
+                "resultats": [
+                    137
+                ],
+                "nos": [
+                    139
+                ],
+                "concordent": [
+                    141
+                ],
+                "avec": [
+                    142,
+                    179
+                ],
+                "ceux": [
+                    143
+                ],
+                "la": [
+                    145,
+                    196,
+                    212
+                ],
+                "litterature.": [
+                    146
+                ],
+                "Tout": [
+                    147
+                ],
+                "d’abord,": [
+                    148
+                ],
+                "on": [
+                    149,
+                    172
+                ],
+                "constate": [
+                    150
+                ],
+                "optimisationsvectorielles": [
+                    153
+                ],
+                "automatisees": [
+                    154
+                ],
+                "compilateurs": [
+                    156
+                ],
+                "sont": [
+                    157
+                ],
+                "inefficaces.": [
+                    158
+                ],
+                "Par": [
+                    159
+                ],
+                "ailleurs,": [
+                    160
+                ],
+                "parviennent": [
+                    166
+                ],
+                "affiner": [
+                    168
+                ],
+                "lesmodeles": [
+                    169
+                ],
+                "d’analyse.": [
+                    170
+                ],
+                "observe": [
+                    173
+                ],
+                "une": [
+                    174
+                ],
+                "adequation": [
+                    175
+                ],
+                "affines": [
+                    178
+                ],
+                "observations": [
+                    181
+                ],
+                "experimentales.": [
+                    182
+                ],
+                "plus,les": [
+                    184
+                ],
+                "performances": [
+                    185
+                ],
+                "atteintes": [
+                    186
+                ],
+                "depassent": [
+                    187
+                ],
+                "implementations": [
+                    189
+                ],
+                "paralleles": [
+                    190
+                ],
+                "references.": [
+                    192
+                ],
+                "Ces": [
+                    193
+                ],
+                "decouvertes": [
+                    194
+                ],
+                "confortent": [
+                    195
+                ],
+                "necessited’integrer": [
+                    197
+                ],
+                "optimisations": [
+                    199
+                ],
+                "solutions": [
+                    202,
+                    209
+                ],
+                "d’abstraction": [
+                    203
+                ],
+                "calcul.": [
+                    205
+                ],
+                "En": [
+                    206
+                ],
+                "effet,": [
+                    207
+                ],
+                "integreraient": [
+                    210
+                ],
+                "davantage": [
+                    211,
+                    222
+                ],
+                "finalite": [
+                    213
+                ],
+                "descalculs": [
+                    214
+                ],
+                "optimiser": [
+                    216
+                ],
+                "peuvent": [
+                    218
+                ],
+                "ainsi": [
+                    219
+                ],
+                "coupler": [
+                    221
+                ],
+                "au": [
+                    223
+                ],
+                "fonctionnement": [
+                    224
+                ],
+                "architectures": [
+                    226
+                ],
+                "cibles.": [
+                    227
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3096727641",
+            "counts_by_year": [],
+            "updated_date": "2024-09-26T08:17:16.521693",
+            "created_date": "2020-11-09"
+        },
+        {
+            "id": "https://openalex.org/W4392444022",
+            "doi": null,
+            "title": "Parallelism of numerical computing applied to geosciences",
+            "display_name": "Parallelism of numerical computing applied to geosciences",
+            "publication_year": 2019,
+            "publication_date": "2019-10-10",
+            "ids": {
+                "openalex": "https://openalex.org/W4392444022"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://theses.hal.science/tel-02986761",
+                "pdf_url": "https://theses.hal.science/tel-02986761/document",
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "dissertation",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://theses.hal.science/tel-02986761/document",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019506625",
+                        "display_name": "Gauthier Sornet",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Sornet, Gauthier",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5019506625"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 62
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T13067",
+                "display_name": "Geological Modeling and Uncertainty Analysis",
+                "score": 0.9339,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1906",
+                    "display_name": "Geochemistry and Petrology"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T13067",
+                    "display_name": "Geological Modeling and Uncertainty Analysis",
+                    "score": 0.9339,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1906",
+                        "display_name": "Geochemistry and Petrology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/geological-modeling",
+                    "display_name": "Geological Modeling",
+                    "score": 0.602203
+                },
+                {
+                    "id": "https://openalex.org/keywords/geospatial-knowledge",
+                    "display_name": "Geospatial Knowledge",
+                    "score": 0.578344
+                },
+                {
+                    "id": "https://openalex.org/keywords/geological-mapping",
+                    "display_name": "Geological Mapping",
+                    "score": 0.56089
+                },
+                {
+                    "id": "https://openalex.org/keywords/gis-based-modeling",
+                    "display_name": "GIS-based Modeling",
+                    "score": 0.553665
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-integration",
+                    "display_name": "Data Integration",
+                    "score": 0.512275
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2781172179",
+                    "wikidata": "https://www.wikidata.org/wiki/Q853109",
+                    "display_name": "Parallelism (grammar)",
+                    "level": 2,
+                    "score": 0.7414115
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.67370844
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.6579154
+                },
+                {
+                    "id": "https://openalex.org/C42992933",
+                    "wikidata": "https://www.wikidata.org/wiki/Q691169",
+                    "display_name": "Task parallelism",
+                    "level": 3,
+                    "score": 0.5376379
+                },
+                {
+                    "id": "https://openalex.org/C61483411",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3124522",
+                    "display_name": "Data parallelism",
+                    "level": 3,
+                    "score": 0.516217
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.4874773
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://theses.hal.science/tel-02986761",
+                    "pdf_url": "https://theses.hal.science/tel-02986761/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://theses.hal.science/tel-02986761",
+                "pdf_url": "https://theses.hal.science/tel-02986761/document",
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W74409296",
+                "https://openalex.org/W4230999561",
+                "https://openalex.org/W29548032",
+                "https://openalex.org/W2950520577",
+                "https://openalex.org/W2593878938",
+                "https://openalex.org/W2494130044",
+                "https://openalex.org/W2468095077",
+                "https://openalex.org/W2003935582",
+                "https://openalex.org/W1595672120",
+                "https://openalex.org/W1554644772"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392444022",
+            "counts_by_year": [],
+            "updated_date": "2024-09-13T08:27:56.103469",
+            "created_date": "2024-03-05"
+        }
+    ],
+    "group_by": []
+}

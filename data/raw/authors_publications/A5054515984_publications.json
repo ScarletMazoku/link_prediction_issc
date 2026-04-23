@@ -1,0 +1,3564 @@
+{
+    "meta": {
+        "count": 3,
+        "db_response_time_ms": 106,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4229929217",
+            "doi": "https://doi.org/10.1177/1094342013490973",
+            "title": "Communication-overlap techniques for improved strong scaling of gyrokinetic Eulerian code beyond 100k cores on the K-computer",
+            "display_name": "Communication-overlap techniques for improved strong scaling of gyrokinetic Eulerian code beyond 100k cores on the K-computer",
+            "publication_year": 2013,
+            "publication_date": "2013-06-11",
+            "ids": {
+                "openalex": "https://openalex.org/W4229929217",
+                "doi": "https://doi.org/10.1177/1094342013490973"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1177/1094342013490973",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S60606485",
+                    "display_name": "The International Journal of High Performance Computing Applications",
+                    "issn_l": "1094-3420",
+                    "issn": [
+                        "1094-3420",
+                        "1741-2846"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320017",
+                    "host_organization_name": "SAGE Publishing",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320017"
+                    ],
+                    "host_organization_lineage_names": [
+                        "SAGE Publishing"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5017412373",
+                        "display_name": "Yasuhiro Idomura",
+                        "orcid": "https://orcid.org/0000-0002-2829-0498"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Yasuhiro Idomura",
+                    "raw_affiliation_strings": [
+                        "Center for Computational Science and e-Systems, Japan Atomic Energy Agency, Japan",
+                        "Fusion Research and Development Directorate, Japan Atomic Energy Agency, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Center for Computational Science and e-Systems, Japan Atomic Energy Agency, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Fusion Research and Development Directorate, Japan Atomic Energy Agency, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5012169587",
+                        "display_name": "M. Nakata",
+                        "orcid": "https://orcid.org/0000-0003-2693-4859"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Motoki Nakata",
+                    "raw_affiliation_strings": [
+                        "Fusion Research and Development Directorate, Japan Atomic Energy Agency, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fusion Research and Development Directorate, Japan Atomic Energy Agency, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5006749613",
+                        "display_name": "Susumu Yamada",
+                        "orcid": "https://orcid.org/0000-0003-0236-7124"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Susumu Yamada",
+                    "raw_affiliation_strings": [
+                        "Center for Computational Science and e-Systems, Japan Atomic Energy Agency, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Center for Computational Science and e-Systems, Japan Atomic Energy Agency, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5010173270",
+                        "display_name": "Masahiko Machida",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masahiko Machida",
+                    "raw_affiliation_strings": [
+                        "Center for Computational Science and e-Systems, Japan Atomic Energy Agency, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Center for Computational Science and e-Systems, Japan Atomic Energy Agency, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086152822",
+                        "display_name": "Toshiyuki Imamura",
+                        "orcid": "https://orcid.org/0000-0003-1601-9710"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210129730",
+                            "display_name": "RIKEN Center for Computational Science",
+                            "ror": "https://ror.org/03r519674",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210110652",
+                                "https://openalex.org/I4210129730"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Toshiyuki Imamura",
+                    "raw_affiliation_strings": [
+                        "Advanced Institute for Computational Science, RIKEN, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Advanced Institute for Computational Science, RIKEN, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210129730"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079296907",
+                        "display_name": "T. Watanabe",
+                        "orcid": "https://orcid.org/0000-0003-3400-9225"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210108322",
+                            "display_name": "National Institute for Fusion Science",
+                            "ror": "https://ror.org/01t3wyv61",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1319490839",
+                                "https://openalex.org/I199525922",
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tomohiko Watanabe",
+                    "raw_affiliation_strings": [
+                        "National Institute for Fusion Science, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Institute for Fusion Science, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5006059092",
+                        "display_name": "M. Nunami",
+                        "orcid": "https://orcid.org/0000-0002-2459-2392"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210108322",
+                            "display_name": "National Institute for Fusion Science",
+                            "ror": "https://ror.org/01t3wyv61",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1319490839",
+                                "https://openalex.org/I199525922",
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masanori Nunami",
+                    "raw_affiliation_strings": [
+                        "National Institute for Fusion Science, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Institute for Fusion Science, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054515984",
+                        "display_name": "Hikaru Inoue",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hikaru Inoue",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Limited, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Limited, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5038923118",
+                        "display_name": "S. Tsutsumi",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Shigenobu Tsutsumi",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Kyusyu Systems Limited, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Kyusyu Systems Limited, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5035610545",
+                        "display_name": "Ikuo Miyoshi",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ikuo Miyoshi",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Limited, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Limited, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5089999441",
+                        "display_name": "Naoyuki Shida",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Naoyuki Shida",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Limited, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Limited, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5017412373"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I117197279"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.217,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 24,
+            "citation_normalized_percentile": {
+                "value": 0.834552,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 91,
+                "max": 92
+            },
+            "biblio": {
+                "volume": "28",
+                "issue": "1",
+                "first_page": "73",
+                "last_page": "86"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10346",
+                "display_name": "Plasma Physics and Fusion",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/3106",
+                    "display_name": "Nuclear and High Energy Physics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/31",
+                    "display_name": "Physics and Astronomy"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10346",
+                    "display_name": "Plasma Physics and Fusion",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3106",
+                        "display_name": "Nuclear and High Energy Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10159",
+                    "display_name": "Space Weather and Magnetospheric Physics",
+                    "score": 0.9904,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3103",
+                        "display_name": "Astronomy and Astrophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11808",
+                    "display_name": "Development of Superconducting Magnets for Particle Accelerators and Fusion Reactors",
+                    "score": 0.9528,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2204",
+                        "display_name": "Biomedical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.535227
+                },
+                {
+                    "id": "https://openalex.org/keywords/blocking",
+                    "display_name": "Blocking (statistics)",
+                    "score": 0.5090091
+                },
+                {
+                    "id": "https://openalex.org/keywords/turbulence",
+                    "display_name": "Turbulence",
+                    "score": 0.491487
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.68740684
+                },
+                {
+                    "id": "https://openalex.org/C43058520",
+                    "wikidata": "https://www.wikidata.org/wiki/Q624580",
+                    "display_name": "Eulerian path",
+                    "level": 3,
+                    "score": 0.6867907
+                },
+                {
+                    "id": "https://openalex.org/C99844830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q102441924",
+                    "display_name": "Scaling",
+                    "level": 2,
+                    "score": 0.6484759
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5859651
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.57942617
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.57426655
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.535227
+                },
+                {
+                    "id": "https://openalex.org/C144745244",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4927286",
+                    "display_name": "Blocking (statistics)",
+                    "level": 2,
+                    "score": 0.5090091
+                },
+                {
+                    "id": "https://openalex.org/C854659",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1859284",
+                    "display_name": "Message passing",
+                    "level": 2,
+                    "score": 0.47075537
+                },
+                {
+                    "id": "https://openalex.org/C196558001",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190132",
+                    "display_name": "Turbulence",
+                    "level": 2,
+                    "score": 0.42107052
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.37842456
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.31038606
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.14970452
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.12000406
+                },
+                {
+                    "id": "https://openalex.org/C31258907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+                    "display_name": "Computer network",
+                    "level": 1,
+                    "score": 0.08659509
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C53469067",
+                    "wikidata": "https://www.wikidata.org/wiki/Q505735",
+                    "display_name": "Lagrangian",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C37914503",
+                    "wikidata": "https://www.wikidata.org/wiki/Q156495",
+                    "display_name": "Mathematical physics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1177/1094342013490973",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S60606485",
+                        "display_name": "The International Journal of High Performance Computing Applications",
+                        "issn_l": "1094-3420",
+                        "issn": [
+                            "1094-3420",
+                            "1741-2846"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320017",
+                        "host_organization_name": "SAGE Publishing",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320017"
+                        ],
+                        "host_organization_lineage_names": [
+                            "SAGE Publishing"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.56
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 24,
+            "referenced_works": [
+                "https://openalex.org/W1586414899",
+                "https://openalex.org/W1992691442",
+                "https://openalex.org/W2015598590",
+                "https://openalex.org/W2016699328",
+                "https://openalex.org/W2026436392",
+                "https://openalex.org/W2026941724",
+                "https://openalex.org/W2031956068",
+                "https://openalex.org/W2034655230",
+                "https://openalex.org/W2040741698",
+                "https://openalex.org/W2041200277",
+                "https://openalex.org/W2041317506",
+                "https://openalex.org/W2043607602",
+                "https://openalex.org/W2064253416",
+                "https://openalex.org/W2068395392",
+                "https://openalex.org/W2081612620",
+                "https://openalex.org/W2084057852",
+                "https://openalex.org/W2107069653",
+                "https://openalex.org/W2109908252",
+                "https://openalex.org/W2110592122",
+                "https://openalex.org/W2126509165",
+                "https://openalex.org/W2138030864",
+                "https://openalex.org/W2140734476",
+                "https://openalex.org/W2141034742",
+                "https://openalex.org/W2298102991"
+            ],
+            "related_works": [
+                "https://openalex.org/W3214280620",
+                "https://openalex.org/W3191490922",
+                "https://openalex.org/W2979588510",
+                "https://openalex.org/W2794038527",
+                "https://openalex.org/W2765823764",
+                "https://openalex.org/W2384867379",
+                "https://openalex.org/W2329539859",
+                "https://openalex.org/W2227905990",
+                "https://openalex.org/W1996803181",
+                "https://openalex.org/W1582436825"
+            ],
+            "abstract_inverted_index": {
+                "Plasma": [
+                    0
+                ],
+                "turbulence": [
+                    1
+                ],
+                "research": [
+                    2
+                ],
+                "based": [
+                    3
+                ],
+                "on": [
+                    4,
+                    62,
+                    97,
+                    119,
+                    128
+                ],
+                "five-dimensional": [
+                    5
+                ],
+                "(5D)": [
+                    6
+                ],
+                "gyrokinetic": [
+                    7,
+                    113
+                ],
+                "simulations": [
+                    8,
+                    165
+                ],
+                "is": [
+                    9,
+                    38,
+                    50,
+                    75,
+                    176
+                ],
+                "one": [
+                    10
+                ],
+                "of": [
+                    11,
+                    35,
+                    41,
+                    111,
+                    153,
+                    208
+                ],
+                "the": [
+                    12,
+                    108,
+                    120,
+                    129,
+                    138,
+                    184,
+                    189,
+                    209
+                ],
+                "most": [
+                    13
+                ],
+                "critical": [
+                    14
+                ],
+                "and": [
+                    15,
+                    30,
+                    43,
+                    89,
+                    101,
+                    127,
+                    164,
+                    199
+                ],
+                "demanding": [
+                    16
+                ],
+                "issues": [
+                    17
+                ],
+                "in": [
+                    18,
+                    27,
+                    31
+                ],
+                "fusion": [
+                    19,
+                    169
+                ],
+                "science.": [
+                    20
+                ],
+                "To": [
+                    21
+                ],
+                "pioneer": [
+                    22
+                ],
+                "new": [
+                    23
+                ],
+                "physics": [
+                    24
+                ],
+                "regimes": [
+                    25
+                ],
+                "both": [
+                    26
+                ],
+                "problem": [
+                    28
+                ],
+                "sizes": [
+                    29
+                ],
+                "timescales,": [
+                    32
+                ],
+                "an": [
+                    33
+                ],
+                "improvement": [
+                    34
+                ],
+                "strong": [
+                    36,
+                    56,
+                    141
+                ],
+                "scaling": [
+                    37,
+                    142
+                ],
+                "essential.": [
+                    39
+                ],
+                "Overlap": [
+                    40
+                ],
+                "computations": [
+                    42
+                ],
+                "communications": [
+                    44
+                ],
+                "using": [
+                    45,
+                    161,
+                    205
+                ],
+                "non-blocking": [
+                    46,
+                    86
+                ],
+                "MPI": [
+                    47,
+                    67,
+                    83,
+                    99
+                ],
+                "communication": [
+                    48,
+                    87
+                ],
+                "schemes": [
+                    49
+                ],
+                "a": [
+                    51,
+                    112,
+                    124,
+                    134,
+                    150
+                ],
+                "promising": [
+                    52
+                ],
+                "approach": [
+                    53
+                ],
+                "to": [
+                    54
+                ],
+                "improving": [
+                    55
+                ],
+                "scaling,": [
+                    57
+                ],
+                "but": [
+                    58
+                ],
+                "it": [
+                    59
+                ],
+                "often": [
+                    60
+                ],
+                "fails": [
+                    61
+                ],
+                "practical": [
+                    63
+                ],
+                "applications": [
+                    64
+                ],
+                "with": [
+                    65,
+                    81,
+                    90,
+                    183
+                ],
+                "conventional": [
+                    66,
+                    98
+                ],
+                "libraries.": [
+                    68
+                ],
+                "In": [
+                    69
+                ],
+                "this": [
+                    70,
+                    72
+                ],
+                "work,": [
+                    71
+                ],
+                "classical": [
+                    73
+                ],
+                "issue": [
+                    74
+                ],
+                "resolved": [
+                    76
+                ],
+                "by": [
+                    77
+                ],
+                "developing": [
+                    78
+                ],
+                "communication-overlap": [
+                    79
+                ],
+                "techniques": [
+                    80,
+                    105
+                ],
+                "additional": [
+                    82
+                ],
+                "support": [
+                    84
+                ],
+                "for": [
+                    85,
+                    166,
+                    193
+                ],
+                "routines": [
+                    88
+                ],
+                "heterogeneous": [
+                    91
+                ],
+                "OpenMP": [
+                    92
+                ],
+                "threads,": [
+                    93
+                ],
+                "which": [
+                    94,
+                    122,
+                    132
+                ],
+                "work": [
+                    95
+                ],
+                "even": [
+                    96
+                ],
+                "libraries": [
+                    100
+                ],
+                "network": [
+                    102
+                ],
+                "hardware.": [
+                    103
+                ],
+                "These": [
+                    104
+                ],
+                "dramatically": [
+                    106
+                ],
+                "improved": [
+                    107
+                ],
+                "parallel": [
+                    109
+                ],
+                "efficiency": [
+                    110
+                ],
+                "toroidal": [
+                    114
+                ],
+                "5D": [
+                    115
+                ],
+                "Eulerian": [
+                    116
+                ],
+                "code": [
+                    117
+                ],
+                "GT5D": [
+                    118
+                ],
+                "K-computer,": [
+                    121,
+                    139
+                ],
+                "has": [
+                    123,
+                    133
+                ],
+                "dedicated": [
+                    125
+                ],
+                "network,": [
+                    126
+                ],
+                "Helios": [
+                    130
+                ],
+                "system": [
+                    131
+                ],
+                "commodity": [
+                    135
+                ],
+                "network.": [
+                    136
+                ],
+                "On": [
+                    137
+                ],
+                "excellent": [
+                    140
+                ],
+                "was": [
+                    143
+                ],
+                "achieved": [
+                    144
+                ],
+                "beyond": [
+                    145
+                ],
+                "100k": [
+                    146
+                ],
+                "cores": [
+                    147,
+                    207
+                ],
+                "whilst": [
+                    148
+                ],
+                "keeping": [
+                    149
+                ],
+                "sustained": [
+                    151
+                ],
+                "performance": [
+                    152,
+                    175,
+                    186
+                ],
+                "[Formula:": [
+                    154
+                ],
+                "see": [
+                    155,
+                    158,
+                    178,
+                    202
+                ],
+                "text]10%": [
+                    156
+                ],
+                "([Formula:": [
+                    157,
+                    201
+                ],
+                "text]307": [
+                    159
+                ],
+                "TFlops": [
+                    160,
+                    204
+                ],
+                "196,608": [
+                    162
+                ],
+                "cores),": [
+                    163
+                ],
+                "next-generation": [
+                    167
+                ],
+                "large-scale": [
+                    168
+                ],
+                "experiments": [
+                    170
+                ],
+                "are": [
+                    171
+                ],
+                "significantly": [
+                    172
+                ],
+                "accelerated.": [
+                    173
+                ],
+                "This": [
+                    174
+                ],
+                "16[Formula:": [
+                    177
+                ],
+                "text]": [
+                    179
+                ],
+                "sped": [
+                    180
+                ],
+                "up": [
+                    181
+                ],
+                "compared": [
+                    182
+                ],
+                "maximum": [
+                    185
+                ],
+                "reported": [
+                    187
+                ],
+                "at": [
+                    188
+                ],
+                "2011": [
+                    190
+                ],
+                "International": [
+                    191
+                ],
+                "Conference": [
+                    192
+                ],
+                "High": [
+                    194
+                ],
+                "Performance": [
+                    195
+                ],
+                "Computing,": [
+                    196
+                ],
+                "Networking,": [
+                    197
+                ],
+                "Storage": [
+                    198
+                ],
+                "Analysis": [
+                    200
+                ],
+                "text]19": [
+                    203
+                ],
+                "16,384": [
+                    206
+                ],
+                "BX900": [
+                    210
+                ],
+                "cluster)": [
+                    211
+                ],
+                "(Idomura,": [
+                    212
+                ],
+                "2011).": [
+                    213
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4229929217",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-26T11:42:43.821796",
+            "created_date": "2022-05-11"
+        },
+        {
+            "id": "https://openalex.org/W2092481329",
+            "doi": "https://doi.org/10.1109/sc.companion.2012.198",
+            "title": "Abstract: Communication Overlap Techniques for Improved Strong Scaling of Gyrokinetic Eulerian Code beyond 100k Cores on the K-Computer",
+            "display_name": "Abstract: Communication Overlap Techniques for Improved Strong Scaling of Gyrokinetic Eulerian Code beyond 100k Cores on the K-Computer",
+            "publication_year": 2012,
+            "publication_date": "2012-11-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2092481329",
+                "doi": "https://doi.org/10.1109/sc.companion.2012.198",
+                "mag": "2092481329"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/sc.companion.2012.198",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5017412373",
+                        "display_name": "Yasuhiro Idomura",
+                        "orcid": "https://orcid.org/0000-0002-2829-0498"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Yasuhiro Idomura",
+                    "raw_affiliation_strings": [
+                        "Japan Atomic Energy Agency Tokai Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Japan Atomic Energy Agency Tokai Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5012169587",
+                        "display_name": "M. Nakata",
+                        "orcid": "https://orcid.org/0000-0003-2693-4859"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Motoki Nakata",
+                    "raw_affiliation_strings": [
+                        "Japan Atomic Energy Agency Tokai Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Japan Atomic Energy Agency Tokai Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5006749613",
+                        "display_name": "Susumu Yamada",
+                        "orcid": "https://orcid.org/0000-0003-0236-7124"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Susumu Yamada",
+                    "raw_affiliation_strings": [
+                        "Japan Atomic Energy Agency Tokai Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Japan Atomic Energy Agency Tokai Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5010173270",
+                        "display_name": "Masahiko Machida",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I117197279",
+                            "display_name": "Japan Atomic Energy Agency",
+                            "ror": "https://ror.org/05nf86y53",
+                            "country_code": "JP",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masahiko Machida",
+                    "raw_affiliation_strings": [
+                        "Japan Atomic Energy Agency Tokai Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Japan Atomic Energy Agency Tokai Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I117197279"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086152822",
+                        "display_name": "Toshiyuki Imamura",
+                        "orcid": "https://orcid.org/0000-0003-1601-9710"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210129730",
+                            "display_name": "RIKEN Center for Computational Science",
+                            "ror": "https://ror.org/03r519674",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210110652",
+                                "https://openalex.org/I4210129730"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Toshiyuki Imamura",
+                    "raw_affiliation_strings": [
+                        "Advanced Institute for Computational Science, RIKEN, Japan#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Advanced Institute for Computational Science, RIKEN, Japan#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I4210129730"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079296907",
+                        "display_name": "T. Watanabe",
+                        "orcid": "https://orcid.org/0000-0003-3400-9225"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210108322",
+                            "display_name": "National Institute for Fusion Science",
+                            "ror": "https://ror.org/01t3wyv61",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1319490839",
+                                "https://openalex.org/I199525922",
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tomohiko Watanabe",
+                    "raw_affiliation_strings": [
+                        "National Institute for Fusion Science, Japan#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Institute for Fusion Science, Japan#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5006059092",
+                        "display_name": "M. Nunami",
+                        "orcid": "https://orcid.org/0000-0002-2459-2392"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210108322",
+                            "display_name": "National Institute for Fusion Science",
+                            "ror": "https://ror.org/01t3wyv61",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1319490839",
+                                "https://openalex.org/I199525922",
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masanori Nunami",
+                    "raw_affiliation_strings": [
+                        "National Institute for Fusion Science, Japan#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Institute for Fusion Science, Japan#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I4210108322"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054515984",
+                        "display_name": "Hikaru Inoue",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hikaru Inoue",
+                    "raw_affiliation_strings": [
+                        "[Fujitsu Limited, Japan]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Fujitsu Limited, Japan]",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5038923118",
+                        "display_name": "S. Tsutsumi",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Shigenobu Tsutsumi",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Kyusyu Systems Limited, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Kyusyu Systems Limited, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5035610545",
+                        "display_name": "Ikuo Miyoshi",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ikuo Miyoshi",
+                    "raw_affiliation_strings": [
+                        "[Fujitsu Limited, Japan]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Fujitsu Limited, Japan]",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5089999441",
+                        "display_name": "Naoyuki Shida",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Naoyuki Shida",
+                    "raw_affiliation_strings": [
+                        "[Fujitsu Limited, Japan]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Fujitsu Limited, Japan]",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 4.587,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 13,
+            "citation_normalized_percentile": {
+                "value": 0.865843,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10346",
+                "display_name": "Plasma Physics and Fusion",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/3106",
+                    "display_name": "Nuclear and High Energy Physics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/31",
+                    "display_name": "Physics and Astronomy"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10346",
+                    "display_name": "Plasma Physics and Fusion",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3106",
+                        "display_name": "Nuclear and High Energy Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10159",
+                    "display_name": "Space Weather and Magnetospheric Physics",
+                    "score": 0.9955,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3103",
+                        "display_name": "Astronomy and Astrophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10384",
+                    "display_name": "Laser-Plasma Interactions and Particle Acceleration",
+                    "score": 0.9712,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3106",
+                        "display_name": "Nuclear and High Energy Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.5635926
+                },
+                {
+                    "id": "https://openalex.org/keywords/turbulence",
+                    "display_name": "Turbulence",
+                    "score": 0.514334
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C99844830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q102441924",
+                    "display_name": "Scaling",
+                    "level": 2,
+                    "score": 0.7655517
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.69545764
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.63151306
+                },
+                {
+                    "id": "https://openalex.org/C43058520",
+                    "wikidata": "https://www.wikidata.org/wiki/Q624580",
+                    "display_name": "Eulerian path",
+                    "level": 3,
+                    "score": 0.6132218
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.5635926
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5125413
+                },
+                {
+                    "id": "https://openalex.org/C196558001",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190132",
+                    "display_name": "Turbulence",
+                    "level": 2,
+                    "score": 0.49586782
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.4577635
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.4318942
+                },
+                {
+                    "id": "https://openalex.org/C18762648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42213",
+                    "display_name": "Work (physics)",
+                    "level": 2,
+                    "score": 0.41035864
+                },
+                {
+                    "id": "https://openalex.org/C121864883",
+                    "wikidata": "https://www.wikidata.org/wiki/Q677916",
+                    "display_name": "Statistical physics",
+                    "level": 1,
+                    "score": 0.33558536
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.303558
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.20091939
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.11754292
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C53469067",
+                    "wikidata": "https://www.wikidata.org/wiki/Q505735",
+                    "display_name": "Lagrangian",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C37914503",
+                    "wikidata": "https://www.wikidata.org/wiki/Q156495",
+                    "display_name": "Mathematical physics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/sc.companion.2012.198",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.51
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 27,
+            "referenced_works": [
+                "https://openalex.org/W1493774699",
+                "https://openalex.org/W1586414899",
+                "https://openalex.org/W1992691442",
+                "https://openalex.org/W2015598590",
+                "https://openalex.org/W2016699328",
+                "https://openalex.org/W2026436392",
+                "https://openalex.org/W2026941724",
+                "https://openalex.org/W2031956068",
+                "https://openalex.org/W2034655230",
+                "https://openalex.org/W2040741698",
+                "https://openalex.org/W2041200277",
+                "https://openalex.org/W2041317506",
+                "https://openalex.org/W2043607602",
+                "https://openalex.org/W2051084783",
+                "https://openalex.org/W2064253416",
+                "https://openalex.org/W2068395392",
+                "https://openalex.org/W2081612620",
+                "https://openalex.org/W2084057852",
+                "https://openalex.org/W2107069653",
+                "https://openalex.org/W2109908252",
+                "https://openalex.org/W2110592122",
+                "https://openalex.org/W2126509165",
+                "https://openalex.org/W2138030864",
+                "https://openalex.org/W2140734476",
+                "https://openalex.org/W2141034742",
+                "https://openalex.org/W2298102991",
+                "https://openalex.org/W4285719527"
+            ],
+            "related_works": [
+                "https://openalex.org/W3214280620",
+                "https://openalex.org/W3191490922",
+                "https://openalex.org/W2979588510",
+                "https://openalex.org/W2794038527",
+                "https://openalex.org/W2765823764",
+                "https://openalex.org/W2384867379",
+                "https://openalex.org/W2329539859",
+                "https://openalex.org/W2227905990",
+                "https://openalex.org/W1996803181",
+                "https://openalex.org/W1582436825"
+            ],
+            "abstract_inverted_index": {
+                "A": [
+                    0
+                ],
+                "plasma": [
+                    1
+                ],
+                "turbulence": [
+                    2
+                ],
+                "research": [
+                    3
+                ],
+                "based": [
+                    4,
+                    107
+                ],
+                "on": [
+                    5,
+                    58,
+                    82,
+                    99,
+                    108
+                ],
+                "5D": [
+                    6
+                ],
+                "gyrokinetic": [
+                    7,
+                    95
+                ],
+                "simulations": [
+                    8,
+                    138
+                ],
+                "is": [
+                    9,
+                    39,
+                    46,
+                    71,
+                    120
+                ],
+                "one": [
+                    10
+                ],
+                "of": [
+                    11,
+                    36,
+                    42,
+                    93,
+                    130
+                ],
+                "the": [
+                    12,
+                    90,
+                    100,
+                    103,
+                    115,
+                    127
+                ],
+                "most": [
+                    13
+                ],
+                "critical": [
+                    14
+                ],
+                "and": [
+                    15,
+                    30,
+                    44,
+                    73,
+                    102,
+                    110,
+                    137
+                ],
+                "demanding": [
+                    16
+                ],
+                "issues": [
+                    17
+                ],
+                "in": [
+                    18,
+                    27,
+                    31,
+                    50
+                ],
+                "fusion": [
+                    19,
+                    141
+                ],
+                "science.": [
+                    20
+                ],
+                "To": [
+                    21
+                ],
+                "pioneer": [
+                    22
+                ],
+                "new": [
+                    23
+                ],
+                "physics": [
+                    24
+                ],
+                "regimes": [
+                    25
+                ],
+                "both": [
+                    26
+                ],
+                "problem": [
+                    28
+                ],
+                "sizes": [
+                    29
+                ],
+                "time": [
+                    32
+                ],
+                "scales,": [
+                    33
+                ],
+                "an": [
+                    34
+                ],
+                "improvement": [
+                    35
+                ],
+                "strong": [
+                    37,
+                    52,
+                    118
+                ],
+                "scaling": [
+                    38,
+                    119
+                ],
+                "essential.": [
+                    40
+                ],
+                "Overlap": [
+                    41
+                ],
+                "computations": [
+                    43
+                ],
+                "communications": [
+                    45
+                ],
+                "a": [
+                    47,
+                    94
+                ],
+                "promising": [
+                    48
+                ],
+                "approach": [
+                    49
+                ],
+                "improving": [
+                    51
+                ],
+                "scaling,": [
+                    53
+                ],
+                "but": [
+                    54
+                ],
+                "it": [
+                    55
+                ],
+                "often": [
+                    56
+                ],
+                "fails": [
+                    57
+                ],
+                "practical": [
+                    59
+                ],
+                "applications": [
+                    60
+                ],
+                "with": [
+                    61,
+                    125
+                ],
+                "conventional": [
+                    62,
+                    83
+                ],
+                "MPI": [
+                    63,
+                    84
+                ],
+                "libraries.": [
+                    64,
+                    85
+                ],
+                "In": [
+                    65
+                ],
+                "this": [
+                    66,
+                    68
+                ],
+                "work,": [
+                    67
+                ],
+                "classical": [
+                    69
+                ],
+                "issue": [
+                    70
+                ],
+                "revisited,": [
+                    72
+                ],
+                "resolved": [
+                    74
+                ],
+                "by": [
+                    75
+                ],
+                "communication": [
+                    76
+                ],
+                "overlap": [
+                    77
+                ],
+                "techniques,": [
+                    78
+                ],
+                "which": [
+                    79,
+                    105
+                ],
+                "work": [
+                    80
+                ],
+                "even": [
+                    81
+                ],
+                "These": [
+                    86
+                ],
+                "techniques": [
+                    87
+                ],
+                "dramatically": [
+                    88
+                ],
+                "improve": [
+                    89
+                ],
+                "parallel": [
+                    91
+                ],
+                "efficiency": [
+                    92
+                ],
+                "Eularian": [
+                    96
+                ],
+                "code": [
+                    97
+                ],
+                "GT5D": [
+                    98
+                ],
+                "K-computer": [
+                    101
+                ],
+                "Helios,": [
+                    104
+                ],
+                "are": [
+                    106,
+                    143
+                ],
+                "dedicated": [
+                    109
+                ],
+                "commodity": [
+                    111
+                ],
+                "networks,": [
+                    112
+                ],
+                "respectively.": [
+                    113
+                ],
+                "On": [
+                    114
+                ],
+                "K-computer,": [
+                    116
+                ],
+                "excellent": [
+                    117
+                ],
+                "confirmed": [
+                    121
+                ],
+                "beyond": [
+                    122
+                ],
+                "100k": [
+                    123
+                ],
+                "cores": [
+                    124
+                ],
+                "keeping": [
+                    126
+                ],
+                "peak": [
+                    128
+                ],
+                "ratio": [
+                    129
+                ],
+                "~10%": [
+                    131
+                ],
+                "(~307": [
+                    132
+                ],
+                "TFlops": [
+                    133
+                ],
+                "using": [
+                    134
+                ],
+                "196,608": [
+                    135
+                ],
+                "cores),": [
+                    136
+                ],
+                "for": [
+                    139
+                ],
+                "ITER-size": [
+                    140
+                ],
+                "devices": [
+                    142
+                ],
+                "significantly": [
+                    144
+                ],
+                "accelerated.": [
+                    145
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2092481329",
+            "counts_by_year": [
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-08-31T22:26:45.238032",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2951022043",
+            "doi": "https://doi.org/10.1007/978-3-030-22741-8_30",
+            "title": "Distributed Memory Parallel Implementation of Agent-Based Economic Models",
+            "display_name": "Distributed Memory Parallel Implementation of Agent-Based Economic Models",
+            "publication_year": 2019,
+            "publication_date": "2019-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2951022043",
+                "doi": "https://doi.org/10.1007/978-3-030-22741-8_30",
+                "mag": "2951022043"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-030-22741-8_30",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5020079438",
+                        "display_name": "Lalith Wijerathne",
+                        "orcid": "https://orcid.org/0000-0001-6334-4802"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210120963",
+                            "display_name": "Association for the Development of Earthquake Prediction",
+                            "ror": "https://ror.org/02akdcs48",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210120963"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I74801974",
+                            "display_name": "The University of Tokyo",
+                            "ror": "https://ror.org/057zh3y96",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Maddegedara Lalith",
+                    "raw_affiliation_strings": [
+                        "Earthquake Research Institute, The University of Tokyo, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Earthquake Research Institute, The University of Tokyo, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210120963",
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075818821",
+                        "display_name": "Amit Gill",
+                        "orcid": "https://orcid.org/0000-0001-6439-3673"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74801974",
+                            "display_name": "The University of Tokyo",
+                            "ror": "https://ror.org/057zh3y96",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Amit Gill",
+                    "raw_affiliation_strings": [
+                        "Department of Civil Engineering, The University of Tokyo, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Civil Engineering, The University of Tokyo, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5057454258",
+                        "display_name": "Sebastian Poledna",
+                        "orcid": "https://orcid.org/0000-0002-5838-6570"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1317774081",
+                            "display_name": "International Institute for Applied Systems Analysis",
+                            "ror": "https://ror.org/02wfhk785",
+                            "country_code": "AT",
+                            "type": "nonprofit",
+                            "lineage": [
+                                "https://openalex.org/I1317774081"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sebastian Poledna",
+                    "raw_affiliation_strings": [
+                        "International Institute for Applied Systems Analysis, Laxenburg, Austria"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "International Institute for Applied Systems Analysis, Laxenburg, Austria",
+                            "institution_ids": [
+                                "https://openalex.org/I1317774081"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5010899083",
+                        "display_name": "Muneo Hori",
+                        "orcid": "https://orcid.org/0000-0002-0642-6753"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210120963",
+                            "display_name": "Association for the Development of Earthquake Prediction",
+                            "ror": "https://ror.org/02akdcs48",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210120963"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I74801974",
+                            "display_name": "The University of Tokyo",
+                            "ror": "https://ror.org/057zh3y96",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Muneo Hori",
+                    "raw_affiliation_strings": [
+                        "Earthquake Research Institute, The University of Tokyo, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Earthquake Research Institute, The University of Tokyo, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210120963",
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054515984",
+                        "display_name": "Hikaru Inoue",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Inoue Hikaru",
+                    "raw_affiliation_strings": [
+                        "Frontier Computing Center, Fujitsu Limited, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Frontier Computing Center, Fujitsu Limited, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102330776",
+                        "display_name": "Noda Tomoyuki",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Noda Tomoyuki",
+                    "raw_affiliation_strings": [
+                        "Frontier Computing Center, Fujitsu Limited, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Frontier Computing Center, Fujitsu Limited, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5062619653",
+                        "display_name": "Toda Koyo",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Toda Koyo",
+                    "raw_affiliation_strings": [
+                        "Frontier Computing Center, Fujitsu Limited, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Frontier Computing Center, Fujitsu Limited, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102274309",
+                        "display_name": "Tsuyoshi Ichimura",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210120963",
+                            "display_name": "Association for the Development of Earthquake Prediction",
+                            "ror": "https://ror.org/02akdcs48",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210120963"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I74801974",
+                            "display_name": "The University of Tokyo",
+                            "ror": "https://ror.org/057zh3y96",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tsuyoshi Ichimura",
+                    "raw_affiliation_strings": [
+                        "Earthquake Research Institute, The University of Tokyo, Tokyo, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Earthquake Research Institute, The University of Tokyo, Tokyo, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210120963",
+                                "https://openalex.org/I74801974"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5020079438"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I4210120963",
+                "https://openalex.org/I74801974"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 3.975,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 2,
+            "citation_normalized_percentile": {
+                "value": 0.91775,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 70,
+                "max": 74
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "419",
+                "last_page": "433"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11270",
+                "display_name": "Econophysics: Complexity in Financial Markets",
+                "score": 0.999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2002",
+                    "display_name": "Economics and Econometrics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/20",
+                    "display_name": "Economics, Econometrics and Finance"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/2",
+                    "display_name": "Social Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11270",
+                    "display_name": "Econophysics: Complexity in Financial Markets",
+                    "score": 0.999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2002",
+                        "display_name": "Economics and Econometrics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/20",
+                        "display_name": "Economics, Econometrics and Finance"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12137",
+                    "display_name": "Existence and Dynamics of Monetary Equilibrium Models",
+                    "score": 0.9925,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2002",
+                        "display_name": "Economics and Econometrics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/20",
+                        "display_name": "Economics, Econometrics and Finance"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11031",
+                    "display_name": "Network Formation and Game Dynamics",
+                    "score": 0.9541,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/distributed-memory",
+                    "display_name": "Distributed memory",
+                    "score": 0.5872861
+                },
+                {
+                    "id": "https://openalex.org/keywords/agent-based-modeling",
+                    "display_name": "Agent-Based Modeling",
+                    "score": 0.556223
+                },
+                {
+                    "id": "https://openalex.org/keywords/models-of-communication",
+                    "display_name": "Models of communication",
+                    "score": 0.46329534
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.889822
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.8399613
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.7023325
+                },
+                {
+                    "id": "https://openalex.org/C2776650193",
+                    "wikidata": "https://www.wikidata.org/wiki/Q264661",
+                    "display_name": "Obstacle",
+                    "level": 2,
+                    "score": 0.59707457
+                },
+                {
+                    "id": "https://openalex.org/C2778476105",
+                    "wikidata": "https://www.wikidata.org/wiki/Q628539",
+                    "display_name": "Workload",
+                    "level": 2,
+                    "score": 0.5898433
+                },
+                {
+                    "id": "https://openalex.org/C91481028",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1054686",
+                    "display_name": "Distributed memory",
+                    "level": 3,
+                    "score": 0.5872861
+                },
+                {
+                    "id": "https://openalex.org/C115537543",
+                    "wikidata": "https://www.wikidata.org/wiki/Q165596",
+                    "display_name": "Cache",
+                    "level": 2,
+                    "score": 0.519712
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.47599423
+                },
+                {
+                    "id": "https://openalex.org/C158156997",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1416645",
+                    "display_name": "Models of communication",
+                    "level": 2,
+                    "score": 0.46329534
+                },
+                {
+                    "id": "https://openalex.org/C2778755073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+                    "display_name": "Scale (ratio)",
+                    "level": 2,
+                    "score": 0.42437077
+                },
+                {
+                    "id": "https://openalex.org/C133875982",
+                    "wikidata": "https://www.wikidata.org/wiki/Q764810",
+                    "display_name": "Shared memory",
+                    "level": 2,
+                    "score": 0.35342932
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.10560793
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.090693146
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C46312422",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11024",
+                    "display_name": "Communication",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C144024400",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21201",
+                    "display_name": "Sociology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-030-22741-8_30",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 9,
+            "referenced_works": [
+                "https://openalex.org/W1837024416",
+                "https://openalex.org/W1966384569",
+                "https://openalex.org/W2053923031",
+                "https://openalex.org/W2070232376",
+                "https://openalex.org/W2080110320",
+                "https://openalex.org/W2166990636",
+                "https://openalex.org/W2584836299",
+                "https://openalex.org/W2774765339",
+                "https://openalex.org/W2785984278"
+            ],
+            "related_works": [
+                "https://openalex.org/W4245497162",
+                "https://openalex.org/W2353146130",
+                "https://openalex.org/W2185094550",
+                "https://openalex.org/W2088823210",
+                "https://openalex.org/W2026512611",
+                "https://openalex.org/W1990817968",
+                "https://openalex.org/W1985165680",
+                "https://openalex.org/W1933089384",
+                "https://openalex.org/W1530780171",
+                "https://openalex.org/W115093676"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    53
+                ],
+                "present": [
+                    1
+                ],
+                "a": [
+                    2,
+                    30,
+                    49,
+                    59
+                ],
+                "Distributed": [
+                    3
+                ],
+                "Memory": [
+                    4
+                ],
+                "Parallel": [
+                    5
+                ],
+                "(DMP)": [
+                    6
+                ],
+                "implementation": [
+                    7,
+                    26,
+                    110
+                ],
+                "of": [
+                    8,
+                    18,
+                    81,
+                    104,
+                    113,
+                    118
+                ],
+                "agent-based": [
+                    9
+                ],
+                "economic": [
+                    10,
+                    84
+                ],
+                "models,": [
+                    11
+                ],
+                "which": [
+                    12,
+                    43
+                ],
+                "facilitates": [
+                    13
+                ],
+                "large-scale": [
+                    14
+                ],
+                "simulations": [
+                    15
+                ],
+                "with": [
+                    16
+                ],
+                "millions": [
+                    17
+                ],
+                "agents.": [
+                    19
+                ],
+                "A": [
+                    20
+                ],
+                "major": [
+                    21
+                ],
+                "obstacle": [
+                    22
+                ],
+                "in": [
+                    23
+                ],
+                "scalable": [
+                    24
+                ],
+                "DMP": [
+                    25
+                ],
+                "is": [
+                    27,
+                    106,
+                    111
+                ],
+                "to": [
+                    28,
+                    96
+                ],
+                "distribute": [
+                    29
+                ],
+                "balanced": [
+                    31
+                ],
+                "workload": [
+                    32
+                ],
+                "among": [
+                    33
+                ],
+                "MPI": [
+                    34
+                ],
+                "processes,": [
+                    35
+                ],
+                "while": [
+                    36
+                ],
+                "making": [
+                    37
+                ],
+                "all": [
+                    38,
+                    65
+                ],
+                "the": [
+                    39,
+                    44,
+                    66,
+                    79,
+                    82,
+                    102
+                ],
+                "topological": [
+                    40
+                ],
+                "graphs,": [
+                    41
+                ],
+                "over": [
+                    42
+                ],
+                "agents": [
+                    45
+                ],
+                "interact,": [
+                    46
+                ],
+                "available": [
+                    47,
+                    72
+                ],
+                "at": [
+                    48,
+                    73
+                ],
+                "minimum": [
+                    50
+                ],
+                "communication": [
+                    51,
+                    75
+                ],
+                "cost.": [
+                    52
+                ],
+                "addressed": [
+                    54
+                ],
+                "this": [
+                    55
+                ],
+                "problem": [
+                    56
+                ],
+                "by": [
+                    57,
+                    77
+                ],
+                "partitioning": [
+                    58
+                ],
+                "representative": [
+                    60
+                ],
+                "employer-employee": [
+                    61
+                ],
+                "interaction": [
+                    62,
+                    68
+                ],
+                "graph,": [
+                    63
+                ],
+                "and": [
+                    64,
+                    87,
+                    91,
+                    99,
+                    101
+                ],
+                "other": [
+                    67
+                ],
+                "graphs": [
+                    69
+                ],
+                "are": [
+                    70,
+                    94
+                ],
+                "made": [
+                    71
+                ],
+                "negligible": [
+                    74
+                ],
+                "costs": [
+                    76
+                ],
+                "mimicking": [
+                    78
+                ],
+                "organizations": [
+                    80
+                ],
+                "real-world": [
+                    83
+                ],
+                "entities.": [
+                    85
+                ],
+                "Cache-friendly": [
+                    86
+                ],
+                "low-memory": [
+                    88
+                ],
+                "intensive": [
+                    89
+                ],
+                "algorithms": [
+                    90
+                ],
+                "data": [
+                    92
+                ],
+                "structures": [
+                    93
+                ],
+                "proposed": [
+                    95
+                ],
+                "improve": [
+                    97
+                ],
+                "runtime": [
+                    98
+                ],
+                "scalability,": [
+                    100
+                ],
+                "effectiveness": [
+                    103
+                ],
+                "each": [
+                    105
+                ],
+                "demonstrated.": [
+                    107
+                ],
+                "The": [
+                    108
+                ],
+                "current": [
+                    109
+                ],
+                "capable": [
+                    112
+                ],
+                "simulating": [
+                    114
+                ],
+                "1:1": [
+                    115
+                ],
+                "scale": [
+                    116
+                ],
+                "models": [
+                    117
+                ],
+                "medium-sized": [
+                    119
+                ],
+                "countries.": [
+                    120
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2951022043",
+            "counts_by_year": [
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-25T12:58:07.304501",
+            "created_date": "2019-06-27"
+        }
+    ],
+    "group_by": []
+}

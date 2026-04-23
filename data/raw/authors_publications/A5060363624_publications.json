@@ -1,0 +1,4612 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 37,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4392245065",
+            "doi": "https://doi.org/10.1016/j.jcp.2024.112876",
+            "title": "High order entropy stable schemes for the quasi-one-dimensional shallow water and compressible Euler equations",
+            "display_name": "High order entropy stable schemes for the quasi-one-dimensional shallow water and compressible Euler equations",
+            "publication_year": 2024,
+            "publication_date": "2024-02-28",
+            "ids": {
+                "openalex": "https://openalex.org/W4392245065",
+                "doi": "https://doi.org/10.1016/j.jcp.2024.112876"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.jcp.2024.112876",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S148709879",
+                    "display_name": "Journal of Computational Physics",
+                    "issn_l": "0021-9991",
+                    "issn": [
+                        "0021-9991",
+                        "1090-2716"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/pdf/2307.12089",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5018693723",
+                        "display_name": "Jesse Chan",
+                        "orcid": "https://orcid.org/0000-0003-2077-3636"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74775410",
+                            "display_name": "Rice University",
+                            "ror": "https://ror.org/008zs3103",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jesse Chan",
+                    "raw_affiliation_strings": [
+                        "Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 77005, United States of America"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 77005, United States of America",
+                            "institution_ids": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102998462",
+                        "display_name": "Khemraj Shukla",
+                        "orcid": "https://orcid.org/0000-0002-2262-7264"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I27804330",
+                            "display_name": "Brown University",
+                            "ror": "https://ror.org/05gq02987",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I27804330"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I196272386",
+                            "display_name": "Providence College",
+                            "ror": "https://ror.org/00rxpqe74",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I196272386"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Khemraj Shukla",
+                    "raw_affiliation_strings": [
+                        "Division of Applied Mathematics, Brown University, Providence, RI 02906, United States of America"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Division of Applied Mathematics, Brown University, Providence, RI 02906, United States of America",
+                            "institution_ids": [
+                                "https://openalex.org/I27804330",
+                                "https://openalex.org/I196272386"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5017543453",
+                        "display_name": "Xinhui Wu",
+                        "orcid": "https://orcid.org/0000-0002-3642-1275"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Xinhui Wu",
+                    "raw_affiliation_strings": [
+                        "Matroid, Inc., Palo Alto, CA, 94306, United States of America"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Matroid, Inc., Palo Alto, CA, 94306, United States of America",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5025538423",
+                        "display_name": "Ruofeng Liu",
+                        "orcid": "https://orcid.org/0000-0001-9804-3727"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74775410",
+                            "display_name": "Rice University",
+                            "ror": "https://ror.org/008zs3103",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ruofeng Liu",
+                    "raw_affiliation_strings": [
+                        "Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 77005, United States of America"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 77005, United States of America",
+                            "institution_ids": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5060363624",
+                        "display_name": "Prani Nalluri",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74775410",
+                            "display_name": "Rice University",
+                            "ror": "https://ror.org/008zs3103",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Prani Nalluri",
+                    "raw_affiliation_strings": [
+                        "Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 77005, United States of America"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 77005, United States of America",
+                            "institution_ids": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5018693723"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I74775410"
+            ],
+            "apc_list": {
+                "value": 3750,
+                "currency": "USD",
+                "value_usd": 3750,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 2.994,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.999858,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 85,
+                "max": 94
+            },
+            "biblio": {
+                "volume": "504",
+                "issue": null,
+                "first_page": "112876",
+                "last_page": "112876"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10173",
+                "display_name": "Computational Fluid Dynamics",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10173",
+                    "display_name": "Computational Fluid Dynamics",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10360",
+                    "display_name": "Turbulent Flows and Vortex Dynamics",
+                    "score": 0.9973,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10940",
+                    "display_name": "Mathematical Modeling of Fluid Dynamics",
+                    "score": 0.994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2604",
+                        "display_name": "Applied Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/shallow-water-equations",
+                    "display_name": "Shallow water equations",
+                    "score": 0.63484514
+                },
+                {
+                    "id": "https://openalex.org/keywords/flux-limiter",
+                    "display_name": "Flux limiter",
+                    "score": 0.61991495
+                },
+                {
+                    "id": "https://openalex.org/keywords/classification-of-discontinuities",
+                    "display_name": "Classification of discontinuities",
+                    "score": 0.6094059
+                },
+                {
+                    "id": "https://openalex.org/keywords/conservation-law",
+                    "display_name": "Conservation law",
+                    "score": 0.5793795
+                },
+                {
+                    "id": "https://openalex.org/keywords/compressible-flows",
+                    "display_name": "Compressible Flows",
+                    "score": 0.536126
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-order-schemes",
+                    "display_name": "High-Order Schemes",
+                    "score": 0.531926
+                },
+                {
+                    "id": "https://openalex.org/keywords/coherent-structures",
+                    "display_name": "Coherent Structures",
+                    "score": 0.508336
+                },
+                {
+                    "id": "https://openalex.org/keywords/incompressible-flow",
+                    "display_name": "Incompressible Flow",
+                    "score": 0.503424
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C38409319",
+                    "wikidata": "https://www.wikidata.org/wiki/Q375175",
+                    "display_name": "Euler equations",
+                    "level": 2,
+                    "score": 0.7604712
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.6817508
+                },
+                {
+                    "id": "https://openalex.org/C140295346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4008384",
+                    "display_name": "Shallow water equations",
+                    "level": 2,
+                    "score": 0.63484514
+                },
+                {
+                    "id": "https://openalex.org/C73000952",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17007827",
+                    "display_name": "Discretization",
+                    "level": 2,
+                    "score": 0.63015723
+                },
+                {
+                    "id": "https://openalex.org/C10819784",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5463027",
+                    "display_name": "Flux limiter",
+                    "level": 2,
+                    "score": 0.61991495
+                },
+                {
+                    "id": "https://openalex.org/C15627037",
+                    "wikidata": "https://www.wikidata.org/wiki/Q541961",
+                    "display_name": "Classification of discontinuities",
+                    "level": 2,
+                    "score": 0.6094059
+                },
+                {
+                    "id": "https://openalex.org/C106301342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4117933",
+                    "display_name": "Entropy (arrow of time)",
+                    "level": 2,
+                    "score": 0.58362776
+                },
+                {
+                    "id": "https://openalex.org/C3445786",
+                    "wikidata": "https://www.wikidata.org/wiki/Q205805",
+                    "display_name": "Conservation law",
+                    "level": 2,
+                    "score": 0.5793795
+                },
+                {
+                    "id": "https://openalex.org/C84655787",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8067817",
+                    "display_name": "Compressibility",
+                    "level": 2,
+                    "score": 0.5471543
+                },
+                {
+                    "id": "https://openalex.org/C50478463",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1401936",
+                    "display_name": "Finite volume method",
+                    "level": 2,
+                    "score": 0.50490314
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.47324973
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.46659353
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.43434834
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.23278722
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.16344935
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.11459556
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.jcp.2024.112876",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S148709879",
+                        "display_name": "Journal of Computational Physics",
+                        "issn_l": "0021-9991",
+                        "issn": [
+                            "0021-9991",
+                            "1090-2716"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                    "pdf_url": "https://arxiv.org/pdf/2307.12089",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                "pdf_url": "https://arxiv.org/pdf/2307.12089",
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "id": "https://metadata.un.org/sdg/15",
+                    "score": 0.65
+                }
+            ],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320306076",
+                    "funder_display_name": "National Science Foundation",
+                    "award_id": null
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 61,
+            "referenced_works": [
+                "https://openalex.org/W1583515859",
+                "https://openalex.org/W1651373482",
+                "https://openalex.org/W1908859542",
+                "https://openalex.org/W1972670182",
+                "https://openalex.org/W1976699418",
+                "https://openalex.org/W1990596161",
+                "https://openalex.org/W1998887941",
+                "https://openalex.org/W2000040540",
+                "https://openalex.org/W2008809901",
+                "https://openalex.org/W2010687400",
+                "https://openalex.org/W2026690611",
+                "https://openalex.org/W2027118019",
+                "https://openalex.org/W202835528",
+                "https://openalex.org/W2031043673",
+                "https://openalex.org/W2034281718",
+                "https://openalex.org/W2041983391",
+                "https://openalex.org/W2043146119",
+                "https://openalex.org/W2049068370",
+                "https://openalex.org/W2053715298",
+                "https://openalex.org/W2065852546",
+                "https://openalex.org/W2074333023",
+                "https://openalex.org/W2078644903",
+                "https://openalex.org/W2090617571",
+                "https://openalex.org/W2094556436",
+                "https://openalex.org/W2111072571",
+                "https://openalex.org/W2120575449",
+                "https://openalex.org/W2131659230",
+                "https://openalex.org/W2150128292",
+                "https://openalex.org/W2165136258",
+                "https://openalex.org/W2169457978",
+                "https://openalex.org/W2220377532",
+                "https://openalex.org/W2254772253",
+                "https://openalex.org/W2343405662",
+                "https://openalex.org/W2529409243",
+                "https://openalex.org/W2530578203",
+                "https://openalex.org/W2614749877",
+                "https://openalex.org/W2619381903",
+                "https://openalex.org/W2772909518",
+                "https://openalex.org/W2773572071",
+                "https://openalex.org/W2790114816",
+                "https://openalex.org/W2795397109",
+                "https://openalex.org/W2810690184",
+                "https://openalex.org/W2949414414",
+                "https://openalex.org/W2964350974",
+                "https://openalex.org/W3080513263",
+                "https://openalex.org/W3100107498",
+                "https://openalex.org/W3102492354",
+                "https://openalex.org/W3110404657",
+                "https://openalex.org/W3131718598",
+                "https://openalex.org/W3163392853",
+                "https://openalex.org/W3192412697",
+                "https://openalex.org/W3201132461",
+                "https://openalex.org/W4230747497",
+                "https://openalex.org/W4282828657",
+                "https://openalex.org/W4282984322",
+                "https://openalex.org/W4288045228",
+                "https://openalex.org/W4289342468",
+                "https://openalex.org/W4297847017",
+                "https://openalex.org/W4311350612",
+                "https://openalex.org/W4313288195",
+                "https://openalex.org/W4321248149"
+            ],
+            "related_works": [
+                "https://openalex.org/W2951370668",
+                "https://openalex.org/W2432471543",
+                "https://openalex.org/W2384486693",
+                "https://openalex.org/W2094979152",
+                "https://openalex.org/W2091196763",
+                "https://openalex.org/W2082440537",
+                "https://openalex.org/W2081861623",
+                "https://openalex.org/W2041609367",
+                "https://openalex.org/W2031803127",
+                "https://openalex.org/W1993547033"
+            ],
+            "abstract_inverted_index": {
+                "High": [
+                    0
+                ],
+                "order": [
+                    1,
+                    47,
+                    115
+                ],
+                "schemes": [
+                    2,
+                    24,
+                    50,
+                    112,
+                    130
+                ],
+                "are": [
+                    3,
+                    113,
+                    131
+                ],
+                "known": [
+                    4
+                ],
+                "to": [
+                    5,
+                    51,
+                    99
+                ],
+                "be": [
+                    6
+                ],
+                "unstable": [
+                    7
+                ],
+                "in": [
+                    8
+                ],
+                "the": [
+                    9,
+                    52,
+                    58,
+                    95,
+                    110,
+                    123,
+                    128
+                ],
+                "presence": [
+                    10
+                ],
+                "of": [
+                    11,
+                    40,
+                    86,
+                    94
+                ],
+                "shock": [
+                    12
+                ],
+                "discontinuities": [
+                    13
+                ],
+                "or": [
+                    14,
+                    69
+                ],
+                "under-resolved": [
+                    15
+                ],
+                "solution": [
+                    16
+                ],
+                "features": [
+                    17
+                ],
+                "for": [
+                    18,
+                    83
+                ],
+                "nonlinear": [
+                    19
+                ],
+                "conservation": [
+                    20,
+                    97
+                ],
+                "laws.": [
+                    21
+                ],
+                "Entropy": [
+                    22
+                ],
+                "stable": [
+                    23,
+                    49,
+                    107
+                ],
+                "address": [
+                    25
+                ],
+                "this": [
+                    26
+                ],
+                "instability": [
+                    27
+                ],
+                "by": [
+                    28
+                ],
+                "ensuring": [
+                    29
+                ],
+                "that": [
+                    30
+                ],
+                "physically": [
+                    31
+                ],
+                "relevant": [
+                    32
+                ],
+                "solutions": [
+                    33
+                ],
+                "satisfy": [
+                    34
+                ],
+                "a": [
+                    35,
+                    92
+                ],
+                "semi-discrete": [
+                    36
+                ],
+                "entropy": [
+                    37,
+                    48,
+                    78,
+                    96,
+                    106,
+                    120
+                ],
+                "inequality": [
+                    38
+                ],
+                "independently": [
+                    39
+                ],
+                "discretization": [
+                    41
+                ],
+                "parameters.": [
+                    42
+                ],
+                "This": [
+                    43
+                ],
+                "work": [
+                    44
+                ],
+                "extends": [
+                    45
+                ],
+                "high": [
+                    46,
+                    114
+                ],
+                "quasi-1D": [
+                    53,
+                    59,
+                    87,
+                    124
+                ],
+                "shallow": [
+                    54,
+                    125
+                ],
+                "water": [
+                    55,
+                    126
+                ],
+                "equations": [
+                    56
+                ],
+                "and": [
+                    57,
+                    118
+                ],
+                "compressible": [
+                    60
+                ],
+                "Euler": [
+                    61
+                ],
+                "equations,": [
+                    62,
+                    88,
+                    127
+                ],
+                "which": [
+                    63
+                ],
+                "model": [
+                    64
+                ],
+                "one-dimensional": [
+                    65
+                ],
+                "flows": [
+                    66
+                ],
+                "through": [
+                    67
+                ],
+                "channels": [
+                    68
+                ],
+                "nozzles": [
+                    70
+                ],
+                "with": [
+                    71,
+                    104
+                ],
+                "varying": [
+                    72
+                ],
+                "width.": [
+                    73
+                ],
+                "We": [
+                    74
+                ],
+                "introduce": [
+                    75
+                ],
+                "new": [
+                    76
+                ],
+                "non-symmetric": [
+                    77,
+                    100
+                ],
+                "conservative": [
+                    79
+                ],
+                "finite": [
+                    80
+                ],
+                "volume": [
+                    81
+                ],
+                "fluxes": [
+                    82
+                ],
+                "both": [
+                    84
+                ],
+                "sets": [
+                    85
+                ],
+                "as": [
+                    89,
+                    91
+                ],
+                "well": [
+                    90
+                ],
+                "generalization": [
+                    93
+                ],
+                "condition": [
+                    98
+                ],
+                "fluxes.": [
+                    101
+                ],
+                "When": [
+                    102
+                ],
+                "combined": [
+                    103
+                ],
+                "an": [
+                    105
+                ],
+                "interface": [
+                    108
+                ],
+                "flux,": [
+                    109
+                ],
+                "resulting": [
+                    111,
+                    129
+                ],
+                "accurate,": [
+                    116
+                ],
+                "conservative,": [
+                    117
+                ],
+                "semi-discretely": [
+                    119
+                ],
+                "stable.": [
+                    121
+                ],
+                "For": [
+                    122
+                ],
+                "also": [
+                    132
+                ],
+                "well-balanced.": [
+                    133
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392245065",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T06:46:04.360345",
+            "created_date": "2024-03-05"
+        },
+        {
+            "id": "https://openalex.org/W4385291164",
+            "doi": "https://doi.org/10.48550/arxiv.2307.12089",
+            "title": "High order entropy stable schemes for the quasi-one-dimensional shallow water and compressible Euler equations",
+            "display_name": "High order entropy stable schemes for the quasi-one-dimensional shallow water and compressible Euler equations",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4385291164",
+                "doi": "https://doi.org/10.48550/arxiv.2307.12089"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "arxiv",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/abs/2307.12089",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5018693723",
+                        "display_name": "Jesse Chan",
+                        "orcid": "https://orcid.org/0000-0003-2077-3636"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Chan, Jesse",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102998462",
+                        "display_name": "Khemraj Shukla",
+                        "orcid": "https://orcid.org/0000-0002-2262-7264"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Shukla, Khemraj",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5041311782",
+                        "display_name": "Xinhui Wu",
+                        "orcid": "https://orcid.org/0000-0003-0237-5853"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Wu, Xinhui",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5025538423",
+                        "display_name": "Ruofeng Liu",
+                        "orcid": "https://orcid.org/0000-0001-9804-3727"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Liu, Ruofeng",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5060363624",
+                        "display_name": "Prani Nalluri",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nalluri, Prani",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10173",
+                "display_name": "Computational Fluid Dynamics",
+                "score": 0.9934,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10173",
+                    "display_name": "Computational Fluid Dynamics",
+                    "score": 0.9934,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10940",
+                    "display_name": "Mathematical Modeling of Fluid Dynamics",
+                    "score": 0.9899,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2604",
+                        "display_name": "Applied Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10360",
+                    "display_name": "Turbulent Flows and Vortex Dynamics",
+                    "score": 0.9702,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/classification-of-discontinuities",
+                    "display_name": "Classification of discontinuities",
+                    "score": 0.6505126
+                },
+                {
+                    "id": "https://openalex.org/keywords/shallow-water-equations",
+                    "display_name": "Shallow water equations",
+                    "score": 0.6092495
+                },
+                {
+                    "id": "https://openalex.org/keywords/flux-limiter",
+                    "display_name": "Flux limiter",
+                    "score": 0.56433487
+                },
+                {
+                    "id": "https://openalex.org/keywords/conservation-law",
+                    "display_name": "Conservation law",
+                    "score": 0.55961794
+                },
+                {
+                    "id": "https://openalex.org/keywords/compressible-flows",
+                    "display_name": "Compressible Flows",
+                    "score": 0.536126
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-order-schemes",
+                    "display_name": "High-Order Schemes",
+                    "score": 0.531926
+                },
+                {
+                    "id": "https://openalex.org/keywords/coherent-structures",
+                    "display_name": "Coherent Structures",
+                    "score": 0.508336
+                },
+                {
+                    "id": "https://openalex.org/keywords/incompressible-flow",
+                    "display_name": "Incompressible Flow",
+                    "score": 0.503424
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C38409319",
+                    "wikidata": "https://www.wikidata.org/wiki/Q375175",
+                    "display_name": "Euler equations",
+                    "level": 2,
+                    "score": 0.74566776
+                },
+                {
+                    "id": "https://openalex.org/C15627037",
+                    "wikidata": "https://www.wikidata.org/wiki/Q541961",
+                    "display_name": "Classification of discontinuities",
+                    "level": 2,
+                    "score": 0.6505126
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.62920874
+                },
+                {
+                    "id": "https://openalex.org/C73000952",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17007827",
+                    "display_name": "Discretization",
+                    "level": 2,
+                    "score": 0.6259893
+                },
+                {
+                    "id": "https://openalex.org/C140295346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4008384",
+                    "display_name": "Shallow water equations",
+                    "level": 2,
+                    "score": 0.6092495
+                },
+                {
+                    "id": "https://openalex.org/C106301342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4117933",
+                    "display_name": "Entropy (arrow of time)",
+                    "level": 2,
+                    "score": 0.59812444
+                },
+                {
+                    "id": "https://openalex.org/C10819784",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5463027",
+                    "display_name": "Flux limiter",
+                    "level": 2,
+                    "score": 0.56433487
+                },
+                {
+                    "id": "https://openalex.org/C84655787",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8067817",
+                    "display_name": "Compressibility",
+                    "level": 2,
+                    "score": 0.56311893
+                },
+                {
+                    "id": "https://openalex.org/C3445786",
+                    "wikidata": "https://www.wikidata.org/wiki/Q205805",
+                    "display_name": "Conservation law",
+                    "level": 2,
+                    "score": 0.55961794
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.4795977
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.46359342
+                },
+                {
+                    "id": "https://openalex.org/C50478463",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1401936",
+                    "display_name": "Finite volume method",
+                    "level": 2,
+                    "score": 0.46317938
+                },
+                {
+                    "id": "https://openalex.org/C207821765",
+                    "wikidata": "https://www.wikidata.org/wiki/Q405372",
+                    "display_name": "Instability",
+                    "level": 2,
+                    "score": 0.43257034
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.40851134
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.2329753
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.187612
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.111237735
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.2307.12089",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "id": "https://metadata.un.org/sdg/15",
+                    "score": 0.65
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W2951370668",
+                "https://openalex.org/W2384486693",
+                "https://openalex.org/W2094979152",
+                "https://openalex.org/W2091196763",
+                "https://openalex.org/W2090733834",
+                "https://openalex.org/W2082440537",
+                "https://openalex.org/W2081861623",
+                "https://openalex.org/W2041609367",
+                "https://openalex.org/W2031803127",
+                "https://openalex.org/W1993547033"
+            ],
+            "abstract_inverted_index": {
+                "High": [
+                    0
+                ],
+                "order": [
+                    1,
+                    47,
+                    115
+                ],
+                "schemes": [
+                    2,
+                    24,
+                    50,
+                    112,
+                    130
+                ],
+                "are": [
+                    3,
+                    113,
+                    131
+                ],
+                "known": [
+                    4
+                ],
+                "to": [
+                    5,
+                    51,
+                    99
+                ],
+                "be": [
+                    6
+                ],
+                "unstable": [
+                    7
+                ],
+                "in": [
+                    8
+                ],
+                "the": [
+                    9,
+                    52,
+                    58,
+                    95,
+                    110,
+                    123,
+                    128
+                ],
+                "presence": [
+                    10
+                ],
+                "of": [
+                    11,
+                    40,
+                    86,
+                    94
+                ],
+                "shock": [
+                    12
+                ],
+                "discontinuities": [
+                    13
+                ],
+                "or": [
+                    14,
+                    69
+                ],
+                "under-resolved": [
+                    15
+                ],
+                "solution": [
+                    16
+                ],
+                "features": [
+                    17
+                ],
+                "for": [
+                    18,
+                    83
+                ],
+                "nonlinear": [
+                    19
+                ],
+                "conservation": [
+                    20,
+                    97
+                ],
+                "laws.": [
+                    21
+                ],
+                "Entropy": [
+                    22
+                ],
+                "stable": [
+                    23,
+                    49,
+                    107
+                ],
+                "address": [
+                    25
+                ],
+                "this": [
+                    26
+                ],
+                "instability": [
+                    27
+                ],
+                "by": [
+                    28
+                ],
+                "ensuring": [
+                    29
+                ],
+                "that": [
+                    30
+                ],
+                "physically": [
+                    31
+                ],
+                "relevant": [
+                    32
+                ],
+                "solutions": [
+                    33
+                ],
+                "satisfy": [
+                    34
+                ],
+                "a": [
+                    35,
+                    92
+                ],
+                "semi-discrete": [
+                    36
+                ],
+                "entropy": [
+                    37,
+                    48,
+                    78,
+                    96,
+                    106,
+                    120
+                ],
+                "inequality": [
+                    38
+                ],
+                "independently": [
+                    39
+                ],
+                "discretization": [
+                    41
+                ],
+                "parameters.": [
+                    42
+                ],
+                "This": [
+                    43
+                ],
+                "work": [
+                    44
+                ],
+                "extends": [
+                    45
+                ],
+                "high": [
+                    46,
+                    114
+                ],
+                "quasi-1D": [
+                    53,
+                    59,
+                    87,
+                    124
+                ],
+                "shallow": [
+                    54,
+                    125
+                ],
+                "water": [
+                    55,
+                    126
+                ],
+                "equations": [
+                    56
+                ],
+                "and": [
+                    57,
+                    118
+                ],
+                "compressible": [
+                    60
+                ],
+                "Euler": [
+                    61
+                ],
+                "equations,": [
+                    62,
+                    88,
+                    127
+                ],
+                "which": [
+                    63
+                ],
+                "model": [
+                    64
+                ],
+                "one-dimensional": [
+                    65
+                ],
+                "flows": [
+                    66
+                ],
+                "through": [
+                    67
+                ],
+                "channels": [
+                    68
+                ],
+                "nozzles": [
+                    70
+                ],
+                "with": [
+                    71,
+                    104
+                ],
+                "varying": [
+                    72
+                ],
+                "width.": [
+                    73
+                ],
+                "We": [
+                    74
+                ],
+                "introduce": [
+                    75
+                ],
+                "new": [
+                    76
+                ],
+                "non-symmetric": [
+                    77,
+                    100
+                ],
+                "conservative": [
+                    79
+                ],
+                "finite": [
+                    80
+                ],
+                "volume": [
+                    81
+                ],
+                "fluxes": [
+                    82
+                ],
+                "both": [
+                    84
+                ],
+                "sets": [
+                    85
+                ],
+                "as": [
+                    89,
+                    91
+                ],
+                "well": [
+                    90
+                ],
+                "generalization": [
+                    93
+                ],
+                "condition": [
+                    98
+                ],
+                "fluxes.": [
+                    101
+                ],
+                "When": [
+                    102
+                ],
+                "combined": [
+                    103
+                ],
+                "an": [
+                    105
+                ],
+                "interface": [
+                    108
+                ],
+                "flux,": [
+                    109
+                ],
+                "resulting": [
+                    111,
+                    129
+                ],
+                "accurate,": [
+                    116
+                ],
+                "conservative,": [
+                    117
+                ],
+                "semi-discretely": [
+                    119
+                ],
+                "stable.": [
+                    121
+                ],
+                "For": [
+                    122
+                ],
+                "also": [
+                    132
+                ],
+                "well-balanced.": [
+                    133
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4385291164",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T05:54:20.733874",
+            "created_date": "2023-07-27"
+        },
+        {
+            "id": "https://openalex.org/W4385627662",
+            "doi": "https://doi.org/10.2139/ssrn.4534373",
+            "title": "High Order Entropy Stable Schemes for the Quasi-One-Dimensional Shallow Water and Compressible Euler Equations",
+            "display_name": "High Order Entropy Stable Schemes for the Quasi-One-Dimensional Shallow Water and Compressible Euler Equations",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4385627662",
+                "doi": "https://doi.org/10.2139/ssrn.4534373"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.2139/ssrn.4534373",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/pdf/2307.12089",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5018693723",
+                        "display_name": "Jesse Chan",
+                        "orcid": "https://orcid.org/0000-0003-2077-3636"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74775410",
+                            "display_name": "Rice University",
+                            "ror": "https://ror.org/008zs3103",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jesse Chan",
+                    "raw_affiliation_strings": [
+                        "Rice University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rice University",
+                            "institution_ids": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102998462",
+                        "display_name": "Khemraj Shukla",
+                        "orcid": "https://orcid.org/0000-0002-2262-7264"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I175594653",
+                            "display_name": "John Brown University",
+                            "ror": "https://ror.org/02ct41q97",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I175594653"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Khemraj Shukla",
+                    "raw_affiliation_strings": [
+                        "Brown University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Brown University",
+                            "institution_ids": [
+                                "https://openalex.org/I175594653"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5041311782",
+                        "display_name": "Xinhui Wu",
+                        "orcid": "https://orcid.org/0000-0003-0237-5853"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "XINHUI WU",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5025538423",
+                        "display_name": "Ruofeng Liu",
+                        "orcid": "https://orcid.org/0000-0001-9804-3727"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74775410",
+                            "display_name": "Rice University",
+                            "ror": "https://ror.org/008zs3103",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ruofeng Liu",
+                    "raw_affiliation_strings": [
+                        "Rice University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rice University",
+                            "institution_ids": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5060363624",
+                        "display_name": "Prani Nalluri",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I74775410",
+                            "display_name": "Rice University",
+                            "ror": "https://ror.org/008zs3103",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Prani Nalluri",
+                    "raw_affiliation_strings": [
+                        "Rice University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rice University",
+                            "institution_ids": [
+                                "https://openalex.org/I74775410"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5018693723"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I74775410"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10940",
+                "display_name": "Mathematical Modeling of Fluid Dynamics",
+                "score": 0.996,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2604",
+                    "display_name": "Applied Mathematics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/26",
+                    "display_name": "Mathematics"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10940",
+                    "display_name": "Mathematical Modeling of Fluid Dynamics",
+                    "score": 0.996,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2604",
+                        "display_name": "Applied Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10173",
+                    "display_name": "Computational Fluid Dynamics",
+                    "score": 0.9945,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11654",
+                    "display_name": "Global Well-Posedness of Nonlinear Wave Equations",
+                    "score": 0.94,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2610",
+                        "display_name": "Mathematical Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/compressible-flows",
+                    "display_name": "Compressible Flows",
+                    "score": 0.609953
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-order-schemes",
+                    "display_name": "High-Order Schemes",
+                    "score": 0.570861
+                },
+                {
+                    "id": "https://openalex.org/keywords/dispersive-equations",
+                    "display_name": "Dispersive Equations",
+                    "score": 0.557912
+                },
+                {
+                    "id": "https://openalex.org/keywords/navier-stokes-equations",
+                    "display_name": "Navier-Stokes Equations",
+                    "score": 0.547884
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-volume-methods",
+                    "display_name": "Finite Volume Methods",
+                    "score": 0.536579
+                },
+                {
+                    "id": "https://openalex.org/keywords/shallow-water-equations",
+                    "display_name": "Shallow water equations",
+                    "score": 0.46423402
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C38409319",
+                    "wikidata": "https://www.wikidata.org/wiki/Q375175",
+                    "display_name": "Euler equations",
+                    "level": 2,
+                    "score": 0.7528493
+                },
+                {
+                    "id": "https://openalex.org/C84655787",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8067817",
+                    "display_name": "Compressibility",
+                    "level": 2,
+                    "score": 0.70192826
+                },
+                {
+                    "id": "https://openalex.org/C62884695",
+                    "wikidata": "https://www.wikidata.org/wiki/Q184871",
+                    "display_name": "Euler's formula",
+                    "level": 2,
+                    "score": 0.5615377
+                },
+                {
+                    "id": "https://openalex.org/C106301342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4117933",
+                    "display_name": "Entropy (arrow of time)",
+                    "level": 2,
+                    "score": 0.5300198
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.4811486
+                },
+                {
+                    "id": "https://openalex.org/C186348155",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7975538",
+                    "display_name": "Waves and shallow water",
+                    "level": 2,
+                    "score": 0.47856382
+                },
+                {
+                    "id": "https://openalex.org/C140295346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4008384",
+                    "display_name": "Shallow water equations",
+                    "level": 2,
+                    "score": 0.46423402
+                },
+                {
+                    "id": "https://openalex.org/C182306322",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+                    "display_name": "Order (exchange)",
+                    "level": 2,
+                    "score": 0.43885332
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.4090684
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.38554433
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.2600056
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.23549277
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.10418582
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.09768227
+                },
+                {
+                    "id": "https://openalex.org/C10138342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43015",
+                    "display_name": "Finance",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.2139/ssrn.4534373",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                    "pdf_url": "https://arxiv.org/pdf/2307.12089",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2307.12089",
+                "pdf_url": "https://arxiv.org/pdf/2307.12089",
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Clean water and sanitation",
+                    "id": "https://metadata.un.org/sdg/6",
+                    "score": 0.58
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4288406764",
+                "https://openalex.org/W4244542172",
+                "https://openalex.org/W3103841423",
+                "https://openalex.org/W3103101607",
+                "https://openalex.org/W2924523431",
+                "https://openalex.org/W2163625490",
+                "https://openalex.org/W2020907471",
+                "https://openalex.org/W1996685921",
+                "https://openalex.org/W1990950100",
+                "https://openalex.org/W1984672658"
+            ],
+            "abstract_inverted_index": {
+                "High": [
+                    0
+                ],
+                "order": [
+                    1,
+                    47,
+                    114
+                ],
+                "schemes": [
+                    2,
+                    24,
+                    50,
+                    111,
+                    129
+                ],
+                "are": [
+                    3,
+                    112,
+                    130
+                ],
+                "known": [
+                    4
+                ],
+                "to": [
+                    5,
+                    51,
+                    98
+                ],
+                "be": [
+                    6
+                ],
+                "unstable": [
+                    7
+                ],
+                "in": [
+                    8
+                ],
+                "the": [
+                    9,
+                    52,
+                    58,
+                    94,
+                    109,
+                    122,
+                    127
+                ],
+                "presence": [
+                    10
+                ],
+                "of": [
+                    11,
+                    40,
+                    85,
+                    93
+                ],
+                "shock": [
+                    12
+                ],
+                "discontinuities": [
+                    13
+                ],
+                "or": [
+                    14,
+                    69
+                ],
+                "under-resolved": [
+                    15
+                ],
+                "solution": [
+                    16
+                ],
+                "features": [
+                    17
+                ],
+                "for": [
+                    18,
+                    82
+                ],
+                "nonlinear": [
+                    19
+                ],
+                "conservation": [
+                    20,
+                    96
+                ],
+                "laws.": [
+                    21
+                ],
+                "Entropy": [
+                    22
+                ],
+                "stable": [
+                    23,
+                    49,
+                    106
+                ],
+                "address": [
+                    25
+                ],
+                "this": [
+                    26
+                ],
+                "instability": [
+                    27
+                ],
+                "by": [
+                    28
+                ],
+                "ensuring": [
+                    29
+                ],
+                "that": [
+                    30
+                ],
+                "physically": [
+                    31
+                ],
+                "relevant": [
+                    32
+                ],
+                "solutions": [
+                    33
+                ],
+                "satisfy": [
+                    34
+                ],
+                "a": [
+                    35,
+                    91
+                ],
+                "semi-discrete": [
+                    36
+                ],
+                "entropy": [
+                    37,
+                    48,
+                    77,
+                    95,
+                    105,
+                    119
+                ],
+                "inequality": [
+                    38
+                ],
+                "independently": [
+                    39
+                ],
+                "discretization": [
+                    41
+                ],
+                "parameters.": [
+                    42
+                ],
+                "This": [
+                    43
+                ],
+                "work": [
+                    44
+                ],
+                "extends": [
+                    45
+                ],
+                "high": [
+                    46,
+                    113
+                ],
+                "quasi-1D": [
+                    53,
+                    59,
+                    86,
+                    123
+                ],
+                "shallow": [
+                    54,
+                    124
+                ],
+                "water": [
+                    55,
+                    125
+                ],
+                "equations": [
+                    56
+                ],
+                "and": [
+                    57,
+                    117
+                ],
+                "compressible": [
+                    60
+                ],
+                "Euler": [
+                    61
+                ],
+                "equations,": [
+                    62,
+                    87,
+                    126
+                ],
+                "which": [
+                    63
+                ],
+                "model": [
+                    64
+                ],
+                "one-dimensional": [
+                    65
+                ],
+                "flows": [
+                    66
+                ],
+                "through": [
+                    67
+                ],
+                "channels": [
+                    68
+                ],
+                "nozzles": [
+                    70
+                ],
+                "with": [
+                    71,
+                    103
+                ],
+                "varying": [
+                    72
+                ],
+                "width.We": [
+                    73
+                ],
+                "introduce": [
+                    74
+                ],
+                "new": [
+                    75
+                ],
+                "non-symmetric": [
+                    76,
+                    99
+                ],
+                "conservative": [
+                    78
+                ],
+                "finite": [
+                    79
+                ],
+                "volume": [
+                    80
+                ],
+                "fluxes": [
+                    81
+                ],
+                "both": [
+                    83
+                ],
+                "sets": [
+                    84
+                ],
+                "as": [
+                    88,
+                    90
+                ],
+                "well": [
+                    89
+                ],
+                "generalization": [
+                    92
+                ],
+                "condition": [
+                    97
+                ],
+                "fluxes.": [
+                    100
+                ],
+                "When": [
+                    101
+                ],
+                "combined": [
+                    102
+                ],
+                "an": [
+                    104
+                ],
+                "interface": [
+                    107
+                ],
+                "flux,": [
+                    108
+                ],
+                "resulting": [
+                    110,
+                    128
+                ],
+                "accurate,": [
+                    115
+                ],
+                "conservative,": [
+                    116
+                ],
+                "semi-discretely": [
+                    118
+                ],
+                "stable.": [
+                    120
+                ],
+                "For": [
+                    121
+                ],
+                "also": [
+                    131
+                ],
+                "well-balanced.": [
+                    132
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4385627662",
+            "counts_by_year": [],
+            "updated_date": "2024-09-24T19:26:35.734020",
+            "created_date": "2023-08-08"
+        },
+        {
+            "id": "https://openalex.org/W4285131979",
+            "doi": "https://doi.org/10.1007/978-3-031-08751-6_32",
+            "title": "TROPHY: Trust Region Optimization Using a Precision Hierarchy",
+            "display_name": "TROPHY: Trust Region Optimization Using a Precision Hierarchy",
+            "publication_year": 2022,
+            "publication_date": "2022-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4285131979",
+                "doi": "https://doi.org/10.1007/978-3-031-08751-6_32"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-031-08751-6_32",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "http://arxiv.org/pdf/2202.08387",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019063235",
+                        "display_name": "Richard J Clancy",
+                        "orcid": "https://orcid.org/0000-0002-2593-8623"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Richard J. Clancy",
+                    "raw_affiliation_strings": [
+                        "Argonne National Laboratory, Lemont, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Argonne National Laboratory, Lemont, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5036761076",
+                        "display_name": "Matt Menickelly",
+                        "orcid": "https://orcid.org/0000-0002-2023-0837"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matt Menickelly",
+                    "raw_affiliation_strings": [
+                        "Argonne National Laboratory, Lemont, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Argonne National Laboratory, Lemont, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5018679209",
+                        "display_name": "Jan Hückelheim",
+                        "orcid": "https://orcid.org/0000-0003-3479-6361"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jan Hückelheim",
+                    "raw_affiliation_strings": [
+                        "Argonne National Laboratory, Lemont, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Argonne National Laboratory, Lemont, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5067040957",
+                        "display_name": "Ilan Kroo",
+                        "orcid": "https://orcid.org/0000-0002-0907-2567"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paul Hovland",
+                    "raw_affiliation_strings": [
+                        "Argonne National Laboratory, Lemont, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Argonne National Laboratory, Lemont, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060363624",
+                        "display_name": "Prani Nalluri",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Prani Nalluri",
+                    "raw_affiliation_strings": [
+                        "Argonne National Laboratory, Lemont, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Argonne National Laboratory, Lemont, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5040260248",
+                        "display_name": "Rebecca Gjini",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I36258959",
+                            "display_name": "University of California, San Diego",
+                            "ror": "https://ror.org/0168r3w48",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Rebecca Gjini",
+                    "raw_affiliation_strings": [
+                        "University of California, San Diego, CA, 92093, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of California, San Diego, CA, 92093, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I36258959"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5019063235"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I1282105669"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 62
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "445",
+                "last_page": "459"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10466",
+                "display_name": "Numerical Weather Prediction Models",
+                "score": 0.9995,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1902",
+                    "display_name": "Atmospheric Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11801",
+                    "display_name": "Advanced Techniques in Reservoir Management",
+                    "score": 0.9906,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2212",
+                        "display_name": "Ocean Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9866,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/optimization",
+                    "display_name": "Optimization",
+                    "score": 0.581288
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-reduction",
+                    "display_name": "Model Reduction",
+                    "score": 0.512796
+                },
+                {
+                    "id": "https://openalex.org/keywords/mesoscale-modeling",
+                    "display_name": "Mesoscale Modeling",
+                    "score": 0.503253
+                },
+                {
+                    "id": "https://openalex.org/keywords/nonlinear-systems",
+                    "display_name": "Nonlinear Systems",
+                    "score": 0.503222
+                },
+                {
+                    "id": "https://openalex.org/keywords/trust-region",
+                    "display_name": "Trust region",
+                    "score": 0.4234236
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6889943
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.5022354
+                },
+                {
+                    "id": "https://openalex.org/C31170391",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188619",
+                    "display_name": "Hierarchy",
+                    "level": 2,
+                    "score": 0.47355926
+                },
+                {
+                    "id": "https://openalex.org/C2778755073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+                    "display_name": "Scale (ratio)",
+                    "level": 2,
+                    "score": 0.45962963
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.45483607
+                },
+                {
+                    "id": "https://openalex.org/C28719098",
+                    "wikidata": "https://www.wikidata.org/wiki/Q44946",
+                    "display_name": "Point (geometry)",
+                    "level": 2,
+                    "score": 0.44149312
+                },
+                {
+                    "id": "https://openalex.org/C89109886",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1535924",
+                    "display_name": "Trust region",
+                    "level": 3,
+                    "score": 0.4234236
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.38144296
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.37988803
+                },
+                {
+                    "id": "https://openalex.org/C113775141",
+                    "wikidata": "https://www.wikidata.org/wiki/Q428691",
+                    "display_name": "Computer engineering",
+                    "level": 1,
+                    "score": 0.34709305
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.15361142
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.109244436
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C178635117",
+                    "wikidata": "https://www.wikidata.org/wiki/Q747499",
+                    "display_name": "RADIUS",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C34447519",
+                    "wikidata": "https://www.wikidata.org/wiki/Q179522",
+                    "display_name": "Market economy",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-031-08751-6_32",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://arxiv.org/abs/2202.08387",
+                    "pdf_url": "http://arxiv.org/pdf/2202.08387",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "http://arxiv.org/abs/2202.08387",
+                "pdf_url": "http://arxiv.org/pdf/2202.08387",
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Affordable and clean energy",
+                    "id": "https://metadata.un.org/sdg/7",
+                    "score": 0.79
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 28,
+            "referenced_works": [
+                "https://openalex.org/W147998453",
+                "https://openalex.org/W1972384243",
+                "https://openalex.org/W1973803192",
+                "https://openalex.org/W2036371636",
+                "https://openalex.org/W2057565823",
+                "https://openalex.org/W2057830724",
+                "https://openalex.org/W2058839679",
+                "https://openalex.org/W2081368694",
+                "https://openalex.org/W2100846455",
+                "https://openalex.org/W2117752372",
+                "https://openalex.org/W2126980987",
+                "https://openalex.org/W2149454052",
+                "https://openalex.org/W2152015341",
+                "https://openalex.org/W2153039279",
+                "https://openalex.org/W2566629575",
+                "https://openalex.org/W2607903868",
+                "https://openalex.org/W2623582941",
+                "https://openalex.org/W2838756705",
+                "https://openalex.org/W2902494873",
+                "https://openalex.org/W2903376718",
+                "https://openalex.org/W2998672756",
+                "https://openalex.org/W3003257820",
+                "https://openalex.org/W3023366306",
+                "https://openalex.org/W3092235295",
+                "https://openalex.org/W3098871454",
+                "https://openalex.org/W3102143361",
+                "https://openalex.org/W4252894371",
+                "https://openalex.org/W4301014524"
+            ],
+            "related_works": [
+                "https://openalex.org/W3148822801",
+                "https://openalex.org/W2752681920",
+                "https://openalex.org/W2393042414",
+                "https://openalex.org/W2387879781",
+                "https://openalex.org/W2353911672",
+                "https://openalex.org/W2080108722",
+                "https://openalex.org/W2062145486",
+                "https://openalex.org/W2058731384",
+                "https://openalex.org/W1997473290",
+                "https://openalex.org/W1924921769"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    61
+                ],
+                "present": [
+                    1
+                ],
+                "an": [
+                    2
+                ],
+                "algorithm": [
+                    3
+                ],
+                "to": [
+                    4,
+                    24,
+                    53,
+                    78
+                ],
+                "perform": [
+                    5
+                ],
+                "trust-region-based": [
+                    6
+                ],
+                "optimization": [
+                    7
+                ],
+                "for": [
+                    8,
+                    57
+                ],
+                "nonlinear": [
+                    9
+                ],
+                "unconstrained": [
+                    10
+                ],
+                "problems.": [
+                    11
+                ],
+                "The": [
+                    12
+                ],
+                "method": [
+                    13,
+                    64
+                ],
+                "selectively": [
+                    14
+                ],
+                "uses": [
+                    15
+                ],
+                "function": [
+                    16
+                ],
+                "and": [
+                    17,
+                    31,
+                    72
+                ],
+                "gradient": [
+                    18
+                ],
+                "evaluations": [
+                    19
+                ],
+                "at": [
+                    20
+                ],
+                "different": [
+                    21
+                ],
+                "floating-point": [
+                    22
+                ],
+                "precisions": [
+                    23
+                ],
+                "reduce": [
+                    25,
+                    108
+                ],
+                "the": [
+                    26,
+                    40,
+                    68,
+                    102,
+                    109
+                ],
+                "overall": [
+                    27
+                ],
+                "energy": [
+                    28
+                ],
+                "consumption,": [
+                    29
+                ],
+                "storage,": [
+                    30
+                ],
+                "communication": [
+                    32
+                ],
+                "costs;": [
+                    33
+                ],
+                "these": [
+                    34
+                ],
+                "capabilities": [
+                    35
+                ],
+                "are": [
+                    36,
+                    48
+                ],
+                "increasingly": [
+                    37
+                ],
+                "important": [
+                    38
+                ],
+                "in": [
+                    39
+                ],
+                "era": [
+                    41
+                ],
+                "of": [
+                    42,
+                    92,
+                    104
+                ],
+                "exascale": [
+                    43
+                ],
+                "computing.": [
+                    44
+                ],
+                "In": [
+                    45
+                ],
+                "particular,": [
+                    46
+                ],
+                "we": [
+                    47,
+                    94
+                ],
+                "motivated": [
+                    49
+                ],
+                "by": [
+                    50
+                ],
+                "a": [
+                    51,
+                    73,
+                    90
+                ],
+                "desire": [
+                    52
+                ],
+                "improve": [
+                    54
+                ],
+                "computational": [
+                    55,
+                    110
+                ],
+                "efficiency": [
+                    56
+                ],
+                "massive": [
+                    58
+                ],
+                "climate": [
+                    59
+                ],
+                "models.": [
+                    60
+                ],
+                "employ": [
+                    62
+                ],
+                "our": [
+                    63
+                ],
+                "on": [
+                    65,
+                    99
+                ],
+                "two": [
+                    66
+                ],
+                "examples:": [
+                    67
+                ],
+                "CUTEst": [
+                    69
+                ],
+                "test": [
+                    70
+                ],
+                "set": [
+                    71
+                ],
+                "large-scale": [
+                    74
+                ],
+                "data": [
+                    75
+                ],
+                "assimilation": [
+                    76
+                ],
+                "problem": [
+                    77
+                ],
+                "recover": [
+                    79
+                ],
+                "wind": [
+                    80
+                ],
+                "fields": [
+                    81
+                ],
+                "from": [
+                    82
+                ],
+                "radar": [
+                    83
+                ],
+                "returns.": [
+                    84
+                ],
+                "Although": [
+                    85
+                ],
+                "this": [
+                    86
+                ],
+                "paper": [
+                    87
+                ],
+                "is": [
+                    88
+                ],
+                "primarily": [
+                    89
+                ],
+                "proof": [
+                    91
+                ],
+                "concept,": [
+                    93
+                ],
+                "show": [
+                    95
+                ],
+                "that": [
+                    96
+                ],
+                "if": [
+                    97
+                ],
+                "implemented": [
+                    98
+                ],
+                "appropriate": [
+                    100
+                ],
+                "hardware,": [
+                    101
+                ],
+                "use": [
+                    103
+                ],
+                "mixed-precision": [
+                    105
+                ],
+                "can": [
+                    106
+                ],
+                "significantly": [
+                    107
+                ],
+                "load": [
+                    111
+                ],
+                "compared": [
+                    112
+                ],
+                "with": [
+                    113
+                ],
+                "fixed-precision": [
+                    114
+                ],
+                "solvers.": [
+                    115
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4285131979",
+            "counts_by_year": [],
+            "updated_date": "2024-09-18T19:52:25.537584",
+            "created_date": "2022-07-14"
+        },
+        {
+            "id": "https://openalex.org/W4226343344",
+            "doi": "https://doi.org/10.48550/arxiv.2202.08387",
+            "title": "TROPHY: Trust Region Optimization Using a Precision Hierarchy",
+            "display_name": "TROPHY: Trust Region Optimization Using a Precision Hierarchy",
+            "publication_year": 2022,
+            "publication_date": "2022-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4226343344",
+                "doi": "https://doi.org/10.48550/arxiv.2202.08387"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2202.08387",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "arxiv",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/abs/2202.08387",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019063235",
+                        "display_name": "Richard J Clancy",
+                        "orcid": "https://orcid.org/0000-0002-2593-8623"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Clancy, Richard J",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5036761076",
+                        "display_name": "Matt Menickelly",
+                        "orcid": "https://orcid.org/0000-0002-2023-0837"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Menickelly, Matt",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5018679209",
+                        "display_name": "Jan Hückelheim",
+                        "orcid": "https://orcid.org/0000-0003-3479-6361"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hückelheim, Jan",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5067040957",
+                        "display_name": "Ilan Kroo",
+                        "orcid": "https://orcid.org/0000-0002-0907-2567"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hovland, Paul",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060363624",
+                        "display_name": "Prani Nalluri",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nalluri, Prani",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5040260248",
+                        "display_name": "Rebecca Gjini",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gjini, Rebecca",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 61
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10466",
+                "display_name": "Numerical Weather Prediction Models",
+                "score": 0.9991,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1902",
+                    "display_name": "Atmospheric Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10029",
+                    "display_name": "Climate Change and Variability Research",
+                    "score": 0.974,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11801",
+                    "display_name": "Advanced Techniques in Reservoir Management",
+                    "score": 0.9677,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2212",
+                        "display_name": "Ocean Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/trophy",
+                    "display_name": "Trophy",
+                    "score": 0.6324094
+                },
+                {
+                    "id": "https://openalex.org/keywords/optimization",
+                    "display_name": "Optimization",
+                    "score": 0.581288
+                },
+                {
+                    "id": "https://openalex.org/keywords/climate-modeling",
+                    "display_name": "Climate Modeling",
+                    "score": 0.515526
+                },
+                {
+                    "id": "https://openalex.org/keywords/mesoscale-modeling",
+                    "display_name": "Mesoscale Modeling",
+                    "score": 0.503253
+                },
+                {
+                    "id": "https://openalex.org/keywords/trust-region",
+                    "display_name": "Trust region",
+                    "score": 0.47026572
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7155113
+                },
+                {
+                    "id": "https://openalex.org/C2777801525",
+                    "wikidata": "https://www.wikidata.org/wiki/Q381165",
+                    "display_name": "Trophy",
+                    "level": 2,
+                    "score": 0.6324094
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.4992714
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.4908088
+                },
+                {
+                    "id": "https://openalex.org/C31170391",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188619",
+                    "display_name": "Hierarchy",
+                    "level": 2,
+                    "score": 0.49060908
+                },
+                {
+                    "id": "https://openalex.org/C2778755073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+                    "display_name": "Scale (ratio)",
+                    "level": 2,
+                    "score": 0.4752086
+                },
+                {
+                    "id": "https://openalex.org/C89109886",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1535924",
+                    "display_name": "Trust region",
+                    "level": 3,
+                    "score": 0.47026572
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.44197875
+                },
+                {
+                    "id": "https://openalex.org/C24552861",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670177",
+                    "display_name": "Data assimilation",
+                    "level": 2,
+                    "score": 0.4308088
+                },
+                {
+                    "id": "https://openalex.org/C28719098",
+                    "wikidata": "https://www.wikidata.org/wiki/Q44946",
+                    "display_name": "Point (geometry)",
+                    "level": 2,
+                    "score": 0.42098102
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.38166106
+                },
+                {
+                    "id": "https://openalex.org/C113775141",
+                    "wikidata": "https://www.wikidata.org/wiki/Q428691",
+                    "display_name": "Computer engineering",
+                    "level": 1,
+                    "score": 0.33136398
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.15514559
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C178635117",
+                    "wikidata": "https://www.wikidata.org/wiki/Q747499",
+                    "display_name": "RADIUS",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C34447519",
+                    "wikidata": "https://www.wikidata.org/wiki/Q179522",
+                    "display_name": "Market economy",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2202.08387",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": null,
+                    "pdf_url": "https://arxiv.org/pdf/2202.08387.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.2202.08387",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2202.08387",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Affordable and clean energy",
+                    "id": "https://metadata.un.org/sdg/7",
+                    "score": 0.79
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4364860052",
+                "https://openalex.org/W4255387769",
+                "https://openalex.org/W402435356",
+                "https://openalex.org/W2953010204",
+                "https://openalex.org/W2170100984",
+                "https://openalex.org/W2124876284",
+                "https://openalex.org/W2110506115",
+                "https://openalex.org/W1982938810",
+                "https://openalex.org/W1597046246",
+                "https://openalex.org/W1506211310"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    61
+                ],
+                "present": [
+                    1
+                ],
+                "an": [
+                    2
+                ],
+                "algorithm": [
+                    3
+                ],
+                "to": [
+                    4,
+                    24,
+                    53,
+                    78
+                ],
+                "perform": [
+                    5
+                ],
+                "trust-region-based": [
+                    6
+                ],
+                "optimization": [
+                    7
+                ],
+                "for": [
+                    8,
+                    57
+                ],
+                "nonlinear": [
+                    9
+                ],
+                "unconstrained": [
+                    10
+                ],
+                "problems.": [
+                    11
+                ],
+                "The": [
+                    12
+                ],
+                "method": [
+                    13,
+                    64
+                ],
+                "selectively": [
+                    14
+                ],
+                "uses": [
+                    15
+                ],
+                "function": [
+                    16
+                ],
+                "and": [
+                    17,
+                    31,
+                    72
+                ],
+                "gradient": [
+                    18
+                ],
+                "evaluations": [
+                    19
+                ],
+                "at": [
+                    20
+                ],
+                "different": [
+                    21
+                ],
+                "floating-point": [
+                    22
+                ],
+                "precisions": [
+                    23
+                ],
+                "reduce": [
+                    25,
+                    108
+                ],
+                "the": [
+                    26,
+                    40,
+                    68,
+                    102,
+                    109
+                ],
+                "overall": [
+                    27
+                ],
+                "energy": [
+                    28
+                ],
+                "consumption,": [
+                    29
+                ],
+                "storage,": [
+                    30
+                ],
+                "communication": [
+                    32
+                ],
+                "costs;": [
+                    33
+                ],
+                "these": [
+                    34
+                ],
+                "capabilities": [
+                    35
+                ],
+                "are": [
+                    36,
+                    48
+                ],
+                "increasingly": [
+                    37
+                ],
+                "important": [
+                    38
+                ],
+                "in": [
+                    39
+                ],
+                "era": [
+                    41
+                ],
+                "of": [
+                    42,
+                    92,
+                    104
+                ],
+                "exascale": [
+                    43
+                ],
+                "computing.": [
+                    44
+                ],
+                "In": [
+                    45
+                ],
+                "particular,": [
+                    46
+                ],
+                "we": [
+                    47,
+                    94
+                ],
+                "motivated": [
+                    49
+                ],
+                "by": [
+                    50
+                ],
+                "a": [
+                    51,
+                    73,
+                    90
+                ],
+                "desire": [
+                    52
+                ],
+                "improve": [
+                    54
+                ],
+                "computational": [
+                    55,
+                    110
+                ],
+                "efficiency": [
+                    56
+                ],
+                "massive": [
+                    58
+                ],
+                "climate": [
+                    59
+                ],
+                "models.": [
+                    60
+                ],
+                "employ": [
+                    62
+                ],
+                "our": [
+                    63
+                ],
+                "on": [
+                    65,
+                    99
+                ],
+                "two": [
+                    66
+                ],
+                "examples:": [
+                    67
+                ],
+                "CUTEst": [
+                    69
+                ],
+                "test": [
+                    70
+                ],
+                "set": [
+                    71
+                ],
+                "large-scale": [
+                    74
+                ],
+                "data": [
+                    75
+                ],
+                "assimilation": [
+                    76
+                ],
+                "problem": [
+                    77
+                ],
+                "recover": [
+                    79
+                ],
+                "wind": [
+                    80
+                ],
+                "fields": [
+                    81
+                ],
+                "from": [
+                    82
+                ],
+                "radar": [
+                    83
+                ],
+                "returns.": [
+                    84
+                ],
+                "Although": [
+                    85
+                ],
+                "this": [
+                    86
+                ],
+                "paper": [
+                    87
+                ],
+                "is": [
+                    88
+                ],
+                "primarily": [
+                    89
+                ],
+                "proof": [
+                    91
+                ],
+                "concept,": [
+                    93
+                ],
+                "show": [
+                    95
+                ],
+                "that": [
+                    96
+                ],
+                "if": [
+                    97
+                ],
+                "implemented": [
+                    98
+                ],
+                "appropriate": [
+                    100
+                ],
+                "hardware,": [
+                    101
+                ],
+                "use": [
+                    103
+                ],
+                "mixed-precision": [
+                    105
+                ],
+                "can": [
+                    106
+                ],
+                "significantly": [
+                    107
+                ],
+                "load": [
+                    111
+                ],
+                "compared": [
+                    112
+                ],
+                "with": [
+                    113
+                ],
+                "fixed-precision": [
+                    114
+                ],
+                "solvers.": [
+                    115
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4226343344",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T15:40:56.744594",
+            "created_date": "2022-05-05"
+        }
+    ],
+    "group_by": []
+}

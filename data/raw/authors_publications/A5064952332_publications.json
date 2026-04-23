@@ -1,0 +1,1578 @@
+{
+    "meta": {
+        "count": 1,
+        "db_response_time_ms": 43,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2491059649",
+            "doi": "https://doi.org/10.1016/j.procs.2016.05.410",
+            "title": "BEAM: A Computational Workflow System for Managing and Modeling Material Characterization Data in HPC Environments",
+            "display_name": "BEAM: A Computational Workflow System for Managing and Modeling Material Characterization Data in HPC Environments",
+            "publication_year": 2016,
+            "publication_date": "2016-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2491059649",
+                "doi": "https://doi.org/10.1016/j.procs.2016.05.410",
+                "mag": "2491059649"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.410",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2016.05.410",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5043403442",
+                        "display_name": "Eric J. Lingerfelt",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "E.J. Lingerfelt",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060827655",
+                        "display_name": "Alex Belianinov",
+                        "orcid": "https://orcid.org/0000-0002-3975-4112"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "A. Belianinov",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5071441074",
+                        "display_name": "Eirik Endeve",
+                        "orcid": "https://orcid.org/0000-0003-1251-9507"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "E. Endeve",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5082482869",
+                        "display_name": "Oleg Ovchinnikov",
+                        "orcid": "https://orcid.org/0000-0002-8772-3150"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I200719446",
+                            "display_name": "Vanderbilt University",
+                            "ror": "https://ror.org/02vm5rt34",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I200719446"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "O. Ovchinnikov",
+                    "raw_affiliation_strings": [
+                        "Vanderbilt University, Nashville, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Vanderbilt University, Nashville, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I200719446"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079181694",
+                        "display_name": "Suhas Somnath",
+                        "orcid": "https://orcid.org/0000-0002-5398-3050"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "S. Somnath",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5071397525",
+                        "display_name": "Jose M. Borreguero",
+                        "orcid": "https://orcid.org/0000-0002-0866-8158"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J.M. Borreguero",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5064952332",
+                        "display_name": "N. Grodowitz",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "N. Grodowitz",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5039659541",
+                        "display_name": "B. Park",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "B. Park",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5043192992",
+                        "display_name": "Richard Archibald",
+                        "orcid": "https://orcid.org/0000-0002-4538-9780"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "R.K. Archibald",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055365897",
+                        "display_name": "Christopher T. Symons",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "C.T. Symons",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5048552375",
+                        "display_name": "Sergei V. Kalinin",
+                        "orcid": "https://orcid.org/0000-0001-5354-6152"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "S.V. Kalinin",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5004575978",
+                        "display_name": "O. E. Bronson Messer",
+                        "orcid": "https://orcid.org/0000-0002-5358-5415"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "O.E.B. Messer",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5035099577",
+                        "display_name": "Mallikarjun Shankar",
+                        "orcid": "https://orcid.org/0000-0001-5289-7460"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Shankar",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5084949021",
+                        "display_name": "Stephen Jesse",
+                        "orcid": "https://orcid.org/0000-0002-1168-8483"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1289243028",
+                            "display_name": "Oak Ridge National Laboratory",
+                            "ror": "https://ror.org/01qz5mb56",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1289243028",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I4210159294"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "S. Jesse",
+                    "raw_affiliation_strings": [
+                        "Oak Ridge National Laboratory, Oak Ridge, TN"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oak Ridge National Laboratory, Oak Ridge, TN",
+                            "institution_ids": [
+                                "https://openalex.org/I1289243028"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5043403442"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I1289243028"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.181,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 18,
+            "citation_normalized_percentile": {
+                "value": 0.830374,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 90,
+                "max": 91
+            },
+            "biblio": {
+                "volume": "80",
+                "issue": null,
+                "first_page": "2276",
+                "last_page": "2280"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11948",
+                "display_name": "Accelerating Materials Innovation through Informatics",
+                "score": 0.9942,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2505",
+                    "display_name": "Materials Chemistry"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/25",
+                    "display_name": "Materials Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11948",
+                    "display_name": "Accelerating Materials Innovation through Informatics",
+                    "score": 0.9942,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2505",
+                        "display_name": "Materials Chemistry"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/25",
+                        "display_name": "Materials Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11986",
+                    "display_name": "Management and Reproducibility of Scientific Workflows",
+                    "score": 0.9883,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1802",
+                        "display_name": "Information Systems and Management"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10399",
+                    "display_name": "Characterization of Shale Gas Pore Structure",
+                    "score": 0.9831,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2211",
+                        "display_name": "Mechanics of Materials"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/leverage",
+                    "display_name": "Leverage (statistics)",
+                    "score": 0.61329377
+                },
+                {
+                    "id": "https://openalex.org/keywords/scientific-workflows",
+                    "display_name": "Scientific Workflows",
+                    "score": 0.563374
+                },
+                {
+                    "id": "https://openalex.org/keywords/materials-informatics",
+                    "display_name": "Materials Informatics",
+                    "score": 0.528331
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-research",
+                    "display_name": "Computational Research",
+                    "score": 0.50969
+                },
+                {
+                    "id": "https://openalex.org/keywords/materials-discovery",
+                    "display_name": "Materials Discovery",
+                    "score": 0.504666
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-chemistry",
+                    "display_name": "Computational Chemistry",
+                    "score": 0.500454
+                },
+                {
+                    "id": "https://openalex.org/keywords/scientific-instrument",
+                    "display_name": "Scientific instrument",
+                    "score": 0.44743955
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8230455
+                },
+                {
+                    "id": "https://openalex.org/C177212765",
+                    "wikidata": "https://www.wikidata.org/wiki/Q627335",
+                    "display_name": "Workflow",
+                    "level": 2,
+                    "score": 0.77457833
+                },
+                {
+                    "id": "https://openalex.org/C2775907726",
+                    "wikidata": "https://www.wikidata.org/wiki/Q714439",
+                    "display_name": "Oak Ridge National Laboratory",
+                    "level": 2,
+                    "score": 0.7190113
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.68123966
+                },
+                {
+                    "id": "https://openalex.org/C50805821",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1136670",
+                    "display_name": "Titan (rocket family)",
+                    "level": 2,
+                    "score": 0.61388123
+                },
+                {
+                    "id": "https://openalex.org/C153083717",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+                    "display_name": "Leverage (statistics)",
+                    "level": 2,
+                    "score": 0.61329377
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.49268037
+                },
+                {
+                    "id": "https://openalex.org/C207520454",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3099911",
+                    "display_name": "Scientific instrument",
+                    "level": 2,
+                    "score": 0.44743955
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.43207604
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.41126096
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.16627851
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.14332333
+                },
+                {
+                    "id": "https://openalex.org/C146978453",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+                    "display_name": "Aerospace engineering",
+                    "level": 1,
+                    "score": 0.13074505
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C185544564",
+                    "wikidata": "https://www.wikidata.org/wiki/Q81197",
+                    "display_name": "Nuclear physics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.410",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://www.osti.gov/biblio/1567545",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402487",
+                        "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I139351228",
+                        "host_organization_name": "Office of Scientific and Technical Information",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I139351228"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Office of Scientific and Technical Information"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://www.osti.gov/biblio/1261355",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402487",
+                        "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I139351228",
+                        "host_organization_name": "Office of Scientific and Technical Information",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I139351228"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Office of Scientific and Technical Information"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.410",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.64,
+                    "id": "https://metadata.un.org/sdg/9"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 8,
+            "referenced_works": [
+                "https://openalex.org/W1562911693",
+                "https://openalex.org/W1996081171",
+                "https://openalex.org/W2019362142",
+                "https://openalex.org/W2036295204",
+                "https://openalex.org/W2103325328",
+                "https://openalex.org/W2110553453",
+                "https://openalex.org/W2150981663",
+                "https://openalex.org/W2239123866"
+            ],
+            "related_works": [
+                "https://openalex.org/W643179351",
+                "https://openalex.org/W4226366561",
+                "https://openalex.org/W2905265805",
+                "https://openalex.org/W2740469715",
+                "https://openalex.org/W2408545863",
+                "https://openalex.org/W2162805293",
+                "https://openalex.org/W2030649016",
+                "https://openalex.org/W1996803181",
+                "https://openalex.org/W1582436825",
+                "https://openalex.org/W1510668762"
+            ],
+            "abstract_inverted_index": {
+                "Improvements": [
+                    0
+                ],
+                "in": [
+                    1,
+                    39,
+                    57,
+                    171
+                ],
+                "scientific": [
+                    2,
+                    42
+                ],
+                "instrumentation": [
+                    3
+                ],
+                "allow": [
+                    4
+                ],
+                "imaging": [
+                    5
+                ],
+                "at": [
+                    6,
+                    134,
+                    152
+                ],
+                "mesoscopic": [
+                    7
+                ],
+                "to": [
+                    8,
+                    60,
+                    83,
+                    97
+                ],
+                "atomic": [
+                    9
+                ],
+                "length": [
+                    10
+                ],
+                "scales,": [
+                    11
+                ],
+                "many": [
+                    12
+                ],
+                "spectroscopic": [
+                    13
+                ],
+                "modes,": [
+                    14
+                ],
+                "and": [
+                    15,
+                    23,
+                    63,
+                    89,
+                    102,
+                    126,
+                    141,
+                    147,
+                    180,
+                    185,
+                    204
+                ],
+                "now—with": [
+                    16
+                ],
+                "the": [
+                    17,
+                    24,
+                    58,
+                    81,
+                    86,
+                    130,
+                    153,
+                    165,
+                    172
+                ],
+                "rise": [
+                    18
+                ],
+                "of": [
+                    19,
+                    29,
+                    67,
+                    74,
+                    92,
+                    117,
+                    190,
+                    201
+                ],
+                "multimodal": [
+                    20
+                ],
+                "acquisition": [
+                    21
+                ],
+                "systems": [
+                    22
+                ],
+                "associated": [
+                    25
+                ],
+                "processing": [
+                    26
+                ],
+                "capability—the": [
+                    27
+                ],
+                "era": [
+                    28
+                ],
+                "multidimensional,": [
+                    30
+                ],
+                "informationally": [
+                    31
+                ],
+                "dense": [
+                    32
+                ],
+                "data": [
+                    33,
+                    100,
+                    123
+                ],
+                "sets": [
+                    34
+                ],
+                "has": [
+                    35
+                ],
+                "arrived.": [
+                    36
+                ],
+                "Technical": [
+                    37
+                ],
+                "issues": [
+                    38
+                ],
+                "these": [
+                    40
+                ],
+                "combinatorial": [
+                    41
+                ],
+                "fields": [
+                    43
+                ],
+                "are": [
+                    44
+                ],
+                "exacerbated": [
+                    45
+                ],
+                "by": [
+                    46
+                ],
+                "computational": [
+                    47,
+                    88,
+                    127
+                ],
+                "challenges": [
+                    48
+                ],
+                "best": [
+                    49
+                ],
+                "summarized": [
+                    50
+                ],
+                "as": [
+                    51
+                ],
+                "a": [
+                    52,
+                    187,
+                    198
+                ],
+                "necessity": [
+                    53
+                ],
+                "for": [
+                    54,
+                    72,
+                    144,
+                    169
+                ],
+                "drastic": [
+                    55
+                ],
+                "improvement": [
+                    56
+                ],
+                "capability": [
+                    59,
+                    82
+                ],
+                "transfer,": [
+                    61
+                ],
+                "store,": [
+                    62
+                ],
+                "analyze": [
+                    64
+                ],
+                "large": [
+                    65
+                ],
+                "volumes": [
+                    66
+                ],
+                "data.": [
+                    68
+                ],
+                "The": [
+                    69
+                ],
+                "Bellerophon": [
+                    70
+                ],
+                "Environment": [
+                    71,
+                    143
+                ],
+                "Analysis": [
+                    73
+                ],
+                "Materials": [
+                    75
+                ],
+                "(BEAM)": [
+                    76
+                ],
+                "platform": [
+                    77
+                ],
+                "provides": [
+                    78
+                ],
+                "material": [
+                    79,
+                    173
+                ],
+                "scientists": [
+                    80,
+                    194
+                ],
+                "directly": [
+                    84
+                ],
+                "leverage": [
+                    85
+                ],
+                "integrated": [
+                    87
+                ],
+                "analytical": [
+                    90,
+                    202
+                ],
+                "power": [
+                    91
+                ],
+                "High": [
+                    93
+                ],
+                "Performance": [
+                    94
+                ],
+                "Computing": [
+                    95,
+                    157
+                ],
+                "(HPC)": [
+                    96
+                ],
+                "perform": [
+                    98
+                ],
+                "scalable": [
+                    99
+                ],
+                "analysis": [
+                    101,
+                    124,
+                    205
+                ],
+                "simulation": [
+                    103
+                ],
+                "via": [
+                    104
+                ],
+                "an": [
+                    105
+                ],
+                "intuitive,": [
+                    106
+                ],
+                "cross-platform": [
+                    107
+                ],
+                "client": [
+                    108
+                ],
+                "user": [
+                    109,
+                    119,
+                    191
+                ],
+                "interface.": [
+                    110
+                ],
+                "This": [
+                    111
+                ],
+                "framework": [
+                    112
+                ],
+                "delivers": [
+                    113
+                ],
+                "authenticated,": [
+                    114
+                ],
+                "“push-button”": [
+                    115
+                ],
+                "execution": [
+                    116
+                ],
+                "complex": [
+                    118
+                ],
+                "workflows": [
+                    120
+                ],
+                "that": [
+                    121
+                ],
+                "deploy": [
+                    122
+                ],
+                "algorithms": [
+                    125
+                ],
+                "simulations": [
+                    128
+                ],
+                "utilizing": [
+                    129
+                ],
+                "converged": [
+                    131
+                ],
+                "compute-and-data": [
+                    132
+                ],
+                "infrastructure": [
+                    133,
+                    181
+                ],
+                "Oak": [
+                    135,
+                    154
+                ],
+                "Ridge": [
+                    136,
+                    155
+                ],
+                "National": [
+                    137
+                ],
+                "Laboratory's": [
+                    138
+                ],
+                "(ORNL)": [
+                    139
+                ],
+                "Compute": [
+                    140
+                ],
+                "Data": [
+                    142
+                ],
+                "Science": [
+                    145
+                ],
+                "(CADES)": [
+                    146
+                ],
+                "HPC": [
+                    148,
+                    167
+                ],
+                "environments": [
+                    149
+                ],
+                "like": [
+                    150
+                ],
+                "Titan": [
+                    151
+                ],
+                "Leadership": [
+                    156
+                ],
+                "Facility": [
+                    158
+                ],
+                "(OLCF).": [
+                    159
+                ],
+                "In": [
+                    160
+                ],
+                "this": [
+                    161
+                ],
+                "work": [
+                    162
+                ],
+                "we": [
+                    163
+                ],
+                "address": [
+                    164
+                ],
+                "underlying": [
+                    166
+                ],
+                "needs": [
+                    168
+                ],
+                "characterization": [
+                    170
+                ],
+                "science": [
+                    174
+                ],
+                "community,": [
+                    175
+                ],
+                "elaborate": [
+                    176
+                ],
+                "how": [
+                    177
+                ],
+                "BEAM's": [
+                    178
+                ],
+                "design": [
+                    179
+                ],
+                "tackle": [
+                    182
+                ],
+                "those": [
+                    183
+                ],
+                "needs,": [
+                    184
+                ],
+                "present": [
+                    186
+                ],
+                "small": [
+                    188
+                ],
+                "sub-set": [
+                    189
+                ],
+                "cases": [
+                    192
+                ],
+                "where": [
+                    193
+                ],
+                "utilized": [
+                    195
+                ],
+                "BEAM": [
+                    196
+                ],
+                "across": [
+                    197
+                ],
+                "broad": [
+                    199
+                ],
+                "range": [
+                    200
+                ],
+                "techniques": [
+                    203
+                ],
+                "modes.": [
+                    206
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2491059649",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-25T00:28:44.672617",
+            "created_date": "2016-08-23"
+        }
+    ],
+    "group_by": []
+}

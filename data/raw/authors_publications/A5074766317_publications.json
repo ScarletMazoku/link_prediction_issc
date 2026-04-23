@@ -1,0 +1,4619 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 39,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2621521991",
+            "doi": "https://doi.org/10.1016/j.procs.2017.05.062",
+            "title": "A Posterior Ensemble Kalman Filter Based On A Modified Cholesky Decomposition",
+            "display_name": "A Posterior Ensemble Kalman Filter Based On A Modified Cholesky Decomposition",
+            "publication_year": 2017,
+            "publication_date": "2017-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2621521991",
+                "doi": "https://doi.org/10.1016/j.procs.2017.05.062",
+                "mag": "2621521991"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.062",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2017.05.062",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5037739760",
+                        "display_name": "Elías D. Niño-Ruiz",
+                        "orcid": "https://orcid.org/0000-0001-7784-8163"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Elias D. Nino-Ruiz",
+                    "raw_affiliation_strings": [
+                        "Universidad del Norte, Barranquilla, ATL, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, ATL, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074766317",
+                        "display_name": "Alfonso Mancilla",
+                        "orcid": "https://orcid.org/0000-0002-8076-8938"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Alfonso Mancilla",
+                    "raw_affiliation_strings": [
+                        "Universidad del Norte, Barranquilla, ATL, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, ATL, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5082624335",
+                        "display_name": "Juan C. Calabria-Sarmiento",
+                        "orcid": "https://orcid.org/0000-0003-1004-5280"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210132036",
+                            "display_name": "Universidad Simón Bolívar",
+                            "ror": "https://ror.org/02njbw696",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I4210132036"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Juan C. Calabria",
+                    "raw_affiliation_strings": [
+                        "Universidad Simon Bolivar, Barranquilla, ATL, Colombia",
+                        "Universidad del Norte, Barranquilla, ATL, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad Simon Bolivar, Barranquilla, ATL, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I4210132036"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, ATL, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5037739760",
+                "https://openalex.org/A5074766317",
+                "https://openalex.org/A5082624335"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I142879360",
+                "https://openalex.org/I142879360",
+                "https://openalex.org/I4210132036",
+                "https://openalex.org/I142879360"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.773,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 7,
+            "citation_normalized_percentile": {
+                "value": 0.60471,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 83,
+                "max": 84
+            },
+            "biblio": {
+                "volume": "108",
+                "issue": null,
+                "first_page": "2049",
+                "last_page": "2058"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10466",
+                "display_name": "Numerical Weather Prediction Models",
+                "score": 0.9987,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1902",
+                    "display_name": "Atmospheric Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9987,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11405",
+                    "display_name": "Global Sea Level Variability and Change",
+                    "score": 0.9906,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1910",
+                        "display_name": "Oceanography"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10711",
+                    "display_name": "Particle Filtering and Nonlinear Estimation Methods",
+                    "score": 0.9805,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/minimum-degree-algorithm",
+                    "display_name": "Minimum degree algorithm",
+                    "score": 0.6706694
+                },
+                {
+                    "id": "https://openalex.org/keywords/ensemble-kalman-filter",
+                    "display_name": "Ensemble Kalman Filter",
+                    "score": 0.605335
+                },
+                {
+                    "id": "https://openalex.org/keywords/kalman-filters",
+                    "display_name": "Kalman Filters",
+                    "score": 0.525659
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C34727166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q515375",
+                    "display_name": "Cholesky decomposition",
+                    "level": 3,
+                    "score": 0.98687196
+                },
+                {
+                    "id": "https://openalex.org/C79334102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072268",
+                    "display_name": "Ensemble Kalman filter",
+                    "level": 4,
+                    "score": 0.8463345
+                },
+                {
+                    "id": "https://openalex.org/C46085209",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17098969",
+                    "display_name": "Minimum degree algorithm",
+                    "level": 5,
+                    "score": 0.6706694
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.64111805
+                },
+                {
+                    "id": "https://openalex.org/C185142706",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1134404",
+                    "display_name": "Covariance matrix",
+                    "level": 2,
+                    "score": 0.58312523
+                },
+                {
+                    "id": "https://openalex.org/C178650346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q201984",
+                    "display_name": "Covariance",
+                    "level": 2,
+                    "score": 0.5538819
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.54822874
+                },
+                {
+                    "id": "https://openalex.org/C157286648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q846780",
+                    "display_name": "Kalman filter",
+                    "level": 2,
+                    "score": 0.5297457
+                },
+                {
+                    "id": "https://openalex.org/C206833254",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5421817",
+                    "display_name": "Extended Kalman filter",
+                    "level": 3,
+                    "score": 0.509409
+                },
+                {
+                    "id": "https://openalex.org/C83042196",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5178898",
+                    "display_name": "Covariance intersection",
+                    "level": 4,
+                    "score": 0.4544788
+                },
+                {
+                    "id": "https://openalex.org/C57830394",
+                    "wikidata": "https://www.wikidata.org/wiki/Q278079",
+                    "display_name": "Posterior probability",
+                    "level": 3,
+                    "score": 0.4544431
+                },
+                {
+                    "id": "https://openalex.org/C185429906",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1130160",
+                    "display_name": "Estimator",
+                    "level": 2,
+                    "score": 0.44744498
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.3479637
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.3043677
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.22557452
+                },
+                {
+                    "id": "https://openalex.org/C180877172",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5401390",
+                    "display_name": "Estimation of covariance matrices",
+                    "level": 3,
+                    "score": 0.2198222
+                },
+                {
+                    "id": "https://openalex.org/C107673813",
+                    "wikidata": "https://www.wikidata.org/wiki/Q812534",
+                    "display_name": "Bayesian probability",
+                    "level": 2,
+                    "score": 0.19655707
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.17034286
+                },
+                {
+                    "id": "https://openalex.org/C44363057",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6015160",
+                    "display_name": "Incomplete Cholesky factorization",
+                    "level": 4,
+                    "score": 0.12406993
+                },
+                {
+                    "id": "https://openalex.org/C158693339",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190524",
+                    "display_name": "Eigenvalues and eigenvectors",
+                    "level": 2,
+                    "score": 0.08239016
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.062",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/20.500.12442/1586",
+                    "pdf_url": "https://bonga.unisimon.edu.co/bitstream/20.500.12442/1586/1/A%20posterior%20ensemble%20Kalman%20filter%20based%20on%20a%20modified%20Cholesky%20Decomposition.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402641",
+                        "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4383465926",
+                        "host_organization_name": "LA Referencia",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4383465926"
+                        ],
+                        "host_organization_lineage_names": [
+                            "LA Referencia"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.062",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 22,
+            "referenced_works": [
+                "https://openalex.org/W1522319528",
+                "https://openalex.org/W1969083636",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W2028437104",
+                "https://openalex.org/W2052320843",
+                "https://openalex.org/W2063979846",
+                "https://openalex.org/W2082278382",
+                "https://openalex.org/W2104013612",
+                "https://openalex.org/W2104255289",
+                "https://openalex.org/W2111084096",
+                "https://openalex.org/W2119007379",
+                "https://openalex.org/W2123940107",
+                "https://openalex.org/W2127955663",
+                "https://openalex.org/W2132600099",
+                "https://openalex.org/W2154358707",
+                "https://openalex.org/W2160537757",
+                "https://openalex.org/W2161358768",
+                "https://openalex.org/W2180946617",
+                "https://openalex.org/W3099609308",
+                "https://openalex.org/W3101788651",
+                "https://openalex.org/W4246912086",
+                "https://openalex.org/W90026333"
+            ],
+            "related_works": [
+                "https://openalex.org/W80571406",
+                "https://openalex.org/W3134311896",
+                "https://openalex.org/W3125722836",
+                "https://openalex.org/W3089843717",
+                "https://openalex.org/W3021697842",
+                "https://openalex.org/W2983621982",
+                "https://openalex.org/W2980948053",
+                "https://openalex.org/W2962741268",
+                "https://openalex.org/W2948887380",
+                "https://openalex.org/W2899175414",
+                "https://openalex.org/W2858757283",
+                "https://openalex.org/W2800965898",
+                "https://openalex.org/W2756171143",
+                "https://openalex.org/W2737320860",
+                "https://openalex.org/W2735133106",
+                "https://openalex.org/W2098020974",
+                "https://openalex.org/W2042700147",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W1992779656",
+                "https://openalex.org/W1978883615"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "this": [
+                    1
+                ],
+                "paper,": [
+                    2
+                ],
+                "we": [
+                    3
+                ],
+                "propose": [
+                    4
+                ],
+                "a": [
+                    5,
+                    13,
+                    57,
+                    105
+                ],
+                "posterior": [
+                    6,
+                    119,
+                    138
+                ],
+                "ensemble": [
+                    7,
+                    35,
+                    179
+                ],
+                "Kalman": [
+                    8,
+                    181
+                ],
+                "filter": [
+                    9,
+                    182
+                ],
+                "(EnKF)": [
+                    10
+                ],
+                "based": [
+                    11,
+                    32,
+                    63
+                ],
+                "on": [
+                    12,
+                    33,
+                    64
+                ],
+                "modified": [
+                    14,
+                    58
+                ],
+                "Cholesky": [
+                    15,
+                    59,
+                    68,
+                    96
+                ],
+                "decomposition.": [
+                    16
+                ],
+                "The": [
+                    17,
+                    39,
+                    91,
+                    161
+                ],
+                "main": [
+                    18
+                ],
+                "idea": [
+                    19
+                ],
+                "behind": [
+                    20
+                ],
+                "our": [
+                    21,
+                    189
+                ],
+                "approach": [
+                    22
+                ],
+                "is": [
+                    23,
+                    54,
+                    116,
+                    171
+                ],
+                "to": [
+                    24,
+                    81,
+                    103,
+                    135,
+                    153,
+                    173
+                ],
+                "estimate": [
+                    25,
+                    46,
+                    84
+                ],
+                "the": [
+                    26,
+                    29,
+                    48,
+                    67,
+                    71,
+                    86,
+                    95,
+                    109,
+                    112,
+                    118,
+                    122,
+                    137,
+                    147,
+                    155,
+                    158,
+                    165,
+                    168,
+                    176,
+                    186,
+                    192,
+                    198
+                ],
+                "moments": [
+                    27
+                ],
+                "of": [
+                    28,
+                    36,
+                    47,
+                    70,
+                    85,
+                    94,
+                    108,
+                    121,
+                    146,
+                    157,
+                    167,
+                    175,
+                    188,
+                    194,
+                    200
+                ],
+                "analysis": [
+                    30,
+                    88,
+                    113
+                ],
+                "distribution": [
+                    31,
+                    123
+                ],
+                "an": [
+                    34,
+                    45,
+                    83
+                ],
+                "model": [
+                    37,
+                    150
+                ],
+                "realizations.": [
+                    38
+                ],
+                "method": [
+                    40
+                ],
+                "proceeds": [
+                    41
+                ],
+                "as": [
+                    42
+                ],
+                "follows:": [
+                    43
+                ],
+                "initially,": [
+                    44
+                ],
+                "precision": [
+                    49
+                ],
+                "background": [
+                    50,
+                    73
+                ],
+                "error": [
+                    51,
+                    74
+                ],
+                "covariance": [
+                    52,
+                    75,
+                    89,
+                    114
+                ],
+                "matrix": [
+                    53,
+                    76,
+                    115
+                ],
+                "computed": [
+                    55
+                ],
+                "via": [
+                    56
+                ],
+                "decomposition": [
+                    60
+                ],
+                "and": [
+                    61,
+                    127,
+                    183
+                ],
+                "then,": [
+                    62
+                ],
+                "rank-one": [
+                    65
+                ],
+                "updates,": [
+                    66
+                ],
+                "factors": [
+                    69,
+                    97
+                ],
+                "inverse": [
+                    72,
+                    87
+                ],
+                "are": [
+                    77,
+                    131,
+                    142
+                ],
+                "updated": [
+                    78
+                ],
+                "in": [
+                    79,
+                    101,
+                    133,
+                    151
+                ],
+                "order": [
+                    80,
+                    102,
+                    134,
+                    152
+                ],
+                "obtain": [
+                    82,
+                    104
+                ],
+                "matrix.": [
+                    90
+                ],
+                "special": [
+                    92
+                ],
+                "structure": [
+                    93
+                ],
+                "can": [
+                    98,
+                    124
+                ],
+                "be": [
+                    99,
+                    125
+                ],
+                "exploited": [
+                    100
+                ],
+                "matrix-free": [
+                    106
+                ],
+                "implementation": [
+                    107,
+                    170
+                ],
+                "EnKF.": [
+                    110
+                ],
+                "Once": [
+                    111
+                ],
+                "estimated,": [
+                    117
+                ],
+                "mode": [
+                    120
+                ],
+                "approximated": [
+                    126
+                ],
+                "samples": [
+                    128
+                ],
+                "about": [
+                    129
+                ],
+                "it": [
+                    130
+                ],
+                "taken": [
+                    132
+                ],
+                "build": [
+                    136
+                ],
+                "ensemble.": [
+                    139
+                ],
+                "Experimental": [
+                    140
+                ],
+                "tests": [
+                    141
+                ],
+                "performed": [
+                    143
+                ],
+                "making": [
+                    144
+                ],
+                "use": [
+                    145,
+                    187
+                ],
+                "Lorenz": [
+                    148
+                ],
+                "96": [
+                    149
+                ],
+                "assess": [
+                    154
+                ],
+                "accuracy": [
+                    156,
+                    166
+                ],
+                "proposed": [
+                    159,
+                    169
+                ],
+                "implementation.": [
+                    160
+                ],
+                "results": [
+                    162
+                ],
+                "reveal": [
+                    163
+                ],
+                "that,": [
+                    164
+                ],
+                "similar": [
+                    172
+                ],
+                "that": [
+                    174
+                ],
+                "well-known": [
+                    177
+                ],
+                "local": [
+                    178
+                ],
+                "transform": [
+                    180
+                ],
+                "even": [
+                    184
+                ],
+                "more,": [
+                    185
+                ],
+                "estimator": [
+                    190
+                ],
+                "reduces": [
+                    191
+                ],
+                "impact": [
+                    193
+                ],
+                "sampling": [
+                    195
+                ],
+                "errors": [
+                    196
+                ],
+                "during": [
+                    197
+                ],
+                "assimilation": [
+                    199
+                ],
+                "observations.": [
+                    201
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2621521991",
+            "counts_by_year": [
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 3
+                }
+            ],
+            "updated_date": "2024-09-26T07:53:00.100451",
+            "created_date": "2017-06-15"
+        },
+        {
+            "id": "https://openalex.org/W3004803494",
+            "doi": "https://doi.org/10.3390/s20030877",
+            "title": "A Maximum Likelihood Ensemble Filter via a Modified Cholesky Decomposition for Non-Gaussian Data Assimilation",
+            "display_name": "A Maximum Likelihood Ensemble Filter via a Modified Cholesky Decomposition for Non-Gaussian Data Assimilation",
+            "publication_year": 2020,
+            "publication_date": "2020-02-06",
+            "ids": {
+                "openalex": "https://openalex.org/W3004803494",
+                "doi": "https://doi.org/10.3390/s20030877",
+                "mag": "3004803494",
+                "pmid": "https://pubmed.ncbi.nlm.nih.gov/32041372",
+                "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/7038685"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.3390/s20030877",
+                "pdf_url": "https://www.mdpi.com/1424-8220/20/3/877/pdf?version=1581493640",
+                "source": {
+                    "id": "https://openalex.org/S101949793",
+                    "display_name": "Sensors",
+                    "issn_l": "1424-8220",
+                    "issn": [
+                        "1424-8220"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310310987",
+                    "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310310987"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Multidisciplinary Digital Publishing Institute"
+                    ],
+                    "type": "journal"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref",
+                "doaj",
+                "pubmed"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://www.mdpi.com/1424-8220/20/3/877/pdf?version=1581493640",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5037739760",
+                        "display_name": "Elías D. Niño-Ruiz",
+                        "orcid": "https://orcid.org/0000-0001-7784-8163"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Elias David Nino-Ruiz",
+                    "raw_affiliation_strings": [
+                        "Applied Math and Computer Science Laboratory, Department of Computer Science, Universidad del Norte, Barranquilla 080001, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Applied Math and Computer Science Laboratory, Department of Computer Science, Universidad del Norte, Barranquilla 080001, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074766317",
+                        "display_name": "Alfonso Mancilla",
+                        "orcid": "https://orcid.org/0000-0002-8076-8938"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alfonso Mancilla-Herrera",
+                    "raw_affiliation_strings": [
+                        "Applied Math and Computer Science Laboratory, Department of Computer Science, Universidad del Norte, Barranquilla 080001, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Applied Math and Computer Science Laboratory, Department of Computer Science, Universidad del Norte, Barranquilla 080001, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5005979934",
+                        "display_name": "Santiago López-Restrepo",
+                        "orcid": "https://orcid.org/0000-0002-7637-1575"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I862322245",
+                            "display_name": "Universidad EAFIT",
+                            "ror": "https://ror.org/03y3y9v44",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I862322245"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I98358874",
+                            "display_name": "Delft University of Technology",
+                            "ror": "https://ror.org/02e2c7k09",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I98358874"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO",
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Santiago Lopez-Restrepo",
+                    "raw_affiliation_strings": [
+                        "Delft Institute of Applied Mathematics, Delft University of Technology, 2625 Delft, The Netherlands",
+                        "Mathematical Modelling Research Group, Department of Mathematical Sciences, Universidad EAFIT, Medellín 050001, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Mathematical Modelling Research Group, Department of Mathematical Sciences, Universidad EAFIT, Medellín 050001, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I862322245"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Delft Institute of Applied Mathematics, Delft University of Technology, 2625 Delft, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I98358874"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5071186925",
+                        "display_name": "Olga Lucía Quintero Montoya",
+                        "orcid": "https://orcid.org/0000-0002-8697-4361"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I862322245",
+                            "display_name": "Universidad EAFIT",
+                            "ror": "https://ror.org/03y3y9v44",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I862322245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Olga Quintero-Montoya",
+                    "raw_affiliation_strings": [
+                        "Mathematical Modelling Research Group, Department of Mathematical Sciences, Universidad EAFIT, Medellín 050001, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Mathematical Modelling Research Group, Department of Mathematical Sciences, Universidad EAFIT, Medellín 050001, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I862322245"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5037739760"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I142879360"
+            ],
+            "apc_list": {
+                "value": 2400,
+                "currency": "CHF",
+                "value_usd": 2598,
+                "provenance": "doaj"
+            },
+            "apc_paid": {
+                "value": 2400,
+                "currency": "CHF",
+                "value_usd": 2598,
+                "provenance": "doaj"
+            },
+            "fwci": 0.399,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 4,
+            "citation_normalized_percentile": {
+                "value": 0.390592,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 77,
+                "max": 80
+            },
+            "biblio": {
+                "volume": "20",
+                "issue": "3",
+                "first_page": "877",
+                "last_page": "877"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10466",
+                "display_name": "Numerical Weather Prediction Models",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1902",
+                    "display_name": "Atmospheric Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10029",
+                    "display_name": "Climate Change and Variability Research",
+                    "score": 0.9993,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11588",
+                    "display_name": "Global Methane Emissions and Impacts",
+                    "score": 0.9962,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/square-root",
+                    "display_name": "Square root",
+                    "score": 0.5717045
+                },
+                {
+                    "id": "https://openalex.org/keywords/ensemble-kalman-filter",
+                    "display_name": "Ensemble Kalman Filter",
+                    "score": 0.525066
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-assimilation",
+                    "display_name": "Data Assimilation",
+                    "score": 0.520601
+                },
+                {
+                    "id": "https://openalex.org/keywords/convective-parameterization",
+                    "display_name": "Convective Parameterization",
+                    "score": 0.51662
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C34727166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q515375",
+                    "display_name": "Cholesky decomposition",
+                    "level": 3,
+                    "score": 0.91028595
+                },
+                {
+                    "id": "https://openalex.org/C24552861",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670177",
+                    "display_name": "Data assimilation",
+                    "level": 2,
+                    "score": 0.69003856
+                },
+                {
+                    "id": "https://openalex.org/C11577676",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134237",
+                    "display_name": "Square root",
+                    "level": 2,
+                    "score": 0.5717045
+                },
+                {
+                    "id": "https://openalex.org/C178650346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q201984",
+                    "display_name": "Covariance",
+                    "level": 2,
+                    "score": 0.56987226
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.56699306
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.54912806
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.48557824
+                },
+                {
+                    "id": "https://openalex.org/C106131492",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072260",
+                    "display_name": "Filter (signal processing)",
+                    "level": 2,
+                    "score": 0.47368315
+                },
+                {
+                    "id": "https://openalex.org/C185142706",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1134404",
+                    "display_name": "Covariance matrix",
+                    "level": 2,
+                    "score": 0.441578
+                },
+                {
+                    "id": "https://openalex.org/C163716315",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901177",
+                    "display_name": "Gaussian",
+                    "level": 2,
+                    "score": 0.4400286
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.41628116
+                },
+                {
+                    "id": "https://openalex.org/C139945424",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1940696",
+                    "display_name": "Mean squared error",
+                    "level": 2,
+                    "score": 0.4145912
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.3761047
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.3336224
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.28257984
+                },
+                {
+                    "id": "https://openalex.org/C158693339",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190524",
+                    "display_name": "Eigenvalues and eigenvectors",
+                    "level": 2,
+                    "score": 0.17963004
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.08849716
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 7,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.3390/s20030877",
+                    "pdf_url": "https://www.mdpi.com/1424-8220/20/3/877/pdf?version=1581493640",
+                    "source": {
+                        "id": "https://openalex.org/S101949793",
+                        "display_name": "Sensors",
+                        "issn_l": "1424-8220",
+                        "issn": [
+                            "1424-8220"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": true,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310310987",
+                        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310310987"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Multidisciplinary Digital Publishing Institute"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doaj.org/article/34e40415913a430c977f8a1c9a10c9f8",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306401280",
+                        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://europepmc.org/articles/pmc7038685",
+                    "pdf_url": "https://europepmc.org/articles/pmc7038685?pdf=render",
+                    "source": {
+                        "id": "https://openalex.org/S4306400806",
+                        "display_name": "Europe PMC (PubMed Central)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1303153112",
+                        "host_organization_name": "European Bioinformatics Institute",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1303153112"
+                        ],
+                        "host_organization_lineage_names": [
+                            "European Bioinformatics Institute"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://hdl.handle.net/10784/27816",
+                    "pdf_url": "http://repository.eafit.edu.co/bitstream/10784/27816/1/sensors_20_00877_pdf.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306400073",
+                        "display_name": "El Repositorio Institucional de la Universidad EAFIT (Universidad EAFIT)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I862322245",
+                        "host_organization_name": "Universidad EAFIT",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I862322245"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Universidad EAFIT"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://resolver.tudelft.nl/uuid:6ca15a17-cd94-4ff9-b38e-eb6ae0d94c13",
+                    "pdf_url": "https://repository.tudelft.nl/islandora/object/uuid%3A6ca15a17-cd94-4ff9-b38e-eb6ae0d94c13/datastream/OBJ/download",
+                    "source": {
+                        "id": "https://openalex.org/S4306400906",
+                        "display_name": "Research Repository (Delft University of Technology)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I98358874",
+                        "host_organization_name": "Delft University of Technology",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I98358874"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Delft University of Technology"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7038685",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S2764455111",
+                        "display_name": "PubMed Central",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1299303238",
+                        "host_organization_name": "National Institutes of Health",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1299303238"
+                        ],
+                        "host_organization_lineage_names": [
+                            "National Institutes of Health"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32041372",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306525036",
+                        "display_name": "PubMed",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1299303238",
+                        "host_organization_name": "National Institutes of Health",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1299303238"
+                        ],
+                        "host_organization_lineage_names": [
+                            "National Institutes of Health"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.3390/s20030877",
+                "pdf_url": "https://www.mdpi.com/1424-8220/20/3/877/pdf?version=1581493640",
+                "source": {
+                    "id": "https://openalex.org/S101949793",
+                    "display_name": "Sensors",
+                    "issn_l": "1424-8220",
+                    "issn": [
+                        "1424-8220"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310310987",
+                    "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310310987"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Multidisciplinary Digital Publishing Institute"
+                    ],
+                    "type": "journal"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320322487",
+                    "funder_display_name": "Universidad del Norte",
+                    "award_id": "UN-2018-38"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 59,
+            "referenced_works": [
+                "https://openalex.org/W147998453",
+                "https://openalex.org/W1911121702",
+                "https://openalex.org/W1934232387",
+                "https://openalex.org/W1963692058",
+                "https://openalex.org/W1973685826",
+                "https://openalex.org/W1979338603",
+                "https://openalex.org/W1984310153",
+                "https://openalex.org/W1987107073",
+                "https://openalex.org/W1999024797",
+                "https://openalex.org/W2001759562",
+                "https://openalex.org/W2005136695",
+                "https://openalex.org/W2006544565",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W2012231377",
+                "https://openalex.org/W2020012304",
+                "https://openalex.org/W2022090011",
+                "https://openalex.org/W2022685475",
+                "https://openalex.org/W2043430160",
+                "https://openalex.org/W2045201279",
+                "https://openalex.org/W2046894403",
+                "https://openalex.org/W2051669046",
+                "https://openalex.org/W2052320843",
+                "https://openalex.org/W2053144309",
+                "https://openalex.org/W2061738100",
+                "https://openalex.org/W2064245268",
+                "https://openalex.org/W2068943497",
+                "https://openalex.org/W2075184363",
+                "https://openalex.org/W2078231097",
+                "https://openalex.org/W2081842231",
+                "https://openalex.org/W2091549324",
+                "https://openalex.org/W2104647893",
+                "https://openalex.org/W2126202478",
+                "https://openalex.org/W2134255235",
+                "https://openalex.org/W2146051689",
+                "https://openalex.org/W2146803308",
+                "https://openalex.org/W2152242052",
+                "https://openalex.org/W2157098139",
+                "https://openalex.org/W2160444846",
+                "https://openalex.org/W2171303908",
+                "https://openalex.org/W2176150232",
+                "https://openalex.org/W2293806930",
+                "https://openalex.org/W2398500126",
+                "https://openalex.org/W2487914706",
+                "https://openalex.org/W2710596724",
+                "https://openalex.org/W2737320860",
+                "https://openalex.org/W2767273025",
+                "https://openalex.org/W2768858086",
+                "https://openalex.org/W2789558982",
+                "https://openalex.org/W2962699938",
+                "https://openalex.org/W2962741268",
+                "https://openalex.org/W2988265617",
+                "https://openalex.org/W2993651713",
+                "https://openalex.org/W3004630996",
+                "https://openalex.org/W3101788651",
+                "https://openalex.org/W3139104220",
+                "https://openalex.org/W333990585",
+                "https://openalex.org/W4206528142",
+                "https://openalex.org/W4293775970",
+                "https://openalex.org/W89654658"
+            ],
+            "related_works": [
+                "https://openalex.org/W4327750154",
+                "https://openalex.org/W4229878495",
+                "https://openalex.org/W3172690770",
+                "https://openalex.org/W3149332717",
+                "https://openalex.org/W3123211304",
+                "https://openalex.org/W2890621699",
+                "https://openalex.org/W2768858086",
+                "https://openalex.org/W2170838091",
+                "https://openalex.org/W2064064686",
+                "https://openalex.org/W1489099099"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0,
+                    45
+                ],
+                "paper": [
+                    1
+                ],
+                "proposes": [
+                    2
+                ],
+                "an": [
+                    3,
+                    26,
+                    80
+                ],
+                "efficient": [
+                    4
+                ],
+                "and": [
+                    5,
+                    33,
+                    86,
+                    130
+                ],
+                "practical": [
+                    6
+                ],
+                "implementation": [
+                    7
+                ],
+                "of": [
+                    8,
+                    28,
+                    37,
+                    72,
+                    109,
+                    123
+                ],
+                "the": [
+                    9,
+                    38,
+                    70,
+                    73,
+                    96,
+                    124
+                ],
+                "Maximum": [
+                    10
+                ],
+                "Likelihood": [
+                    11
+                ],
+                "Ensemble": [
+                    12
+                ],
+                "Filter": [
+                    13
+                ],
+                "via": [
+                    14,
+                    25,
+                    63
+                ],
+                "a": [
+                    15,
+                    31,
+                    50,
+                    87
+                ],
+                "Modified": [
+                    16
+                ],
+                "Cholesky": [
+                    17
+                ],
+                "decomposition": [
+                    18
+                ],
+                "(MLEF-MC).": [
+                    19
+                ],
+                "The": [
+                    20,
+                    92
+                ],
+                "method": [
+                    21,
+                    98
+                ],
+                "works": [
+                    22
+                ],
+                "as": [
+                    23,
+                    49
+                ],
+                "follows:": [
+                    24
+                ],
+                "ensemble": [
+                    27,
+                    128
+                ],
+                "model": [
+                    29
+                ],
+                "realizations,": [
+                    30
+                ],
+                "well-conditioned": [
+                    32
+                ],
+                "full-rank": [
+                    34
+                ],
+                "square-root": [
+                    35,
+                    46
+                ],
+                "approximation": [
+                    36,
+                    47
+                ],
+                "background": [
+                    39
+                ],
+                "error": [
+                    40,
+                    102,
+                    113
+                ],
+                "covariance": [
+                    41
+                ],
+                "matrix": [
+                    42
+                ],
+                "is": [
+                    43
+                ],
+                "obtained.": [
+                    44
+                ],
+                "serves": [
+                    48
+                ],
+                "control": [
+                    51
+                ],
+                "space": [
+                    52
+                ],
+                "onto": [
+                    53
+                ],
+                "which": [
+                    54
+                ],
+                "analysis": [
+                    55,
+                    117
+                ],
+                "increments": [
+                    56
+                ],
+                "can": [
+                    57,
+                    99
+                ],
+                "be": [
+                    58
+                ],
+                "computed.": [
+                    59
+                ],
+                "These": [
+                    60
+                ],
+                "are": [
+                    61,
+                    119
+                ],
+                "calculated": [
+                    62
+                ],
+                "Line-Search": [
+                    64
+                ],
+                "(LS)": [
+                    65
+                ],
+                "optimization.": [
+                    66
+                ],
+                "We": [
+                    67
+                ],
+                "theoretically": [
+                    68
+                ],
+                "prove": [
+                    69
+                ],
+                "convergence": [
+                    71
+                ],
+                "MLEF-MC.": [
+                    74
+                ],
+                "Experimental": [
+                    75
+                ],
+                "simulations": [
+                    76
+                ],
+                "were": [
+                    77
+                ],
+                "performed": [
+                    78
+                ],
+                "using": [
+                    79
+                ],
+                "Atmospheric": [
+                    81
+                ],
+                "General": [
+                    82
+                ],
+                "Circulation": [
+                    83
+                ],
+                "Model": [
+                    84
+                ],
+                "(AT-GCM)": [
+                    85
+                ],
+                "highly": [
+                    88
+                ],
+                "nonlinear": [
+                    89
+                ],
+                "observation": [
+                    90
+                ],
+                "operator.": [
+                    91
+                ],
+                "results": [
+                    93
+                ],
+                "reveal": [
+                    94
+                ],
+                "that": [
+                    95
+                ],
+                "proposed": [
+                    97
+                ],
+                "obtain": [
+                    100
+                ],
+                "posterior": [
+                    101
+                ],
+                "estimates": [
+                    103,
+                    118
+                ],
+                "within": [
+                    104
+                ],
+                "reasonable": [
+                    105
+                ],
+                "accuracies": [
+                    106
+                ],
+                "in": [
+                    107
+                ],
+                "terms": [
+                    108
+                ],
+                "ℓ": [
+                    110
+                ],
+                "−": [
+                    111
+                ],
+                "2": [
+                    112
+                ],
+                "norms.": [
+                    114
+                ],
+                "Furthermore,": [
+                    115
+                ],
+                "our": [
+                    116
+                ],
+                "similar": [
+                    120
+                ],
+                "to": [
+                    121
+                ],
+                "those": [
+                    122
+                ],
+                "MLEF": [
+                    125
+                ],
+                "with": [
+                    126
+                ],
+                "large": [
+                    127
+                ],
+                "sizes": [
+                    129
+                ],
+                "full": [
+                    131
+                ],
+                "observational": [
+                    132
+                ],
+                "networks.": [
+                    133
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3004803494",
+            "counts_by_year": [
+                {
+                    "year": 2021,
+                    "cited_by_count": 4
+                }
+            ],
+            "updated_date": "2024-09-25T02:16:48.236104",
+            "created_date": "2020-02-14"
+        },
+        {
+            "id": "https://openalex.org/W2621796162",
+            "doi": "https://doi.org/10.1016/j.procs.2017.05.200",
+            "title": "A Surrogate Model Based On Mixtures Of Taylor Expansions For Trust Region Based Methods",
+            "display_name": "A Surrogate Model Based On Mixtures Of Taylor Expansions For Trust Region Based Methods",
+            "publication_year": 2017,
+            "publication_date": "2017-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2621796162",
+                "doi": "https://doi.org/10.1016/j.procs.2017.05.200",
+                "mag": "2621796162"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.200",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2017.05.200",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5037739760",
+                        "display_name": "Elías D. Niño-Ruiz",
+                        "orcid": "https://orcid.org/0000-0001-7784-8163"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Elias D. Nino-Ruiz",
+                    "raw_affiliation_strings": [
+                        "Universidad del Norte, Barranquilla, Atlantico, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, Atlantico, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5015058325",
+                        "display_name": "Carlos Ardila",
+                        "orcid": "https://orcid.org/0000-0002-5623-2877"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Carlos J. Ardila",
+                    "raw_affiliation_strings": [
+                        "Universidad del Norte, Barranquilla, Atlantico, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, Atlantico, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074766317",
+                        "display_name": "Alfonso Mancilla",
+                        "orcid": "https://orcid.org/0000-0002-8076-8938"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Alfonso Mancilla",
+                    "raw_affiliation_strings": [
+                        "Universidad del Norte, Barranquilla, Atlantico, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, Atlantico, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102440729",
+                        "display_name": "Jesús Estrada",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jesus Estrada",
+                    "raw_affiliation_strings": [
+                        "Universidad del Norte, Barranquilla, Atlantico, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidad del Norte, Barranquilla, Atlantico, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5037739760",
+                "https://openalex.org/A5015058325",
+                "https://openalex.org/A5074766317",
+                "https://openalex.org/A5102440729"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I142879360",
+                "https://openalex.org/I142879360",
+                "https://openalex.org/I142879360",
+                "https://openalex.org/I142879360"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.221,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.542954,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 64,
+                "max": 71
+            },
+            "biblio": {
+                "volume": "108",
+                "issue": null,
+                "first_page": "1473",
+                "last_page": "1482"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10320",
+                "display_name": "Neural Network Fundamentals and Applications",
+                "score": 0.9871,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10320",
+                    "display_name": "Neural Network Fundamentals and Applications",
+                    "score": 0.9871,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12814",
+                    "display_name": "Gaussian Processes in Machine Learning",
+                    "score": 0.9593,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9329,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/surrogate-model",
+                    "display_name": "Surrogate model",
+                    "score": 0.5831969
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-reduction",
+                    "display_name": "Model Reduction",
+                    "score": 0.544187
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8723411
+                },
+                {
+                    "id": "https://openalex.org/C158946198",
+                    "wikidata": "https://www.wikidata.org/wiki/Q131187",
+                    "display_name": "Taylor series",
+                    "level": 2,
+                    "score": 0.5908509
+                },
+                {
+                    "id": "https://openalex.org/C131675550",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7646884",
+                    "display_name": "Surrogate model",
+                    "level": 2,
+                    "score": 0.5831969
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.3725821
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.27378902
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.077147454
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.200",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2017.05.200",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 11,
+            "referenced_works": [
+                "https://openalex.org/W181733065",
+                "https://openalex.org/W1998467479",
+                "https://openalex.org/W2065067559",
+                "https://openalex.org/W2065126453",
+                "https://openalex.org/W2071467620",
+                "https://openalex.org/W2083732247",
+                "https://openalex.org/W2103301566",
+                "https://openalex.org/W2156122378",
+                "https://openalex.org/W2160960847",
+                "https://openalex.org/W2177451271",
+                "https://openalex.org/W4244864830"
+            ],
+            "related_works": [
+                "https://openalex.org/W4391913857",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2621796162",
+                "https://openalex.org/W2621058457",
+                "https://openalex.org/W2478288626",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "this": [
+                    1,
+                    26
+                ],
+                "paper,": [
+                    2
+                ],
+                "we": [
+                    3
+                ],
+                "propose": [
+                    4
+                ],
+                "the": [
+                    5,
+                    31,
+                    45,
+                    50,
+                    72,
+                    83,
+                    121,
+                    124,
+                    134,
+                    152,
+                    161,
+                    164,
+                    174
+                ],
+                "use": [
+                    6,
+                    132,
+                    153,
+                    171
+                ],
+                "of": [
+                    7,
+                    14,
+                    25,
+                    47,
+                    53,
+                    82,
+                    106,
+                    123,
+                    133,
+                    154,
+                    163,
+                    176
+                ],
+                "a": [
+                    8,
+                    79,
+                    90,
+                    103
+                ],
+                "surrogate": [
+                    9,
+                    35,
+                    80,
+                    108,
+                    157
+                ],
+                "model": [
+                    10,
+                    27,
+                    63,
+                    81,
+                    158
+                ],
+                "based": [
+                    11,
+                    37,
+                    56
+                ],
+                "on": [
+                    12,
+                    38
+                ],
+                "mixtures": [
+                    13
+                ],
+                "liner": [
+                    15
+                ],
+                "Taylor": [
+                    16,
+                    41,
+                    92
+                ],
+                "polynomials": [
+                    17
+                ],
+                "for": [
+                    18
+                ],
+                "Trust": [
+                    19,
+                    54,
+                    111
+                ],
+                "Region": [
+                    20,
+                    55,
+                    112
+                ],
+                "methods.": [
+                    21
+                ],
+                "The": [
+                    22,
+                    61,
+                    110,
+                    148
+                ],
+                "main": [
+                    23
+                ],
+                "objective": [
+                    24
+                ],
+                "is": [
+                    28,
+                    64,
+                    86,
+                    114
+                ],
+                "to": [
+                    29,
+                    119,
+                    181
+                ],
+                "reduce": [
+                    30
+                ],
+                "myopia": [
+                    32
+                ],
+                "presented": [
+                    33
+                ],
+                "in": [
+                    34,
+                    117,
+                    179
+                ],
+                "models": [
+                    36
+                ],
+                "single": [
+                    39
+                ],
+                "low-order": [
+                    40
+                ],
+                "expansions": [
+                    42
+                ],
+                "by": [
+                    43,
+                    88
+                ],
+                "which,": [
+                    44
+                ],
+                "number": [
+                    46,
+                    175
+                ],
+                "iterations": [
+                    48,
+                    177
+                ],
+                "during": [
+                    49
+                ],
+                "optimization": [
+                    51,
+                    137
+                ],
+                "process": [
+                    52
+                ],
+                "methods": [
+                    57
+                ],
+                "can": [
+                    58,
+                    98,
+                    159,
+                    172
+                ],
+                "be": [
+                    59,
+                    99
+                ],
+                "increased.": [
+                    60
+                ],
+                "proposed": [
+                    62,
+                    125,
+                    156
+                ],
+                "built": [
+                    65,
+                    87
+                ],
+                "as": [
+                    66
+                ],
+                "follows:": [
+                    67
+                ],
+                "points": [
+                    68
+                ],
+                "are": [
+                    69,
+                    129
+                ],
+                "sampled": [
+                    70,
+                    77
+                ],
+                "from": [
+                    71,
+                    139
+                ],
+                "search": [
+                    73
+                ],
+                "space,": [
+                    74
+                ],
+                "at": [
+                    75
+                ],
+                "each": [
+                    76
+                ],
+                "point": [
+                    78
+                ],
+                "cost": [
+                    84,
+                    96
+                ],
+                "function": [
+                    85
+                ],
+                "using": [
+                    89
+                ],
+                "linear": [
+                    91
+                ],
+                "polynomial": [
+                    93
+                ],
+                "and": [
+                    94,
+                    167
+                ],
+                "then,": [
+                    95
+                ],
+                "functions": [
+                    97
+                ],
+                "locally": [
+                    100
+                ],
+                "approximated": [
+                    101
+                ],
+                "via": [
+                    102
+                ],
+                "convex": [
+                    104
+                ],
+                "combination": [
+                    105
+                ],
+                "such": [
+                    107
+                ],
+                "models.": [
+                    109
+                ],
+                "framework": [
+                    113
+                ],
+                "then": [
+                    115
+                ],
+                "utilized": [
+                    116
+                ],
+                "order": [
+                    118,
+                    180
+                ],
+                "validate": [
+                    120
+                ],
+                "quality": [
+                    122,
+                    162
+                ],
+                "model.": [
+                    126,
+                    147
+                ],
+                "Experimental": [
+                    127
+                ],
+                "tests": [
+                    128
+                ],
+                "performed": [
+                    130
+                ],
+                "making": [
+                    131
+                ],
+                "three-dimensional": [
+                    135
+                ],
+                "variational": [
+                    136
+                ],
+                "problem": [
+                    138
+                ],
+                "data": [
+                    140
+                ],
+                "assimilation": [
+                    141
+                ],
+                "with": [
+                    142
+                ],
+                "an": [
+                    143
+                ],
+                "atmospheric": [
+                    144
+                ],
+                "general": [
+                    145
+                ],
+                "circulation": [
+                    146
+                ],
+                "results": [
+                    149
+                ],
+                "reveal": [
+                    150
+                ],
+                "that,": [
+                    151
+                ],
+                "our": [
+                    155
+                ],
+                "improve": [
+                    160
+                ],
+                "local": [
+                    165
+                ],
+                "approximations": [
+                    166
+                ],
+                "even": [
+                    168
+                ],
+                "more,": [
+                    169
+                ],
+                "their": [
+                    170
+                ],
+                "decrease": [
+                    173
+                ],
+                "needed": [
+                    178
+                ],
+                "obtain": [
+                    182
+                ],
+                "accurate": [
+                    183
+                ],
+                "solutions.": [
+                    184
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2621796162",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-26T07:52:38.491355",
+            "created_date": "2017-06-15"
+        },
+        {
+            "id": "https://openalex.org/W2049146506",
+            "doi": "https://doi.org/10.1109/isiea.2013.6738990",
+            "title": "Assessment of virtual spaces learning processes using state machines",
+            "display_name": "Assessment of virtual spaces learning processes using state machines",
+            "publication_year": 2013,
+            "publication_date": "2013-09-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2049146506",
+                "doi": "https://doi.org/10.1109/isiea.2013.6738990",
+                "mag": "2049146506"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/isiea.2013.6738990",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5078948898",
+                        "display_name": "José Capacho",
+                        "orcid": "https://orcid.org/0000-0002-9529-1327"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jose Capacho",
+                    "raw_affiliation_strings": [
+                        "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074766317",
+                        "display_name": "Alfonso Mancilla",
+                        "orcid": "https://orcid.org/0000-0002-8076-8938"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alfonso Mancilla",
+                    "raw_affiliation_strings": [
+                        "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5037048332",
+                        "display_name": "Eduardo Zurek",
+                        "orcid": "https://orcid.org/0000-0002-9816-6863"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eduardo E. Zurek",
+                    "raw_affiliation_strings": [
+                        "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5101817480",
+                        "display_name": "Augusto Salazar",
+                        "orcid": "https://orcid.org/0000-0002-1063-7561"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Augusto Salazar",
+                    "raw_affiliation_strings": [
+                        "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems Engineering, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10320",
+                "display_name": "Neural Network Fundamentals and Applications",
+                "score": 0.9899,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10320",
+                    "display_name": "Neural Network Fundamentals and Applications",
+                    "score": 0.9899,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11283",
+                    "display_name": "Remote Laboratories in Engineering Education",
+                    "score": 0.9732,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2214",
+                        "display_name": "Media Technology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13612",
+                    "display_name": "Interdisciplinary Research across Science and Technology",
+                    "score": 0.9683,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/deterministic-finite-automaton",
+                    "display_name": "Deterministic finite automaton",
+                    "score": 0.6963968
+                },
+                {
+                    "id": "https://openalex.org/keywords/learning-automata",
+                    "display_name": "Learning automata",
+                    "score": 0.582498
+                },
+                {
+                    "id": "https://openalex.org/keywords/virtual-labs",
+                    "display_name": "Virtual Labs",
+                    "score": 0.515753
+                },
+                {
+                    "id": "https://openalex.org/keywords/distance-learning",
+                    "display_name": "Distance Learning",
+                    "score": 0.511144
+                },
+                {
+                    "id": "https://openalex.org/keywords/simulation-based-learning",
+                    "display_name": "Simulation-based Learning",
+                    "score": 0.510731
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7795704
+                },
+                {
+                    "id": "https://openalex.org/C104091681",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837528",
+                    "display_name": "Deterministic finite automaton",
+                    "level": 3,
+                    "score": 0.6963968
+                },
+                {
+                    "id": "https://openalex.org/C167822520",
+                    "wikidata": "https://www.wikidata.org/wiki/Q176452",
+                    "display_name": "Finite-state machine",
+                    "level": 2,
+                    "score": 0.6014811
+                },
+                {
+                    "id": "https://openalex.org/C2776807809",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6510160",
+                    "display_name": "Learning automata",
+                    "level": 3,
+                    "score": 0.582498
+                },
+                {
+                    "id": "https://openalex.org/C2778308757",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23601418",
+                    "display_name": "Blackboard (design pattern)",
+                    "level": 2,
+                    "score": 0.535027
+                },
+                {
+                    "id": "https://openalex.org/C112505250",
+                    "wikidata": "https://www.wikidata.org/wiki/Q787116",
+                    "display_name": "Automaton",
+                    "level": 2,
+                    "score": 0.51949704
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.4332608
+                },
+                {
+                    "id": "https://openalex.org/C48103436",
+                    "wikidata": "https://www.wikidata.org/wiki/Q599031",
+                    "display_name": "State (computer science)",
+                    "level": 2,
+                    "score": 0.42198163
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.4202229
+                },
+                {
+                    "id": "https://openalex.org/C25344961",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192726",
+                    "display_name": "Virtual machine",
+                    "level": 2,
+                    "score": 0.4132526
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.38643306
+                },
+                {
+                    "id": "https://openalex.org/C49774154",
+                    "wikidata": "https://www.wikidata.org/wiki/Q131765",
+                    "display_name": "Multimedia",
+                    "level": 1,
+                    "score": 0.35724118
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.16381907
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.1536533
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/isiea.2013.6738990",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4",
+                    "score": 0.62
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 33,
+            "referenced_works": [
+                "https://openalex.org/W1503725504",
+                "https://openalex.org/W1597183250",
+                "https://openalex.org/W1817451992",
+                "https://openalex.org/W1822820526",
+                "https://openalex.org/W186192643",
+                "https://openalex.org/W1966331897",
+                "https://openalex.org/W1977409122",
+                "https://openalex.org/W2012465214",
+                "https://openalex.org/W2023369033",
+                "https://openalex.org/W205532143",
+                "https://openalex.org/W2060422862",
+                "https://openalex.org/W2062577519",
+                "https://openalex.org/W206629052",
+                "https://openalex.org/W2070526812",
+                "https://openalex.org/W2071620135",
+                "https://openalex.org/W2074540577",
+                "https://openalex.org/W2074720495",
+                "https://openalex.org/W2076832852",
+                "https://openalex.org/W2077886347",
+                "https://openalex.org/W2092337345",
+                "https://openalex.org/W2103091203",
+                "https://openalex.org/W2106581810",
+                "https://openalex.org/W2128703339",
+                "https://openalex.org/W2138731355",
+                "https://openalex.org/W2146100924",
+                "https://openalex.org/W2146854631",
+                "https://openalex.org/W2150547832",
+                "https://openalex.org/W2152789709",
+                "https://openalex.org/W2153479983",
+                "https://openalex.org/W2155731344",
+                "https://openalex.org/W2167354040",
+                "https://openalex.org/W2170642866",
+                "https://openalex.org/W44192352"
+            ],
+            "related_works": [
+                "https://openalex.org/W4281261571",
+                "https://openalex.org/W4252918107",
+                "https://openalex.org/W3087272834",
+                "https://openalex.org/W3012311918",
+                "https://openalex.org/W2384360959",
+                "https://openalex.org/W2355522437",
+                "https://openalex.org/W2280116234",
+                "https://openalex.org/W2111868903",
+                "https://openalex.org/W2100711766",
+                "https://openalex.org/W1428391281"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "an": [
+                    3
+                ],
+                "innovative": [
+                    4
+                ],
+                "methodology": [
+                    5,
+                    19,
+                    62
+                ],
+                "to": [
+                    6,
+                    52
+                ],
+                "assess": [
+                    7
+                ],
+                "student": [
+                    8
+                ],
+                "learning": [
+                    9,
+                    55,
+                    86
+                ],
+                "in": [
+                    10,
+                    82
+                ],
+                "virtual": [
+                    11,
+                    67
+                ],
+                "spaces": [
+                    12
+                ],
+                "using": [
+                    13
+                ],
+                "Deterministic": [
+                    14
+                ],
+                "Finite": [
+                    15
+                ],
+                "Automata": [
+                    16
+                ],
+                "(DFA).": [
+                    17
+                ],
+                "The": [
+                    18,
+                    33,
+                    45,
+                    60,
+                    73
+                ],
+                "is": [
+                    20,
+                    35,
+                    78
+                ],
+                "supported": [
+                    21
+                ],
+                "on": [
+                    22,
+                    37,
+                    69
+                ],
+                "a": [
+                    23,
+                    66,
+                    79
+                ],
+                "model": [
+                    24
+                ],
+                "that": [
+                    25,
+                    76
+                ],
+                "integrates": [
+                    26
+                ],
+                "the": [
+                    27,
+                    30,
+                    50,
+                    58,
+                    88
+                ],
+                "DFA": [
+                    28,
+                    34
+                ],
+                "into": [
+                    29
+                ],
+                "Blackboard": [
+                    31
+                ],
+                "platform.": [
+                    32
+                ],
+                "based": [
+                    36
+                ],
+                "Adaptive": [
+                    38
+                ],
+                "Systems": [
+                    39
+                ],
+                "(AS)": [
+                    40
+                ],
+                "and": [
+                    41,
+                    47,
+                    71
+                ],
+                "Learning": [
+                    42
+                ],
+                "Objects": [
+                    43
+                ],
+                "(LO).": [
+                    44
+                ],
+                "AS": [
+                    46
+                ],
+                "LO": [
+                    48
+                ],
+                "allow": [
+                    49
+                ],
+                "students": [
+                    51,
+                    85
+                ],
+                "adjust": [
+                    53
+                ],
+                "their": [
+                    54
+                ],
+                "rate": [
+                    56
+                ],
+                "through": [
+                    57,
+                    87
+                ],
+                "DFA.": [
+                    59,
+                    89
+                ],
+                "proposed": [
+                    61
+                ],
+                "was": [
+                    63
+                ],
+                "implemented": [
+                    64
+                ],
+                "for": [
+                    65,
+                    84
+                ],
+                "course": [
+                    68
+                ],
+                "“Algorithms": [
+                    70
+                ],
+                "Complexity”.": [
+                    72
+                ],
+                "implementation": [
+                    74
+                ],
+                "showed": [
+                    75
+                ],
+                "there": [
+                    77
+                ],
+                "significant": [
+                    80
+                ],
+                "improvement": [
+                    81
+                ],
+                "performance": [
+                    83
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2049146506",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T15:05:18.892883",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2809680173",
+            "doi": "https://doi.org/10.1109/icccc.2018.8390433",
+            "title": "Non-Gaussian data assimilation via modified cholesky decomposition",
+            "display_name": "Non-Gaussian data assimilation via modified cholesky decomposition",
+            "publication_year": 2018,
+            "publication_date": "2018-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2809680173",
+                "doi": "https://doi.org/10.1109/icccc.2018.8390433",
+                "mag": "2809680173"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/icccc.2018.8390433",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5037739760",
+                        "display_name": "Elías D. Niño-Ruiz",
+                        "orcid": "https://orcid.org/0000-0001-7784-8163"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Elias D. Nino-Ruiz",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074766317",
+                        "display_name": "Alfonso Mancilla",
+                        "orcid": "https://orcid.org/0000-0002-8076-8938"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alfonso M. Mancilla-Herrera",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5021389849",
+                        "display_name": "Rolando Beltran-Arrieta",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I142879360",
+                            "display_name": "Universidad del Norte",
+                            "ror": "https://ror.org/031e6xm45",
+                            "country_code": "CO",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CO"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Rolando Beltran-Arrieta",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, Universidad del Norte, Barranquilla, Colombia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, Universidad del Norte, Barranquilla, Colombia",
+                            "institution_ids": [
+                                "https://openalex.org/I142879360"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 63
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10466",
+                "display_name": "Numerical Weather Prediction Models",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1902",
+                    "display_name": "Atmospheric Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10029",
+                    "display_name": "Climate Change and Variability Research",
+                    "score": 0.9915,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11588",
+                    "display_name": "Global Methane Emissions and Impacts",
+                    "score": 0.9809,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/ensemble-kalman-filter",
+                    "display_name": "Ensemble Kalman Filter",
+                    "score": 0.561042
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-assimilation",
+                    "display_name": "Data Assimilation",
+                    "score": 0.546978
+                },
+                {
+                    "id": "https://openalex.org/keywords/convective-parameterization",
+                    "display_name": "Convective Parameterization",
+                    "score": 0.51992
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C34727166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q515375",
+                    "display_name": "Cholesky decomposition",
+                    "level": 3,
+                    "score": 0.9515069
+                },
+                {
+                    "id": "https://openalex.org/C111350023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1191869",
+                    "display_name": "Markov chain Monte Carlo",
+                    "level": 3,
+                    "score": 0.74545646
+                },
+                {
+                    "id": "https://openalex.org/C79334102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3072268",
+                    "display_name": "Ensemble Kalman filter",
+                    "level": 4,
+                    "score": 0.5940746
+                },
+                {
+                    "id": "https://openalex.org/C24552861",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670177",
+                    "display_name": "Data assimilation",
+                    "level": 2,
+                    "score": 0.59303397
+                },
+                {
+                    "id": "https://openalex.org/C178650346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q201984",
+                    "display_name": "Covariance",
+                    "level": 2,
+                    "score": 0.51860094
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.5048354
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.45396173
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.44376475
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.4417057
+                },
+                {
+                    "id": "https://openalex.org/C163716315",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901177",
+                    "display_name": "Gaussian",
+                    "level": 2,
+                    "score": 0.42530546
+                },
+                {
+                    "id": "https://openalex.org/C19499675",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232207",
+                    "display_name": "Monte Carlo method",
+                    "level": 2,
+                    "score": 0.40714282
+                },
+                {
+                    "id": "https://openalex.org/C157286648",
+                    "wikidata": "https://www.wikidata.org/wiki/Q846780",
+                    "display_name": "Kalman filter",
+                    "level": 2,
+                    "score": 0.40244165
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.31988925
+                },
+                {
+                    "id": "https://openalex.org/C206833254",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5421817",
+                    "display_name": "Extended Kalman filter",
+                    "level": 3,
+                    "score": 0.2778033
+                },
+                {
+                    "id": "https://openalex.org/C158693339",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190524",
+                    "display_name": "Eigenvalues and eigenvectors",
+                    "level": 2,
+                    "score": 0.15249139
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/icccc.2018.8390433",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 19,
+            "referenced_works": [
+                "https://openalex.org/W1524910574",
+                "https://openalex.org/W1911121702",
+                "https://openalex.org/W1980785126",
+                "https://openalex.org/W2009104157",
+                "https://openalex.org/W2046894403",
+                "https://openalex.org/W2052320843",
+                "https://openalex.org/W2061738100",
+                "https://openalex.org/W2078231097",
+                "https://openalex.org/W2104255289",
+                "https://openalex.org/W2126202478",
+                "https://openalex.org/W2127955663",
+                "https://openalex.org/W2146803308",
+                "https://openalex.org/W2147455485",
+                "https://openalex.org/W2293806930",
+                "https://openalex.org/W2486602667",
+                "https://openalex.org/W2621521991",
+                "https://openalex.org/W2737320860",
+                "https://openalex.org/W2962741268",
+                "https://openalex.org/W3101788651"
+            ],
+            "related_works": [
+                "https://openalex.org/W4212971657",
+                "https://openalex.org/W2991541038",
+                "https://openalex.org/W2737320860",
+                "https://openalex.org/W2613759229",
+                "https://openalex.org/W2393565244",
+                "https://openalex.org/W2377052976",
+                "https://openalex.org/W2363380593",
+                "https://openalex.org/W2089385108",
+                "https://openalex.org/W2074506313",
+                "https://openalex.org/W1949985943"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "proposes": [
+                    2
+                ],
+                "an": [
+                    3,
+                    29
+                ],
+                "ensemble": [
+                    4,
+                    15,
+                    30
+                ],
+                "Kalman": [
+                    5
+                ],
+                "filter": [
+                    6,
+                    130
+                ],
+                "implementation": [
+                    7,
+                    73
+                ],
+                "for": [
+                    8,
+                    137
+                ],
+                "non-linear": [
+                    9
+                ],
+                "data": [
+                    10
+                ],
+                "assimilation.": [
+                    11
+                ],
+                "As": [
+                    12
+                ],
+                "in": [
+                    13,
+                    45,
+                    150
+                ],
+                "any": [
+                    14
+                ],
+                "based": [
+                    16
+                ],
+                "method,": [
+                    17
+                ],
+                "the": [
+                    18,
+                    49,
+                    61,
+                    82,
+                    108,
+                    118,
+                    121,
+                    125,
+                    128
+                ],
+                "moments": [
+                    19
+                ],
+                "of": [
+                    20,
+                    28,
+                    31,
+                    51,
+                    78,
+                    81,
+                    94,
+                    120,
+                    127,
+                    148,
+                    156
+                ],
+                "background": [
+                    21,
+                    36
+                ],
+                "error": [
+                    22
+                ],
+                "distributions": [
+                    23
+                ],
+                "are": [
+                    24,
+                    57,
+                    64,
+                    87,
+                    103,
+                    143
+                ],
+                "approximated": [
+                    25
+                ],
+                "by": [
+                    26,
+                    76,
+                    90,
+                    106,
+                    153
+                ],
+                "means": [
+                    27,
+                    77
+                ],
+                "model": [
+                    32
+                ],
+                "realizations.": [
+                    33
+                ],
+                "The": [
+                    34,
+                    71,
+                    112
+                ],
+                "precision": [
+                    35
+                ],
+                "covariance": [
+                    37
+                ],
+                "is": [
+                    38,
+                    74,
+                    131
+                ],
+                "estimated": [
+                    39,
+                    65
+                ],
+                "via": [
+                    40,
+                    66
+                ],
+                "a": [
+                    41,
+                    67,
+                    92
+                ],
+                "modified": [
+                    42
+                ],
+                "Cholesky": [
+                    43,
+                    99
+                ],
+                "decomposition": [
+                    44
+                ],
+                "order": [
+                    46,
+                    155
+                ],
+                "to": [
+                    47
+                ],
+                "decrease": [
+                    48
+                ],
+                "impact": [
+                    50
+                ],
+                "sampling": [
+                    52
+                ],
+                "errors.": [
+                    53
+                ],
+                "Once": [
+                    54
+                ],
+                "all": [
+                    55
+                ],
+                "hyper-parameters": [
+                    56
+                ],
+                "estimated,": [
+                    58
+                ],
+                "samples": [
+                    59
+                ],
+                "from": [
+                    60
+                ],
+                "posterior": [
+                    62,
+                    141
+                ],
+                "distribution": [
+                    63
+                ],
+                "Markov-Chain-Monte-Carlo": [
+                    68
+                ],
+                "(MCMC)": [
+                    69
+                ],
+                "method.": [
+                    70
+                ],
+                "MCMC": [
+                    72
+                ],
+                "enhanced": [
+                    75
+                ],
+                "linear": [
+                    79
+                ],
+                "approximations": [
+                    80
+                ],
+                "observation": [
+                    83
+                ],
+                "operator.": [
+                    84
+                ],
+                "Posterior": [
+                    85
+                ],
+                "ensembles": [
+                    86
+                ],
+                "then": [
+                    88
+                ],
+                "built": [
+                    89
+                ],
+                "using": [
+                    91,
+                    107
+                ],
+                "series": [
+                    93
+                ],
+                "rank-one": [
+                    95
+                ],
+                "updates": [
+                    96
+                ],
+                "over": [
+                    97
+                ],
+                "prior": [
+                    98
+                ],
+                "factors.": [
+                    100
+                ],
+                "Experimental": [
+                    101
+                ],
+                "tests": [
+                    102
+                ],
+                "carried": [
+                    104
+                ],
+                "out": [
+                    105
+                ],
+                "Lorenz": [
+                    109
+                ],
+                "96": [
+                    110
+                ],
+                "model.": [
+                    111
+                ],
+                "numerical": [
+                    113
+                ],
+                "results": [
+                    114
+                ],
+                "evidence": [
+                    115
+                ],
+                "that,": [
+                    116
+                ],
+                "as": [
+                    117
+                ],
+                "degree": [
+                    119
+                ],
+                "observational": [
+                    122,
+                    139
+                ],
+                "operator": [
+                    123
+                ],
+                "increases,": [
+                    124
+                ],
+                "accuracy": [
+                    126
+                ],
+                "proposed": [
+                    129
+                ],
+                "not": [
+                    132
+                ],
+                "affected": [
+                    133
+                ],
+                "and": [
+                    134
+                ],
+                "even": [
+                    135
+                ],
+                "more,": [
+                    136
+                ],
+                "full": [
+                    138
+                ],
+                "networks,": [
+                    140
+                ],
+                "errors": [
+                    142
+                ],
+                "much": [
+                    144
+                ],
+                "lower": [
+                    145
+                ],
+                "than": [
+                    146
+                ],
+                "those": [
+                    147
+                ],
+                "backgrounds,": [
+                    149
+                ],
+                "some": [
+                    151
+                ],
+                "cases,": [
+                    152
+                ],
+                "several": [
+                    154
+                ],
+                "magnitudes.": [
+                    157
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2809680173",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T16:49:36.257826",
+            "created_date": "2018-06-29"
+        }
+    ],
+    "group_by": []
+}

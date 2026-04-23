@@ -1,0 +1,3296 @@
+{
+    "meta": {
+        "count": 4,
+        "db_response_time_ms": 85,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4399168086",
+            "doi": "https://doi.org/10.1109/msec.2024.3399330",
+            "title": "Developers: Beware of Timing Side-Channels",
+            "display_name": "Developers: Beware of Timing Side-Channels",
+            "publication_year": 2024,
+            "publication_date": "2024-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4399168086",
+                "doi": "https://doi.org/10.1109/msec.2024.3399330"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/msec.2024.3399330",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S61906035",
+                    "display_name": "IEEE Security & Privacy",
+                    "issn_l": "1540-7993",
+                    "issn": [
+                        "1540-7993",
+                        "1558-4046"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319808",
+                    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319808"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electrical and Electronics Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5033499506",
+                        "display_name": "Dominik Schneider",
+                        "orcid": "https://orcid.org/0000-0003-4921-0693"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I155417937",
+                            "display_name": "Hochschule Bonn-Rhein-Sieg",
+                            "ror": "https://ror.org/04m2anh63",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominik Schneider",
+                    "raw_affiliation_strings": [
+                        "H-BRS University of Applied Sciences, Sankt Augustin, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "H-BRS University of Applied Sciences, Sankt Augustin, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5092128643",
+                        "display_name": "Jannik Zeitschner",
+                        "orcid": "https://orcid.org/0000-0003-3682-1567"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I904495901",
+                            "display_name": "Ruhr University Bochum",
+                            "ror": "https://ror.org/04tsk2644",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I904495901"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jannik Zeitschner",
+                    "raw_affiliation_strings": [
+                        "Ruhr University Bochum, Bochum, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Ruhr University Bochum, Bochum, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I904495901"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5098943478",
+                        "display_name": "Michael Kloos",
+                        "orcid": "https://orcid.org/0009-0005-6811-3356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I155417937",
+                            "display_name": "Hochschule Bonn-Rhein-Sieg",
+                            "ror": "https://ror.org/04m2anh63",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michael Kloos",
+                    "raw_affiliation_strings": [
+                        "H-BRS University of Applied Sciences, Sankt Augustin, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "H-BRS University of Applied Sciences, Sankt Augustin, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045842179",
+                        "display_name": "Kerstin Lemke‐Rust",
+                        "orcid": "https://orcid.org/0009-0001-5791-3017"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I155417937",
+                            "display_name": "Hochschule Bonn-Rhein-Sieg",
+                            "ror": "https://ror.org/04m2anh63",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kerstin Lemke-Rust",
+                    "raw_affiliation_strings": [
+                        "H-BRS University of Applied Sciences, Sankt Augustin, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "H-BRS University of Applied Sciences, Sankt Augustin, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5037591969",
+                        "display_name": "Luigi Lo Iacono",
+                        "orcid": "https://orcid.org/0000-0002-7863-0622"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I155417937",
+                            "display_name": "Hochschule Bonn-Rhein-Sieg",
+                            "ror": "https://ror.org/04m2anh63",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "LuigiLo Iacono",
+                    "raw_affiliation_strings": [
+                        "H-BRS University of Applied Sciences, Sankt Augustin, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "H-BRS University of Applied Sciences, Sankt Augustin, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I155417937"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 85
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "2",
+                "last_page": "7"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10904",
+                "display_name": "Reconfigurable Computing Systems and Design Methods",
+                "score": 0.9875,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10904",
+                    "display_name": "Reconfigurable Computing Systems and Design Methods",
+                    "score": 0.9875,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9079,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10933",
+                    "display_name": "Real-Time Scheduling in Embedded Systems",
+                    "score": 0.9007,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/timing-analysis",
+                    "display_name": "Timing Analysis",
+                    "score": 0.60004
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.528584
+                },
+                {
+                    "id": "https://openalex.org/keywords/benchmarking",
+                    "display_name": "Benchmarking",
+                    "score": 0.518545
+                },
+                {
+                    "id": "https://openalex.org/keywords/multiprocessor-scheduling",
+                    "display_name": "Multiprocessor Scheduling",
+                    "score": 0.514986
+                },
+                {
+                    "id": "https://openalex.org/keywords/scheduling-algorithms",
+                    "display_name": "Scheduling Algorithms",
+                    "score": 0.514794
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C49289754",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2267081",
+                    "display_name": "Side channel attack",
+                    "level": 3,
+                    "score": 0.5795898
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.39412922
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.23051423
+                },
+                {
+                    "id": "https://openalex.org/C178489894",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8789",
+                    "display_name": "Cryptography",
+                    "level": 2,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/msec.2024.3399330",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S61906035",
+                        "display_name": "IEEE Security & Privacy",
+                        "issn_l": "1540-7993",
+                        "issn": [
+                            "1540-7993",
+                            "1558-4046"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319808",
+                        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319808"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electrical and Electronics Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4396701345",
+                "https://openalex.org/W4391375266",
+                "https://openalex.org/W4323824501",
+                "https://openalex.org/W4200321003",
+                "https://openalex.org/W3016859066",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2355552010",
+                "https://openalex.org/W2136687465"
+            ],
+            "abstract_inverted_index": {
+                "Resilience": [
+                    0
+                ],
+                "of": [
+                    1,
+                    22
+                ],
+                "digital": [
+                    2
+                ],
+                "systems": [
+                    3
+                ],
+                "to": [
+                    4,
+                    35
+                ],
+                "cyberattacks": [
+                    5
+                ],
+                "remains": [
+                    6
+                ],
+                "a": [
+                    7
+                ],
+                "major": [
+                    8
+                ],
+                "challenge": [
+                    9
+                ],
+                "and": [
+                    10,
+                    31
+                ],
+                "requires": [
+                    11
+                ],
+                "attention": [
+                    12
+                ],
+                "within": [
+                    13
+                ],
+                "protection": [
+                    14
+                ],
+                "technologies": [
+                    15
+                ],
+                "themselves.": [
+                    16
+                ],
+                "This": [
+                    17
+                ],
+                "article": [
+                    18
+                ],
+                "explores": [
+                    19
+                ],
+                "the": [
+                    20,
+                    33
+                ],
+                "evolution": [
+                    21
+                ],
+                "timing": [
+                    23
+                ],
+                "side-channels": [
+                    24
+                ],
+                "into": [
+                    25
+                ],
+                "multistage": [
+                    26
+                ],
+                "threats,": [
+                    27
+                ],
+                "illustrates": [
+                    28
+                ],
+                "their": [
+                    29
+                ],
+                "complexity,": [
+                    30
+                ],
+                "highlights": [
+                    32
+                ],
+                "need": [
+                    34
+                ],
+                "support": [
+                    36
+                ],
+                "developers.": [
+                    37
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4399168086",
+            "counts_by_year": [],
+            "updated_date": "2024-09-17T09:34:35.474827",
+            "created_date": "2024-05-31"
+        },
+        {
+            "id": "https://openalex.org/W4285275299",
+            "doi": "https://doi.org/10.1007/978-3-031-08760-8_44",
+            "title": "Automated and Manual Testing in the Development of the Research Software RCE",
+            "display_name": "Automated and Manual Testing in the Development of the Research Software RCE",
+            "publication_year": 2022,
+            "publication_date": "2022-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4285275299",
+                "doi": "https://doi.org/10.1007/978-3-031-08760-8_44"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-031-08760-8_44",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://elib.dlr.de/185901/1/mischkeschaffertschneideretal2022.pdf",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5056590518",
+                        "display_name": "Robert Mischke",
+                        "orcid": "https://orcid.org/0000-0003-3419-4897"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Robert Mischke",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045677804",
+                        "display_name": "Kathrin Schaffert",
+                        "orcid": "https://orcid.org/0000-0002-9729-7730"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kathrin Schaffert",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5033499506",
+                        "display_name": "Dominik Schneider",
+                        "orcid": "https://orcid.org/0000-0003-4921-0693"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominik Schneider",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5047415159",
+                        "display_name": "Alexander Weinert",
+                        "orcid": "https://orcid.org/0000-0001-8143-246X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alexander Weinert",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR), 51147, Cologne, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 3.096,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.912908,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 78,
+                "max": 82
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "531",
+                "last_page": "544"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10743",
+                "display_name": "Automated Software Testing Techniques",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1712",
+                    "display_name": "Software"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10743",
+                    "display_name": "Automated Software Testing Techniques",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11986",
+                    "display_name": "Management and Reproducibility of Scientific Workflows",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1802",
+                        "display_name": "Information Systems and Management"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10260",
+                    "display_name": "Empirical Studies in Software Engineering",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/software-development",
+                    "display_name": "Software Development",
+                    "score": 0.574409
+                },
+                {
+                    "id": "https://openalex.org/keywords/system-integration-testing",
+                    "display_name": "System integration testing",
+                    "score": 0.5558748
+                },
+                {
+                    "id": "https://openalex.org/keywords/regression-testing",
+                    "display_name": "Regression testing",
+                    "score": 0.5401584
+                },
+                {
+                    "id": "https://openalex.org/keywords/automated-testing",
+                    "display_name": "Automated Testing",
+                    "score": 0.525592
+                },
+                {
+                    "id": "https://openalex.org/keywords/integration-testing",
+                    "display_name": "Integration testing",
+                    "score": 0.51418996
+                },
+                {
+                    "id": "https://openalex.org/keywords/software-testing",
+                    "display_name": "Software testing",
+                    "score": 0.50837344
+                },
+                {
+                    "id": "https://openalex.org/keywords/software-performance-testing",
+                    "display_name": "Software performance testing",
+                    "score": 0.4506963
+                },
+                {
+                    "id": "https://openalex.org/keywords/software-reliability-testing",
+                    "display_name": "Software reliability testing",
+                    "score": 0.44963098
+                },
+                {
+                    "id": "https://openalex.org/keywords/software-inspection",
+                    "display_name": "Software inspection",
+                    "score": 0.42071348
+                },
+                {
+                    "id": "https://openalex.org/keywords/test-strategy",
+                    "display_name": "Test strategy",
+                    "score": 0.41070735
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C115903868",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80993",
+                    "display_name": "Software engineering",
+                    "level": 1,
+                    "score": 0.67480975
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6460837
+                },
+                {
+                    "id": "https://openalex.org/C111524372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7663718",
+                    "display_name": "System integration testing",
+                    "level": 5,
+                    "score": 0.5558748
+                },
+                {
+                    "id": "https://openalex.org/C115901376",
+                    "wikidata": "https://www.wikidata.org/wiki/Q184199",
+                    "display_name": "Automation",
+                    "level": 2,
+                    "score": 0.5551957
+                },
+                {
+                    "id": "https://openalex.org/C161821725",
+                    "wikidata": "https://www.wikidata.org/wiki/Q917415",
+                    "display_name": "Regression testing",
+                    "level": 5,
+                    "score": 0.5401584
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.53850144
+                },
+                {
+                    "id": "https://openalex.org/C529173508",
+                    "wikidata": "https://www.wikidata.org/wiki/Q638608",
+                    "display_name": "Software development",
+                    "level": 3,
+                    "score": 0.5250915
+                },
+                {
+                    "id": "https://openalex.org/C107683887",
+                    "wikidata": "https://www.wikidata.org/wiki/Q782466",
+                    "display_name": "Integration testing",
+                    "level": 3,
+                    "score": 0.51418996
+                },
+                {
+                    "id": "https://openalex.org/C2984328558",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188522",
+                    "display_name": "Software testing",
+                    "level": 3,
+                    "score": 0.50837344
+                },
+                {
+                    "id": "https://openalex.org/C2779960059",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7113681",
+                    "display_name": "Overhead (engineering)",
+                    "level": 2,
+                    "score": 0.49444246
+                },
+                {
+                    "id": "https://openalex.org/C178059732",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1982529",
+                    "display_name": "Software performance testing",
+                    "level": 5,
+                    "score": 0.4506963
+                },
+                {
+                    "id": "https://openalex.org/C52928878",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7554226",
+                    "display_name": "Software reliability testing",
+                    "level": 5,
+                    "score": 0.44963098
+                },
+                {
+                    "id": "https://openalex.org/C186846655",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3398377",
+                    "display_name": "Software construction",
+                    "level": 4,
+                    "score": 0.4362709
+                },
+                {
+                    "id": "https://openalex.org/C10272871",
+                    "wikidata": "https://www.wikidata.org/wiki/Q929972",
+                    "display_name": "Software inspection",
+                    "level": 5,
+                    "score": 0.42071348
+                },
+                {
+                    "id": "https://openalex.org/C48002344",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2919644",
+                    "display_name": "Verification and validation",
+                    "level": 2,
+                    "score": 0.41257083
+                },
+                {
+                    "id": "https://openalex.org/C188598960",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7705805",
+                    "display_name": "Test strategy",
+                    "level": 3,
+                    "score": 0.41070735
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.24174207
+                },
+                {
+                    "id": "https://openalex.org/C117447612",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1412670",
+                    "display_name": "Software quality",
+                    "level": 4,
+                    "score": 0.2209566
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.11829862
+                },
+                {
+                    "id": "https://openalex.org/C21547014",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+                    "display_name": "Operations management",
+                    "level": 1,
+                    "score": 0.06853992
+                },
+                {
+                    "id": "https://openalex.org/C78519656",
+                    "wikidata": "https://www.wikidata.org/wiki/Q101333",
+                    "display_name": "Mechanical engineering",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-031-08760-8_44",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://elib.dlr.de/185901/1/mischkeschaffertschneideretal2022.pdf",
+                    "pdf_url": "https://elib.dlr.de/185901/1/mischkeschaffertschneideretal2022.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4377196266",
+                        "display_name": "elib (German Aerospace Center)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I2898391981",
+                        "host_organization_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I2898391981"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://elib.dlr.de/185901/1/mischkeschaffertschneideretal2022.pdf",
+                "pdf_url": "https://elib.dlr.de/185901/1/mischkeschaffertschneideretal2022.pdf",
+                "source": {
+                    "id": "https://openalex.org/S4377196266",
+                    "display_name": "elib (German Aerospace Center)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I2898391981",
+                    "host_organization_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I2898391981"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.6
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 14,
+            "referenced_works": [
+                "https://openalex.org/W1474974215",
+                "https://openalex.org/W1973051862",
+                "https://openalex.org/W1979345446",
+                "https://openalex.org/W2055447156",
+                "https://openalex.org/W2059507980",
+                "https://openalex.org/W2657046718",
+                "https://openalex.org/W2766540688",
+                "https://openalex.org/W2806377938",
+                "https://openalex.org/W3035360431",
+                "https://openalex.org/W3047016034",
+                "https://openalex.org/W3136521622",
+                "https://openalex.org/W3179850020",
+                "https://openalex.org/W4298110250",
+                "https://openalex.org/W4298219819"
+            ],
+            "related_works": [
+                "https://openalex.org/W39417387",
+                "https://openalex.org/W3208308416",
+                "https://openalex.org/W3167506726",
+                "https://openalex.org/W2800071253",
+                "https://openalex.org/W2541762924",
+                "https://openalex.org/W2356714989",
+                "https://openalex.org/W2132062426",
+                "https://openalex.org/W2024739421",
+                "https://openalex.org/W1992311253",
+                "https://openalex.org/W1589211901"
+            ],
+            "abstract_inverted_index": {
+                "Research": [
+                    0
+                ],
+                "software": [
+                    1,
+                    26,
+                    35,
+                    50
+                ],
+                "is": [
+                    2,
+                    33
+                ],
+                "often": [
+                    3
+                ],
+                "developed": [
+                    4
+                ],
+                "by": [
+                    5
+                ],
+                "individual": [
+                    6
+                ],
+                "researchers": [
+                    7
+                ],
+                "or": [
+                    8
+                ],
+                "small": [
+                    9
+                ],
+                "teams": [
+                    10
+                ],
+                "in": [
+                    11,
+                    27
+                ],
+                "parallel": [
+                    12
+                ],
+                "to": [
+                    13,
+                    84
+                ],
+                "their": [
+                    14,
+                    53
+                ],
+                "research": [
+                    15,
+                    21,
+                    49
+                ],
+                "work.": [
+                    16
+                ],
+                "The": [
+                    17
+                ],
+                "more": [
+                    18,
+                    30
+                ],
+                "people": [
+                    19
+                ],
+                "and": [
+                    20,
+                    41,
+                    60,
+                    90,
+                    119
+                ],
+                "projects": [
+                    22
+                ],
+                "rely": [
+                    23
+                ],
+                "on": [
+                    24
+                ],
+                "the": [
+                    25,
+                    29,
+                    68,
+                    74,
+                    94,
+                    114
+                ],
+                "question,": [
+                    28
+                ],
+                "important": [
+                    31
+                ],
+                "it": [
+                    32
+                ],
+                "that": [
+                    34
+                ],
+                "updates": [
+                    36
+                ],
+                "implement": [
+                    37
+                ],
+                "new": [
+                    38,
+                    58
+                ],
+                "features": [
+                    39,
+                    59
+                ],
+                "correctly": [
+                    40
+                ],
+                "do": [
+                    42
+                ],
+                "not": [
+                    43
+                ],
+                "introduce": [
+                    44
+                ],
+                "regressions.": [
+                    45
+                ],
+                "Thus,": [
+                    46
+                ],
+                "developers": [
+                    47
+                ],
+                "of": [
+                    48
+                ],
+                "must": [
+                    51
+                ],
+                "balance": [
+                    52,
+                    87
+                ],
+                "limited": [
+                    54
+                ],
+                "resources": [
+                    55
+                ],
+                "between": [
+                    56,
+                    88
+                ],
+                "implementing": [
+                    57
+                ],
+                "thoroughly": [
+                    61
+                ],
+                "testing": [
+                    62,
+                    95,
+                    110
+                ],
+                "any": [
+                    63
+                ],
+                "code": [
+                    64
+                ],
+                "changes.": [
+                    65
+                ],
+                "We": [
+                    66,
+                    104
+                ],
+                "present": [
+                    67
+                ],
+                "processes": [
+                    69,
+                    82,
+                    111,
+                    116
+                ],
+                "we": [
+                    70
+                ],
+                "use": [
+                    71
+                ],
+                "for": [
+                    72,
+                    117
+                ],
+                "developing": [
+                    73
+                ],
+                "distributed": [
+                    75
+                ],
+                "integration": [
+                    76
+                ],
+                "framework": [
+                    77
+                ],
+                "RCE": [
+                    78
+                ],
+                "at": [
+                    79
+                ],
+                "DLR.": [
+                    80
+                ],
+                "These": [
+                    81
+                ],
+                "aim": [
+                    83
+                ],
+                "strike": [
+                    85
+                ],
+                "a": [
+                    86
+                ],
+                "automation": [
+                    89
+                ],
+                "manual": [
+                    91
+                ],
+                "testing,": [
+                    92
+                ],
+                "reducing": [
+                    93
+                ],
+                "overhead": [
+                    96
+                ],
+                "while": [
+                    97
+                ],
+                "addressing": [
+                    98
+                ],
+                "issues": [
+                    99
+                ],
+                "as": [
+                    100,
+                    102
+                ],
+                "early": [
+                    101
+                ],
+                "possible.": [
+                    103
+                ],
+                "furthermore": [
+                    105
+                ],
+                "briefly": [
+                    106
+                ],
+                "describe": [
+                    107
+                ],
+                "how": [
+                    108
+                ],
+                "these": [
+                    109
+                ],
+                "integrate": [
+                    112
+                ],
+                "with": [
+                    113
+                ],
+                "surrounding": [
+                    115
+                ],
+                "development": [
+                    118
+                ],
+                "releasing.": [
+                    120
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4285275299",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T18:59:31.848661",
+            "created_date": "2022-07-14"
+        },
+        {
+            "id": "https://openalex.org/W4298219819",
+            "doi": "https://doi.org/10.1109/aero53065.2022.9843838",
+            "title": "Orchestrating Tool Chains for Model-based Systems Engineering with RCE",
+            "display_name": "Orchestrating Tool Chains for Model-based Systems Engineering with RCE",
+            "publication_year": 2022,
+            "publication_date": "2022-03-05",
+            "ids": {
+                "openalex": "https://openalex.org/W4298219819",
+                "doi": "https://doi.org/10.1109/aero53065.2022.9843838"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/aero53065.2022.9843838",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4363607753",
+                    "display_name": "2022 IEEE Aerospace Conference (AERO)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "conference"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://elib.dlr.de/185902/2/2207.04865.pdf",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5038439835",
+                        "display_name": "Jan Flink",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jan Flink",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                        "ln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "ln, Germany",
+                            "institution_ids": []
+                        },
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5056590518",
+                        "display_name": "Robert Mischke",
+                        "orcid": "https://orcid.org/0000-0003-3419-4897"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Robert Mischke",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                        "ln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "ln, Germany",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045677804",
+                        "display_name": "Kathrin Schaffert",
+                        "orcid": "https://orcid.org/0000-0002-9729-7730"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kathrin Schaffert",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                        "ln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "ln, Germany",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5033499506",
+                        "display_name": "Dominik Schneider",
+                        "orcid": "https://orcid.org/0000-0003-4921-0693"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominik Schneider",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                        "ln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "ln, Germany",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5047415159",
+                        "display_name": "Alexander Weinert",
+                        "orcid": "https://orcid.org/0000-0001-8143-246X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alexander Weinert",
+                    "raw_affiliation_strings": [
+                        "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                        "ln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute for Software Technology, German Aerospace Center (DLR),K&#x00F6;ln,Germany,51147",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "ln, Germany",
+                            "institution_ids": []
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 2.67,
+            "has_fulltext": false,
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.874961,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 78,
+                "max": 82
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12000",
+                "display_name": "System of Systems Engineering and Design",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2207",
+                    "display_name": "Control and Systems Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12000",
+                    "display_name": "System of Systems Engineering and Design",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2207",
+                        "display_name": "Control and Systems Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11195",
+                    "display_name": "Optimization Techniques in Simulation Modeling",
+                    "score": 0.997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11450",
+                    "display_name": "Model-Driven Engineering in Software Development",
+                    "score": 0.9956,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/tool-integration",
+                    "display_name": "Tool Integration",
+                    "score": 0.578975
+                },
+                {
+                    "id": "https://openalex.org/keywords/architecting-complex-systems",
+                    "display_name": "Architecting Complex Systems",
+                    "score": 0.537394
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-based-systems-engineering",
+                    "display_name": "Model-Based Systems Engineering",
+                    "score": 0.52985
+                },
+                {
+                    "id": "https://openalex.org/keywords/modeling-and-simulation",
+                    "display_name": "Modeling and Simulation",
+                    "score": 0.514303
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-driven-engineering",
+                    "display_name": "Model-Driven Engineering",
+                    "score": 0.509349
+                },
+                {
+                    "id": "https://openalex.org/keywords/design-space-exploration",
+                    "display_name": "Design space exploration",
+                    "score": 0.47143736
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-driven-development",
+                    "display_name": "Model driven development",
+                    "score": 0.46710148
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7838962
+                },
+                {
+                    "id": "https://openalex.org/C167740415",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2876213",
+                    "display_name": "Aerospace",
+                    "level": 2,
+                    "score": 0.63189805
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.61720735
+                },
+                {
+                    "id": "https://openalex.org/C115903868",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80993",
+                    "display_name": "Software engineering",
+                    "level": 1,
+                    "score": 0.5913541
+                },
+                {
+                    "id": "https://openalex.org/C2776221188",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21072556",
+                    "display_name": "Design space exploration",
+                    "level": 2,
+                    "score": 0.47143736
+                },
+                {
+                    "id": "https://openalex.org/C2985178602",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1941909",
+                    "display_name": "Model driven development",
+                    "level": 4,
+                    "score": 0.46710148
+                },
+                {
+                    "id": "https://openalex.org/C67186912",
+                    "wikidata": "https://www.wikidata.org/wiki/Q367664",
+                    "display_name": "Data modeling",
+                    "level": 2,
+                    "score": 0.42498916
+                },
+                {
+                    "id": "https://openalex.org/C201995342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q682496",
+                    "display_name": "Systems engineering",
+                    "level": 1,
+                    "score": 0.4069713
+                },
+                {
+                    "id": "https://openalex.org/C145644426",
+                    "wikidata": "https://www.wikidata.org/wiki/Q169411",
+                    "display_name": "Unified Modeling Language",
+                    "level": 3,
+                    "score": 0.34864777
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.3450986
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.24444824
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.11844215
+                },
+                {
+                    "id": "https://openalex.org/C146978453",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+                    "display_name": "Aerospace engineering",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/aero53065.2022.9843838",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4363607753",
+                        "display_name": "2022 IEEE Aerospace Conference (AERO)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "conference"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://elib.dlr.de/185902/2/2207.04865.pdf",
+                    "pdf_url": "https://elib.dlr.de/185902/2/2207.04865.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4377196266",
+                        "display_name": "elib (German Aerospace Center)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I2898391981",
+                        "host_organization_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I2898391981"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "mit",
+                    "license_id": "https://openalex.org/licenses/mit",
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2207.04865",
+                    "pdf_url": "https://arxiv.org/pdf/2207.04865",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://elib.dlr.de/185902/2/2207.04865.pdf",
+                "pdf_url": "https://elib.dlr.de/185902/2/2207.04865.pdf",
+                "source": {
+                    "id": "https://openalex.org/S4377196266",
+                    "display_name": "elib (German Aerospace Center)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I2898391981",
+                    "host_organization_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I2898391981"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+                    ],
+                    "type": "repository"
+                },
+                "license": "mit",
+                "license_id": "https://openalex.org/licenses/mit",
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.59
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W2581905020",
+                "https://openalex.org/W2800829932",
+                "https://openalex.org/W2895220481",
+                "https://openalex.org/W3021179102",
+                "https://openalex.org/W3035123831",
+                "https://openalex.org/W3047016034",
+                "https://openalex.org/W3100623039",
+                "https://openalex.org/W3116998146",
+                "https://openalex.org/W3119856319",
+                "https://openalex.org/W3128966595",
+                "https://openalex.org/W3179850020",
+                "https://openalex.org/W3186122176",
+                "https://openalex.org/W3188190612",
+                "https://openalex.org/W4206658865",
+                "https://openalex.org/W656175511"
+            ],
+            "related_works": [
+                "https://openalex.org/W2533063779",
+                "https://openalex.org/W2373053205",
+                "https://openalex.org/W2189415317",
+                "https://openalex.org/W2165937124",
+                "https://openalex.org/W2156607773",
+                "https://openalex.org/W2149501485",
+                "https://openalex.org/W2142753026",
+                "https://openalex.org/W2132167565",
+                "https://openalex.org/W1989012062",
+                "https://openalex.org/W1964871273"
+            ],
+            "abstract_inverted_index": {
+                "When": [
+                    0
+                ],
+                "using": [
+                    1
+                ],
+                "multiple": [
+                    2
+                ],
+                "software": [
+                    3,
+                    64
+                ],
+                "tools": [
+                    4,
+                    26,
+                    41
+                ],
+                "to": [
+                    5,
+                    19,
+                    28,
+                    58
+                ],
+                "analyze,": [
+                    6
+                ],
+                "vi-sualize,": [
+                    7
+                ],
+                "or": [
+                    8
+                ],
+                "optimize": [
+                    9
+                ],
+                "models": [
+                    10
+                ],
+                "in": [
+                    11,
+                    45,
+                    80,
+                    94,
+                    100
+                ],
+                "MBSE,": [
+                    12
+                ],
+                "it": [
+                    13,
+                    54
+                ],
+                "is": [
+                    14,
+                    55,
+                    92
+                ],
+                "often": [
+                    15,
+                    42
+                ],
+                "tedious": [
+                    16
+                ],
+                "and": [
+                    17,
+                    27,
+                    33,
+                    82,
+                    97,
+                    103,
+                    105,
+                    110
+                ],
+                "error-prone": [
+                    18
+                ],
+                "manually": [
+                    20
+                ],
+                "coordinate": [
+                    21
+                ],
+                "the": [
+                    22,
+                    73,
+                    84,
+                    107
+                ],
+                "execution": [
+                    23,
+                    61,
+                    85
+                ],
+                "of": [
+                    24,
+                    86,
+                    112
+                ],
+                "these": [
+                    25
+                ],
+                "retain": [
+                    29
+                ],
+                "their": [
+                    30,
+                    46,
+                    60
+                ],
+                "respective": [
+                    31
+                ],
+                "input": [
+                    32
+                ],
+                "output": [
+                    34
+                ],
+                "data": [
+                    35
+                ],
+                "for": [
+                    36
+                ],
+                "later": [
+                    37
+                ],
+                "analysis.": [
+                    38
+                ],
+                "Since": [
+                    39
+                ],
+                "such": [
+                    40
+                ],
+                "require": [
+                    43
+                ],
+                "expertise": [
+                    44
+                ],
+                "usage": [
+                    47
+                ],
+                "as": [
+                    48,
+                    50
+                ],
+                "well": [
+                    49
+                ],
+                "diverse": [
+                    51,
+                    101
+                ],
+                "run-time": [
+                    52
+                ],
+                "environments,": [
+                    53
+                ],
+                "not": [
+                    56
+                ],
+                "straightfor-ward": [
+                    57
+                ],
+                "orchestrate": [
+                    59
+                ],
+                "via": [
+                    62
+                ],
+                "off-the-shelf": [
+                    63
+                ],
+                "tools.": [
+                    65
+                ],
+                "We": [
+                    66
+                ],
+                "present": [
+                    67
+                ],
+                "RCE,": [
+                    68
+                ],
+                "an": [
+                    69
+                ],
+                "application": [
+                    70
+                ],
+                "developed": [
+                    71
+                ],
+                "at": [
+                    72
+                ],
+                "German": [
+                    74
+                ],
+                "Aerospace": [
+                    75
+                ],
+                "Center": [
+                    76
+                ],
+                "that": [
+                    77
+                ],
+                "supports": [
+                    78
+                ],
+                "engineers": [
+                    79
+                ],
+                "developing": [
+                    81
+                ],
+                "orchestrating": [
+                    83
+                ],
+                "complex": [
+                    87
+                ],
+                "tool": [
+                    88
+                ],
+                "chains.": [
+                    89
+                ],
+                "This": [
+                    90
+                ],
+                "appli-cation": [
+                    91
+                ],
+                "used": [
+                    93
+                ],
+                "numerous": [
+                    95
+                ],
+                "research": [
+                    96
+                ],
+                "development": [
+                    98
+                ],
+                "projects": [
+                    99
+                ],
+                "domains": [
+                    102
+                ],
+                "enables": [
+                    104
+                ],
+                "simplifies": [
+                    106
+                ],
+                "creation,": [
+                    108
+                ],
+                "analysis,": [
+                    109
+                ],
+                "optimization": [
+                    111
+                ],
+                "models.": [
+                    113
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4298219819",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-23T21:38:35.710226",
+            "created_date": "2022-10-01"
+        },
+        {
+            "id": "https://openalex.org/W3216814592",
+            "doi": "https://doi.org/10.1109/models-c53483.2021.00021",
+            "title": "Towards Automated Semantic Grouping in Workflows for Multi-Disciplinary Analysis",
+            "display_name": "Towards Automated Semantic Grouping in Workflows for Multi-Disciplinary Analysis",
+            "publication_year": 2021,
+            "publication_date": "2021-10-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3216814592",
+                "doi": "https://doi.org/10.1109/models-c53483.2021.00021",
+                "mag": "3216814592"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/models-c53483.2021.00021",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4363608391",
+                    "display_name": "2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "conference"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/pdf/2111.15285",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5033499506",
+                        "display_name": "Dominik Schneider",
+                        "orcid": "https://orcid.org/0000-0003-4921-0693"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominik Schneider",
+                    "raw_affiliation_strings": [
+                        "German Aerospace Center (DLR), Institute for Software Technology, Köln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "German Aerospace Center (DLR), Institute for Software Technology, Köln, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5047415159",
+                        "display_name": "Alexander Weinert",
+                        "orcid": "https://orcid.org/0000-0001-8143-246X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2898391981",
+                            "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+                            "ror": "https://ror.org/04bwf3e34",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1305996414",
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Alexander Weinert",
+                    "raw_affiliation_strings": [
+                        "German Aerospace Center (DLR), Institute for Software Technology, Köln, Germany"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "German Aerospace Center (DLR), Institute for Software Technology, Köln, Germany",
+                            "institution_ids": [
+                                "https://openalex.org/I2898391981"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.084,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.311389,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 58,
+                "max": 68
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10799",
+                "display_name": "Information Visualization and Visual Data Mining",
+                "score": 0.9914,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1707",
+                    "display_name": "Computer Vision and Pattern Recognition"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10799",
+                    "display_name": "Information Visualization and Visual Data Mining",
+                    "score": 0.9914,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11986",
+                    "display_name": "Management and Reproducibility of Scientific Workflows",
+                    "score": 0.9912,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1802",
+                        "display_name": "Information Systems and Management"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10703",
+                    "display_name": "Workflow Mining and Business Process Management",
+                    "score": 0.9665,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1404",
+                        "display_name": "Management Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/14",
+                        "display_name": "Business, Management and Accounting"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/maintainability",
+                    "display_name": "Maintainability",
+                    "score": 0.7031391
+                },
+                {
+                    "id": "https://openalex.org/keywords/scientific-workflows",
+                    "display_name": "Scientific Workflows",
+                    "score": 0.600847
+                },
+                {
+                    "id": "https://openalex.org/keywords/workflow-mining",
+                    "display_name": "Workflow Mining",
+                    "score": 0.58618
+                },
+                {
+                    "id": "https://openalex.org/keywords/flexibility-in-workflows",
+                    "display_name": "Flexibility in Workflows",
+                    "score": 0.577437
+                },
+                {
+                    "id": "https://openalex.org/keywords/workflow-management",
+                    "display_name": "Workflow Management",
+                    "score": 0.542291
+                },
+                {
+                    "id": "https://openalex.org/keywords/graph-visualization",
+                    "display_name": "Graph Visualization",
+                    "score": 0.508348
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C177212765",
+                    "wikidata": "https://www.wikidata.org/wiki/Q627335",
+                    "display_name": "Workflow",
+                    "level": 2,
+                    "score": 0.8927158
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7923317
+                },
+                {
+                    "id": "https://openalex.org/C160713754",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1389965",
+                    "display_name": "Maintainability",
+                    "level": 2,
+                    "score": 0.7031391
+                },
+                {
+                    "id": "https://openalex.org/C115903868",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80993",
+                    "display_name": "Software engineering",
+                    "level": 1,
+                    "score": 0.57094234
+                },
+                {
+                    "id": "https://openalex.org/C22467394",
+                    "wikidata": "https://www.wikidata.org/wiki/Q849359",
+                    "display_name": "Multidisciplinary approach",
+                    "level": 2,
+                    "score": 0.5082995
+                },
+                {
+                    "id": "https://openalex.org/C73555534",
+                    "wikidata": "https://www.wikidata.org/wiki/Q622825",
+                    "display_name": "Cluster analysis",
+                    "level": 2,
+                    "score": 0.4899065
+                },
+                {
+                    "id": "https://openalex.org/C132525143",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141488",
+                    "display_name": "Graph",
+                    "level": 2,
+                    "score": 0.45208305
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.22460407
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.20763052
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.18206438
+                },
+                {
+                    "id": "https://openalex.org/C36289849",
+                    "wikidata": "https://www.wikidata.org/wiki/Q34749",
+                    "display_name": "Social science",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C144024400",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21201",
+                    "display_name": "Sociology",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/models-c53483.2021.00021",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4363608391",
+                        "display_name": "2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "conference"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2111.15285",
+                    "pdf_url": "https://arxiv.org/pdf/2111.15285",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2111.15285",
+                "pdf_url": "https://arxiv.org/pdf/2111.15285",
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.5
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 36,
+            "referenced_works": [
+                "https://openalex.org/W143174683",
+                "https://openalex.org/W1558225416",
+                "https://openalex.org/W1636076318",
+                "https://openalex.org/W1789926538",
+                "https://openalex.org/W1934704424",
+                "https://openalex.org/W1970871468",
+                "https://openalex.org/W1971788485",
+                "https://openalex.org/W1973673208",
+                "https://openalex.org/W1983549688",
+                "https://openalex.org/W1998837416",
+                "https://openalex.org/W2061901927",
+                "https://openalex.org/W2067976091",
+                "https://openalex.org/W2095293504",
+                "https://openalex.org/W2107904695",
+                "https://openalex.org/W2109967975",
+                "https://openalex.org/W2112090702",
+                "https://openalex.org/W2117412805",
+                "https://openalex.org/W2125315567",
+                "https://openalex.org/W2125980283",
+                "https://openalex.org/W2129620576",
+                "https://openalex.org/W2132914434",
+                "https://openalex.org/W2137515654",
+                "https://openalex.org/W2144282912",
+                "https://openalex.org/W2171707538",
+                "https://openalex.org/W2187154625",
+                "https://openalex.org/W23745231",
+                "https://openalex.org/W2468446668",
+                "https://openalex.org/W249159571",
+                "https://openalex.org/W2597820098",
+                "https://openalex.org/W2744136779",
+                "https://openalex.org/W2896697006",
+                "https://openalex.org/W3102641634",
+                "https://openalex.org/W3142518606",
+                "https://openalex.org/W3179850020",
+                "https://openalex.org/W4285719527",
+                "https://openalex.org/W950821216"
+            ],
+            "related_works": [
+                "https://openalex.org/W2742441410",
+                "https://openalex.org/W2505444316",
+                "https://openalex.org/W2386133149",
+                "https://openalex.org/W2372410743",
+                "https://openalex.org/W2371482553",
+                "https://openalex.org/W2370448681",
+                "https://openalex.org/W2367316285",
+                "https://openalex.org/W2160765347",
+                "https://openalex.org/W2064378805",
+                "https://openalex.org/W1920256783"
+            ],
+            "abstract_inverted_index": {
+                "When": [
+                    0
+                ],
+                "designing": [
+                    1
+                ],
+                "multidisciplinary": [
+                    2,
+                    74
+                ],
+                "tool": [
+                    3
+                ],
+                "work-flows": [
+                    4
+                ],
+                "in": [
+                    5,
+                    59,
+                    73,
+                    77,
+                    117
+                ],
+                "visual": [
+                    6
+                ],
+                "development": [
+                    7,
+                    37
+                ],
+                "environments,": [
+                    8
+                ],
+                "researchers": [
+                    9
+                ],
+                "and": [
+                    10,
+                    21,
+                    86,
+                    98
+                ],
+                "engineers": [
+                    11
+                ],
+                "often": [
+                    12
+                ],
+                "combine": [
+                    13
+                ],
+                "simulation": [
+                    14
+                ],
+                "tools": [
+                    15,
+                    23,
+                    72,
+                    116
+                ],
+                "which": [
+                    16
+                ],
+                "serve": [
+                    17
+                ],
+                "a": [
+                    18,
+                    84
+                ],
+                "functional": [
+                    19
+                ],
+                "purpose": [
+                    20
+                ],
+                "helper": [
+                    22
+                ],
+                "that": [
+                    24,
+                    107,
+                    122
+                ],
+                "merely": [
+                    25
+                ],
+                "ensure": [
+                    26
+                ],
+                "technical": [
+                    27
+                ],
+                "compatibility": [
+                    28
+                ],
+                "by,": [
+                    29
+                ],
+                "e.g.,": [
+                    30
+                ],
+                "converting": [
+                    31
+                ],
+                "between": [
+                    32
+                ],
+                "file": [
+                    33
+                ],
+                "formats.": [
+                    34
+                ],
+                "If": [
+                    35
+                ],
+                "the": [
+                    36,
+                    51,
+                    81
+                ],
+                "environment": [
+                    38
+                ],
+                "does": [
+                    39
+                ],
+                "not": [
+                    40
+                ],
+                "offer": [
+                    41
+                ],
+                "native": [
+                    42
+                ],
+                "support": [
+                    43
+                ],
+                "for": [
+                    44
+                ],
+                "such": [
+                    45,
+                    67
+                ],
+                "groups": [
+                    46,
+                    68,
+                    112
+                ],
+                "of": [
+                    47,
+                    50,
+                    69,
+                    113,
+                    136
+                ],
+                "tools,": [
+                    48
+                ],
+                "maintainability": [
+                    49
+                ],
+                "developed": [
+                    52
+                ],
+                "workflow": [
+                    53,
+                    82,
+                    137
+                ],
+                "quickly": [
+                    54
+                ],
+                "deteriorates": [
+                    55
+                ],
+                "with": [
+                    56
+                ],
+                "an": [
+                    57,
+                    62
+                ],
+                "increase": [
+                    58
+                ],
+                "complexity.We": [
+                    60
+                ],
+                "present": [
+                    61
+                ],
+                "approach": [
+                    63,
+                    97,
+                    109
+                ],
+                "towards": [
+                    64
+                ],
+                "automatically": [
+                    65
+                ],
+                "identifying": [
+                    66
+                ],
+                "closely": [
+                    70,
+                    114
+                ],
+                "related": [
+                    71,
+                    115
+                ],
+                "workflows": [
+                    75
+                ],
+                "implemented": [
+                    76
+                ],
+                "RCE": [
+                    78,
+                    118
+                ],
+                "by": [
+                    79
+                ],
+                "transforming": [
+                    80
+                ],
+                "into": [
+                    83
+                ],
+                "graph": [
+                    85,
+                    88
+                ],
+                "applying": [
+                    87
+                ],
+                "clustering": [
+                    89,
+                    101
+                ],
+                "algorithms": [
+                    90
+                ],
+                "to": [
+                    91,
+                    124,
+                    129,
+                    132
+                ],
+                "it.": [
+                    92
+                ],
+                "Further,": [
+                    93
+                ],
+                "we": [
+                    94
+                ],
+                "implement": [
+                    95
+                ],
+                "this": [
+                    96,
+                    108,
+                    125
+                ],
+                "evaluate": [
+                    99
+                ],
+                "multiple": [
+                    100
+                ],
+                "algorithms.": [
+                    102
+                ],
+                "Our": [
+                    103
+                ],
+                "results": [
+                    104
+                ],
+                "strongly": [
+                    105
+                ],
+                "indicate": [
+                    106
+                ],
+                "can": [
+                    110
+                ],
+                "yield": [
+                    111
+                ],
+                "workflows,": [
+                    119
+                ],
+                "but": [
+                    120
+                ],
+                "also": [
+                    121
+                ],
+                "solutions": [
+                    123
+                ],
+                "problem": [
+                    126
+                ],
+                "will": [
+                    127
+                ],
+                "have": [
+                    128
+                ],
+                "be": [
+                    130
+                ],
+                "tailor-made": [
+                    131
+                ],
+                "each": [
+                    133
+                ],
+                "specific": [
+                    134
+                ],
+                "style": [
+                    135
+                ],
+                "design.": [
+                    138
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3216814592",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-14T19:33:26.102478",
+            "created_date": "2021-12-06"
+        }
+    ],
+    "group_by": []
+}

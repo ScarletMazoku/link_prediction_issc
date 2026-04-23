@@ -1,0 +1,4399 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 31,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2069001419",
+            "doi": "https://doi.org/10.1016/j.procs.2013.05.223",
+            "title": "Parallelization of Shallow-water Equations with the Algorithmic Skeleton Library SkelGIS",
+            "display_name": "Parallelization of Shallow-water Equations with the Algorithmic Skeleton Library SkelGIS",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2069001419",
+                "doi": "https://doi.org/10.1016/j.procs.2013.05.223",
+                "mag": "2069001419"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.223",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2013.05.223",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5076808197",
+                        "display_name": "Hélène Coullon",
+                        "orcid": "https://orcid.org/0000-0003-2573-2147"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hélène Coullon",
+                    "raw_affiliation_strings": [
+                        "LIFO - Laboratoire d'Informatique Fondamentale d'Orléans (Batiment IIIA 6 Rue Léonard de Vinci - BP 6759 45067 ORLEANS CEDEX 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "LIFO - Laboratoire d'Informatique Fondamentale d'Orléans (Batiment IIIA 6 Rue Léonard de Vinci - BP 6759 45067 ORLEANS CEDEX 2 - France)",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5050247937",
+                        "display_name": "Sébastien Limet",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sébastien Limet",
+                    "raw_affiliation_strings": [
+                        "LIFO - Laboratoire d'Informatique Fondamentale d'Orléans (Batiment IIIA 6 Rue Léonard de Vinci - BP 6759 45067 ORLEANS CEDEX 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "LIFO - Laboratoire d'Informatique Fondamentale d'Orléans (Batiment IIIA 6 Rue Léonard de Vinci - BP 6759 45067 ORLEANS CEDEX 2 - France)",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5083409683",
+                        "display_name": "Hoang Le Minh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210131315",
+                            "display_name": "Laboratoire de Mathématiques Analyse, Probabilités, Modélisation Orléans",
+                            "ror": "https://ror.org/03d6rdf69",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I12449238",
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I4210131315",
+                                "https://openalex.org/I4210141950"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang Le Minh",
+                    "raw_affiliation_strings": [
+                        "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+                        "MAPMO - Mathématiques - Analyse, Probabilités, Modélisation - Orléans (Fédération Denis Poisson, Bâtiment de Mathématiques, B.P. 6759, 45067 Orléans cedex 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "MAPMO - Mathématiques - Analyse, Probabilités, Modélisation - Orléans (Fédération Denis Poisson, Bâtiment de Mathématiques, B.P. 6759, 45067 Orléans cedex 2 - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131315"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 3.093,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 11,
+            "citation_normalized_percentile": {
+                "value": 0.827359,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 86,
+                "max": 87
+            },
+            "biblio": {
+                "volume": "18",
+                "issue": null,
+                "first_page": "591",
+                "last_page": "600"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9979,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9979,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.989,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9809,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/skeleton",
+                    "display_name": "Skeleton (computer programming)",
+                    "score": 0.6845864
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.559429
+                },
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.517374
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.51044
+                },
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.46348575
+                },
+                {
+                    "id": "https://openalex.org/keywords/shallow-water-equations",
+                    "display_name": "Shallow water equations",
+                    "score": 0.42590207
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8096473
+                },
+                {
+                    "id": "https://openalex.org/C18969341",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1169129",
+                    "display_name": "Skeleton (computer programming)",
+                    "level": 2,
+                    "score": 0.6845864
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5724856
+                },
+                {
+                    "id": "https://openalex.org/C854659",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1859284",
+                    "display_name": "Message passing",
+                    "level": 2,
+                    "score": 0.5301745
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.4644155
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.46348575
+                },
+                {
+                    "id": "https://openalex.org/C140295346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4008384",
+                    "display_name": "Shallow water equations",
+                    "level": 2,
+                    "score": 0.42590207
+                },
+                {
+                    "id": "https://openalex.org/C120373497",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1087987",
+                    "display_name": "Parallel algorithm",
+                    "level": 2,
+                    "score": 0.4189028
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.32802135
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.19504234
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.09592044
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.223",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.science/hal-00832660",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-00832660",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.223",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Quality education",
+                    "score": 0.54,
+                    "id": "https://metadata.un.org/sdg/4"
+                },
+                {
+                    "display_name": "Clean water and sanitation",
+                    "score": 0.46,
+                    "id": "https://metadata.un.org/sdg/6"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 22,
+            "referenced_works": [
+                "https://openalex.org/W1545621744",
+                "https://openalex.org/W1580089077",
+                "https://openalex.org/W1585327591",
+                "https://openalex.org/W198328411",
+                "https://openalex.org/W2028743359",
+                "https://openalex.org/W2058209638",
+                "https://openalex.org/W2073378999",
+                "https://openalex.org/W2085123413",
+                "https://openalex.org/W2089306329",
+                "https://openalex.org/W2097824307",
+                "https://openalex.org/W2130179171",
+                "https://openalex.org/W2131595610",
+                "https://openalex.org/W2135682468",
+                "https://openalex.org/W2135795671",
+                "https://openalex.org/W2141251339",
+                "https://openalex.org/W2150952308",
+                "https://openalex.org/W2442601997",
+                "https://openalex.org/W2482838170",
+                "https://openalex.org/W3106346928",
+                "https://openalex.org/W3162698879",
+                "https://openalex.org/W348217116",
+                "https://openalex.org/W61918722"
+            ],
+            "related_works": [
+                "https://openalex.org/W49536250",
+                "https://openalex.org/W4288966080",
+                "https://openalex.org/W2978729728",
+                "https://openalex.org/W2953562271",
+                "https://openalex.org/W2554026873",
+                "https://openalex.org/W2464530384",
+                "https://openalex.org/W2334655667",
+                "https://openalex.org/W2126790453",
+                "https://openalex.org/W2105938841",
+                "https://openalex.org/W2044715502"
+            ],
+            "abstract_inverted_index": {
+                "Giving": [
+                    0
+                ],
+                "an": [
+                    1,
+                    24,
+                    64,
+                    96
+                ],
+                "easy": [
+                    2
+                ],
+                "access": [
+                    3
+                ],
+                "to": [
+                    4,
+                    7,
+                    63,
+                    84
+                ],
+                "non": [
+                    5
+                ],
+                "computer-scientists": [
+                    6
+                ],
+                "high": [
+                    8,
+                    112
+                ],
+                "performance": [
+                    9,
+                    113
+                ],
+                "computing": [
+                    10
+                ],
+                "is": [
+                    11,
+                    23,
+                    50,
+                    54
+                ],
+                "a": [
+                    12,
+                    36,
+                    42,
+                    81,
+                    92
+                ],
+                "very": [
+                    13
+                ],
+                "important": [
+                    14
+                ],
+                "challenge": [
+                    15
+                ],
+                "of": [
+                    16,
+                    45,
+                    58,
+                    72,
+                    99
+                ],
+                "the": [
+                    17,
+                    85
+                ],
+                "research": [
+                    18
+                ],
+                "in": [
+                    19,
+                    35,
+                    56
+                ],
+                "computer": [
+                    20
+                ],
+                "sciences.": [
+                    21
+                ],
+                "SkelGIS": [
+                    22,
+                    49,
+                    94
+                ],
+                "algorithmic": [
+                    25,
+                    73,
+                    104
+                ],
+                "skeleton": [
+                    26,
+                    89
+                ],
+                "library": [
+                    27
+                ],
+                "that": [
+                    28
+                ],
+                "aims": [
+                    29
+                ],
+                "at": [
+                    30
+                ],
+                "writing": [
+                    31
+                ],
+                "efficient": [
+                    32,
+                    97
+                ],
+                "parallel": [
+                    33,
+                    43
+                ],
+                "programs": [
+                    34
+                ],
+                "sequential": [
+                    37
+                ],
+                "way.": [
+                    38
+                ],
+                "In": [
+                    39
+                ],
+                "this": [
+                    40
+                ],
+                "paper,": [
+                    41
+                ],
+                "implementation": [
+                    44,
+                    53
+                ],
+                "shallow-water": [
+                    46
+                ],
+                "equations": [
+                    47
+                ],
+                "using": [
+                    48
+                ],
+                "presented.": [
+                    51
+                ],
+                "This": [
+                    52
+                ],
+                "compared,": [
+                    55
+                ],
+                "terms": [
+                    57
+                ],
+                "learning": [
+                    59
+                ],
+                "efforts": [
+                    60
+                ],
+                "and": [
+                    61,
+                    79,
+                    106
+                ],
+                "performances,": [
+                    62
+                ],
+                "MPI": [
+                    65
+                ],
+                "(Message": [
+                    66
+                ],
+                "Passing": [
+                    67
+                ],
+                "Interface)": [
+                    68
+                ],
+                "implementation.": [
+                    69
+                ],
+                "New": [
+                    70
+                ],
+                "concepts": [
+                    71
+                ],
+                "skeletons": [
+                    74
+                ],
+                "are": [
+                    75
+                ],
+                "proposed": [
+                    76
+                ],
+                "by": [
+                    77
+                ],
+                "SkelGIS,": [
+                    78
+                ],
+                "offer": [
+                    80
+                ],
+                "better": [
+                    82
+                ],
+                "expressiveness": [
+                    83
+                ],
+                "user": [
+                    86
+                ],
+                "than": [
+                    87
+                ],
+                "existing": [
+                    88
+                ],
+                "solutions.": [
+                    90
+                ],
+                "As": [
+                    91
+                ],
+                "result,": [
+                    93
+                ],
+                "enables": [
+                    95
+                ],
+                "parallelization": [
+                    98
+                ],
+                "complex": [
+                    100
+                ],
+                "numerical": [
+                    101
+                ],
+                "method": [
+                    102
+                ],
+                "with": [
+                    103
+                ],
+                "skeletons,": [
+                    105
+                ],
+                "therefore": [
+                    107
+                ],
+                "without": [
+                    108
+                ],
+                "any": [
+                    109
+                ],
+                "knowledge": [
+                    110
+                ],
+                "on": [
+                    111
+                ],
+                "computing.": [
+                    114
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2069001419",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 4
+                }
+            ],
+            "updated_date": "2024-09-24T16:52:29.574324",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W156719109",
+            "doi": null,
+            "title": "A review of physically based models for soil erosion by water",
+            "display_name": "A review of physically based models for soil erosion by water",
+            "publication_year": 2010,
+            "publication_date": "2010-05-02",
+            "ids": {
+                "openalex": "https://openalex.org/W156719109",
+                "mag": "156719109"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-00533354",
+                "pdf_url": "https://brgm.hal.science/hal-00533354/document",
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "review",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://brgm.hal.science/hal-00533354/document",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5083409683",
+                        "display_name": "Hoang Le Minh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang Le Minh",
+                    "raw_affiliation_strings": [
+                        "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5006439488",
+                        "display_name": "Olivier Cerdan",
+                        "orcid": "https://orcid.org/0000-0003-1395-3102"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Olivier Cerdan",
+                    "raw_affiliation_strings": [
+                        "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5029687668",
+                        "display_name": "Pierre Sochala",
+                        "orcid": "https://orcid.org/0000-0002-8223-9335"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210128309",
+                            "display_name": "CERMICS",
+                            "ror": "https://ror.org/03wct8w46",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I142631665",
+                                "https://openalex.org/I190752583",
+                                "https://openalex.org/I4210128309"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Pierre Sochala",
+                    "raw_affiliation_strings": [
+                        "CERMICS - Centre d'Enseignement et de Recherche en Mathématiques et Calcul Scientifique (6 et 8 avenue Blaise Pascal Cité Descartes - Champs sur Marne 77455 Marne la Vallée Cedex 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "CERMICS - Centre d'Enseignement et de Recherche en Mathématiques et Calcul Scientifique (6 et 8 avenue Blaise Pascal Cité Descartes - Champs sur Marne 77455 Marne la Vallée Cedex 2 - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210128309"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016514663",
+                        "display_name": "Bruno Cheviron",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bruno Cheviron",
+                    "raw_affiliation_strings": [
+                        "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5070668509",
+                        "display_name": "Olivier Brivois",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210128689",
+                            "display_name": "Laboratoire de Mécanique et d’Acoustique",
+                            "ror": "https://ror.org/03787ar02",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210095849",
+                                "https://openalex.org/I4210128689",
+                                "https://openalex.org/I4210142724"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Olivier Brivois",
+                    "raw_affiliation_strings": [
+                        "LMA  - Laboratoire de Mécanique et d'Acoustique [Marseille] (4 impasse Nikola Tesla\r\nCS 40006\r\n13453 Marseille Cedex 13  - France)",
+                        "UR OHAX - Ouvrages hydrauliques et hydrologie (3275 route Cézanne - Le Tholonet, F-13612 Aix-en-Provence - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "UR OHAX - Ouvrages hydrauliques et hydrologie (3275 route Cézanne - Le Tholonet, F-13612 Aix-en-Provence - France)",
+                            "institution_ids": []
+                        },
+                        {
+                            "raw_affiliation_string": "LMA  - Laboratoire de Mécanique et d'Acoustique [Marseille] (4 impasse Nikola Tesla\r\nCS 40006\r\n13453 Marseille Cedex 13  - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210128689"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5064000112",
+                        "display_name": "Stéphane Cordier",
+                        "orcid": "https://orcid.org/0000-0003-0707-3774"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210131315",
+                            "display_name": "Laboratoire de Mathématiques Analyse, Probabilités, Modélisation Orléans",
+                            "ror": "https://ror.org/03d6rdf69",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I12449238",
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I4210131315",
+                                "https://openalex.org/I4210141950"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Stéphane Cordier",
+                    "raw_affiliation_strings": [
+                        "MAPMO - Mathématiques - Analyse, Probabilités, Modélisation - Orléans (Fédération Denis Poisson, Bâtiment de Mathématiques, B.P. 6759, 45067 Orléans cedex 2 - France)"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "MAPMO - Mathématiques - Analyse, Probabilités, Modélisation - Orléans (Fédération Denis Poisson, Bâtiment de Mathématiques, B.P. 6759, 45067 Orléans cedex 2 - France)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131315"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 64,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10889",
+                "display_name": "Soil Erosion and Agricultural Sustainability",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1111",
+                    "display_name": "Soil Science"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/11",
+                    "display_name": "Agricultural and Biological Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/1",
+                    "display_name": "Life Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10889",
+                    "display_name": "Soil Erosion and Agricultural Sustainability",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1111",
+                        "display_name": "Soil Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/11",
+                        "display_name": "Agricultural and Biological Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/1",
+                        "display_name": "Life Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10577",
+                    "display_name": "Ecological Dynamics of Riverine Landscapes",
+                    "score": 0.9981,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2303",
+                        "display_name": "Ecology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10330",
+                    "display_name": "Hydrological Modeling and Water Resource Management",
+                    "score": 0.9935,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2312",
+                        "display_name": "Water Science and Technology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/infiltration",
+                    "display_name": "Infiltration (HVAC)",
+                    "score": 0.7421331
+                },
+                {
+                    "id": "https://openalex.org/keywords/sediment-transport-models",
+                    "display_name": "Sediment Transport Models",
+                    "score": 0.591377
+                },
+                {
+                    "id": "https://openalex.org/keywords/hydrological-modeling",
+                    "display_name": "Hydrological Modeling",
+                    "score": 0.590471
+                },
+                {
+                    "id": "https://openalex.org/keywords/soil-erosion",
+                    "display_name": "Soil Erosion",
+                    "score": 0.573597
+                },
+                {
+                    "id": "https://openalex.org/keywords/runoff-and-erosion",
+                    "display_name": "Runoff and Erosion",
+                    "score": 0.534767
+                },
+                {
+                    "id": "https://openalex.org/keywords/watershed-simulation",
+                    "display_name": "Watershed Simulation",
+                    "score": 0.527248
+                },
+                {
+                    "id": "https://openalex.org/keywords/wepp",
+                    "display_name": "WEPP",
+                    "score": 0.51386666
+                },
+                {
+                    "id": "https://openalex.org/keywords/deposition",
+                    "display_name": "Deposition (geology)",
+                    "score": 0.46543613
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-element-model",
+                    "display_name": "Distributed element model",
+                    "score": 0.46168345
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C153400128",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3150731",
+                    "display_name": "Infiltration (HVAC)",
+                    "level": 2,
+                    "score": 0.7421331
+                },
+                {
+                    "id": "https://openalex.org/C123157820",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80026",
+                    "display_name": "Erosion",
+                    "level": 2,
+                    "score": 0.7360726
+                },
+                {
+                    "id": "https://openalex.org/C50477045",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1444790",
+                    "display_name": "Surface runoff",
+                    "level": 2,
+                    "score": 0.70458055
+                },
+                {
+                    "id": "https://openalex.org/C65589250",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7445303",
+                    "display_name": "Sediment transport",
+                    "level": 3,
+                    "score": 0.6582169
+                },
+                {
+                    "id": "https://openalex.org/C126589126",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7949009",
+                    "display_name": "WEPP",
+                    "level": 4,
+                    "score": 0.51386666
+                },
+                {
+                    "id": "https://openalex.org/C76886044",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+                    "display_name": "Hydrology (agriculture)",
+                    "level": 2,
+                    "score": 0.5131863
+                },
+                {
+                    "id": "https://openalex.org/C2816523",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180184",
+                    "display_name": "Sediment",
+                    "level": 2,
+                    "score": 0.50780064
+                },
+                {
+                    "id": "https://openalex.org/C38349280",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+                    "display_name": "Flow (mathematics)",
+                    "level": 2,
+                    "score": 0.49852514
+                },
+                {
+                    "id": "https://openalex.org/C39432304",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188847",
+                    "display_name": "Environmental science",
+                    "level": 0,
+                    "score": 0.47582558
+                },
+                {
+                    "id": "https://openalex.org/C64297162",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+                    "display_name": "Deposition (geology)",
+                    "level": 3,
+                    "score": 0.46543613
+                },
+                {
+                    "id": "https://openalex.org/C4292930",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17009341",
+                    "display_name": "Distributed element model",
+                    "level": 2,
+                    "score": 0.46168345
+                },
+                {
+                    "id": "https://openalex.org/C2988574769",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2259545",
+                    "display_name": "Water flow",
+                    "level": 2,
+                    "score": 0.459299
+                },
+                {
+                    "id": "https://openalex.org/C159390177",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+                    "display_name": "Soil science",
+                    "level": 1,
+                    "score": 0.38551968
+                },
+                {
+                    "id": "https://openalex.org/C187320778",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+                    "display_name": "Geotechnical engineering",
+                    "level": 1,
+                    "score": 0.33569297
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.32818094
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.2453238
+                },
+                {
+                    "id": "https://openalex.org/C109162521",
+                    "wikidata": "https://www.wikidata.org/wiki/Q889669",
+                    "display_name": "Soil conservation",
+                    "level": 3,
+                    "score": 0.1748921
+                },
+                {
+                    "id": "https://openalex.org/C114793014",
+                    "wikidata": "https://www.wikidata.org/wiki/Q52109",
+                    "display_name": "Geomorphology",
+                    "level": 1,
+                    "score": 0.14415273
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.11923802
+                },
+                {
+                    "id": "https://openalex.org/C153294291",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25261",
+                    "display_name": "Meteorology",
+                    "level": 1,
+                    "score": 0.07750377
+                },
+                {
+                    "id": "https://openalex.org/C18903297",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7150",
+                    "display_name": "Ecology",
+                    "level": 1,
+                    "score": 0.07046896
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.066304475
+                },
+                {
+                    "id": "https://openalex.org/C119599485",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43035",
+                    "display_name": "Electrical engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C118518473",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11451",
+                    "display_name": "Agriculture",
+                    "level": 2,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-00533354",
+                    "pdf_url": "https://brgm.hal.science/hal-00533354/document",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://brgm.hal.science/hal-00533354",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-00533354/file/EGU2010-2823-2_Ref6519.pdf",
+                    "pdf_url": "https://hal-brgm.archives-ouvertes.fr/hal-00533354/file/EGU2010-2823-2_Ref6519.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://hal-brgm.archives-ouvertes.fr/hal-00533354",
+                "pdf_url": "https://brgm.hal.science/hal-00533354/document",
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "score": 0.77,
+                    "id": "https://metadata.un.org/sdg/15"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W2377163847",
+                "https://openalex.org/W2370109298",
+                "https://openalex.org/W2366559834",
+                "https://openalex.org/W2352570278",
+                "https://openalex.org/W2352212129",
+                "https://openalex.org/W2315564996",
+                "https://openalex.org/W2101916033",
+                "https://openalex.org/W2081784092",
+                "https://openalex.org/W2059725687",
+                "https://openalex.org/W2032759351"
+            ],
+            "abstract_inverted_index": {
+                "Physically-based": [
+                    0
+                ],
+                "models": [
+                    1,
+                    61
+                ],
+                "rely": [
+                    2
+                ],
+                "on": [
+                    3
+                ],
+                "fundamental": [
+                    4
+                ],
+                "physical": [
+                    5
+                ],
+                "equations": [
+                    6,
+                    44,
+                    71,
+                    109
+                ],
+                "describing": [
+                    7,
+                    62
+                ],
+                "stream": [
+                    8
+                ],
+                "flow": [
+                    9,
+                    76,
+                    90
+                ],
+                "and": [
+                    10,
+                    12,
+                    25,
+                    37,
+                    45,
+                    51,
+                    64,
+                    67,
+                    77,
+                    93,
+                    110,
+                    115
+                ],
+                "sediment": [
+                    11,
+                    26
+                ],
+                "associated": [
+                    13
+                ],
+                "nutrient": [
+                    14
+                ],
+                "generation": [
+                    15
+                ],
+                "in": [
+                    16
+                ],
+                "a": [
+                    17
+                ],
+                "catchment.": [
+                    18
+                ],
+                "This": [
+                    19
+                ],
+                "paper": [
+                    20
+                ],
+                "reviews": [
+                    21
+                ],
+                "several": [
+                    22
+                ],
+                "existing": [
+                    23
+                ],
+                "erosion": [
+                    24,
+                    32,
+                    116
+                ],
+                "transport": [
+                    27,
+                    36,
+                    91
+                ],
+                "approaches.": [
+                    28
+                ],
+                "The": [
+                    29
+                ],
+                "process": [
+                    30
+                ],
+                "of": [
+                    31,
+                    43,
+                    54,
+                    70,
+                    80
+                ],
+                "include": [
+                    33
+                ],
+                "soil": [
+                    34
+                ],
+                "detachment,": [
+                    35
+                ],
+                "deposition,": [
+                    38
+                ],
+                "we": [
+                    39,
+                    59,
+                    98
+                ],
+                "present": [
+                    40,
+                    85,
+                    99
+                ],
+                "various": [
+                    41
+                ],
+                "forms": [
+                    42
+                ],
+                "empirical": [
+                    46
+                ],
+                "formulas": [
+                    47,
+                    87
+                ],
+                "used": [
+                    48
+                ],
+                "when": [
+                    49
+                ],
+                "modelling": [
+                    50
+                ],
+                "quantifying": [
+                    52
+                ],
+                "each": [
+                    53
+                ],
+                "these": [
+                    55
+                ],
+                "processes.": [
+                    56
+                ],
+                "In": [
+                    57
+                ],
+                "particular,": [
+                    58
+                ],
+                "detail": [
+                    60
+                ],
+                "rainfall": [
+                    63
+                ],
+                "infiltration": [
+                    65,
+                    114
+                ],
+                "effects": [
+                    66
+                ],
+                "the": [
+                    68,
+                    74,
+                    78,
+                    81,
+                    86,
+                    89,
+                    94,
+                    106
+                ],
+                "system": [
+                    69
+                ],
+                "to": [
+                    72,
+                    104
+                ],
+                "describe": [
+                    73
+                ],
+                "overland": [
+                    75
+                ],
+                "evolution": [
+                    79
+                ],
+                "topography.": [
+                    82
+                ],
+                "We": [
+                    83
+                ],
+                "also": [
+                    84
+                ],
+                "for": [
+                    88
+                ],
+                "capacity": [
+                    92
+                ],
+                "erodibility": [
+                    95
+                ],
+                "functions.": [
+                    96
+                ],
+                "Finally,": [
+                    97
+                ],
+                "some": [
+                    100
+                ],
+                "recent": [
+                    101
+                ],
+                "numerical": [
+                    102
+                ],
+                "schemes": [
+                    103
+                ],
+                "approach": [
+                    105
+                ],
+                "shallow": [
+                    107
+                ],
+                "water": [
+                    108
+                ],
+                "it's": [
+                    111
+                ],
+                "coupling": [
+                    112
+                ],
+                "with": [
+                    113
+                ],
+                "source": [
+                    117
+                ],
+                "terms.": [
+                    118
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W156719109",
+            "counts_by_year": [
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-24T02:58:49.934257",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W4391141499",
+            "doi": "https://doi.org/10.1088/1674-4926/44/12/122702",
+            "title": "Green synthesis of three-dimensional magnesium ferrite/titanium dioxide/reduced graphene from Garcinia mangostana extract for crystal violet photodegradation and antibacterial activity",
+            "display_name": "Green synthesis of three-dimensional magnesium ferrite/titanium dioxide/reduced graphene from Garcinia mangostana extract for crystal violet photodegradation and antibacterial activity",
+            "publication_year": 2023,
+            "publication_date": "2023-12-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4391141499",
+                "doi": "https://doi.org/10.1088/1674-4926/44/12/122702"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1088/1674-4926/44/12/122702",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S52834336",
+                    "display_name": "Journal of Semiconductors",
+                    "issn_l": "1674-4926",
+                    "issn": [
+                        "1674-4926",
+                        "2058-6140"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320083",
+                    "host_organization_name": "IOP Publishing",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310311669",
+                        "https://openalex.org/P4310320083"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Physics",
+                        "IOP Publishing"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5056670212",
+                        "display_name": "Tong Hoang Lin",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tong Hoang Lin",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5015922705",
+                        "display_name": "Che Quang Cong",
+                        "orcid": "https://orcid.org/0000-0002-8213-2060"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Che Quang Cong",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075895158",
+                        "display_name": "Nguyen Thanh Hoai Nam",
+                        "orcid": "https://orcid.org/0000-0001-7976-2953"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nguyen Thanh Hoai Nam",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5057556124",
+                        "display_name": "Hoang An",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang An",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086995442",
+                        "display_name": "Nguyễn Duy Hải",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nguyen Duy Hai",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5071698762",
+                        "display_name": "Ton That Buu",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ton That Buu",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5014094581",
+                        "display_name": "Thoi Le Nhat Binh",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Thoi Le Nhat Binh",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5083409683",
+                        "display_name": "Hoang Le Minh",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang Le Minh",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5042393548",
+                        "display_name": "Lam Thanh Ngan",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Lam Thanh Ngan",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5059543602",
+                        "display_name": "Hoang Thuy Kim Ngan",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang Thuy Kim Ngan",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100944740",
+                        "display_name": "Du Chi",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Du Chi Vi",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5043214994",
+                        "display_name": "T. D. Khoa",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ta Dang Khoa",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5026220137",
+                        "display_name": "Nguyen Huu Hieu",
+                        "orcid": "https://orcid.org/0000-0003-1776-9871"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nguyen Huu Hieu",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": "44",
+                "issue": "12",
+                "first_page": "122702",
+                "last_page": "122702"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12627",
+                "display_name": "Biomedical Applications of Graphene Nanomaterials",
+                "score": 0.998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2204",
+                    "display_name": "Biomedical Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12627",
+                    "display_name": "Biomedical Applications of Graphene Nanomaterials",
+                    "score": 0.998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2204",
+                        "display_name": "Biomedical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11342",
+                    "display_name": "Synthesis and Applications of Carbon Quantum Dots",
+                    "score": 0.9637,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2505",
+                        "display_name": "Materials Chemistry"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/25",
+                        "display_name": "Materials Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13039",
+                    "display_name": "Magnesium-Based Cements and Nanomaterials",
+                    "score": 0.9448,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2505",
+                        "display_name": "Materials Chemistry"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/25",
+                        "display_name": "Materials Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/garcinia-mangostana",
+                    "display_name": "Garcinia mangostana",
+                    "score": 0.8993623
+                },
+                {
+                    "id": "https://openalex.org/keywords/photodegradation",
+                    "display_name": "Photodegradation",
+                    "score": 0.84535253
+                },
+                {
+                    "id": "https://openalex.org/keywords/titanium-dioxide",
+                    "display_name": "Titanium dioxide",
+                    "score": 0.6706157
+                },
+                {
+                    "id": "https://openalex.org/keywords/crystal-violet",
+                    "display_name": "Crystal violet",
+                    "score": 0.62106925
+                },
+                {
+                    "id": "https://openalex.org/keywords/green-synthesis",
+                    "display_name": "Green Synthesis",
+                    "score": 0.56354
+                },
+                {
+                    "id": "https://openalex.org/keywords/mgo-nanoparticles",
+                    "display_name": "MgO Nanoparticles",
+                    "score": 0.544107
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2909826119",
+                    "wikidata": "https://www.wikidata.org/wiki/Q170662",
+                    "display_name": "Garcinia mangostana",
+                    "level": 2,
+                    "score": 0.8993623
+                },
+                {
+                    "id": "https://openalex.org/C162847780",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1902073",
+                    "display_name": "Photodegradation",
+                    "level": 4,
+                    "score": 0.84535253
+                },
+                {
+                    "id": "https://openalex.org/C2777593239",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193521",
+                    "display_name": "Titanium dioxide",
+                    "level": 2,
+                    "score": 0.6706157
+                },
+                {
+                    "id": "https://openalex.org/C2776020440",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420705",
+                    "display_name": "Crystal violet",
+                    "level": 2,
+                    "score": 0.62106925
+                },
+                {
+                    "id": "https://openalex.org/C30080830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q169917",
+                    "display_name": "Graphene",
+                    "level": 2,
+                    "score": 0.62047225
+                },
+                {
+                    "id": "https://openalex.org/C192562407",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228736",
+                    "display_name": "Materials science",
+                    "level": 0,
+                    "score": 0.5338097
+                },
+                {
+                    "id": "https://openalex.org/C543218039",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660",
+                    "display_name": "Magnesium",
+                    "level": 2,
+                    "score": 0.514341
+                },
+                {
+                    "id": "https://openalex.org/C65165184",
+                    "wikidata": "https://www.wikidata.org/wiki/Q218831",
+                    "display_name": "Photocatalysis",
+                    "level": 3,
+                    "score": 0.42559266
+                },
+                {
+                    "id": "https://openalex.org/C2780104969",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4774530",
+                    "display_name": "Antibacterial activity",
+                    "level": 3,
+                    "score": 0.419246
+                },
+                {
+                    "id": "https://openalex.org/C13965031",
+                    "wikidata": "https://www.wikidata.org/wiki/Q243545",
+                    "display_name": "Nuclear chemistry",
+                    "level": 1,
+                    "score": 0.38869846
+                },
+                {
+                    "id": "https://openalex.org/C42360764",
+                    "wikidata": "https://www.wikidata.org/wiki/Q83588",
+                    "display_name": "Chemical engineering",
+                    "level": 1,
+                    "score": 0.38597527
+                },
+                {
+                    "id": "https://openalex.org/C185592680",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2329",
+                    "display_name": "Chemistry",
+                    "level": 0,
+                    "score": 0.30171716
+                },
+                {
+                    "id": "https://openalex.org/C171250308",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11468",
+                    "display_name": "Nanotechnology",
+                    "level": 1,
+                    "score": 0.27632117
+                },
+                {
+                    "id": "https://openalex.org/C191897082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11467",
+                    "display_name": "Metallurgy",
+                    "level": 1,
+                    "score": 0.14830697
+                },
+                {
+                    "id": "https://openalex.org/C178790620",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11351",
+                    "display_name": "Organic chemistry",
+                    "level": 1,
+                    "score": 0.14436123
+                },
+                {
+                    "id": "https://openalex.org/C556039675",
+                    "wikidata": "https://www.wikidata.org/wiki/Q771035",
+                    "display_name": "Traditional medicine",
+                    "level": 1,
+                    "score": 0.13601702
+                },
+                {
+                    "id": "https://openalex.org/C89423630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7193",
+                    "display_name": "Microbiology",
+                    "level": 1,
+                    "score": 0.07689947
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.06109342
+                },
+                {
+                    "id": "https://openalex.org/C523546767",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10876",
+                    "display_name": "Bacteria",
+                    "level": 2,
+                    "score": 0.05152127
+                },
+                {
+                    "id": "https://openalex.org/C54355233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7162",
+                    "display_name": "Genetics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C161790260",
+                    "wikidata": "https://www.wikidata.org/wiki/Q82264",
+                    "display_name": "Catalysis",
+                    "level": 2,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1088/1674-4926/44/12/122702",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S52834336",
+                        "display_name": "Journal of Semiconductors",
+                        "issn_l": "1674-4926",
+                        "issn": [
+                            "1674-4926",
+                            "2058-6140"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320083",
+                        "host_organization_name": "IOP Publishing",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310311669",
+                            "https://openalex.org/P4310320083"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Physics",
+                            "IOP Publishing"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Clean water and sanitation",
+                    "score": 0.87,
+                    "id": "https://metadata.un.org/sdg/6"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 68,
+            "referenced_works": [
+                "https://openalex.org/W1974551063",
+                "https://openalex.org/W1983348595",
+                "https://openalex.org/W1991243959",
+                "https://openalex.org/W2030095763",
+                "https://openalex.org/W2065145230",
+                "https://openalex.org/W2094841549",
+                "https://openalex.org/W2110249217",
+                "https://openalex.org/W2134739049",
+                "https://openalex.org/W2184050940",
+                "https://openalex.org/W2232432501",
+                "https://openalex.org/W2278556373",
+                "https://openalex.org/W2288434930",
+                "https://openalex.org/W2331031971",
+                "https://openalex.org/W2509760397",
+                "https://openalex.org/W2575547603",
+                "https://openalex.org/W2609953241",
+                "https://openalex.org/W2625855161",
+                "https://openalex.org/W2767749032",
+                "https://openalex.org/W2769546488",
+                "https://openalex.org/W2773420315",
+                "https://openalex.org/W2790693287",
+                "https://openalex.org/W2791097396",
+                "https://openalex.org/W2792207433",
+                "https://openalex.org/W2793287964",
+                "https://openalex.org/W2799278410",
+                "https://openalex.org/W2883788846",
+                "https://openalex.org/W2911846286",
+                "https://openalex.org/W2949120857",
+                "https://openalex.org/W2963975677",
+                "https://openalex.org/W2965400269",
+                "https://openalex.org/W2967566418",
+                "https://openalex.org/W2972208913",
+                "https://openalex.org/W2980971823",
+                "https://openalex.org/W2982571490",
+                "https://openalex.org/W2997981563",
+                "https://openalex.org/W3001361013",
+                "https://openalex.org/W3003409023",
+                "https://openalex.org/W3010467558",
+                "https://openalex.org/W3036659296",
+                "https://openalex.org/W3038637442",
+                "https://openalex.org/W3044496878",
+                "https://openalex.org/W3047176739",
+                "https://openalex.org/W3082741945",
+                "https://openalex.org/W3082757006",
+                "https://openalex.org/W3086436846",
+                "https://openalex.org/W3097395008",
+                "https://openalex.org/W3105973210",
+                "https://openalex.org/W3114325394",
+                "https://openalex.org/W3171432774",
+                "https://openalex.org/W3177134204",
+                "https://openalex.org/W3181823979",
+                "https://openalex.org/W3197826770",
+                "https://openalex.org/W3199720261",
+                "https://openalex.org/W3200122549",
+                "https://openalex.org/W3215907847",
+                "https://openalex.org/W4212870475",
+                "https://openalex.org/W4220800403",
+                "https://openalex.org/W4224947033",
+                "https://openalex.org/W4225016571",
+                "https://openalex.org/W4291163426",
+                "https://openalex.org/W4291912655",
+                "https://openalex.org/W4294366780",
+                "https://openalex.org/W4306180188",
+                "https://openalex.org/W4306407220",
+                "https://openalex.org/W4307838867",
+                "https://openalex.org/W4309263358",
+                "https://openalex.org/W4313490442",
+                "https://openalex.org/W4323565338"
+            ],
+            "related_works": [
+                "https://openalex.org/W76954211",
+                "https://openalex.org/W4386524808",
+                "https://openalex.org/W4214833876",
+                "https://openalex.org/W4200568058",
+                "https://openalex.org/W3197930318",
+                "https://openalex.org/W2733465964",
+                "https://openalex.org/W2589986018",
+                "https://openalex.org/W2182798067",
+                "https://openalex.org/W2101580547",
+                "https://openalex.org/W2030980883"
+            ],
+            "abstract_inverted_index": {
+                "Abstract": [
+                    0
+                ],
+                "In": [
+                    1,
+                    175
+                ],
+                "this": [
+                    2
+                ],
+                "study,": [
+                    3
+                ],
+                "three-dimensional": [
+                    4
+                ],
+                "porous": [
+                    5
+                ],
+                "magnesium": [
+                    6
+                ],
+                "ferrite/titanium": [
+                    7
+                ],
+                "dioxide/reduced": [
+                    8
+                ],
+                "graphene": [
+                    9,
+                    66
+                ],
+                "oxide": [
+                    10,
+                    67
+                ],
+                "(MgFe": [
+                    11
+                ],
+                "2": [
+                    12,
+                    16,
+                    53,
+                    59,
+                    85,
+                    187
+                ],
+                "O": [
+                    13,
+                    54,
+                    186
+                ],
+                "4": [
+                    14,
+                    55
+                ],
+                "-GM/TiO": [
+                    15
+                ],
+                "/rGO": [
+                    17
+                ],
+                "(MGTG))": [
+                    18
+                ],
+                "was": [
+                    19,
+                    206,
+                    216,
+                    242
+                ],
+                "successfully": [
+                    20
+                ],
+                "synthesized": [
+                    21
+                ],
+                "via": [
+                    22
+                ],
+                "green": [
+                    23
+                ],
+                "and": [
+                    24,
+                    57,
+                    83,
+                    93,
+                    119,
+                    193,
+                    265
+                ],
+                "hydrothermal-supported": [
+                    25
+                ],
+                "co-precipitation": [
+                    26
+                ],
+                "methods": [
+                    27
+                ],
+                "using": [
+                    28,
+                    172
+                ],
+                "the": [
+                    29,
+                    46,
+                    50,
+                    61,
+                    64,
+                    77,
+                    80,
+                    91,
+                    97,
+                    103,
+                    122,
+                    127,
+                    134,
+                    136,
+                    140,
+                    144,
+                    151,
+                    166,
+                    179,
+                    197,
+                    200,
+                    204,
+                    214,
+                    221,
+                    224,
+                    235,
+                    239,
+                    249
+                ],
+                "extract": [
+                    30
+                ],
+                "of": [
+                    31,
+                    49,
+                    63,
+                    79,
+                    90,
+                    96,
+                    105,
+                    114,
+                    126,
+                    139,
+                    150,
+                    161,
+                    181,
+                    203,
+                    213,
+                    223,
+                    238,
+                    260
+                ],
+                "Garcinia": [
+                    32
+                ],
+                "mangostana": [
+                    33,
+                    36
+                ],
+                "(": [
+                    34,
+                    230
+                ],
+                "G.": [
+                    35
+                ],
+                ")": [
+                    37
+                ],
+                "as": [
+                    38,
+                    73
+                ],
+                "a": [
+                    39,
+                    158,
+                    257
+                ],
+                "reducing": [
+                    40
+                ],
+                "agent.": [
+                    41
+                ],
+                "The": [
+                    42,
+                    87,
+                    112,
+                    148,
+                    210
+                ],
+                "characterization": [
+                    43
+                ],
+                "results": [
+                    44,
+                    246
+                ],
+                "indicate": [
+                    45
+                ],
+                "successful": [
+                    47
+                ],
+                "formation": [
+                    48
+                ],
+                "nano/micro": [
+                    51,
+                    81
+                ],
+                "MgFe": [
+                    52
+                ],
+                "(MFO)": [
+                    56
+                ],
+                "TiO": [
+                    58,
+                    84
+                ],
+                "on": [
+                    60,
+                    121,
+                    196
+                ],
+                "structure": [
+                    62
+                ],
+                "reduced": [
+                    65
+                ],
+                "(rGO),": [
+                    68
+                ],
+                "which": [
+                    69
+                ],
+                "can": [
+                    70,
+                    168,
+                    252
+                ],
+                "also": [
+                    71,
+                    130,
+                    156,
+                    207,
+                    217,
+                    243
+                ],
+                "act": [
+                    72
+                ],
+                "efficient": [
+                    74
+                ],
+                "support,": [
+                    75
+                ],
+                "alleviating": [
+                    76
+                ],
+                "agglomeration": [
+                    78
+                ],
+                "MFO": [
+                    82
+                ],
+                ".": [
+                    86
+                ],
+                "synergic": [
+                    88
+                ],
+                "effects": [
+                    89,
+                    113,
+                    180
+                ],
+                "adsorption": [
+                    92
+                ],
+                "photodegradation": [
+                    94,
+                    138,
+                    198
+                ],
+                "activity": [
+                    95
+                ],
+                "material": [
+                    98,
+                    152,
+                    241,
+                    251
+                ],
+                "were": [
+                    99,
+                    129
+                ],
+                "investigated": [
+                    100
+                ],
+                "according": [
+                    101,
+                    177,
+                    219
+                ],
+                "to": [
+                    102,
+                    133,
+                    143,
+                    178,
+                    220
+                ],
+                "removal": [
+                    104,
+                    124,
+                    159
+                ],
+                "crystal": [
+                    106
+                ],
+                "violet": [
+                    107
+                ],
+                "(CV)": [
+                    108
+                ],
+                "under": [
+                    109
+                ],
+                "ultraviolet": [
+                    110
+                ],
+                "light.": [
+                    111
+                ],
+                "catalyst": [
+                    115
+                ],
+                "dosage,": [
+                    116
+                ],
+                "CV": [
+                    117,
+                    123,
+                    137
+                ],
+                "concentration,": [
+                    118
+                ],
+                "pH": [
+                    120
+                ],
+                "efficiency": [
+                    125,
+                    160,
+                    212
+                ],
+                "MGTG": [
+                    128,
+                    205,
+                    215
+                ],
+                "investigated.": [
+                    131
+                ],
+                "According": [
+                    132
+                ],
+                "results,": [
+                    135
+                ],
+                "MGTG-200": [
+                    141
+                ],
+                "corresponded": [
+                    142
+                ],
+                "pseudo-first-order": [
+                    145
+                ],
+                "kinetic": [
+                    146
+                ],
+                "model.": [
+                    147
+                ],
+                "reusability": [
+                    149
+                ],
+                "after": [
+                    153
+                ],
+                "10": [
+                    154
+                ],
+                "cycles": [
+                    155
+                ],
+                "showed": [
+                    157
+                ],
+                "92%.": [
+                    162
+                ],
+                "This": [
+                    163
+                ],
+                "happened": [
+                    164
+                ],
+                "because": [
+                    165
+                ],
+                "materials": [
+                    167
+                ],
+                "easily": [
+                    169
+                ],
+                "be": [
+                    170,
+                    253
+                ],
+                "recollected": [
+                    171
+                ],
+                "external": [
+                    173
+                ],
+                "magnets.": [
+                    174
+                ],
+                "addition,": [
+                    176
+                ],
+                "different": [
+                    182
+                ],
+                "free": [
+                    183
+                ],
+                "radicals": [
+                    184
+                ],
+                "·": [
+                    185,
+                    194
+                ],
+                "−": [
+                    188
+                ],
+                ",": [
+                    189,
+                    192
+                ],
+                "h": [
+                    190
+                ],
+                "+": [
+                    191
+                ],
+                "OH": [
+                    195
+                ],
+                "process,": [
+                    199
+                ],
+                "photocatalysis": [
+                    201
+                ],
+                "mechanism": [
+                    202,
+                    237
+                ],
+                "thoroughly": [
+                    208
+                ],
+                "suggested.": [
+                    209
+                ],
+                "antibacterial": [
+                    211,
+                    236,
+                    266
+                ],
+                "evaluated": [
+                    218
+                ],
+                "inhibition": [
+                    222
+                ],
+                "Gram-positive": [
+                    225
+                ],
+                "bacteria": [
+                    226
+                ],
+                "strain": [
+                    227
+                ],
+                "Staphylococcus": [
+                    228
+                ],
+                "aureus": [
+                    229,
+                    232
+                ],
+                "S.": [
+                    231
+                ],
+                ").": [
+                    233
+                ],
+                "Concurrently,": [
+                    234
+                ],
+                "fabricated": [
+                    240
+                ],
+                "proposed.": [
+                    244
+                ],
+                "These": [
+                    245
+                ],
+                "confirm": [
+                    247
+                ],
+                "that": [
+                    248
+                ],
+                "prepared": [
+                    250
+                ],
+                "potentially": [
+                    254
+                ],
+                "employed": [
+                    255
+                ],
+                "in": [
+                    256
+                ],
+                "wide": [
+                    258
+                ],
+                "range": [
+                    259
+                ],
+                "applications,": [
+                    261
+                ],
+                "including": [
+                    262
+                ],
+                "wastewater": [
+                    263
+                ],
+                "treatment": [
+                    264
+                ],
+                "activity.": [
+                    267
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4391141499",
+            "counts_by_year": [],
+            "updated_date": "2024-09-26T17:30:12.699570",
+            "created_date": "2024-01-24"
+        },
+        {
+            "id": "https://openalex.org/W2892647803",
+            "doi": null,
+            "title": "Performances de la Librairie de Squelettes Algorithmiques SkelGIS",
+            "display_name": "Performances de la Librairie de Squelettes Algorithmiques SkelGIS",
+            "publication_year": 2013,
+            "publication_date": "2013-01-15",
+            "ids": {
+                "openalex": "https://openalex.org/W2892647803",
+                "mag": "2892647803"
+            },
+            "language": "fr",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://hal.science/hal-00832674",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5076808197",
+                        "display_name": "Hélène Coullon",
+                        "orcid": "https://orcid.org/0000-0003-2573-2147"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210115196",
+                            "display_name": "Laboratoire d’Informatique Fondamentale de Marseille",
+                            "ror": "https://ror.org/022my8t07",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210115196",
+                                "https://openalex.org/I4210142724",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hélène Coullon",
+                    "raw_affiliation_strings": [
+                        "Laboratoire d'Informatique Fondamentale d'Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire d'Informatique Fondamentale d'Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210115196"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5050247937",
+                        "display_name": "Sébastien Limet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210115196",
+                            "display_name": "Laboratoire d’Informatique Fondamentale de Marseille",
+                            "ror": "https://ror.org/022my8t07",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767",
+                                "https://openalex.org/I4210115196",
+                                "https://openalex.org/I4210142724",
+                                "https://openalex.org/I4210159245"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sébastien Limet",
+                    "raw_affiliation_strings": [
+                        "Laboratoire d'Informatique Fondamentale d'Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire d'Informatique Fondamentale d'Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210115196"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5083409683",
+                        "display_name": "Hoang Le Minh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210158893",
+                            "display_name": "Bureau de Recherches Géologiques et Minières",
+                            "ror": "https://ror.org/05hnb7x64",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210131315",
+                            "display_name": "Laboratoire de Mathématiques Analyse, Probabilités, Modélisation Orléans",
+                            "ror": "https://ror.org/03d6rdf69",
+                            "country_code": "FR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I12449238",
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I4210131315",
+                                "https://openalex.org/I4210141950"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang Le Minh",
+                    "raw_affiliation_strings": [
+                        "Bureau de Recherches Géologiques et Minières (BRGM)",
+                        "Mathématiques - Analyse, Probabilités, Modélisation - Orléans"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
+                            "institution_ids": [
+                                "https://openalex.org/I4210158893"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Mathématiques - Analyse, Probabilités, Modélisation - Orléans",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131315"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.9924,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9924,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11596",
+                    "display_name": "Distributed Constraint Optimization Problems and Algorithms",
+                    "score": 0.9661,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.486522
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C15708023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80083",
+                    "display_name": "Humanities",
+                    "level": 1,
+                    "score": 0.69926727
+                },
+                {
+                    "id": "https://openalex.org/C142362112",
+                    "wikidata": "https://www.wikidata.org/wiki/Q735",
+                    "display_name": "Art",
+                    "level": 0,
+                    "score": 0.44164032
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.34992334
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.science/hal-00832674",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-00832674",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Quality education",
+                    "score": 0.43,
+                    "id": "https://metadata.un.org/sdg/4"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4387497383",
+                "https://openalex.org/W3183948672",
+                "https://openalex.org/W3173606202",
+                "https://openalex.org/W3110381201",
+                "https://openalex.org/W2948807893",
+                "https://openalex.org/W2935909890",
+                "https://openalex.org/W2778153218",
+                "https://openalex.org/W2758277628",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W1531601525"
+            ],
+            "abstract_inverted_index": {
+                "Cet": [
+                    0
+                ],
+                "article": [
+                    1
+                ],
+                "presente": [
+                    2
+                ],
+                "une": [
+                    3,
+                    33,
+                    41
+                ],
+                "nouvelle": [
+                    4
+                ],
+                "bibliotheque": [
+                    5
+                ],
+                "de": [
+                    6,
+                    13,
+                    16,
+                    18,
+                    35,
+                    46,
+                    67,
+                    72
+                ],
+                "squelettes": [
+                    7
+                ],
+                "algorithmiques,": [
+                    8
+                ],
+                "nommee": [
+                    9
+                ],
+                "SkelGIS,": [
+                    10
+                ],
+                "qui": [
+                    11,
+                    38
+                ],
+                "permet": [
+                    12
+                ],
+                "faciliter": [
+                    14
+                ],
+                "l'ecriture": [
+                    15
+                ],
+                "programmes": [
+                    17,
+                    71
+                ],
+                "calcul": [
+                    19
+                ],
+                "scientifique": [
+                    20
+                ],
+                "en": [
+                    21
+                ],
+                "cachant": [
+                    22
+                ],
+                "les": [
+                    23,
+                    78
+                ],
+                "aspects": [
+                    24
+                ],
+                "techniques": [
+                    25
+                ],
+                "du": [
+                    26,
+                    62
+                ],
+                "parallelisme.": [
+                    27,
+                    63
+                ],
+                "Cette": [
+                    28
+                ],
+                "librairie": [
+                    29,
+                    48
+                ],
+                "se": [
+                    30
+                ],
+                "base": [
+                    31
+                ],
+                "sur": [
+                    32
+                ],
+                "structure": [
+                    34
+                ],
+                "matrice": [
+                    36,
+                    42
+                ],
+                "distribuee": [
+                    37
+                ],
+                "s'utilise": [
+                    39
+                ],
+                "comme": [
+                    40
+                ],
+                "classique.": [
+                    43
+                ],
+                "Les": [
+                    44,
+                    64
+                ],
+                "performances": [
+                    45
+                ],
+                "cette": [
+                    47
+                ],
+                "sont": [
+                    49
+                ],
+                "evaluees": [
+                    50
+                ],
+                "par": [
+                    51,
+                    58
+                ],
+                "rapport": [
+                    52
+                ],
+                "a": [
+                    53
+                ],
+                "un": [
+                    54
+                ],
+                "programme": [
+                    55
+                ],
+                "MPI": [
+                    56
+                ],
+                "ecrit": [
+                    57
+                ],
+                "des": [
+                    59,
+                    70
+                ],
+                "non": [
+                    60
+                ],
+                "specialistes": [
+                    61
+                ],
+                "resultats": [
+                    65
+                ],
+                "permettent": [
+                    66
+                ],
+                "montrer": [
+                    68,
+                    77
+                ],
+                "l'efficacite": [
+                    69
+                ],
+                "SkelGIS": [
+                    73
+                ],
+                "mais": [
+                    74
+                ],
+                "aussi": [
+                    75
+                ],
+                "d'en": [
+                    76
+                ],
+                "limites.": [
+                    79
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2892647803",
+            "counts_by_year": [],
+            "updated_date": "2024-09-18T09:50:31.341912",
+            "created_date": "2018-10-05"
+        },
+        {
+            "id": "https://openalex.org/W4284898749",
+            "doi": "https://doi.org/10.18173/2354-1075.2022-0037",
+            "title": "Designing an automatic grading system to improve the self-learning ability of students at Hanoi National University of Education",
+            "display_name": "Designing an automatic grading system to improve the self-learning ability of students at Hanoi National University of Education",
+            "publication_year": 2022,
+            "publication_date": "2022-04-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4284898749",
+                "doi": "https://doi.org/10.18173/2354-1075.2022-0037"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.18173/2354-1075.2022-0037",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210178456",
+                    "display_name": "Journal of Science Educational Science",
+                    "issn_l": "2354-1075",
+                    "issn": [
+                        "2354-1075"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5025040857",
+                        "display_name": "Chinh Nguyen Thi",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Chinh Nguyen Thi",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102785819",
+                        "display_name": "Huyen Nguyen Thi Thanh",
+                        "orcid": "https://orcid.org/0009-0009-9945-3192"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Huyen Nguyen Thi Thanh",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5092294517",
+                        "display_name": "Duy Vu Phuong",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Duy Vu Phuong",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5083409683",
+                        "display_name": "Hoang Le Minh",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hoang Le Minh",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 62
+            },
+            "biblio": {
+                "volume": "67",
+                "issue": "2",
+                "first_page": "206",
+                "last_page": "217"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11122",
+                "display_name": "Educational Data Mining and Learning Analytics",
+                "score": 0.9803,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1706",
+                    "display_name": "Computer Science Applications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11122",
+                    "display_name": "Educational Data Mining and Learning Analytics",
+                    "score": 0.9803,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1706",
+                        "display_name": "Computer Science Applications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T14025",
+                    "display_name": "Application of Fuzzy Logic in Educational Assessment",
+                    "score": 0.9663,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T14182",
+                    "display_name": "E-Learning in Higher Education",
+                    "score": 0.921,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3304",
+                        "display_name": "Education"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/33",
+                        "display_name": "Social Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/grading",
+                    "display_name": "Grading (engineering)",
+                    "score": 0.82306993
+                },
+                {
+                    "id": "https://openalex.org/keywords/student-performance-prediction",
+                    "display_name": "Student Performance Prediction",
+                    "score": 0.545094
+                },
+                {
+                    "id": "https://openalex.org/keywords/student-performance-evaluation",
+                    "display_name": "Student Performance Evaluation",
+                    "score": 0.542834
+                },
+                {
+                    "id": "https://openalex.org/keywords/intelligent-tutoring-systems",
+                    "display_name": "Intelligent Tutoring Systems",
+                    "score": 0.530323
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-driven-education",
+                    "display_name": "Data-driven Education",
+                    "score": 0.520582
+                },
+                {
+                    "id": "https://openalex.org/keywords/adaptive-learning",
+                    "display_name": "Adaptive Learning",
+                    "score": 0.503351
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2777286243",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5591926",
+                    "display_name": "Grading (engineering)",
+                    "level": 2,
+                    "score": 0.82306993
+                },
+                {
+                    "id": "https://openalex.org/C2778476105",
+                    "wikidata": "https://www.wikidata.org/wiki/Q628539",
+                    "display_name": "Workload",
+                    "level": 2,
+                    "score": 0.74251217
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.705049
+                },
+                {
+                    "id": "https://openalex.org/C145420912",
+                    "wikidata": "https://www.wikidata.org/wiki/Q853077",
+                    "display_name": "Mathematics education",
+                    "level": 1,
+                    "score": 0.4373818
+                },
+                {
+                    "id": "https://openalex.org/C49774154",
+                    "wikidata": "https://www.wikidata.org/wiki/Q131765",
+                    "display_name": "Multimedia",
+                    "level": 1,
+                    "score": 0.39948374
+                },
+                {
+                    "id": "https://openalex.org/C110354214",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6314146",
+                    "display_name": "Engineering management",
+                    "level": 1,
+                    "score": 0.32180977
+                },
+                {
+                    "id": "https://openalex.org/C15744967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9418",
+                    "display_name": "Psychology",
+                    "level": 0,
+                    "score": 0.15061861
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.14998612
+                },
+                {
+                    "id": "https://openalex.org/C147176958",
+                    "wikidata": "https://www.wikidata.org/wiki/Q77590",
+                    "display_name": "Civil engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.18173/2354-1075.2022-0037",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210178456",
+                        "display_name": "Journal of Science Educational Science",
+                        "issn_l": "2354-1075",
+                        "issn": [
+                            "2354-1075"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Quality education",
+                    "score": 0.54,
+                    "id": "https://metadata.un.org/sdg/4"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W986318368",
+                "https://openalex.org/W2990194547",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2620865396",
+                "https://openalex.org/W2384410913",
+                "https://openalex.org/W2352878646",
+                "https://openalex.org/W2130149817",
+                "https://openalex.org/W2004734601",
+                "https://openalex.org/W2000785801",
+                "https://openalex.org/W1480123525"
+            ],
+            "abstract_inverted_index": {
+                "Self-directed": [
+                    0
+                ],
+                "learning": [
+                    1,
+                    32,
+                    134
+                ],
+                "capacity": [
+                    2
+                ],
+                "is": [
+                    3,
+                    23,
+                    99
+                ],
+                "defined": [
+                    4
+                ],
+                "as": [
+                    5,
+                    127,
+                    129
+                ],
+                "one": [
+                    6,
+                    24
+                ],
+                "of": [
+                    7,
+                    12,
+                    25,
+                    58,
+                    94,
+                    106,
+                    117,
+                    125
+                ],
+                "the": [
+                    8,
+                    15,
+                    26,
+                    40,
+                    92,
+                    113,
+                    123
+                ],
+                "core": [
+                    9
+                ],
+                "common": [
+                    10
+                ],
+                "competencies": [
+                    11
+                ],
+                "students": [
+                    13
+                ],
+                "in": [
+                    14
+                ],
+                "Vietnam": [
+                    16
+                ],
+                "General": [
+                    17
+                ],
+                "Education": [
+                    18
+                ],
+                "Curricculum": [
+                    19
+                ],
+                "2018": [
+                    20
+                ],
+                "(VGEC).": [
+                    21
+                ],
+                "Programming": [
+                    22
+                ],
+                "skills": [
+                    27
+                ],
+                "that": [
+                    28,
+                    53,
+                    87
+                ],
+                "require": [
+                    29
+                ],
+                "constant": [
+                    30
+                ],
+                "self-directed": [
+                    31
+                ],
+                "and": [
+                    33,
+                    98,
+                    115
+                ],
+                "practice": [
+                    34
+                ],
+                "effort": [
+                    35
+                ],
+                "from": [
+                    36
+                ],
+                "learners.": [
+                    37
+                ],
+                "Motivated": [
+                    38
+                ],
+                "by": [
+                    39
+                ],
+                "need": [
+                    41
+                ],
+                "to": [
+                    42,
+                    70,
+                    77,
+                    121
+                ],
+                "enhance": [
+                    43,
+                    71
+                ],
+                "self-learning": [
+                    44
+                ],
+                "experience,": [
+                    45
+                ],
+                "we": [
+                    46
+                ],
+                "have": [
+                    47,
+                    111
+                ],
+                "developed": [
+                    48
+                ],
+                "an": [
+                    49
+                ],
+                "automatic": [
+                    50
+                ],
+                "grading": [
+                    51
+                ],
+                "system": [
+                    52,
+                    66,
+                    86
+                ],
+                "provides": [
+                    54
+                ],
+                "a": [
+                    55,
+                    84
+                ],
+                "wide": [
+                    56
+                ],
+                "range": [
+                    57
+                ],
+                "programming": [
+                    59,
+                    73,
+                    89
+                ],
+                "problems": [
+                    60
+                ],
+                "with": [
+                    61
+                ],
+                "useful": [
+                    62
+                ],
+                "reference": [
+                    63
+                ],
+                "documents.": [
+                    64
+                ],
+                "The": [
+                    65,
+                    108
+                ],
+                "promises": [
+                    67
+                ],
+                "not": [
+                    68
+                ],
+                "only": [
+                    69
+                ],
+                "learners’": [
+                    72
+                ],
+                "skills,": [
+                    74
+                ],
+                "but": [
+                    75
+                ],
+                "also": [
+                    76
+                ],
+                "minimize": [
+                    78
+                ],
+                "teachers’": [
+                    79
+                ],
+                "workload.": [
+                    80
+                ],
+                "This": [
+                    81
+                ],
+                "paper": [
+                    82
+                ],
+                "presents": [
+                    83
+                ],
+                "complete": [
+                    85
+                ],
+                "supports": [
+                    88
+                ],
+                "learners": [
+                    90
+                ],
+                "under": [
+                    91
+                ],
+                "guidance": [
+                    93
+                ],
+                "information": [
+                    95
+                ],
+                "technology": [
+                    96
+                ],
+                "experts,": [
+                    97
+                ],
+                "currently": [
+                    100
+                ],
+                "being": [
+                    101
+                ],
+                "implemented": [
+                    102
+                ],
+                "at": [
+                    103
+                ],
+                "Hanoi": [
+                    104
+                ],
+                "University": [
+                    105
+                ],
+                "Education.": [
+                    107
+                ],
+                "research": [
+                    109
+                ],
+                "results": [
+                    110
+                ],
+                "confirmed": [
+                    112
+                ],
+                "effectiveness": [
+                    114
+                ],
+                "feasibility": [
+                    116
+                ],
+                "integrated": [
+                    118
+                ],
+                "teaching,": [
+                    119
+                ],
+                "contributing": [
+                    120
+                ],
+                "improving": [
+                    122
+                ],
+                "quality": [
+                    124
+                ],
+                "teaching": [
+                    126
+                ],
+                "well": [
+                    128
+                ],
+                "developing": [
+                    130
+                ],
+                "self": [
+                    131
+                ],
+                "–": [
+                    132
+                ],
+                "directed": [
+                    133
+                ],
+                "ability.": [
+                    135
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4284898749",
+            "counts_by_year": [],
+            "updated_date": "2024-08-26T17:27:14.658081",
+            "created_date": "2022-07-09"
+        }
+    ],
+    "group_by": []
+}

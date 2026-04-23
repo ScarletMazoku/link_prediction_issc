@@ -1,0 +1,2082 @@
+{
+    "meta": {
+        "count": 3,
+        "db_response_time_ms": 61,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W200635590",
+            "doi": null,
+            "title": "Design and Implementation of a Workflow Rendering Engine.",
+            "display_name": "Design and Implementation of a Workflow Rendering Engine.",
+            "publication_year": 2004,
+            "publication_date": "2004-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W200635590",
+                "mag": "200635590"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://dblp.uni-trier.de/db/conf/msv/msv2004.html#PamplinZ04",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5057883155",
+                        "display_name": "Jason A. Pamplin",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jason A. Pamplin",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5083968726",
+                        "display_name": "Ying Zhu",
+                        "orcid": "https://orcid.org/0000-0002-9155-2315"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ying Zhu",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.499117,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 61,
+                "max": 68
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "246",
+                "last_page": "251"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10799",
+                "display_name": "Information Visualization and Visual Data Mining",
+                "score": 0.9944,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1707",
+                    "display_name": "Computer Vision and Pattern Recognition"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10799",
+                    "display_name": "Information Visualization and Visual Data Mining",
+                    "score": 0.9944,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11986",
+                    "display_name": "Management and Reproducibility of Scientific Workflows",
+                    "score": 0.9886,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1802",
+                        "display_name": "Information Systems and Management"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10317",
+                    "display_name": "Data Stream Management Systems and Techniques",
+                    "score": 0.9861,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/workflow-management",
+                    "display_name": "Workflow Management",
+                    "score": 0.713916
+                },
+                {
+                    "id": "https://openalex.org/keywords/scientific-workflows",
+                    "display_name": "Scientific Workflows",
+                    "score": 0.673871
+                },
+                {
+                    "id": "https://openalex.org/keywords/stream-processing",
+                    "display_name": "Stream Processing",
+                    "score": 0.593981
+                },
+                {
+                    "id": "https://openalex.org/keywords/interactive-visualization",
+                    "display_name": "Interactive Visualization",
+                    "score": 0.579611
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-stream-management",
+                    "display_name": "Data Stream Management",
+                    "score": 0.557006
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.5759819
+                },
+                {
+                    "id": "https://openalex.org/C177212765",
+                    "wikidata": "https://www.wikidata.org/wiki/Q627335",
+                    "display_name": "Workflow",
+                    "level": 2,
+                    "score": 0.56199974
+                },
+                {
+                    "id": "https://openalex.org/C205711294",
+                    "wikidata": "https://www.wikidata.org/wiki/Q176953",
+                    "display_name": "Rendering (computer graphics)",
+                    "level": 2,
+                    "score": 0.4738025
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.34087485
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.2837777
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://dblp.uni-trier.de/db/conf/msv/msv2004.html#PamplinZ04",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 4,
+            "referenced_works": [
+                "https://openalex.org/W122892889",
+                "https://openalex.org/W1483256854",
+                "https://openalex.org/W1972829942",
+                "https://openalex.org/W2084887531"
+            ],
+            "related_works": [
+                "https://openalex.org/W3182224439",
+                "https://openalex.org/W3086323918",
+                "https://openalex.org/W2824296090",
+                "https://openalex.org/W2393147176",
+                "https://openalex.org/W2380296092",
+                "https://openalex.org/W2379088634",
+                "https://openalex.org/W2377367499",
+                "https://openalex.org/W2376410910",
+                "https://openalex.org/W2376013836",
+                "https://openalex.org/W2374818432",
+                "https://openalex.org/W2373541195",
+                "https://openalex.org/W2371210998",
+                "https://openalex.org/W2370066269",
+                "https://openalex.org/W2365395589",
+                "https://openalex.org/W2365009405",
+                "https://openalex.org/W2358268659",
+                "https://openalex.org/W2356466503",
+                "https://openalex.org/W2352344200",
+                "https://openalex.org/W2347255624",
+                "https://openalex.org/W2028407054"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W200635590",
+            "counts_by_year": [],
+            "updated_date": "2024-09-18T09:00:58.023174",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W137311235",
+            "doi": null,
+            "title": "Formal Object Interaction Language: Modeling and Verification of Sequential and Concurrent Object-Oriented Software",
+            "display_name": "Formal Object Interaction Language: Modeling and Verification of Sequential and Concurrent Object-Oriented Software",
+            "publication_year": 2007,
+            "publication_date": "2007-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W137311235",
+                "mag": "137311235"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1015&context=cs_diss",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5057883155",
+                        "display_name": "Jason A. Pamplin",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I181565077",
+                            "display_name": "Georgia State University",
+                            "ror": "https://ror.org/03qt6ba18",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Jason Andrew Pamplin",
+                    "raw_affiliation_strings": [
+                        "Georgia State University,"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Georgia State University,",
+                            "institution_ids": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5057883155"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I181565077"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 63
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10703",
+                "display_name": "Workflow Mining and Business Process Management",
+                "score": 0.9991,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1404",
+                    "display_name": "Management Information Systems"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/14",
+                    "display_name": "Business, Management and Accounting"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/2",
+                    "display_name": "Social Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10703",
+                    "display_name": "Workflow Mining and Business Process Management",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1404",
+                        "display_name": "Management Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/14",
+                        "display_name": "Business, Management and Accounting"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10679",
+                    "display_name": "QoS-Aware Web Services Composition and Semantic Matching",
+                    "score": 0.9983,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10639",
+                    "display_name": "Autonomic Computing and Self-Adaptive Systems",
+                    "score": 0.9982,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/conformance-checking",
+                    "display_name": "Conformance Checking",
+                    "score": 0.548431
+                },
+                {
+                    "id": "https://openalex.org/keywords/process-modeling-languages",
+                    "display_name": "Process Modeling Languages",
+                    "score": 0.546695
+                },
+                {
+                    "id": "https://openalex.org/keywords/aspect-oriented-programming",
+                    "display_name": "Aspect-Oriented Programming",
+                    "score": 0.545372
+                },
+                {
+                    "id": "https://openalex.org/keywords/feature-models",
+                    "display_name": "Feature Models",
+                    "score": 0.544039
+                },
+                {
+                    "id": "https://openalex.org/keywords/software-architecture",
+                    "display_name": "Software Architecture",
+                    "score": 0.529019
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7425946
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.628814
+                },
+                {
+                    "id": "https://openalex.org/C149091818",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2429814",
+                    "display_name": "Software system",
+                    "level": 3,
+                    "score": 0.46410644
+                },
+                {
+                    "id": "https://openalex.org/C2781238097",
+                    "wikidata": "https://www.wikidata.org/wiki/Q175026",
+                    "display_name": "Object (grammar)",
+                    "level": 2,
+                    "score": 0.45722643
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.43615106
+                },
+                {
+                    "id": "https://openalex.org/C2776436953",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5163215",
+                    "display_name": "Consistency (knowledge bases)",
+                    "level": 2,
+                    "score": 0.42510757
+                },
+                {
+                    "id": "https://openalex.org/C115903868",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80993",
+                    "display_name": "Software engineering",
+                    "level": 1,
+                    "score": 0.37251812
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.36476034
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.19705349
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1015&context=cs_diss",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 74,
+            "referenced_works": [
+                "https://openalex.org/W112030299",
+                "https://openalex.org/W135319825",
+                "https://openalex.org/W1484369417",
+                "https://openalex.org/W1493953653",
+                "https://openalex.org/W1495380017",
+                "https://openalex.org/W1496843343",
+                "https://openalex.org/W1502195842",
+                "https://openalex.org/W1507757528",
+                "https://openalex.org/W1536131231",
+                "https://openalex.org/W1537280715",
+                "https://openalex.org/W1546854094",
+                "https://openalex.org/W1550443277",
+                "https://openalex.org/W1557315237",
+                "https://openalex.org/W1560793393",
+                "https://openalex.org/W1561267729",
+                "https://openalex.org/W1570372094",
+                "https://openalex.org/W1586642858",
+                "https://openalex.org/W1607402854",
+                "https://openalex.org/W1731380002",
+                "https://openalex.org/W1754883368",
+                "https://openalex.org/W1759712729",
+                "https://openalex.org/W1857934442",
+                "https://openalex.org/W1863405838",
+                "https://openalex.org/W1903679624",
+                "https://openalex.org/W1923262203",
+                "https://openalex.org/W1927417729",
+                "https://openalex.org/W1975874958",
+                "https://openalex.org/W1977856111",
+                "https://openalex.org/W1985141981",
+                "https://openalex.org/W1995736448",
+                "https://openalex.org/W1996109622",
+                "https://openalex.org/W2000069466",
+                "https://openalex.org/W2027322963",
+                "https://openalex.org/W2033442072",
+                "https://openalex.org/W2034076926",
+                "https://openalex.org/W2043210732",
+                "https://openalex.org/W2046802670",
+                "https://openalex.org/W2052476220",
+                "https://openalex.org/W2057196182",
+                "https://openalex.org/W2058401325",
+                "https://openalex.org/W2083091245",
+                "https://openalex.org/W2098886869",
+                "https://openalex.org/W2099122649",
+                "https://openalex.org/W2102553285",
+                "https://openalex.org/W2105589950",
+                "https://openalex.org/W2111572781",
+                "https://openalex.org/W2111946621",
+                "https://openalex.org/W2114539492",
+                "https://openalex.org/W2114971213",
+                "https://openalex.org/W2120141461",
+                "https://openalex.org/W2121163444",
+                "https://openalex.org/W2124323785",
+                "https://openalex.org/W2130851407",
+                "https://openalex.org/W2134937538",
+                "https://openalex.org/W2135490787",
+                "https://openalex.org/W2137865376",
+                "https://openalex.org/W2144192824",
+                "https://openalex.org/W2152680856",
+                "https://openalex.org/W2154273644",
+                "https://openalex.org/W2156060655",
+                "https://openalex.org/W2161345141",
+                "https://openalex.org/W2163646799",
+                "https://openalex.org/W2165467455",
+                "https://openalex.org/W2166756941",
+                "https://openalex.org/W2170639684",
+                "https://openalex.org/W2171445933",
+                "https://openalex.org/W2323777246",
+                "https://openalex.org/W2394903686",
+                "https://openalex.org/W2811473436",
+                "https://openalex.org/W2911625174",
+                "https://openalex.org/W3144368627",
+                "https://openalex.org/W3145890645",
+                "https://openalex.org/W49088921",
+                "https://openalex.org/W77261111"
+            ],
+            "related_works": [
+                "https://openalex.org/W3191901403",
+                "https://openalex.org/W2990670289",
+                "https://openalex.org/W2887634178",
+                "https://openalex.org/W2368560475",
+                "https://openalex.org/W2350430704",
+                "https://openalex.org/W2169175106",
+                "https://openalex.org/W2159214439",
+                "https://openalex.org/W2155304152",
+                "https://openalex.org/W2119478224",
+                "https://openalex.org/W2102103521",
+                "https://openalex.org/W2098701214",
+                "https://openalex.org/W2022550889",
+                "https://openalex.org/W1991523887",
+                "https://openalex.org/W1796064339",
+                "https://openalex.org/W1577824716",
+                "https://openalex.org/W1570853285",
+                "https://openalex.org/W1543072894",
+                "https://openalex.org/W1542338001",
+                "https://openalex.org/W1513140821",
+                "https://openalex.org/W1499450814"
+            ],
+            "abstract_inverted_index": {
+                "As": [
+                    0
+                ],
+                "software": [
+                    1,
+                    30,
+                    36,
+                    51,
+                    87,
+                    121,
+                    241
+                ],
+                "systems": [
+                    2,
+                    218,
+                    252
+                ],
+                "become": [
+                    3
+                ],
+                "larger": [
+                    4
+                ],
+                "and": [
+                    5,
+                    90,
+                    94,
+                    101,
+                    132,
+                    155,
+                    170,
+                    233
+                ],
+                "more": [
+                    6
+                ],
+                "complex,": [
+                    7
+                ],
+                "developers": [
+                    8
+                ],
+                "require": [
+                    9
+                ],
+                "the": [
+                    10,
+                    20,
+                    27,
+                    33,
+                    60,
+                    77,
+                    111,
+                    116,
+                    141,
+                    180
+                ],
+                "ability": [
+                    11
+                ],
+                "to": [
+                    12,
+                    75,
+                    127,
+                    214
+                ],
+                "model": [
+                    13,
+                    186,
+                    200
+                ],
+                "abstract": [
+                    14
+                ],
+                "concepts": [
+                    15,
+                    163
+                ],
+                "while": [
+                    16
+                ],
+                "ensuring": [
+                    17
+                ],
+                "consistency": [
+                    18
+                ],
+                "across": [
+                    19,
+                    38
+                ],
+                "entire": [
+                    21
+                ],
+                "project.": [
+                    22
+                ],
+                "The": [
+                    23,
+                    113,
+                    162
+                ],
+                "internet": [
+                    24
+                ],
+                "has": [
+                    25,
+                    102
+                ],
+                "changed": [
+                    26
+                ],
+                "nature": [
+                    28
+                ],
+                "of": [
+                    29,
+                    80,
+                    110,
+                    143,
+                    164,
+                    182,
+                    239
+                ],
+                "by": [
+                    31
+                ],
+                "increasing": [
+                    32
+                ],
+                "desire": [
+                    34
+                ],
+                "for": [
+                    35,
+                    151,
+                    178,
+                    195,
+                    248
+                ],
+                "deployment": [
+                    37
+                ],
+                "multiple": [
+                    39
+                ],
+                "distributed": [
+                    40
+                ],
+                "platforms.": [
+                    41
+                ],
+                "Finally,": [
+                    42,
+                    192
+                ],
+                "increased": [
+                    43
+                ],
+                "dependence": [
+                    44
+                ],
+                "on": [
+                    45,
+                    107,
+                    204
+                ],
+                "technology": [
+                    46
+                ],
+                "requires": [
+                    47
+                ],
+                "assurance": [
+                    48
+                ],
+                "that": [
+                    49,
+                    216
+                ],
+                "designed": [
+                    50,
+                    74
+                ],
+                "will": [
+                    52,
+                    222
+                ],
+                "perform": [
+                    53
+                ],
+                "its": [
+                    54
+                ],
+                "intended": [
+                    55
+                ],
+                "function.": [
+                    56
+                ],
+                "This": [
+                    57
+                ],
+                "thesis": [
+                    58,
+                    114
+                ],
+                "introduces": [
+                    59
+                ],
+                "Formal": [
+                    61,
+                    263
+                ],
+                "Object": [
+                    62,
+                    264
+                ],
+                "Interaction": [
+                    63,
+                    265
+                ],
+                "Language": [
+                    64,
+                    266
+                ],
+                "(FOIL).": [
+                    65
+                ],
+                "FOIL": [
+                    66,
+                    84,
+                    120,
+                    147,
+                    184,
+                    189,
+                    198,
+                    205,
+                    221,
+                    228,
+                    244
+                ],
+                "is": [
+                    67,
+                    138,
+                    160,
+                    209,
+                    245
+                ],
+                "a": [
+                    68,
+                    97,
+                    108,
+                    183,
+                    188,
+                    193,
+                    197,
+                    202,
+                    212
+                ],
+                "new": [
+                    69
+                ],
+                "object-oriented": [
+                    70,
+                    217
+                ],
+                "modeling": [
+                    71,
+                    82,
+                    152,
+                    242
+                ],
+                "language": [
+                    72
+                ],
+                "specifically": [
+                    73
+                ],
+                "address": [
+                    76
+                ],
+                "cumulative": [
+                    78
+                ],
+                "shortcomings": [
+                    79
+                ],
+                "existing": [
+                    81
+                ],
+                "techniques.": [
+                    83,
+                    243
+                ],
+                "graphically": [
+                    85
+                ],
+                "displays": [
+                    86
+                ],
+                "structure,": [
+                    88
+                ],
+                "sequential": [
+                    89
+                ],
+                "concurrent": [
+                    91,
+                    153
+                ],
+                "behavior,": [
+                    92
+                ],
+                "process,": [
+                    93
+                ],
+                "interaction": [
+                    95
+                ],
+                "in": [
+                    96,
+                    118,
+                    220
+                ],
+                "simple": [
+                    98
+                ],
+                "unified": [
+                    99
+                ],
+                "notation,": [
+                    100
+                ],
+                "an": [
+                    103,
+                    176,
+                    236
+                ],
+                "algebraic": [
+                    104
+                ],
+                "representation": [
+                    105
+                ],
+                "based": [
+                    106,
+                    226,
+                    251
+                ],
+                "derivative": [
+                    109
+                ],
+                "-calculus.": [
+                    112
+                ],
+                "documents": [
+                    115
+                ],
+                "technique": [
+                    117,
+                    194
+                ],
+                "which": [
+                    119
+                ],
+                "models": [
+                    122
+                ],
+                "can": [
+                    123
+                ],
+                "be": [
+                    124
+                ],
+                "mathematically": [
+                    125
+                ],
+                "verified": [
+                    126
+                ],
+                "anticipate": [
+                    128
+                ],
+                "deadlocks,": [
+                    129
+                ],
+                "ensure": [
+                    130,
+                    215
+                ],
+                "consistency,": [
+                    131
+                ],
+                "determine": [
+                    133
+                ],
+                "object": [
+                    134,
+                    185,
+                    206
+                ],
+                "state": [
+                    135
+                ],
+                "reachability.": [
+                    136
+                ],
+                "Scalability": [
+                    137
+                ],
+                "offered": [
+                    139,
+                    210
+                ],
+                "through": [
+                    140
+                ],
+                "concept": [
+                    142
+                ],
+                "behavioral": [
+                    144,
+                    272
+                ],
+                "inheritance;": [
+                    145
+                ],
+                "and,": [
+                    146
+                ],
+                "s": [
+                    148,
+                    229
+                ],
+                "inherent": [
+                    149
+                ],
+                "support": [
+                    150
+                ],
+                "behavior": [
+                    154,
+                    250
+                ],
+                "all": [
+                    156
+                ],
+                "known": [
+                    157
+                ],
+                "workflow": [
+                    158
+                ],
+                "patterns": [
+                    159
+                ],
+                "demonstrated.": [
+                    161
+                ],
+                "process": [
+                    165,
+                    167,
+                    171,
+                    190,
+                    199,
+                    257,
+                    270
+                ],
+                "achievability,": [
+                    166,
+                    169
+                ],
+                "complete": [
+                    168,
+                    223
+                ],
+                "determinism": [
+                    172
+                ],
+                "are": [
+                    173,
+                    231
+                ],
+                "introduced": [
+                    174
+                ],
+                "with": [
+                    175,
+                    235
+                ],
+                "algorithm": [
+                    177
+                ],
+                "simulating": [
+                    179
+                ],
+                "execution": [
+                    181,
+                    208
+                ],
+                "using": [
+                    187,
+                    196
+                ],
+                "model.": [
+                    191
+                ],
+                "as": [
+                    201,
+                    211,
+                    254
+                ],
+                "constraint": [
+                    203
+                ],
+                "system": [
+                    207
+                ],
+                "method": [
+                    213
+                ],
+                "modeled": [
+                    219
+                ],
+                "their": [
+                    224
+                ],
+                "processes": [
+                    225
+                ],
+                "activities.": [
+                    227
+                ],
+                "capabilities": [
+                    230
+                ],
+                "compared": [
+                    232
+                ],
+                "contrasted": [
+                    234
+                ],
+                "extensive": [
+                    237
+                ],
+                "array": [
+                    238
+                ],
+                "current": [
+                    240
+                ],
+                "ideally": [
+                    246
+                ],
+                "suited": [
+                    247
+                ],
+                "data-aware,": [
+                    249
+                ],
+                "such": [
+                    253
+                ],
+                "interactive": [
+                    255
+                ],
+                "or": [
+                    256
+                ],
+                "management": [
+                    258
+                ],
+                "software.": [
+                    259
+                ],
+                "INDEX": [
+                    260
+                ],
+                "WORDS:": [
+                    261
+                ],
+                "object-orientation,": [
+                    262
+                ],
+                "(FOIL),": [
+                    267
+                ],
+                "concurrency,": [
+                    268
+                ],
+                "-calculus,": [
+                    269
+                ],
+                "verification,": [
+                    271
+                ],
+                "inheritance,": [
+                    273
+                ],
+                "formal": [
+                    274
+                ],
+                "methods": [
+                    275
+                ],
+                "FORMAL": [
+                    276
+                ],
+                "OBJECT": [
+                    277
+                ],
+                "INTERACTION": [
+                    278
+                ],
+                "LANGUAGE:": [
+                    279
+                ],
+                "MODELING": [
+                    280
+                ],
+                "AND": [
+                    281,
+                    285
+                ],
+                "VERIFICATION": [
+                    282
+                ],
+                "OF": [
+                    283
+                ],
+                "SEQUENTIAL": [
+                    284
+                ],
+                "CONCURRENT": [
+                    286
+                ],
+                "OBJECT-ORIENTED": [
+                    287
+                ],
+                "SOFTWARE": [
+                    288
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W137311235",
+            "counts_by_year": [],
+            "updated_date": "2024-09-19T22:24:48.059523",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1559272354",
+            "doi": "https://doi.org/10.1007/11428848_46",
+            "title": "A 3D User Interface for Visualizing Neuron Location in Invertebrate Ganglia",
+            "display_name": "A 3D User Interface for Visualizing Neuron Location in Invertebrate Ganglia",
+            "publication_year": 2005,
+            "publication_date": "2005-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1559272354",
+                "doi": "https://doi.org/10.1007/11428848_46",
+                "mag": "1559272354"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/11428848_46",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007/11428848_46.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://link.springer.com/content/pdf/10.1007/11428848_46.pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5057883155",
+                        "display_name": "Jason A. Pamplin",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I181565077",
+                            "display_name": "Georgia State University",
+                            "ror": "https://ror.org/03qt6ba18",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jason A. Pamplin",
+                    "raw_affiliation_strings": [
+                        "Departments of Computer Science, Georgia State University, Atlanta, Georgia, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Departments of Computer Science, Georgia State University, Atlanta, Georgia, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5083968726",
+                        "display_name": "Ying Zhu",
+                        "orcid": "https://orcid.org/0000-0002-9155-2315"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I181565077",
+                            "display_name": "Georgia State University",
+                            "ror": "https://ror.org/03qt6ba18",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ying Zhu",
+                    "raw_affiliation_strings": [
+                        "Departments of Computer Science, Georgia State University, Atlanta, Georgia, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Departments of Computer Science, Georgia State University, Atlanta, Georgia, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060658463",
+                        "display_name": "Paul S. Katz",
+                        "orcid": "https://orcid.org/0000-0003-0786-1287"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I181565077",
+                            "display_name": "Georgia State University",
+                            "ror": "https://ror.org/03qt6ba18",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paul S. Katz",
+                    "raw_affiliation_strings": [
+                        "Departments of Biology, Georgia State University, Atlanta, Georgia, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Departments of Biology, Georgia State University, Atlanta, Georgia, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5079063339",
+                        "display_name": "Rajshekhar Sunderraman",
+                        "orcid": "https://orcid.org/0000-0001-6822-6629"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I181565077",
+                            "display_name": "Georgia State University",
+                            "ror": "https://ror.org/03qt6ba18",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Rajshekhar Sunderraman",
+                    "raw_affiliation_strings": [
+                        "Departments of Computer Science, Georgia State University, Atlanta, Georgia, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Departments of Computer Science, Georgia State University, Atlanta, Georgia, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I181565077"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 61
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "347",
+                "last_page": "350"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10427",
+                "display_name": "Neural Mechanisms of Visual Perception and Processing",
+                "score": 0.9817,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2805",
+                    "display_name": "Cognitive Neuroscience"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/28",
+                    "display_name": "Neuroscience"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/1",
+                    "display_name": "Life Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10427",
+                    "display_name": "Neural Mechanisms of Visual Perception and Processing",
+                    "score": 0.9817,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2805",
+                        "display_name": "Cognitive Neuroscience"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/28",
+                        "display_name": "Neuroscience"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/1",
+                        "display_name": "Life Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12859",
+                    "display_name": "Advanced Techniques in Bioimage Analysis and Microscopy",
+                    "score": 0.9677,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1304",
+                        "display_name": "Biophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/13",
+                        "display_name": "Biochemistry, Genetics and Molecular Biology"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/1",
+                        "display_name": "Life Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10481",
+                    "display_name": "Computer Graphics and Visualization Techniques",
+                    "score": 0.9672,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.65482295
+                },
+                {
+                    "id": "https://openalex.org/keywords/visualization",
+                    "display_name": "Visualization",
+                    "score": 0.532757
+                },
+                {
+                    "id": "https://openalex.org/keywords/neuronal-morphology",
+                    "display_name": "Neuronal Morphology",
+                    "score": 0.526592
+                },
+                {
+                    "id": "https://openalex.org/keywords/neuronal-adaptation",
+                    "display_name": "Neuronal Adaptation",
+                    "score": 0.519388
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778794669",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43054",
+                    "display_name": "Neuron",
+                    "level": 2,
+                    "score": 0.6742943
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.65482295
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6133234
+                },
+                {
+                    "id": "https://openalex.org/C169760540",
+                    "wikidata": "https://www.wikidata.org/wiki/Q207011",
+                    "display_name": "Neuroscience",
+                    "level": 1,
+                    "score": 0.5248078
+                },
+                {
+                    "id": "https://openalex.org/C107457646",
+                    "wikidata": "https://www.wikidata.org/wiki/Q207434",
+                    "display_name": "Human–computer interaction",
+                    "level": 1,
+                    "score": 0.32400936
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.26218125
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1007/11428848_46",
+                    "pdf_url": "https://link.springer.com/content/pdf/10.1007/11428848_46.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/11428848_46",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007/11428848_46.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 12,
+            "referenced_works": [
+                "https://openalex.org/W1562882904",
+                "https://openalex.org/W1964955838",
+                "https://openalex.org/W1975111110",
+                "https://openalex.org/W2034362312",
+                "https://openalex.org/W2035415121",
+                "https://openalex.org/W2088875936",
+                "https://openalex.org/W2089725657",
+                "https://openalex.org/W2143736779",
+                "https://openalex.org/W2317664972",
+                "https://openalex.org/W2319937903",
+                "https://openalex.org/W3127623214",
+                "https://openalex.org/W589447788"
+            ],
+            "related_works": [
+                "https://openalex.org/W2949058385",
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2751847892",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2402203479",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2001405890",
+                "https://openalex.org/W1967474012"
+            ],
+            "abstract_inverted_index": {
+                "Invertebrate": [
+                    0
+                ],
+                "nervous": [
+                    1
+                ],
+                "systems": [
+                    2
+                ],
+                "serve": [
+                    3
+                ],
+                "as": [
+                    4
+                ],
+                "important": [
+                    5
+                ],
+                "models": [
+                    6
+                ],
+                "for": [
+                    7,
+                    50
+                ],
+                "neuroscience": [
+                    8
+                ],
+                "research": [
+                    9
+                ],
+                "because": [
+                    10
+                ],
+                "they": [
+                    11
+                ],
+                "are": [
+                    12
+                ],
+                "comprised": [
+                    13
+                ],
+                "of": [
+                    14,
+                    18,
+                    27,
+                    30,
+                    86,
+                    103
+                ],
+                "relatively": [
+                    15
+                ],
+                "small": [
+                    16
+                ],
+                "numbers": [
+                    17
+                ],
+                "individually": [
+                    19
+                ],
+                "identified": [
+                    20
+                ],
+                "neurons.": [
+                    21
+                ],
+                "There": [
+                    22
+                ],
+                "is": [
+                    23,
+                    80
+                ],
+                "no": [
+                    24
+                ],
+                "universal": [
+                    25
+                ],
+                "means": [
+                    26
+                ],
+                "documenting": [
+                    28,
+                    53
+                ],
+                "locations": [
+                    29,
+                    70
+                ],
+                "individual": [
+                    31,
+                    97
+                ],
+                "neurons": [
+                    32
+                ],
+                "that": [
+                    33,
+                    63,
+                    82,
+                    94
+                ],
+                "allows": [
+                    34,
+                    64
+                ],
+                "variability": [
+                    35,
+                    98
+                ],
+                "between": [
+                    36
+                ],
+                "specimens": [
+                    37
+                ],
+                "and": [
+                    38,
+                    52,
+                    101
+                ],
+                "can": [
+                    39
+                ],
+                "be": [
+                    40
+                ],
+                "generalized": [
+                    41
+                ],
+                "to": [
+                    42,
+                    66
+                ],
+                "different": [
+                    43
+                ],
+                "species.": [
+                    44
+                ],
+                "We": [
+                    45
+                ],
+                "present": [
+                    46
+                ],
+                "a": [
+                    47,
+                    59,
+                    72,
+                    87,
+                    90
+                ],
+                "new": [
+                    48,
+                    77
+                ],
+                "technique": [
+                    49
+                ],
+                "visualizing": [
+                    51
+                ],
+                "neuron": [
+                    54,
+                    69,
+                    88
+                ],
+                "location.": [
+                    55
+                ],
+                "First,": [
+                    56
+                ],
+                "we": [
+                    57
+                ],
+                "describe": [
+                    58
+                ],
+                "3D": [
+                    60,
+                    73
+                ],
+                "user": [
+                    61
+                ],
+                "interface": [
+                    62
+                ],
+                "neuroscientists": [
+                    65
+                ],
+                "directly": [
+                    67
+                ],
+                "mark": [
+                    68
+                ],
+                "on": [
+                    71
+                ],
+                "deformable": [
+                    74
+                ],
+                "model.": [
+                    75
+                ],
+                "A": [
+                    76
+                ],
+                "mapping": [
+                    78
+                ],
+                "scheme": [
+                    79
+                ],
+                "proposed": [
+                    81
+                ],
+                "specifies": [
+                    83
+                ],
+                "the": [
+                    84,
+                    96
+                ],
+                "location": [
+                    85
+                ],
+                "in": [
+                    89,
+                    99
+                ],
+                "common": [
+                    91
+                ],
+                "coordinate": [
+                    92
+                ],
+                "system": [
+                    93
+                ],
+                "accommodates": [
+                    95
+                ],
+                "size": [
+                    100
+                ],
+                "shape": [
+                    102
+                ],
+                "ganglia.": [
+                    104
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1559272354",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T20:01:39.600659",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

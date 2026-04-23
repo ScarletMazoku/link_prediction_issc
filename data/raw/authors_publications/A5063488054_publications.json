@@ -1,0 +1,5018 @@
+{
+    "meta": {
+        "count": 7,
+        "db_response_time_ms": 176,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W1582429126",
+            "doi": "https://doi.org/10.1007/978-3-540-27866-5_112",
+            "title": "Implementing MPI on the BlueGene/L Supercomputer",
+            "display_name": "Implementing MPI on the BlueGene/L Supercomputer",
+            "publication_year": 2004,
+            "publication_date": "2004-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1582429126",
+                "doi": "https://doi.org/10.1007/978-3-540-27866-5_112",
+                "mag": "1582429126"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/978-3-540-27866-5_112",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-540-27866-5_112.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-540-27866-5_112.pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5084240918",
+                        "display_name": "George Almási",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "George Almási",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054252802",
+                        "display_name": "Charles J Archer",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Charles Archer",
+                    "raw_affiliation_strings": [
+                        "IBM Systems Group, Rochester, MN, 55901, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Systems Group, Rochester, MN, 55901, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5041262294",
+                        "display_name": "José G. Castaños",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "José G. Castaños",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5033733407",
+                        "display_name": "C. Chris Erway",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "C. Chris Erway",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5062754428",
+                        "display_name": "Philip Heidelberger",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Philip Heidelberger",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074097057",
+                        "display_name": "Xavier Martorell",
+                        "orcid": "https://orcid.org/0000-0002-0417-3430"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Xavier Martorell",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055326969",
+                        "display_name": "José E. Moreira",
+                        "orcid": "https://orcid.org/0000-0001-7029-6327"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "José E. Moreira",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081374074",
+                        "display_name": "K. W. Pinnow",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kurt Pinnow",
+                    "raw_affiliation_strings": [
+                        "IBM Systems Group, Rochester, MN, 55901, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Systems Group, Rochester, MN, 55901, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5015044078",
+                        "display_name": "Joseph Ratterman",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Joe Ratterman",
+                    "raw_affiliation_strings": [
+                        "IBM Systems Group, Rochester, MN, 55901, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Systems Group, Rochester, MN, 55901, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nils Smeds",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003059532",
+                        "display_name": "Burkhard Steinmacher-Burow",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Burkhard Steinmacher-burow",
+                    "raw_affiliation_strings": [
+                        "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Thomas J. Watson Research Center, Yorktown Heights, NY, 10598-0218, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5017241944",
+                        "display_name": "William Gropp",
+                        "orcid": "https://orcid.org/0000-0003-2905-3029"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "William Gropp",
+                    "raw_affiliation_strings": [
+                        "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5021373637",
+                        "display_name": "Brian Toonen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1282105669",
+                            "display_name": "Argonne National Laboratory",
+                            "ror": "https://ror.org/05gvnxz63",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1282105669",
+                                "https://openalex.org/I1330989302",
+                                "https://openalex.org/I39565521",
+                                "https://openalex.org/I40347166"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Brian Toonen",
+                    "raw_affiliation_strings": [
+                        "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, IL, 60439, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I1282105669"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 4.325,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 33,
+            "citation_normalized_percentile": {
+                "value": 0.964066,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 90,
+                "max": 91
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "833",
+                "last_page": "845"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10829",
+                    "display_name": "Networks on Chip in System-on-Chip Design",
+                    "score": 0.9993,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9974,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/multicore-architectures",
+                    "display_name": "Multicore Architectures",
+                    "score": 0.526982
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.508338
+                },
+                {
+                    "id": "https://openalex.org/keywords/multi-core-processors",
+                    "display_name": "Multi-core Processors",
+                    "score": 0.50722
+                },
+                {
+                    "id": "https://openalex.org/keywords/power-optimization",
+                    "display_name": "Power Optimization",
+                    "score": 0.50667
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.503913
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8502761
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.8318184
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.7569569
+                },
+                {
+                    "id": "https://openalex.org/C854659",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1859284",
+                    "display_name": "Message passing",
+                    "level": 2,
+                    "score": 0.52019167
+                },
+                {
+                    "id": "https://openalex.org/C62611344",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1062658",
+                    "display_name": "Node (physics)",
+                    "level": 2,
+                    "score": 0.4949805
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.36442208
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-540-27866-5_112",
+                    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-540-27866-5_112.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/978-3-540-27866-5_112",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-540-27866-5_112.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 16,
+            "referenced_works": [
+                "https://openalex.org/W10909701",
+                "https://openalex.org/W1501525194",
+                "https://openalex.org/W1560511712",
+                "https://openalex.org/W1589918049",
+                "https://openalex.org/W1624897526",
+                "https://openalex.org/W1967800745",
+                "https://openalex.org/W1971952282",
+                "https://openalex.org/W1984195798",
+                "https://openalex.org/W2035443650",
+                "https://openalex.org/W2109707129",
+                "https://openalex.org/W2112121929",
+                "https://openalex.org/W2154207621",
+                "https://openalex.org/W2155066383",
+                "https://openalex.org/W2561675875",
+                "https://openalex.org/W2903691225",
+                "https://openalex.org/W3172448017"
+            ],
+            "related_works": [
+                "https://openalex.org/W4235217501",
+                "https://openalex.org/W2362269215",
+                "https://openalex.org/W1975102933",
+                "https://openalex.org/W1971506073",
+                "https://openalex.org/W1878988619",
+                "https://openalex.org/W1591171990",
+                "https://openalex.org/W1571195744",
+                "https://openalex.org/W1569109055",
+                "https://openalex.org/W1497335089",
+                "https://openalex.org/W148823471"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "BlueGene/L": [
+                    1,
+                    65
+                ],
+                "supercomputer": [
+                    2
+                ],
+                "will": [
+                    3
+                ],
+                "consist": [
+                    4
+                ],
+                "of": [
+                    5,
+                    50,
+                    64,
+                    72,
+                    94,
+                    98,
+                    100,
+                    107,
+                    110
+                ],
+                "65,536": [
+                    6
+                ],
+                "dual-processor": [
+                    7
+                ],
+                "compute": [
+                    8,
+                    25,
+                    130
+                ],
+                "nodes": [
+                    9
+                ],
+                "interconnected": [
+                    10
+                ],
+                "by": [
+                    11,
+                    81,
+                    121
+                ],
+                "two": [
+                    12,
+                    126
+                ],
+                "high-speed": [
+                    13
+                ],
+                "networks:": [
+                    14
+                ],
+                "a": [
+                    15,
+                    20,
+                    111,
+                    134
+                ],
+                "three-dimensional": [
+                    16
+                ],
+                "torus": [
+                    17
+                ],
+                "network": [
+                    18
+                ],
+                "and": [
+                    19,
+                    89
+                ],
+                "tree": [
+                    21
+                ],
+                "topology": [
+                    22
+                ],
+                "network.": [
+                    23
+                ],
+                "Each": [
+                    24
+                ],
+                "node": [
+                    26,
+                    112,
+                    131
+                ],
+                "can": [
+                    27,
+                    132
+                ],
+                "only": [
+                    28
+                ],
+                "address": [
+                    29
+                ],
+                "its": [
+                    30
+                ],
+                "own": [
+                    31
+                ],
+                "local": [
+                    32
+                ],
+                "memory,": [
+                    33
+                ],
+                "making": [
+                    34
+                ],
+                "message": [
+                    35
+                ],
+                "passing": [
+                    36
+                ],
+                "the": [
+                    37,
+                    61,
+                    86,
+                    91,
+                    95,
+                    108,
+                    118
+                ],
+                "natural": [
+                    38
+                ],
+                "programming": [
+                    39
+                ],
+                "model": [
+                    40
+                ],
+                "for": [
+                    41,
+                    52
+                ],
+                "BlueGene/L.": [
+                    42,
+                    53,
+                    101
+                ],
+                "In": [
+                    43,
+                    54
+                ],
+                "this": [
+                    44,
+                    75
+                ],
+                "paper": [
+                    45
+                ],
+                "we": [
+                    46,
+                    56,
+                    59
+                ],
+                "present": [
+                    47
+                ],
+                "our": [
+                    48,
+                    79
+                ],
+                "implementation": [
+                    49,
+                    71
+                ],
+                "MPI": [
+                    51,
+                    73,
+                    83,
+                    122,
+                    127
+                ],
+                "particular,": [
+                    55
+                ],
+                "discuss": [
+                    57
+                ],
+                "how": [
+                    58
+                ],
+                "leveraged": [
+                    60
+                ],
+                "architectural": [
+                    62
+                ],
+                "features": [
+                    63
+                ],
+                "to": [
+                    66,
+                    113
+                ],
+                "arrive": [
+                    67
+                ],
+                "at": [
+                    68
+                ],
+                "an": [
+                    69
+                ],
+                "efficient": [
+                    70
+                ],
+                "in": [
+                    74
+                ],
+                "machine.": [
+                    76
+                ],
+                "We": [
+                    77,
+                    102
+                ],
+                "validate": [
+                    78
+                ],
+                "approach": [
+                    80
+                ],
+                "comparing": [
+                    82
+                ],
+                "performance": [
+                    84,
+                    93
+                ],
+                "against": [
+                    85
+                ],
+                "hardware": [
+                    87
+                ],
+                "limits": [
+                    88
+                ],
+                "also": [
+                    90
+                ],
+                "relative": [
+                    92
+                ],
+                "different": [
+                    96
+                ],
+                "modes": [
+                    97
+                ],
+                "operation": [
+                    99
+                ],
+                "show": [
+                    103
+                ],
+                "that": [
+                    104
+                ],
+                "dedicating": [
+                    105
+                ],
+                "one": [
+                    106
+                ],
+                "processors": [
+                    109
+                ],
+                "communication": [
+                    114
+                ],
+                "functions": [
+                    115
+                ],
+                "greatly": [
+                    116
+                ],
+                "improves": [
+                    117
+                ],
+                "bandwidth": [
+                    119
+                ],
+                "achieved": [
+                    120
+                ],
+                "operation,": [
+                    123
+                ],
+                "whereas": [
+                    124
+                ],
+                "running": [
+                    125
+                ],
+                "tasks": [
+                    128
+                ],
+                "per": [
+                    129
+                ],
+                "have": [
+                    133
+                ],
+                "positive": [
+                    135
+                ],
+                "impact": [
+                    136
+                ],
+                "on": [
+                    137
+                ],
+                "application": [
+                    138
+                ],
+                "performance.": [
+                    139
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1582429126",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-08-31T13:24:54.966401",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2032212943",
+            "doi": "https://doi.org/10.1147/rd.492.0407",
+            "title": "Blue Gene/L performance tools",
+            "display_name": "Blue Gene/L performance tools",
+            "publication_year": 2005,
+            "publication_date": "2005-03-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2032212943",
+                "doi": "https://doi.org/10.1147/rd.492.0407",
+                "mag": "2032212943"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1147/rd.492.0407",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210219925",
+                    "display_name": "IBM Journal of Research and Development",
+                    "issn_l": "0018-8646",
+                    "issn": [
+                        "0018-8646",
+                        "2151-8556"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320652",
+                    "host_organization_name": "IBM",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320652"
+                    ],
+                    "host_organization_lineage_names": [
+                        "IBM"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5074097057",
+                        "display_name": "Xavier Martorell",
+                        "orcid": "https://orcid.org/0000-0002-0417-3430"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I9617848",
+                            "display_name": "Universitat Politècnica de Catalunya",
+                            "ror": "https://ror.org/03mb6wj31",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "X. Martorell",
+                    "raw_affiliation_strings": [
+                        "Technical Univ. of Catalonia; Barcelona Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Technical Univ. of Catalonia; Barcelona Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I86987016",
+                            "display_name": "KTH Royal Institute of Technology",
+                            "ror": "https://ror.org/026vcq606",
+                            "country_code": "SE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "N. Smeds",
+                    "raw_affiliation_strings": [
+                        "Center for Parallel Computers, Royal Institute of Technology, Stockholm, Sweden#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Center for Parallel Computers, Royal Institute of Technology, Stockholm, Sweden#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5074246753",
+                        "display_name": "R. E. Walkup",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "R. Walkup",
+                    "raw_affiliation_strings": [
+                        "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5068155838",
+                        "display_name": "José R. Brunheroto",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. R. Brunheroto",
+                    "raw_affiliation_strings": [
+                        "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5019698198",
+                        "display_name": "Gheorghe Almási",
+                        "orcid": "https://orcid.org/0009-0005-3879-6870"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "G. Almasi",
+                    "raw_affiliation_strings": [
+                        "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5062279572",
+                        "display_name": "John A. Gunnels",
+                        "orcid": "https://orcid.org/0000-0001-5110-190X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210114115",
+                            "display_name": "IBM Research - Thomas J. Watson Research Center",
+                            "ror": "https://ror.org/0265w5591",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I1341412227",
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. A. Gunnels",
+                    "raw_affiliation_strings": [
+                        "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, New York]",
+                            "institution_ids": [
+                                "https://openalex.org/I4210114115"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5021107713",
+                        "display_name": "Luiz DeRose",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "L. DeRose",
+                    "raw_affiliation_strings": [
+                        "Cray Inc., Mendota Heights, Minnesota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Cray Inc., Mendota Heights, Minnesota",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5035035680",
+                        "display_name": "Jesüs Labarta",
+                        "orcid": "https://orcid.org/0000-0002-7489-4727"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I9617848",
+                            "display_name": "Universitat Politècnica de Catalunya",
+                            "ror": "https://ror.org/03mb6wj31",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. Labarta",
+                    "raw_affiliation_strings": [
+                        "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075066668",
+                        "display_name": "Francesc Escalé",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I9617848",
+                            "display_name": "Universitat Politècnica de Catalunya",
+                            "ror": "https://ror.org/03mb6wj31",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "F. Escale",
+                    "raw_affiliation_strings": [
+                        "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5078395863",
+                        "display_name": "Judit Giménez",
+                        "orcid": "https://orcid.org/0000-0002-2501-2791"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I9617848",
+                            "display_name": "Universitat Politècnica de Catalunya",
+                            "ror": "https://ror.org/03mb6wj31",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. Gimenez",
+                    "raw_affiliation_strings": [
+                        "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020803209",
+                        "display_name": "Harald Servat",
+                        "orcid": "https://orcid.org/0000-0002-0144-7934"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I9617848",
+                            "display_name": "Universitat Politècnica de Catalunya",
+                            "ror": "https://ror.org/03mb6wj31",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "H. Servat",
+                    "raw_affiliation_strings": [
+                        "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "European Center For Parallelism of Barcelona, Technical University of Catalonia, Barcelona, Spain#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I9617848"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5055326969",
+                        "display_name": "José E. Moreira",
+                        "orcid": "https://orcid.org/0000-0001-7029-6327"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. E. Moreira",
+                    "raw_affiliation_strings": [
+                        "IBM Systems and Technology Group, Rochester, Minnesota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Systems and Technology Group, Rochester, Minnesota",
+                            "institution_ids": []
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 3,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 3.033,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 9,
+            "citation_normalized_percentile": {
+                "value": 0.759662,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 82
+            },
+            "biblio": {
+                "volume": "49",
+                "issue": "2.3",
+                "first_page": "407",
+                "last_page": "424"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10829",
+                    "display_name": "Networks on Chip in System-on-Chip Design",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9971,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/trace",
+                    "display_name": "TRACE (psycholinguistics)",
+                    "score": 0.73663324
+                },
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.70117927
+                },
+                {
+                    "id": "https://openalex.org/keywords/graphical-user-interface",
+                    "display_name": "Graphical user interface",
+                    "score": 0.57251436
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.554075
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-evaluation",
+                    "display_name": "Performance Evaluation",
+                    "score": 0.552124
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.526721
+                },
+                {
+                    "id": "https://openalex.org/keywords/power-optimization",
+                    "display_name": "Power Optimization",
+                    "score": 0.502512
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.500315
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.81263244
+                },
+                {
+                    "id": "https://openalex.org/C75291252",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1315756",
+                    "display_name": "TRACE (psycholinguistics)",
+                    "level": 2,
+                    "score": 0.73663324
+                },
+                {
+                    "id": "https://openalex.org/C62611344",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1062658",
+                    "display_name": "Node (physics)",
+                    "level": 2,
+                    "score": 0.7047131
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.70117927
+                },
+                {
+                    "id": "https://openalex.org/C854659",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1859284",
+                    "display_name": "Message passing",
+                    "level": 2,
+                    "score": 0.633807
+                },
+                {
+                    "id": "https://openalex.org/C192209626",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190909",
+                    "display_name": "Focus (optics)",
+                    "level": 2,
+                    "score": 0.6325883
+                },
+                {
+                    "id": "https://openalex.org/C83283714",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121117",
+                    "display_name": "Supercomputer",
+                    "level": 2,
+                    "score": 0.6219529
+                },
+                {
+                    "id": "https://openalex.org/C12713177",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+                    "display_name": "Perspective (graphical)",
+                    "level": 2,
+                    "score": 0.5732459
+                },
+                {
+                    "id": "https://openalex.org/C37789001",
+                    "wikidata": "https://www.wikidata.org/wiki/Q782543",
+                    "display_name": "Graphical user interface",
+                    "level": 2,
+                    "score": 0.57251436
+                },
+                {
+                    "id": "https://openalex.org/C136197465",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1729295",
+                    "display_name": "Variety (cybernetics)",
+                    "level": 2,
+                    "score": 0.5644228
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.39868832
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.32095453
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.27421436
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.08797747
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.07093251
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C120665830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q14620",
+                    "display_name": "Optics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1147/rd.492.0407",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210219925",
+                        "display_name": "IBM Journal of Research and Development",
+                        "issn_l": "0018-8646",
+                        "issn": [
+                            "0018-8646",
+                            "2151-8556"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320652",
+                        "host_organization_name": "IBM",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320652"
+                        ],
+                        "host_organization_lineage_names": [
+                            "IBM"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 17,
+            "referenced_works": [
+                "https://openalex.org/W153274108",
+                "https://openalex.org/W1574170635",
+                "https://openalex.org/W1582429126",
+                "https://openalex.org/W192428288",
+                "https://openalex.org/W1967800745",
+                "https://openalex.org/W1971952282",
+                "https://openalex.org/W2026340872",
+                "https://openalex.org/W2035443650",
+                "https://openalex.org/W2038469228",
+                "https://openalex.org/W2062630098",
+                "https://openalex.org/W2080035108",
+                "https://openalex.org/W2097892280",
+                "https://openalex.org/W2098984303",
+                "https://openalex.org/W2109707129",
+                "https://openalex.org/W2154207621",
+                "https://openalex.org/W2155066383",
+                "https://openalex.org/W2172207627"
+            ],
+            "related_works": [
+                "https://openalex.org/W3214280620",
+                "https://openalex.org/W3191490922",
+                "https://openalex.org/W2794038527",
+                "https://openalex.org/W2765823764",
+                "https://openalex.org/W2523801036",
+                "https://openalex.org/W2384867379",
+                "https://openalex.org/W2329539859",
+                "https://openalex.org/W2227905990",
+                "https://openalex.org/W2151092287",
+                "https://openalex.org/W2079244304"
+            ],
+            "abstract_inverted_index": {
+                "Good": [
+                    0
+                ],
+                "performance": [
+                    1,
+                    8,
+                    21,
+                    39,
+                    43,
+                    66
+                ],
+                "monitoring": [
+                    2
+                ],
+                "is": [
+                    3,
+                    108
+                ],
+                "the": [
+                    4,
+                    25,
+                    64,
+                    72,
+                    117,
+                    122
+                ],
+                "basis": [
+                    5
+                ],
+                "of": [
+                    6,
+                    19,
+                    119,
+                    135
+                ],
+                "modern": [
+                    7
+                ],
+                "analysis": [
+                    9,
+                    22
+                ],
+                "tools": [
+                    10,
+                    23,
+                    31,
+                    40,
+                    84,
+                    93,
+                    114
+                ],
+                "for": [
+                    11,
+                    24,
+                    68
+                ],
+                "application": [
+                    12,
+                    136
+                ],
+                "optimization.": [
+                    13,
+                    137
+                ],
+                "We": [
+                    14
+                ],
+                "are": [
+                    15
+                ],
+                "providing": [
+                    16
+                ],
+                "a": [
+                    17,
+                    46,
+                    78,
+                    102
+                ],
+                "variety": [
+                    18
+                ],
+                "such": [
+                    20,
+                    55
+                ],
+                "new": [
+                    26
+                ],
+                "Blue": [
+                    27,
+                    73
+                ],
+                "Gene®/L": [
+                    28
+                ],
+                "supercomputer.": [
+                    29
+                ],
+                "Those": [
+                    30,
+                    92
+                ],
+                "can": [
+                    32
+                ],
+                "be": [
+                    33
+                ],
+                "divided": [
+                    34
+                ],
+                "into": [
+                    35
+                ],
+                "two": [
+                    36
+                ],
+                "categories:": [
+                    37
+                ],
+                "single-node": [
+                    38,
+                    47
+                ],
+                "and": [
+                    41,
+                    53,
+                    58,
+                    130
+                ],
+                "multinode": [
+                    42,
+                    79
+                ],
+                "tools.": [
+                    44
+                ],
+                "From": [
+                    45,
+                    77
+                ],
+                "perspective,": [
+                    48,
+                    80
+                ],
+                "we": [
+                    49,
+                    81,
+                    126
+                ],
+                "provide": [
+                    50,
+                    61
+                ],
+                "standard": [
+                    51
+                ],
+                "interfaces": [
+                    52
+                ],
+                "libraries,": [
+                    54
+                ],
+                "as": [
+                    56
+                ],
+                "PAPI": [
+                    57
+                ],
+                "libHPM,": [
+                    59
+                ],
+                "that": [
+                    60,
+                    85,
+                    115
+                ],
+                "access": [
+                    62
+                ],
+                "to": [
+                    63
+                ],
+                "hardware": [
+                    65
+                ],
+                "counters": [
+                    67
+                ],
+                "applications": [
+                    69
+                ],
+                "running": [
+                    70
+                ],
+                "on": [
+                    71,
+                    83
+                ],
+                "Gene/L": [
+                    74
+                ],
+                "compute": [
+                    75
+                ],
+                "nodes.": [
+                    76
+                ],
+                "focus": [
+                    82
+                ],
+                "analyze": [
+                    86,
+                    116
+                ],
+                "Message": [
+                    87
+                ],
+                "Passing": [
+                    88
+                ],
+                "Interface": [
+                    89
+                ],
+                "(MPI)": [
+                    90
+                ],
+                "behavior.": [
+                    91
+                ],
+                "work": [
+                    94
+                ],
+                "by": [
+                    95,
+                    111
+                ],
+                "first": [
+                    96
+                ],
+                "collecting": [
+                    97
+                ],
+                "message-passing": [
+                    98
+                ],
+                "trace": [
+                    99,
+                    106
+                ],
+                "data": [
+                    100,
+                    107
+                ],
+                "when": [
+                    101
+                ],
+                "program": [
+                    103
+                ],
+                "runs.": [
+                    104
+                ],
+                "The": [
+                    105
+                ],
+                "then": [
+                    109
+                ],
+                "used": [
+                    110
+                ],
+                "graphical": [
+                    112
+                ],
+                "interface": [
+                    113
+                ],
+                "behavior": [
+                    118
+                ],
+                "applications.": [
+                    120
+                ],
+                "Using": [
+                    121
+                ],
+                "current": [
+                    123
+                ],
+                "prototype": [
+                    124
+                ],
+                "tools,": [
+                    125
+                ],
+                "demonstrate": [
+                    127
+                ],
+                "their": [
+                    128
+                ],
+                "usefulness": [
+                    129
+                ],
+                "applicability": [
+                    131
+                ],
+                "with": [
+                    132
+                ],
+                "case": [
+                    133
+                ],
+                "studies": [
+                    134
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2032212943",
+            "counts_by_year": [],
+            "updated_date": "2024-09-13T00:14:41.589201",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1812407047",
+            "doi": "https://doi.org/10.1007/3-540-45009-2_20",
+            "title": "OpenMP Application Tuning Using Hardware Performance Counters",
+            "display_name": "OpenMP Application Tuning Using Hardware Performance Counters",
+            "publication_year": 2003,
+            "publication_date": "2003-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1812407047",
+                "doi": "https://doi.org/10.1007/3-540-45009-2_20",
+                "mag": "1812407047"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/3-540-45009-2_20",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I86987016",
+                            "display_name": "KTH Royal Institute of Technology",
+                            "ror": "https://ror.org/026vcq606",
+                            "country_code": "SE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Nils Smeds",
+                    "raw_affiliation_strings": [
+                        "Parallelldatorcentrum (PDC), Royal Institute of Technology, SE100 44, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Parallelldatorcentrum (PDC), Royal Institute of Technology, SE100 44, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I86987016"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5063488054"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I86987016"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 4,
+            "citation_normalized_percentile": {
+                "value": 0.625,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 72,
+                "max": 74
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "260",
+                "last_page": "270"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11044",
+                    "display_name": "Advancements in Particle Detector Technology",
+                    "score": 0.9776,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3106",
+                        "display_name": "Nuclear and High Energy Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.536941
+                },
+                {
+                    "id": "https://openalex.org/keywords/benchmarking",
+                    "display_name": "Benchmarking",
+                    "score": 0.529318
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.512082
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.503557
+                },
+                {
+                    "id": "https://openalex.org/keywords/test-suite",
+                    "display_name": "Test suite",
+                    "score": 0.43084598
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8854998
+                },
+                {
+                    "id": "https://openalex.org/C79581498",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1367530",
+                    "display_name": "Suite",
+                    "level": 2,
+                    "score": 0.75400126
+                },
+                {
+                    "id": "https://openalex.org/C9390403",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3966",
+                    "display_name": "Computer hardware",
+                    "level": 1,
+                    "score": 0.5695043
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.44781446
+                },
+                {
+                    "id": "https://openalex.org/C151552104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7705809",
+                    "display_name": "Test suite",
+                    "level": 4,
+                    "score": 0.43084598
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.3983237
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.3885095
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.33815825
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.32931757
+                },
+                {
+                    "id": "https://openalex.org/C128942645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1568346",
+                    "display_name": "Test case",
+                    "level": 3,
+                    "score": 0.124770135
+                },
+                {
+                    "id": "https://openalex.org/C152877465",
+                    "wikidata": "https://www.wikidata.org/wiki/Q208042",
+                    "display_name": "Regression analysis",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C95457728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q309",
+                    "display_name": "History",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/3-540-45009-2_20",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 3,
+            "referenced_works": [
+                "https://openalex.org/W1965351873",
+                "https://openalex.org/W2125955291",
+                "https://openalex.org/W39495715"
+            ],
+            "related_works": [
+                "https://openalex.org/W608917066",
+                "https://openalex.org/W4379115841",
+                "https://openalex.org/W4283652261",
+                "https://openalex.org/W4231704780",
+                "https://openalex.org/W4200340037",
+                "https://openalex.org/W352609212",
+                "https://openalex.org/W3204955359",
+                "https://openalex.org/W2083794993",
+                "https://openalex.org/W1511772879",
+                "https://openalex.org/W1485837041"
+            ],
+            "abstract_inverted_index": {
+                "Hardware": [
+                    0
+                ],
+                "counter": [
+                    1
+                ],
+                "events": [
+                    2,
+                    44,
+                    59
+                ],
+                "on": [
+                    3,
+                    53,
+                    87
+                ],
+                "some": [
+                    4,
+                    75
+                ],
+                "popular": [
+                    5
+                ],
+                "architectures": [
+                    6
+                ],
+                "were": [
+                    7,
+                    49,
+                    84
+                ],
+                "investigated": [
+                    8,
+                    55
+                ],
+                "with": [
+                    9
+                ],
+                "the": [
+                    10,
+                    35,
+                    46,
+                    54,
+                    81,
+                    88
+                ],
+                "purpose": [
+                    11,
+                    48
+                ],
+                "of": [
+                    12,
+                    15,
+                    41
+                ],
+                "detecting": [
+                    13
+                ],
+                "bottle-necks": [
+                    14
+                ],
+                "particular": [
+                    16
+                ],
+                "interest": [
+                    17
+                ],
+                "to": [
+                    18,
+                    51
+                ],
+                "shared": [
+                    19
+                ],
+                "memory": [
+                    20
+                ],
+                "programming,": [
+                    21
+                ],
+                "such": [
+                    22
+                ],
+                "as": [
+                    23
+                ],
+                "OpenMP.": [
+                    24
+                ],
+                "A": [
+                    25
+                ],
+                "fully": [
+                    26
+                ],
+                "portable": [
+                    27
+                ],
+                "test": [
+                    28
+                ],
+                "suite": [
+                    29
+                ],
+                "was": [
+                    30
+                ],
+                "written": [
+                    31
+                ],
+                "in": [
+                    32,
+                    61,
+                    80
+                ],
+                "OpenMP,": [
+                    33
+                ],
+                "accessing": [
+                    34
+                ],
+                "hardware": [
+                    36
+                ],
+                "performance": [
+                    37
+                ],
+                "counters": [
+                    38
+                ],
+                "be": [
+                    39,
+                    64
+                ],
+                "means": [
+                    40
+                ],
+                "PAPI.": [
+                    42
+                ],
+                "Relevant": [
+                    43
+                ],
+                "for": [
+                    45,
+                    78
+                ],
+                "intended": [
+                    47
+                ],
+                "shown": [
+                    50
+                ],
+                "exist": [
+                    52
+                ],
+                "platforms.": [
+                    56
+                ],
+                "Further,": [
+                    57
+                ],
+                "these": [
+                    58
+                ],
+                "could": [
+                    60
+                ],
+                "most": [
+                    62
+                ],
+                "cases": [
+                    63,
+                    76
+                ],
+                "accessed": [
+                    65
+                ],
+                "directly": [
+                    66
+                ],
+                "through": [
+                    67
+                ],
+                "their": [
+                    68
+                ],
+                "platform": [
+                    69
+                ],
+                "independent,": [
+                    70
+                ],
+                "PAPI": [
+                    71
+                ],
+                "pre-defined,": [
+                    72
+                ],
+                "names.": [
+                    73
+                ],
+                "In": [
+                    74
+                ],
+                "suggestions": [
+                    77
+                ],
+                "improvement": [
+                    79
+                ],
+                "pre-defined": [
+                    82
+                ],
+                "mapping": [
+                    83
+                ],
+                "made": [
+                    85
+                ],
+                "based": [
+                    86
+                ],
+                "experiments.": [
+                    89
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1812407047",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T04:24:39.036493",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W413329328",
+            "doi": null,
+            "title": "Performance monitoring with PAPI : Using the performance application programming interface",
+            "display_name": "Performance monitoring with PAPI : Using the performance application programming interface",
+            "publication_year": 2005,
+            "publication_date": "2005-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W413329328",
+                "mag": "413329328"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2:768850",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5010850957",
+                        "display_name": "P. Mucci",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "P. Mucci",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nils Smeds",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5028583028",
+                        "display_name": "P. Ekman",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "P. Ekman",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 61,
+                "max": 68
+            },
+            "biblio": {
+                "volume": "30",
+                "issue": "6",
+                "first_page": "55",
+                "last_page": "60"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12127",
+                "display_name": "Log Analysis and System Performance Diagnosis",
+                "score": 0.9901,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12127",
+                    "display_name": "Log Analysis and System Performance Diagnosis",
+                    "score": 0.9901,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13293",
+                    "display_name": "Fault Diagnosis in Complex Systems",
+                    "score": 0.9212,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2207",
+                        "display_name": "Control and Systems Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.70775414
+                },
+                {
+                    "id": "https://openalex.org/keywords/listing",
+                    "display_name": "Listing (finance)",
+                    "score": 0.52889246
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-prediction",
+                    "display_name": "Performance Prediction",
+                    "score": 0.50917
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7793974
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.70775414
+                },
+                {
+                    "id": "https://openalex.org/C2779820595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q798505",
+                    "display_name": "Listing (finance)",
+                    "level": 2,
+                    "score": 0.52889246
+                },
+                {
+                    "id": "https://openalex.org/C149635348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q193040",
+                    "display_name": "Embedded system",
+                    "level": 1,
+                    "score": 0.37277922
+                },
+                {
+                    "id": "https://openalex.org/C115903868",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80993",
+                    "display_name": "Software engineering",
+                    "level": 1,
+                    "score": 0.3428753
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.3326859
+                },
+                {
+                    "id": "https://openalex.org/C107457646",
+                    "wikidata": "https://www.wikidata.org/wiki/Q207434",
+                    "display_name": "Human–computer interaction",
+                    "level": 1,
+                    "score": 0.3318823
+                },
+                {
+                    "id": "https://openalex.org/C10138342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43015",
+                    "display_name": "Finance",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2:768850",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W848192756",
+                "https://openalex.org/W3185628579",
+                "https://openalex.org/W3020187797",
+                "https://openalex.org/W2917798237",
+                "https://openalex.org/W2730991697",
+                "https://openalex.org/W2508034940",
+                "https://openalex.org/W2404461820",
+                "https://openalex.org/W2401414187",
+                "https://openalex.org/W2372943932",
+                "https://openalex.org/W2299043382",
+                "https://openalex.org/W2253496425",
+                "https://openalex.org/W214763231",
+                "https://openalex.org/W2135776850",
+                "https://openalex.org/W2129069129",
+                "https://openalex.org/W1968851453",
+                "https://openalex.org/W1966090137",
+                "https://openalex.org/W1938597340",
+                "https://openalex.org/W1593501958",
+                "https://openalex.org/W1593498933",
+                "https://openalex.org/W1513152792"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "importance": [
+                    1
+                ],
+                "of": [
+                    2,
+                    19,
+                    42,
+                    69,
+                    76
+                ],
+                "using": [
+                    3
+                ],
+                "the": [
+                    4,
+                    17,
+                    30,
+                    70,
+                    73
+                ],
+                "performance": [
+                    5,
+                    11,
+                    21,
+                    44,
+                    59,
+                    79
+                ],
+                "application": [
+                    6
+                ],
+                "programming": [
+                    7
+                ],
+                "interface": [
+                    8
+                ],
+                "(PAPI)": [
+                    9
+                ],
+                "for": [
+                    10,
+                    50
+                ],
+                "monitoring": [
+                    12,
+                    45
+                ],
+                "is": [
+                    13,
+                    54
+                ],
+                "discussed.": [
+                    14
+                ],
+                "To": [
+                    15
+                ],
+                "facilitate": [
+                    16
+                ],
+                "development": [
+                    18
+                ],
+                "portable": [
+                    20
+                ],
+                "tools,": [
+                    22
+                ],
+                "PAPI": [
+                    23
+                ],
+                "provides": [
+                    24,
+                    35
+                ],
+                "interfaces": [
+                    25
+                ],
+                "to": [
+                    26,
+                    37,
+                    55,
+                    61
+                ],
+                "get": [
+                    27
+                ],
+                "information": [
+                    28,
+                    60
+                ],
+                "about": [
+                    29
+                ],
+                "execution": [
+                    31
+                ],
+                "environment.": [
+                    32
+                ],
+                "It": [
+                    33
+                ],
+                "also": [
+                    34
+                ],
+                "methods": [
+                    36
+                ],
+                "obtain": [
+                    38
+                ],
+                "a": [
+                    39,
+                    77
+                ],
+                "complete": [
+                    40
+                ],
+                "listing": [
+                    41
+                ],
+                "what": [
+                    43
+                ],
+                "(PM)": [
+                    46
+                ],
+                "events": [
+                    47
+                ],
+                "are": [
+                    48
+                ],
+                "available": [
+                    49
+                ],
+                "monitoring.": [
+                    51
+                ],
+                "PAPI's": [
+                    52
+                ],
+                "goal": [
+                    53
+                ],
+                "expose": [
+                    56
+                ],
+                "real": [
+                    57
+                ],
+                "hardware": [
+                    58
+                ],
+                "users,": [
+                    62
+                ],
+                "which": [
+                    63
+                ],
+                "will": [
+                    64
+                ],
+                "help": [
+                    65
+                ],
+                "in": [
+                    66
+                ],
+                "eliminating": [
+                    67
+                ],
+                "most": [
+                    68
+                ],
+                "guesswork": [
+                    71
+                ],
+                "regarding": [
+                    72
+                ],
+                "root": [
+                    74
+                ],
+                "cause": [
+                    75
+                ],
+                "code's": [
+                    78
+                ],
+                "problem.": [
+                    80
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W413329328",
+            "counts_by_year": [],
+            "updated_date": "2024-09-16T08:27:33.543463",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1611663630",
+            "doi": null,
+            "title": "Performance Tuning of Scientific Applications on HPC Systems",
+            "display_name": "Performance Tuning of Scientific Applications on HPC Systems",
+            "publication_year": 2010,
+            "publication_date": "2010-11-16",
+            "ids": {
+                "openalex": "https://openalex.org/W1611663630",
+                "mag": "1611663630"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://www.research.ed.ac.uk/portal/en/publications/performance-tuning-of-scientific-applications-on-hpc-systems(0bbea1f3-276b-46c1-8a55-7b508ce03ac5).html",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5052858951",
+                        "display_name": "Michèle Weiland",
+                        "orcid": "https://orcid.org/0000-0003-4713-3073"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michele Weiland",
+                    "raw_affiliation_strings": [
+                        "School of Physics and Astronomy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Physics and Astronomy",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5084155547",
+                        "display_name": "Jason Beech-Brandt",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jason Beech-Brandt",
+                    "raw_affiliation_strings": [
+                        "Cray UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Cray UK",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5012515968",
+                        "display_name": "Charles Henriet",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Charles Henriet",
+                    "raw_affiliation_strings": [
+                        "Cray France"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Cray France",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5091667947",
+                        "display_name": "E. Michel",
+                        "orcid": "https://orcid.org/0000-0003-0185-3876"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eric Michel",
+                    "raw_affiliation_strings": [
+                        "[IBM, France]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM, France]",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nils Smeds",
+                    "raw_affiliation_strings": [
+                        "IBM Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM Sweden",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5072273865",
+                        "display_name": "Francois Thomas",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Francois Thomas",
+                    "raw_affiliation_strings": [
+                        "[IBM, France]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM, France]",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5069979326",
+                        "display_name": "Luigi Brochard",
+                        "orcid": "https://orcid.org/0000-0003-3699-4089"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luigi Brochard",
+                    "raw_affiliation_strings": [
+                        "[IBM, France]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[IBM, France]",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 4,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 64
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.9879,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9879,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11986",
+                    "display_name": "Management and Reproducibility of Scientific Workflows",
+                    "score": 0.9569,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1802",
+                        "display_name": "Information Systems and Management"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10101",
+                    "display_name": "Cloud Computing and Big Data Technologies",
+                    "score": 0.9361,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.648144
+                },
+                {
+                    "id": "https://openalex.org/keywords/scientific-workflows",
+                    "display_name": "Scientific Workflows",
+                    "score": 0.59996
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-research",
+                    "display_name": "Computational Research",
+                    "score": 0.587192
+                },
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.555585
+                },
+                {
+                    "id": "https://openalex.org/keywords/grid-computing",
+                    "display_name": "Grid Computing",
+                    "score": 0.550703
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.5125184
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://www.research.ed.ac.uk/portal/en/publications/performance-tuning-of-scientific-applications-on-hpc-systems(0bbea1f3-276b-46c1-8a55-7b508ce03ac5).html",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W3205990959",
+                "https://openalex.org/W3197270138",
+                "https://openalex.org/W3122419405",
+                "https://openalex.org/W3047180925",
+                "https://openalex.org/W3006088652",
+                "https://openalex.org/W2995247774",
+                "https://openalex.org/W2990160550",
+                "https://openalex.org/W2954342955",
+                "https://openalex.org/W2948281038",
+                "https://openalex.org/W2904334762",
+                "https://openalex.org/W2894621793",
+                "https://openalex.org/W2773057033",
+                "https://openalex.org/W2616027267",
+                "https://openalex.org/W2615766527",
+                "https://openalex.org/W2558278934",
+                "https://openalex.org/W2297955287",
+                "https://openalex.org/W2166084785",
+                "https://openalex.org/W2142782307",
+                "https://openalex.org/W2042205862",
+                "https://openalex.org/W155289703"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1611663630",
+            "counts_by_year": [],
+            "updated_date": "2024-09-24T09:50:42.907831",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1561893456",
+            "doi": "https://doi.org/10.1007/978-3-540-75755-9_121",
+            "title": "A PAPI Implementation for BlueGene",
+            "display_name": "A PAPI Implementation for BlueGene",
+            "publication_year": 2007,
+            "publication_date": "2007-09-22",
+            "ids": {
+                "openalex": "https://openalex.org/W1561893456",
+                "doi": "https://doi.org/10.1007/978-3-540-75755-9_121",
+                "mag": "1561893456"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-540-75755-9_121",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306463937",
+                    "display_name": "Springer eBooks",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/P4310319965",
+                    "host_organization_name": "Springer Nature",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature"
+                    ],
+                    "type": "ebook platform"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1341412227",
+                            "display_name": "IBM (United States)",
+                            "ror": "https://ror.org/05hh8d621",
+                            "country_code": "US",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Nils Smeds",
+                    "raw_affiliation_strings": [
+                        "IBM, Stockholm, Sweden#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "IBM, Stockholm, Sweden#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I1341412227"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5063488054"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I1341412227"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 63
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "1036",
+                "last_page": "1044"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10829",
+                    "display_name": "Networks on Chip in System-on-Chip Design",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10904",
+                    "display_name": "Reconfigurable Computing Systems and Design Methods",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/ibm",
+                    "display_name": "IBM",
+                    "score": 0.7225247
+                },
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.55419505
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.545831
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.533166
+                },
+                {
+                    "id": "https://openalex.org/keywords/power-optimization",
+                    "display_name": "Power Optimization",
+                    "score": 0.524836
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.51822
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-evaluation",
+                    "display_name": "Performance Evaluation",
+                    "score": 0.517924
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.5152869
+                },
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.510925
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8131335
+                },
+                {
+                    "id": "https://openalex.org/C70388272",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5968558",
+                    "display_name": "IBM",
+                    "level": 2,
+                    "score": 0.7225247
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.55419505
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.5152869
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.510925
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.5084161
+                },
+                {
+                    "id": "https://openalex.org/C118524514",
+                    "wikidata": "https://www.wikidata.org/wiki/Q173212",
+                    "display_name": "Computer architecture",
+                    "level": 1,
+                    "score": 0.45696798
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.41721398
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.2055169
+                },
+                {
+                    "id": "https://openalex.org/C192562407",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228736",
+                    "display_name": "Materials science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C171250308",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11468",
+                    "display_name": "Nanotechnology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-540-75755-9_121",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306463937",
+                        "display_name": "Springer eBooks",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/P4310319965",
+                        "host_organization_name": "Springer Nature",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature"
+                        ],
+                        "type": "ebook platform"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 5,
+            "referenced_works": [
+                "https://openalex.org/W1965351873",
+                "https://openalex.org/W1971952282",
+                "https://openalex.org/W2032212943",
+                "https://openalex.org/W2068975988",
+                "https://openalex.org/W4232225775"
+            ],
+            "related_works": [
+                "https://openalex.org/W4253186488",
+                "https://openalex.org/W4231814374",
+                "https://openalex.org/W3126131865",
+                "https://openalex.org/W2155964760",
+                "https://openalex.org/W2099557065",
+                "https://openalex.org/W2083611981",
+                "https://openalex.org/W2072507639",
+                "https://openalex.org/W2044344400",
+                "https://openalex.org/W2043380045",
+                "https://openalex.org/W1996938127"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1561893456",
+            "counts_by_year": [],
+            "updated_date": "2024-08-22T09:41:02.141674",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1574340112",
+            "doi": "https://doi.org/10.1007/3-540-44864-0_66",
+            "title": "OpenMP in the Field: Anecdotes from Practice",
+            "display_name": "OpenMP in the Field: Anecdotes from Practice",
+            "publication_year": 2003,
+            "publication_date": "2003-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1574340112",
+                "doi": "https://doi.org/10.1007/3-540-44864-0_66",
+                "mag": "1574340112"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/3-540-44864-0_66",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F3-540-44864-0_66.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://link.springer.com/content/pdf/10.1007%2F3-540-44864-0_66.pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5078857811",
+                        "display_name": "Russell K. Standish",
+                        "orcid": "https://orcid.org/0000-0003-4876-5339"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "AU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Russell K. Standish",
+                    "raw_affiliation_strings": [
+                        "High Performance Computing Support Unit, Sydney, Australia",
+                        "School of Mathematics, Australia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Mathematics, Australia",
+                            "institution_ids": []
+                        },
+                        {
+                            "raw_affiliation_string": "High Performance Computing Support Unit, Sydney, Australia",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007242417",
+                        "display_name": "Clinton Chee",
+                        "orcid": "https://orcid.org/0000-0002-7999-7469"
+                    },
+                    "institutions": [],
+                    "countries": [
+                        "AU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Clinton Chee",
+                    "raw_affiliation_strings": [
+                        "High Performance Computing Support Unit, Sydney, Australia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "High Performance Computing Support Unit, Sydney, Australia",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5063488054",
+                        "display_name": "Nils Smeds",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210147696",
+                            "display_name": "Tekniska Högskolans Studentkår",
+                            "ror": "https://ror.org/0519hrc61",
+                            "country_code": "SE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I4210147696"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nils Smeds",
+                    "raw_affiliation_strings": [
+                        "Center for Parallel Computers, Kungl Tekniska Högskolan, Stockholm, Sweden"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Center for Parallel Computers, Kungl Tekniska Högskolan, Stockholm, Sweden",
+                            "institution_ids": [
+                                "https://openalex.org/I4210147696"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 59
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "637",
+                "last_page": "647"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.9281,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9281,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/implementation",
+                    "display_name": "Implementation",
+                    "score": 0.7451612
+                },
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.522254
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.511151
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.78446674
+                },
+                {
+                    "id": "https://openalex.org/C26713055",
+                    "wikidata": "https://www.wikidata.org/wiki/Q245962",
+                    "display_name": "Implementation",
+                    "level": 2,
+                    "score": 0.7451612
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.74159086
+                },
+                {
+                    "id": "https://openalex.org/C2780451532",
+                    "wikidata": "https://www.wikidata.org/wiki/Q759676",
+                    "display_name": "Task (project management)",
+                    "level": 2,
+                    "score": 0.6262083
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5720276
+                },
+                {
+                    "id": "https://openalex.org/C9652623",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
+                    "display_name": "Field (mathematics)",
+                    "level": 2,
+                    "score": 0.5388861
+                },
+                {
+                    "id": "https://openalex.org/C99844830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q102441924",
+                    "display_name": "Scaling",
+                    "level": 2,
+                    "score": 0.45547557
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.41626287
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.29066107
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.13242304
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.09463182
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C201995342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q682496",
+                    "display_name": "Systems engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1007/3-540-44864-0_66",
+                    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F3-540-44864-0_66.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1007/3-540-44864-0_66",
+                "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F3-540-44864-0_66.pdf",
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.55,
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 6,
+            "referenced_works": [
+                "https://openalex.org/W1556859836",
+                "https://openalex.org/W1589918049",
+                "https://openalex.org/W2002569088",
+                "https://openalex.org/W2014321616",
+                "https://openalex.org/W2041902442",
+                "https://openalex.org/W2096070062"
+            ],
+            "related_works": [
+                "https://openalex.org/W4240253816",
+                "https://openalex.org/W4238532390",
+                "https://openalex.org/W4232954277",
+                "https://openalex.org/W3096456556",
+                "https://openalex.org/W2979513934",
+                "https://openalex.org/W2977179488",
+                "https://openalex.org/W2169584677",
+                "https://openalex.org/W2144453115",
+                "https://openalex.org/W2128223750",
+                "https://openalex.org/W2120447654"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    53
+                ],
+                "High": [
+                    1
+                ],
+                "Performance": [
+                    2
+                ],
+                "Computing": [
+                    3
+                ],
+                "Support": [
+                    4
+                ],
+                "Unit": [
+                    5
+                ],
+                "at": [
+                    6
+                ],
+                "UNSW": [
+                    7
+                ],
+                "has": [
+                    8
+                ],
+                "a": [
+                    9,
+                    27,
+                    77
+                ],
+                "mission": [
+                    10
+                ],
+                "to": [
+                    11,
+                    44
+                ],
+                "support": [
+                    12
+                ],
+                "and": [
+                    13
+                ],
+                "encourage": [
+                    14
+                ],
+                "the": [
+                    15,
+                    63,
+                    67
+                ],
+                "scaling": [
+                    16
+                ],
+                "of": [
+                    17,
+                    66
+                ],
+                "computationally": [
+                    18
+                ],
+                "intensive": [
+                    19
+                ],
+                "applications": [
+                    20,
+                    69
+                ],
+                "from": [
+                    21
+                ],
+                "existing": [
+                    22
+                ],
+                "desktop": [
+                    23
+                ],
+                "implementations.": [
+                    24
+                ],
+                "OpenMP": [
+                    25,
+                    41,
+                    79
+                ],
+                "is": [
+                    26,
+                    58
+                ],
+                "good": [
+                    28
+                ],
+                "match": [
+                    29
+                ],
+                "for": [
+                    30
+                ],
+                "this": [
+                    31
+                ],
+                "task.": [
+                    32
+                ],
+                "This": [
+                    33
+                ],
+                "paper": [
+                    34
+                ],
+                "reports": [
+                    35
+                ],
+                "on": [
+                    36
+                ],
+                "several": [
+                    37
+                ],
+                "projects": [
+                    38
+                ],
+                "in": [
+                    39,
+                    55
+                ],
+                "which": [
+                    40
+                ],
+                "was": [
+                    42
+                ],
+                "used": [
+                    43
+                ],
+                "parallelise": [
+                    45
+                ],
+                "an": [
+                    46
+                ],
+                "application,": [
+                    47
+                ],
+                "sometimes": [
+                    48,
+                    50
+                ],
+                "successfully,": [
+                    49
+                ],
+                "not": [
+                    51,
+                    62
+                ],
+                "so.": [
+                    52
+                ],
+                "interest": [
+                    54
+                ],
+                "these": [
+                    56
+                ],
+                "cases": [
+                    57
+                ],
+                "that": [
+                    59,
+                    70
+                ],
+                "they": [
+                    60
+                ],
+                "are": [
+                    61
+                ],
+                "usual": [
+                    64
+                ],
+                "run": [
+                    65
+                ],
+                "mill": [
+                    68
+                ],
+                "can": [
+                    71
+                ],
+                "be": [
+                    72
+                ],
+                "parallelised": [
+                    73
+                ],
+                "by": [
+                    74
+                ],
+                "simply": [
+                    75
+                ],
+                "adding": [
+                    76
+                ],
+                "few": [
+                    78
+                ],
+                "compiler": [
+                    80
+                ],
+                "directives,": [
+                    81
+                ],
+                "but": [
+                    82
+                ],
+                "required": [
+                    83
+                ],
+                "some": [
+                    84
+                ],
+                "lateral": [
+                    85
+                ],
+                "thinking.": [
+                    86
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1574340112",
+            "counts_by_year": [],
+            "updated_date": "2024-09-19T21:00:27.530199",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

@@ -1,0 +1,4247 @@
+{
+    "meta": {
+        "count": 4,
+        "db_response_time_ms": 47,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2052156072",
+            "doi": "https://doi.org/10.1587/transinf.2014edp7190",
+            "title": "Predicting Vectorization Profitability Using Binary Classification",
+            "display_name": "Predicting Vectorization Profitability Using Binary Classification",
+            "publication_year": 2014,
+            "publication_date": "2014-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2052156072",
+                "doi": "https://doi.org/10.1587/transinf.2014edp7190",
+                "mag": "2052156072"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1587/transinf.2014edp7190",
+                "pdf_url": "https://www.jstage.jst.go.jp/article/transinf/E97.D/12/E97.D_2014EDP7190/_pdf",
+                "source": {
+                    "id": "https://openalex.org/S2486202937",
+                    "display_name": "IEICE Transactions on Information and Systems",
+                    "issn_l": "0916-8532",
+                    "issn": [
+                        "0916-8532",
+                        "1745-1361"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4320800604",
+                    "host_organization_name": "Institute of Electronics, Information and Communication Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4320800604"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electronics, Information and Communication Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://www.jstage.jst.go.jp/article/transinf/E97.D/12/E97.D_2014EDP7190/_pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5035472616",
+                        "display_name": "Antoine Trouvé",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210148705",
+                            "display_name": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "ror": "https://ror.org/04j4pme17",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Antoine TROUVÉ",
+                    "raw_affiliation_strings": [
+                        "Institute of Systems, Information Technologies and Nanotechnologies"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "institution_ids": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060845627",
+                        "display_name": "Arnaldo J. CRUZ",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Arnaldo J. CRUZ",
+                    "raw_affiliation_strings": [
+                        "Engineering Department, Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department, Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5018740564",
+                        "display_name": "Dhouha BEN BRAHIM",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dhouha BEN BRAHIM",
+                    "raw_affiliation_strings": [
+                        "Computing Department, ENSEIRB-MATMECA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Computing Department, ENSEIRB-MATMECA",
+                            "institution_ids": []
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002745445",
+                        "display_name": "Hiroki Fukuyama",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hiroki FUKUYAMA",
+                    "raw_affiliation_strings": [
+                        "Engineering Department, Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department, Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5001589629",
+                        "display_name": "Kazuaki Murakami",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kazuaki J. MURAKAMI",
+                    "raw_affiliation_strings": [
+                        "Engineering Department, Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department, Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016002370",
+                        "display_name": "Hadrien A. Clarke",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hadrien CLARKE",
+                    "raw_affiliation_strings": [
+                        "Engineering Department, Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department, Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5089215241",
+                        "display_name": "Manabu Arai",
+                        "orcid": "https://orcid.org/0009-0004-7982-2759"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masaki ARAI",
+                    "raw_affiliation_strings": [
+                        "[Fujitsu Laboratories Limited]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Fujitsu Laboratories Limited]",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5061784808",
+                        "display_name": "Tadashi Nakahira",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tadashi NAKAHIRA",
+                    "raw_affiliation_strings": [
+                        "[Fujitsu Laboratories Limited]"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "[Fujitsu Laboratories Limited]",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5048993028",
+                        "display_name": "Eiji Yamanaka",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210159607",
+                            "display_name": "Fujitsu (China)",
+                            "ror": "https://ror.org/04w4yzw62",
+                            "country_code": "CN",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210159607"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eiji YAMANAKA",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Limited."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Limited.",
+                            "institution_ids": [
+                                "https://openalex.org/I4210159607"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.402,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.784789,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 82
+            },
+            "biblio": {
+                "volume": "E97.D",
+                "issue": "12",
+                "first_page": "3124",
+                "last_page": "3132"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9764,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9764,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10101",
+                    "display_name": "Cloud Computing and Big Data Technologies",
+                    "score": 0.9557,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11181",
+                    "display_name": "Distributed Storage Systems and Network Coding",
+                    "score": 0.9318,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/vectorization",
+                    "display_name": "Vectorization (mathematics)",
+                    "score": 0.8903395
+                },
+                {
+                    "id": "https://openalex.org/keywords/virtualization",
+                    "display_name": "Virtualization",
+                    "score": 0.541787
+                },
+                {
+                    "id": "https://openalex.org/keywords/benchmarking",
+                    "display_name": "Benchmarking",
+                    "score": 0.540786
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.535649
+                },
+                {
+                    "id": "https://openalex.org/keywords/scalability",
+                    "display_name": "Scalability",
+                    "score": 0.521421
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.511784
+                },
+                {
+                    "id": "https://openalex.org/keywords/binary-classification",
+                    "display_name": "Binary classification",
+                    "score": 0.47092336
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41681595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7917855",
+                    "display_name": "Vectorization (mathematics)",
+                    "level": 2,
+                    "score": 0.8903395
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.84301656
+                },
+                {
+                    "id": "https://openalex.org/C129361004",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2470236",
+                    "display_name": "Profitability index",
+                    "level": 2,
+                    "score": 0.6841008
+                },
+                {
+                    "id": "https://openalex.org/C48372109",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3913",
+                    "display_name": "Binary number",
+                    "level": 2,
+                    "score": 0.60198253
+                },
+                {
+                    "id": "https://openalex.org/C66905080",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17005494",
+                    "display_name": "Binary classification",
+                    "level": 3,
+                    "score": 0.47092336
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.4372485
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.3622055
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.2667089
+                },
+                {
+                    "id": "https://openalex.org/C12267149",
+                    "wikidata": "https://www.wikidata.org/wiki/Q282453",
+                    "display_name": "Support vector machine",
+                    "level": 2,
+                    "score": 0.17525321
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.12022084
+                },
+                {
+                    "id": "https://openalex.org/C94375191",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11205",
+                    "display_name": "Arithmetic",
+                    "level": 1,
+                    "score": 0.10220644
+                },
+                {
+                    "id": "https://openalex.org/C10138342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43015",
+                    "display_name": "Finance",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1587/transinf.2014edp7190",
+                    "pdf_url": "https://www.jstage.jst.go.jp/article/transinf/E97.D/12/E97.D_2014EDP7190/_pdf",
+                    "source": {
+                        "id": "https://openalex.org/S2486202937",
+                        "display_name": "IEICE Transactions on Information and Systems",
+                        "issn_l": "0916-8532",
+                        "issn": [
+                            "0916-8532",
+                            "1745-1361"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4320800604",
+                        "host_organization_name": "Institute of Electronics, Information and Communication Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4320800604"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electronics, Information and Communication Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1587/transinf.2014edp7190",
+                "pdf_url": "https://www.jstage.jst.go.jp/article/transinf/E97.D/12/E97.D_2014EDP7190/_pdf",
+                "source": {
+                    "id": "https://openalex.org/S2486202937",
+                    "display_name": "IEICE Transactions on Information and Systems",
+                    "issn_l": "0916-8532",
+                    "issn": [
+                        "0916-8532",
+                        "1745-1361"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4320800604",
+                    "host_organization_name": "Institute of Electronics, Information and Communication Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4320800604"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electronics, Information and Communication Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Decent work and economic growth",
+                    "score": 0.57,
+                    "id": "https://metadata.un.org/sdg/8"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 14,
+            "referenced_works": [
+                "https://openalex.org/W1500117749",
+                "https://openalex.org/W1598202309",
+                "https://openalex.org/W1967846636",
+                "https://openalex.org/W2013156670",
+                "https://openalex.org/W2030814361",
+                "https://openalex.org/W2052902739",
+                "https://openalex.org/W2064441385",
+                "https://openalex.org/W2103006842",
+                "https://openalex.org/W2126545654",
+                "https://openalex.org/W2147623728",
+                "https://openalex.org/W2156560068",
+                "https://openalex.org/W2168519934",
+                "https://openalex.org/W3005583435",
+                "https://openalex.org/W59960346"
+            ],
+            "related_works": [
+                "https://openalex.org/W4285147705",
+                "https://openalex.org/W3125099825",
+                "https://openalex.org/W2762467749",
+                "https://openalex.org/W2753408573",
+                "https://openalex.org/W25115902",
+                "https://openalex.org/W2374048355",
+                "https://openalex.org/W2161584192",
+                "https://openalex.org/W2046798493",
+                "https://openalex.org/W1997162386",
+                "https://openalex.org/W1986338457"
+            ],
+            "abstract_inverted_index": {
+                "Basic": [
+                    0
+                ],
+                "block": [
+                    1
+                ],
+                "vectorization": [
+                    2,
+                    49,
+                    63,
+                    182
+                ],
+                "consists": [
+                    3
+                ],
+                "in": [
+                    4,
+                    11,
+                    138
+                ],
+                "realizing": [
+                    5
+                ],
+                "instruction-level": [
+                    6
+                ],
+                "parallelism": [
+                    7
+                ],
+                "inside": [
+                    8
+                ],
+                "basic": [
+                    9
+                ],
+                "blocks": [
+                    10
+                ],
+                "order": [
+                    12
+                ],
+                "to": [
+                    13,
+                    43,
+                    58,
+                    105,
+                    120,
+                    145,
+                    168
+                ],
+                "generate": [
+                    14
+                ],
+                "SIMD": [
+                    15
+                ],
+                "instructions": [
+                    16
+                ],
+                "and": [
+                    17,
+                    69,
+                    89,
+                    91,
+                    150,
+                    156,
+                    161
+                ],
+                "thus": [
+                    18
+                ],
+                "speedup": [
+                    19
+                ],
+                "data": [
+                    20
+                ],
+                "processing.": [
+                    21
+                ],
+                "It": [
+                    22,
+                    83,
+                    165
+                ],
+                "is": [
+                    23
+                ],
+                "however": [
+                    24
+                ],
+                "problematic,": [
+                    25
+                ],
+                "because": [
+                    26
+                ],
+                "the": [
+                    27,
+                    35,
+                    115,
+                    135,
+                    172,
+                    175,
+                    190
+                ],
+                "vectorized": [
+                    28
+                ],
+                "program": [
+                    29,
+                    180
+                ],
+                "may": [
+                    30
+                ],
+                "actually": [
+                    31,
+                    51
+                ],
+                "be": [
+                    32,
+                    41
+                ],
+                "slower": [
+                    33,
+                    179
+                ],
+                "than": [
+                    34,
+                    170,
+                    187
+                ],
+                "original": [
+                    36
+                ],
+                "one.": [
+                    37
+                ],
+                "Therefore,": [
+                    38
+                ],
+                "it": [
+                    39,
+                    72
+                ],
+                "would": [
+                    40
+                ],
+                "useful": [
+                    42
+                ],
+                "predict": [
+                    44
+                ],
+                "beforehand": [
+                    45
+                ],
+                "whether": [
+                    46
+                ],
+                "or": [
+                    47
+                ],
+                "not": [
+                    48
+                ],
+                "will": [
+                    50
+                ],
+                "produce": [
+                    52
+                ],
+                "any": [
+                    53
+                ],
+                "speedup.": [
+                    54
+                ],
+                "This": [
+                    55
+                ],
+                "paper": [
+                    56,
+                    108,
+                    140
+                ],
+                "proposes": [
+                    57,
+                    110
+                ],
+                "do": [
+                    59
+                ],
+                "so": [
+                    60
+                ],
+                "by": [
+                    61,
+                    70,
+                    130
+                ],
+                "expressing": [
+                    62
+                ],
+                "profitability": [
+                    64
+                ],
+                "as": [
+                    65
+                ],
+                "a": [
+                    66,
+                    74,
+                    92,
+                    111,
+                    178
+                ],
+                "classification": [
+                    67
+                ],
+                "problem,": [
+                    68
+                ],
+                "predicting": [
+                    71,
+                    132
+                ],
+                "using": [
+                    73
+                ],
+                "machine": [
+                    75,
+                    81
+                ],
+                "learning": [
+                    76
+                ],
+                "technique": [
+                    77,
+                    112,
+                    136
+                ],
+                "called": [
+                    78
+                ],
+                "support": [
+                    79
+                ],
+                "vector": [
+                    80
+                ],
+                "(SVM).": [
+                    82
+                ],
+                "considers": [
+                    84
+                ],
+                "three": [
+                    85,
+                    127
+                ],
+                "compilers": [
+                    86,
+                    191
+                ],
+                "(icc,": [
+                    87
+                ],
+                "gcc": [
+                    88,
+                    155
+                ],
+                "llvm),": [
+                    90
+                ],
+                "benchmark": [
+                    93
+                ],
+                "suite": [
+                    94
+                ],
+                "made": [
+                    95
+                ],
+                "of": [
+                    96,
+                    117,
+                    123,
+                    143,
+                    174
+                ],
+                "151": [
+                    97
+                ],
+                "loops,": [
+                    98
+                ],
+                "unrolled": [
+                    99
+                ],
+                "with": [
+                    100,
+                    181
+                ],
+                "factors": [
+                    101
+                ],
+                "ranging": [
+                    102
+                ],
+                "from": [
+                    103
+                ],
+                "1": [
+                    104
+                ],
+                "20.": [
+                    106
+                ],
+                "The": [
+                    107
+                ],
+                "further": [
+                    109
+                ],
+                "that": [
+                    113
+                ],
+                "combines": [
+                    114
+                ],
+                "results": [
+                    116
+                ],
+                "two": [
+                    118
+                ],
+                "SVMs": [
+                    119
+                ],
+                "reach": [
+                    121
+                ],
+                "99%": [
+                    122
+                ],
+                "accuracy": [
+                    124
+                ],
+                "for": [
+                    125,
+                    153,
+                    189
+                ],
+                "all": [
+                    126
+                ],
+                "compilers.": [
+                    128
+                ],
+                "Moreover,": [
+                    129
+                ],
+                "correctly": [
+                    131
+                ],
+                "unprofitable": [
+                    133
+                ],
+                "vectorizations,": [
+                    134
+                ],
+                "presented": [
+                    137
+                ],
+                "this": [
+                    139
+                ],
+                "provides": [
+                    141
+                ],
+                "speedups": [
+                    142
+                ],
+                "up": [
+                    144
+                ],
+                "2.16": [
+                    146
+                ],
+                "times,": [
+                    147
+                ],
+                "2.47": [
+                    148
+                ],
+                "times": [
+                    149,
+                    152
+                ],
+                "3.83": [
+                    151
+                ],
+                "icc,": [
+                    154
+                ],
+                "LLVM,": [
+                    157
+                ],
+                "respectively": [
+                    158
+                ],
+                "(9%,": [
+                    159
+                ],
+                "18%": [
+                    160
+                ],
+                "56%": [
+                    162
+                ],
+                "on": [
+                    163,
+                    184
+                ],
+                "average).": [
+                    164
+                ],
+                "also": [
+                    166
+                ],
+                "lowers": [
+                    167
+                ],
+                "less": [
+                    169
+                ],
+                "1%": [
+                    171
+                ],
+                "probability": [
+                    173
+                ],
+                "compiler": [
+                    176
+                ],
+                "generating": [
+                    177
+                ],
+                "turned": [
+                    183
+                ],
+                "(from": [
+                    185
+                ],
+                "more": [
+                    186
+                ],
+                "25%": [
+                    188
+                ],
+                "alone).": [
+                    192
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2052156072",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-08-15T07:07:00.490251",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2053732522",
+            "doi": "https://doi.org/10.1016/j.procs.2013.05.296",
+            "title": "Using Machine Learning in Order to Improve Automatic SIMD Instruction Generation",
+            "display_name": "Using Machine Learning in Order to Improve Automatic SIMD Instruction Generation",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2053732522",
+                "doi": "https://doi.org/10.1016/j.procs.2013.05.296",
+                "mag": "2053732522"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.296",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2013.05.296",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5035472616",
+                        "display_name": "Antoine Trouvé",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Antoine Trouvé",
+                    "raw_affiliation_strings": [
+                        "Department of Informatics, ISEE, Kyushu University, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Informatics, ISEE, Kyushu University, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060845627",
+                        "display_name": "Arnaldo J. CRUZ",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210148705",
+                            "display_name": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "ror": "https://ror.org/04j4pme17",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Arnaldo Cruz",
+                    "raw_affiliation_strings": [
+                        "Department of Informatics, ISEE, Kyushu University, Japan",
+                        "Institute of Systems, Information Technologies and Nanotechnologies, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Informatics, ISEE, Kyushu University, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Institute of Systems, Information Technologies and Nanotechnologies, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002745445",
+                        "display_name": "Hiroki Fukuyama",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210148705",
+                            "display_name": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "ror": "https://ror.org/04j4pme17",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hiroki Fukuyama",
+                    "raw_affiliation_strings": [
+                        "Department of Informatics, ISEE, Kyushu University, Japan",
+                        "Institute of Systems, Information Technologies and Nanotechnologies, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Informatics, ISEE, Kyushu University, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Institute of Systems, Information Technologies and Nanotechnologies, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5038897328",
+                        "display_name": "Jun Maki",
+                        "orcid": "https://orcid.org/0000-0001-8638-0646"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210148705",
+                            "display_name": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "ror": "https://ror.org/04j4pme17",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jun Maki",
+                    "raw_affiliation_strings": [
+                        "Institute of Systems, Information Technologies and Nanotechnologies, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute of Systems, Information Technologies and Nanotechnologies, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016002370",
+                        "display_name": "Hadrien A. Clarke",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210148705",
+                            "display_name": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "ror": "https://ror.org/04j4pme17",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hadrien Clarke",
+                    "raw_affiliation_strings": [
+                        "Department of Informatics, ISEE, Kyushu University, Japan",
+                        "Institute of Systems, Information Technologies and Nanotechnologies, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Informatics, ISEE, Kyushu University, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Institute of Systems, Information Technologies and Nanotechnologies, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5058208077",
+                        "display_name": "Kazuaki Murakami",
+                        "orcid": "https://orcid.org/0000-0002-5479-2600"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210148705",
+                            "display_name": "Institute of Systems, Information Technologies and Nanotechnologies",
+                            "ror": "https://ror.org/04j4pme17",
+                            "country_code": "JP",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kazuaki Murakami",
+                    "raw_affiliation_strings": [
+                        "Department of Informatics, ISEE, Kyushu University, Japan",
+                        "Institute of Systems, Information Technologies and Nanotechnologies, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Informatics, ISEE, Kyushu University, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Institute of Systems, Information Technologies and Nanotechnologies, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I4210148705"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5089215241",
+                        "display_name": "Manabu Arai",
+                        "orcid": "https://orcid.org/0009-0004-7982-2759"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masaki Arai",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Laboratories Ltd, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Laboratories Ltd, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5061784808",
+                        "display_name": "Tadashi Nakahira",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tadashi Nakahira",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Laboratories Ltd, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Laboratories Ltd, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5048993028",
+                        "display_name": "Eiji Yamanaka",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eiji Yamanaka",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Ltd, Japan"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Ltd, Japan",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5035472616"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I135598925"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.442,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.785108,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 82
+            },
+            "biblio": {
+                "volume": "18",
+                "issue": null,
+                "first_page": "1292",
+                "last_page": "1301"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10904",
+                    "display_name": "Reconfigurable Computing Systems and Design Methods",
+                    "score": 0.9963,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10363",
+                    "display_name": "Low-Power VLSI Circuit Design and Optimization",
+                    "score": 0.9895,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/speedup",
+                    "display_name": "Speedup",
+                    "score": 0.8459848
+                },
+                {
+                    "id": "https://openalex.org/keywords/simd",
+                    "display_name": "SIMD",
+                    "score": 0.81544155
+                },
+                {
+                    "id": "https://openalex.org/keywords/vectorization",
+                    "display_name": "Vectorization (mathematics)",
+                    "score": 0.7929399
+                },
+                {
+                    "id": "https://openalex.org/keywords/benchmark",
+                    "display_name": "Benchmark (surveying)",
+                    "score": 0.74988365
+                },
+                {
+                    "id": "https://openalex.org/keywords/loop-unrolling",
+                    "display_name": "Loop unrolling",
+                    "score": 0.7175344
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.517477
+                },
+                {
+                    "id": "https://openalex.org/keywords/benchmarking",
+                    "display_name": "Benchmarking",
+                    "score": 0.503458
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.94007385
+                },
+                {
+                    "id": "https://openalex.org/C68339613",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1549489",
+                    "display_name": "Speedup",
+                    "level": 2,
+                    "score": 0.8459848
+                },
+                {
+                    "id": "https://openalex.org/C150552126",
+                    "wikidata": "https://www.wikidata.org/wiki/Q339387",
+                    "display_name": "SIMD",
+                    "level": 2,
+                    "score": 0.81544155
+                },
+                {
+                    "id": "https://openalex.org/C41681595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7917855",
+                    "display_name": "Vectorization (mathematics)",
+                    "level": 2,
+                    "score": 0.7929399
+                },
+                {
+                    "id": "https://openalex.org/C185798385",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+                    "display_name": "Benchmark (surveying)",
+                    "level": 2,
+                    "score": 0.74988365
+                },
+                {
+                    "id": "https://openalex.org/C76970557",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1869750",
+                    "display_name": "Loop unrolling",
+                    "level": 3,
+                    "score": 0.7175344
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.7171818
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.650909
+                },
+                {
+                    "id": "https://openalex.org/C79581498",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1367530",
+                    "display_name": "Suite",
+                    "level": 2,
+                    "score": 0.5635335
+                },
+                {
+                    "id": "https://openalex.org/C2777210771",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4927124",
+                    "display_name": "Block (permutation group theory)",
+                    "level": 2,
+                    "score": 0.5566811
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.41536912
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.21575648
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C13280743",
+                    "wikidata": "https://www.wikidata.org/wiki/Q131089",
+                    "display_name": "Geodesy",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C95457728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q309",
+                    "display_name": "History",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.296",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.296",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 12,
+            "referenced_works": [
+                "https://openalex.org/W1500117749",
+                "https://openalex.org/W1598202309",
+                "https://openalex.org/W1967846636",
+                "https://openalex.org/W2013156670",
+                "https://openalex.org/W2030814361",
+                "https://openalex.org/W2103006842",
+                "https://openalex.org/W2116466695",
+                "https://openalex.org/W2126545654",
+                "https://openalex.org/W2147623728",
+                "https://openalex.org/W2168519934",
+                "https://openalex.org/W4240263428",
+                "https://openalex.org/W59960346"
+            ],
+            "related_works": [
+                "https://openalex.org/W4285390450",
+                "https://openalex.org/W4244894488",
+                "https://openalex.org/W3024308452",
+                "https://openalex.org/W3008658471",
+                "https://openalex.org/W2979513934",
+                "https://openalex.org/W2778498407",
+                "https://openalex.org/W2127324789",
+                "https://openalex.org/W2121492601",
+                "https://openalex.org/W2099629705",
+                "https://openalex.org/W2090268225"
+            ],
+            "abstract_inverted_index": {
+                "Basic": [
+                    0
+                ],
+                "block": [
+                    1
+                ],
+                "vectorization": [
+                    2,
+                    52,
+                    116
+                ],
+                "consists": [
+                    3
+                ],
+                "in": [
+                    4,
+                    12,
+                    122
+                ],
+                "extracting": [
+                    5
+                ],
+                "instruction": [
+                    6
+                ],
+                "level": [
+                    7
+                ],
+                "parallelism": [
+                    8
+                ],
+                "inside": [
+                    9
+                ],
+                "basic": [
+                    10
+                ],
+                "blocks": [
+                    11
+                ],
+                "order": [
+                    13
+                ],
+                "to": [
+                    14,
+                    46,
+                    63,
+                    90,
+                    110,
+                    141,
+                    153,
+                    168
+                ],
+                "generate": [
+                    15
+                ],
+                "SIMD": [
+                    16
+                ],
+                "instructions": [
+                    17
+                ],
+                "and": [
+                    18
+                ],
+                "thus": [
+                    19
+                ],
+                "speedup": [
+                    20
+                ],
+                "data": [
+                    21
+                ],
+                "processing.": [
+                    22
+                ],
+                "It": [
+                    23
+                ],
+                "is": [
+                    24,
+                    105
+                ],
+                "however": [
+                    25
+                ],
+                "a": [
+                    26,
+                    68,
+                    78,
+                    128
+                ],
+                "double-edged": [
+                    27
+                ],
+                "technique,": [
+                    28
+                ],
+                "because": [
+                    29
+                ],
+                "the": [
+                    30,
+                    38,
+                    113,
+                    120,
+                    156,
+                    159
+                ],
+                "vectorized": [
+                    31
+                ],
+                "program": [
+                    32
+                ],
+                "may": [
+                    33
+                ],
+                "actually": [
+                    34,
+                    54
+                ],
+                "be": [
+                    35,
+                    44
+                ],
+                "slower": [
+                    36
+                ],
+                "than": [
+                    37
+                ],
+                "original": [
+                    39
+                ],
+                "one.": [
+                    40
+                ],
+                "Therefore,": [
+                    41
+                ],
+                "it": [
+                    42,
+                    151
+                ],
+                "would": [
+                    43
+                ],
+                "useful": [
+                    45
+                ],
+                "predict": [
+                    47,
+                    111
+                ],
+                "beforehand": [
+                    48
+                ],
+                "whether": [
+                    49
+                ],
+                "or": [
+                    50
+                ],
+                "not": [
+                    51
+                ],
+                "could": [
+                    53
+                ],
+                "produce": [
+                    55
+                ],
+                "any": [
+                    56
+                ],
+                "speedup.": [
+                    57
+                ],
+                "In": [
+                    58
+                ],
+                "this": [
+                    59
+                ],
+                "article,": [
+                    60
+                ],
+                "we": [
+                    61,
+                    108,
+                    126,
+                    145
+                ],
+                "propose": [
+                    62,
+                    127
+                ],
+                "do": [
+                    64,
+                    93
+                ],
+                "so": [
+                    65
+                ],
+                "by": [
+                    66,
+                    162
+                ],
+                "using": [
+                    67
+                ],
+                "machine": [
+                    69,
+                    148
+                ],
+                "learning": [
+                    70,
+                    149
+                ],
+                "technique": [
+                    71
+                ],
+                "called": [
+                    72
+                ],
+                "support": [
+                    73
+                ],
+                "vector": [
+                    74
+                ],
+                "machine.": [
+                    75
+                ],
+                "We": [
+                    76,
+                    92
+                ],
+                "consider": [
+                    77
+                ],
+                "benchmark": [
+                    79,
+                    138
+                ],
+                "suite": [
+                    80
+                ],
+                "containing": [
+                    81
+                ],
+                "151": [
+                    82
+                ],
+                "loops,": [
+                    83
+                ],
+                "unrolled": [
+                    84
+                ],
+                "with": [
+                    85,
+                    139,
+                    165
+                ],
+                "factors": [
+                    86
+                ],
+                "ranging": [
+                    87
+                ],
+                "from": [
+                    88
+                ],
+                "1": [
+                    89
+                ],
+                "20.": [
+                    91
+                ],
+                "our": [
+                    94,
+                    137,
+                    142
+                ],
+                "prediction": [
+                    95
+                ],
+                "offline": [
+                    96
+                ],
+                "after": [
+                    97
+                ],
+                "as": [
+                    98,
+                    100
+                ],
+                "well": [
+                    99
+                ],
+                "before": [
+                    101
+                ],
+                "unrolling.": [
+                    102
+                ],
+                "Our": [
+                    103
+                ],
+                "contribution": [
+                    104
+                ],
+                "threefold.": [
+                    106
+                ],
+                "First,": [
+                    107
+                ],
+                "manage": [
+                    109
+                ],
+                "correctly": [
+                    112
+                ],
+                "profitability": [
+                    114
+                ],
+                "of": [
+                    115,
+                    119,
+                    130,
+                    158
+                ],
+                "for": [
+                    117
+                ],
+                "70%": [
+                    118
+                ],
+                "programs": [
+                    121
+                ],
+                "both": [
+                    123
+                ],
+                "cases.": [
+                    124
+                ],
+                "Second,": [
+                    125
+                ],
+                "list": [
+                    129
+                ],
+                "static": [
+                    131
+                ],
+                "software": [
+                    132
+                ],
+                "characteristics": [
+                    133
+                ],
+                "that": [
+                    134,
+                    147
+                ],
+                "successfully": [
+                    135
+                ],
+                "describe": [
+                    136
+                ],
+                "respect": [
+                    140
+                ],
+                "goal.": [
+                    143
+                ],
+                "Finally,": [
+                    144
+                ],
+                "determine": [
+                    146
+                ],
+                "makes": [
+                    150
+                ],
+                "possible": [
+                    152
+                ],
+                "significantly": [
+                    154
+                ],
+                "improve": [
+                    155
+                ],
+                "quality": [
+                    157
+                ],
+                "code": [
+                    160
+                ],
+                "generated": [
+                    161
+                ],
+                "Intel": [
+                    163
+                ],
+                "Compiler,": [
+                    164
+                ],
+                "speedups": [
+                    166
+                ],
+                "up": [
+                    167
+                ],
+                "2.2": [
+                    169
+                ],
+                "times.": [
+                    170
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2053732522",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-17T15:46:16.682557",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2186315912",
+            "doi": null,
+            "title": "The SPEC OMP2001 Benchmark on the Fujitsu PRIMEPOWER System",
+            "display_name": "The SPEC OMP2001 Benchmark on the Fujitsu PRIMEPOWER System",
+            "publication_year": 2001,
+            "publication_date": "2001-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2186315912",
+                "mag": "2186315912"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://research.ac.upc.edu/pact01/ewomp/paper07.pdf",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5001261471",
+                        "display_name": "Hidetoshi Iwashita",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hidetoshi Iwashita",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5048993028",
+                        "display_name": "Eiji Yamanaka",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eiji Yamanaka",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020427309",
+                        "display_name": "Naoki Sueyasu",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Naoki Sueyasu",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5012012988",
+                        "display_name": "Matthijs van Waveren",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matthijs van Waveren",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102334597",
+                        "display_name": "Kenichi Miura",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kenichi Miura",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.878,
+            "has_fulltext": false,
+            "cited_by_count": 10,
+            "citation_normalized_percentile": {
+                "value": 0.667165,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 81
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.9905,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9905,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9871,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13126",
+                    "display_name": "Theoretical and Computational Physics",
+                    "score": 0.9364,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/benchmark",
+                    "display_name": "Benchmark (surveying)",
+                    "score": 0.95421517
+                },
+                {
+                    "id": "https://openalex.org/keywords/spec#",
+                    "display_name": "Spec#",
+                    "score": 0.92547864
+                },
+                {
+                    "id": "https://openalex.org/keywords/yardstick",
+                    "display_name": "Yardstick",
+                    "score": 0.7708385
+                },
+                {
+                    "id": "https://openalex.org/keywords/benchmarking",
+                    "display_name": "Benchmarking",
+                    "score": 0.508413
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.503641
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C185798385",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+                    "display_name": "Benchmark (surveying)",
+                    "level": 2,
+                    "score": 0.95421517
+                },
+                {
+                    "id": "https://openalex.org/C79581498",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1367530",
+                    "display_name": "Suite",
+                    "level": 2,
+                    "score": 0.9492798
+                },
+                {
+                    "id": "https://openalex.org/C2778565505",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2207566",
+                    "display_name": "Spec#",
+                    "level": 2,
+                    "score": 0.92547864
+                },
+                {
+                    "id": "https://openalex.org/C82261069",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1925365",
+                    "display_name": "Yardstick",
+                    "level": 2,
+                    "score": 0.7708385
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.68466663
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.485862
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.4438575
+                },
+                {
+                    "id": "https://openalex.org/C86251818",
+                    "wikidata": "https://www.wikidata.org/wiki/Q816754",
+                    "display_name": "Benchmarking",
+                    "level": 2,
+                    "score": 0.41095573
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.25989094
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.10480532
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C13280743",
+                    "wikidata": "https://www.wikidata.org/wiki/Q131089",
+                    "display_name": "Geodesy",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162853370",
+                    "wikidata": "https://www.wikidata.org/wiki/Q39809",
+                    "display_name": "Marketing",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C144133560",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+                    "display_name": "Business",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C95457728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q309",
+                    "display_name": "History",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://research.ac.upc.edu/pact01/ewomp/paper07.pdf",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 6,
+            "referenced_works": [
+                "https://openalex.org/W1664707389",
+                "https://openalex.org/W1977267277",
+                "https://openalex.org/W2066018261",
+                "https://openalex.org/W2127419850",
+                "https://openalex.org/W2162366827",
+                "https://openalex.org/W97614992"
+            ],
+            "related_works": [
+                "https://openalex.org/W8143453",
+                "https://openalex.org/W3213800328",
+                "https://openalex.org/W3082894236",
+                "https://openalex.org/W2805359884",
+                "https://openalex.org/W258944778",
+                "https://openalex.org/W2395373607",
+                "https://openalex.org/W2295802552",
+                "https://openalex.org/W227703852",
+                "https://openalex.org/W2142488884",
+                "https://openalex.org/W2126913665",
+                "https://openalex.org/W2066278930",
+                "https://openalex.org/W2062357885",
+                "https://openalex.org/W2037582998",
+                "https://openalex.org/W202500765",
+                "https://openalex.org/W2011488966",
+                "https://openalex.org/W1779971361",
+                "https://openalex.org/W1664707389",
+                "https://openalex.org/W1582451000",
+                "https://openalex.org/W1576680798",
+                "https://openalex.org/W1190448275"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0
+                ],
+                "SPEC": [
+                    1,
+                    55
+                ],
+                "OMP2001": [
+                    2
+                ],
+                "benchmark": [
+                    3,
+                    32,
+                    36,
+                    44,
+                    63,
+                    77
+                ],
+                "suite": [
+                    4,
+                    10,
+                    45
+                ],
+                "has": [
+                    5
+                ],
+                "recently": [
+                    6
+                ],
+                "become": [
+                    7
+                ],
+                "available.": [
+                    8
+                ],
+                "This": [
+                    9
+                ],
+                "can": [
+                    11
+                ],
+                "be": [
+                    12
+                ],
+                "used": [
+                    13
+                ],
+                "as": [
+                    14,
+                    51
+                ],
+                "a": [
+                    15
+                ],
+                "yardstick": [
+                    16
+                ],
+                "for": [
+                    17,
+                    83
+                ],
+                "measuring": [
+                    18
+                ],
+                "and": [
+                    19
+                ],
+                "comparing": [
+                    20
+                ],
+                "shared-memory": [
+                    21
+                ],
+                "systems,": [
+                    22
+                ],
+                "which": [
+                    23
+                ],
+                "support": [
+                    24
+                ],
+                "the": [
+                    25,
+                    30,
+                    35,
+                    40,
+                    47,
+                    62,
+                    76
+                ],
+                "OpenMP": [
+                    26,
+                    85
+                ],
+                "API.": [
+                    27
+                ],
+                "We": [
+                    28,
+                    38,
+                    59,
+                    74,
+                    79
+                ],
+                "describe": [
+                    29
+                ],
+                "separate": [
+                    31
+                ],
+                "components": [
+                    33
+                ],
+                "in": [
+                    34,
+                    56
+                ],
+                "suite.": [
+                    37
+                ],
+                "present": [
+                    39
+                ],
+                "results": [
+                    41
+                ],
+                "of": [
+                    42
+                ],
+                "this": [
+                    43,
+                    65
+                ],
+                "on": [
+                    46,
+                    64
+                ],
+                "PRIMEPOWER": [
+                    48
+                ],
+                "2000": [
+                    49
+                ],
+                "system,": [
+                    50
+                ],
+                "officially": [
+                    52
+                ],
+                "submitted": [
+                    53
+                ],
+                "to": [
+                    54,
+                    71
+                ],
+                "June": [
+                    57
+                ],
+                "2001.": [
+                    58
+                ],
+                "have": [
+                    60
+                ],
+                "run": [
+                    61
+                ],
+                "flat": [
+                    66
+                ],
+                "SMP": [
+                    67
+                ],
+                "System": [
+                    68
+                ],
+                "with": [
+                    69
+                ],
+                "up": [
+                    70
+                ],
+                "128": [
+                    72
+                ],
+                "processors.": [
+                    73
+                ],
+                "analyze": [
+                    75
+                ],
+                "results.": [
+                    78
+                ],
+                "give": [
+                    80
+                ],
+                "some": [
+                    81
+                ],
+                "recommendations": [
+                    82
+                ],
+                "an": [
+                    84
+                ],
+                "programming": [
+                    86
+                ],
+                "style.": [
+                    87
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2186315912",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T10:47:14.972948",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2410465082",
+            "doi": "https://doi.org/10.1587/transinf.2015edp7440",
+            "title": "Guide Automatic Vectorization by means of Machine Learning: A Case Study of Tensor Contraction Kernels",
+            "display_name": "Guide Automatic Vectorization by means of Machine Learning: A Case Study of Tensor Contraction Kernels",
+            "publication_year": 2016,
+            "publication_date": "2016-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2410465082",
+                "doi": "https://doi.org/10.1587/transinf.2015edp7440",
+                "mag": "2410465082"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1587/transinf.2015edp7440",
+                "pdf_url": "https://www.jstage.jst.go.jp/article/transinf/E99.D/6/E99.D_2015EDP7440/_pdf",
+                "source": {
+                    "id": "https://openalex.org/S2486202937",
+                    "display_name": "IEICE Transactions on Information and Systems",
+                    "issn_l": "0916-8532",
+                    "issn": [
+                        "0916-8532",
+                        "1745-1361"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4320800604",
+                    "host_organization_name": "Institute of Electronics, Information and Communication Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4320800604"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electronics, Information and Communication Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://www.jstage.jst.go.jp/article/transinf/E99.D/6/E99.D_2015EDP7440/_pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5035472616",
+                        "display_name": "Antoine Trouvé",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Antoine TROUVÉ",
+                    "raw_affiliation_strings": [
+                        "Engineering Department of Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department of Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060845627",
+                        "display_name": "Arnaldo J. CRUZ",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Arnaldo J. CRUZ",
+                    "raw_affiliation_strings": [
+                        "Engineering Department of Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department of Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5001589629",
+                        "display_name": "Kazuaki Murakami",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I135598925",
+                            "display_name": "Kyushu University",
+                            "ror": "https://ror.org/00p4k0j84",
+                            "country_code": "JP",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kazuaki J. MURAKAMI",
+                    "raw_affiliation_strings": [
+                        "Engineering Department of Kyushu University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Engineering Department of Kyushu University",
+                            "institution_ids": [
+                                "https://openalex.org/I135598925"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5089215241",
+                        "display_name": "Manabu Arai",
+                        "orcid": "https://orcid.org/0009-0004-7982-2759"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Masaki ARAI",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Laboratories Limited"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Laboratories Limited",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5061784808",
+                        "display_name": "Tadashi Nakahira",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2252096349",
+                            "display_name": "Fujitsu (Japan)",
+                            "ror": "https://ror.org/038e2g226",
+                            "country_code": "JP",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "JP"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tadashi NAKAHIRA",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Laboratories Limited"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Laboratories Limited",
+                            "institution_ids": [
+                                "https://openalex.org/I2252096349"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5048993028",
+                        "display_name": "Eiji Yamanaka",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210159607",
+                            "display_name": "Fujitsu (China)",
+                            "ror": "https://ror.org/04w4yzw62",
+                            "country_code": "CN",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210159607"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eiji YAMANAKA",
+                    "raw_affiliation_strings": [
+                        "Fujitsu Limited"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Fujitsu Limited",
+                            "institution_ids": [
+                                "https://openalex.org/I4210159607"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.267,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.740125,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 77,
+                "max": 80
+            },
+            "biblio": {
+                "volume": "E99.D",
+                "issue": "6",
+                "first_page": "1585",
+                "last_page": "1594"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T13650",
+                "display_name": "Scientific Computing and Data Analysis with Python",
+                "score": 0.9972,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T13650",
+                    "display_name": "Scientific Computing and Data Analysis with Python",
+                    "score": 0.9972,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12303",
+                    "display_name": "Tensor Decompositions and Applications in Multilinear Algebra",
+                    "score": 0.9762,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2605",
+                        "display_name": "Computational Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9373,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/vectorization",
+                    "display_name": "Vectorization (mathematics)",
+                    "score": 0.71065575
+                },
+                {
+                    "id": "https://openalex.org/keywords/speedup",
+                    "display_name": "Speedup",
+                    "score": 0.5775063
+                },
+                {
+                    "id": "https://openalex.org/keywords/tensor-decomposition",
+                    "display_name": "Tensor Decomposition",
+                    "score": 0.565815
+                },
+                {
+                    "id": "https://openalex.org/keywords/visualization",
+                    "display_name": "Visualization",
+                    "score": 0.546184
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-reduction",
+                    "display_name": "Model Reduction",
+                    "score": 0.545822
+                },
+                {
+                    "id": "https://openalex.org/keywords/machine-learning",
+                    "display_name": "Machine Learning",
+                    "score": 0.54472
+                },
+                {
+                    "id": "https://openalex.org/keywords/nonnegative-tensor-factorization",
+                    "display_name": "Nonnegative Tensor Factorization",
+                    "score": 0.535532
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8984534
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.8637856
+                },
+                {
+                    "id": "https://openalex.org/C41681595",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7917855",
+                    "display_name": "Vectorization (mathematics)",
+                    "level": 2,
+                    "score": 0.71065575
+                },
+                {
+                    "id": "https://openalex.org/C68339613",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1549489",
+                    "display_name": "Speedup",
+                    "level": 2,
+                    "score": 0.5775063
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.509404
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.49427342
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.47246027
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.4066305
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.36872685
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.32514083
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1587/transinf.2015edp7440",
+                    "pdf_url": "https://www.jstage.jst.go.jp/article/transinf/E99.D/6/E99.D_2015EDP7440/_pdf",
+                    "source": {
+                        "id": "https://openalex.org/S2486202937",
+                        "display_name": "IEICE Transactions on Information and Systems",
+                        "issn_l": "0916-8532",
+                        "issn": [
+                            "0916-8532",
+                            "1745-1361"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4320800604",
+                        "host_organization_name": "Institute of Electronics, Information and Communication Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4320800604"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electronics, Information and Communication Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1587/transinf.2015edp7440",
+                "pdf_url": "https://www.jstage.jst.go.jp/article/transinf/E99.D/6/E99.D_2015EDP7440/_pdf",
+                "source": {
+                    "id": "https://openalex.org/S2486202937",
+                    "display_name": "IEICE Transactions on Information and Systems",
+                    "issn_l": "0916-8532",
+                    "issn": [
+                        "0916-8532",
+                        "1745-1361"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4320800604",
+                    "host_organization_name": "Institute of Electronics, Information and Communication Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4320800604"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electronics, Information and Communication Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 14,
+            "referenced_works": [
+                "https://openalex.org/W1967846636",
+                "https://openalex.org/W1969991578",
+                "https://openalex.org/W1988659054",
+                "https://openalex.org/W1991495385",
+                "https://openalex.org/W2052902739",
+                "https://openalex.org/W2064441385",
+                "https://openalex.org/W2084341220",
+                "https://openalex.org/W2103006842",
+                "https://openalex.org/W2143161696",
+                "https://openalex.org/W2147623728",
+                "https://openalex.org/W2156560068",
+                "https://openalex.org/W2168519934",
+                "https://openalex.org/W2187089797",
+                "https://openalex.org/W59960346"
+            ],
+            "related_works": [
+                "https://openalex.org/W947442053",
+                "https://openalex.org/W4313433561",
+                "https://openalex.org/W2979513934",
+                "https://openalex.org/W2778498407",
+                "https://openalex.org/W2351155539",
+                "https://openalex.org/W2317245370",
+                "https://openalex.org/W2148915962",
+                "https://openalex.org/W2030310580",
+                "https://openalex.org/W198851386",
+                "https://openalex.org/W1980160788"
+            ],
+            "abstract_inverted_index": {
+                "Modern": [
+                    0
+                ],
+                "optimizing": [
+                    1
+                ],
+                "compilers": [
+                    2
+                ],
+                "tend": [
+                    3
+                ],
+                "to": [
+                    4,
+                    10,
+                    26,
+                    48,
+                    63,
+                    72,
+                    209,
+                    211,
+                    216
+                ],
+                "be": [
+                    5,
+                    49
+                ],
+                "conservative": [
+                    6
+                ],
+                "and": [
+                    7,
+                    85,
+                    129,
+                    182
+                ],
+                "often": [
+                    8
+                ],
+                "fail": [
+                    9
+                ],
+                "vectorize": [
+                    11
+                ],
+                "programs": [
+                    12
+                ],
+                "that": [
+                    13,
+                    36,
+                    59,
+                    154
+                ],
+                "would": [
+                    14
+                ],
+                "have": [
+                    15
+                ],
+                "benefited": [
+                    16
+                ],
+                "from": [
+                    17
+                ],
+                "it.": [
+                    18
+                ],
+                "In": [
+                    19,
+                    92,
+                    143
+                ],
+                "this": [
+                    20,
+                    54,
+                    93,
+                    144
+                ],
+                "paper,": [
+                    21,
+                    145
+                ],
+                "we": [
+                    22,
+                    95,
+                    146,
+                    174,
+                    183
+                ],
+                "propose": [
+                    23,
+                    147
+                ],
+                "a": [
+                    24,
+                    50,
+                    66,
+                    179,
+                    187,
+                    203,
+                    212
+                ],
+                "way": [
+                    25
+                ],
+                "predict": [
+                    27,
+                    73
+                ],
+                "the": [
+                    28,
+                    33,
+                    39,
+                    61,
+                    64,
+                    83,
+                    112,
+                    140,
+                    156,
+                    160,
+                    165,
+                    171,
+                    176,
+                    194,
+                    200,
+                    217,
+                    221,
+                    233,
+                    249
+                ],
+                "relevant": [
+                    29,
+                    51
+                ],
+                "command-line": [
+                    30
+                ],
+                "options": [
+                    31,
+                    198
+                ],
+                "of": [
+                    32,
+                    137,
+                    139,
+                    151,
+                    159,
+                    199,
+                    206,
+                    220,
+                    235,
+                    240,
+                    251
+                ],
+                "compiler": [
+                    34,
+                    201
+                ],
+                "so": [
+                    35
+                ],
+                "it": [
+                    37,
+                    185
+                ],
+                "chooses": [
+                    38
+                ],
+                "most": [
+                    40
+                ],
+                "profitable": [
+                    41
+                ],
+                "vectorization": [
+                    42,
+                    197
+                ],
+                "strategy.": [
+                    43,
+                    77
+                ],
+                "Machine": [
+                    44
+                ],
+                "learning": [
+                    45,
+                    68
+                ],
+                "has": [
+                    46
+                ],
+                "proven": [
+                    47
+                ],
+                "approach": [
+                    52
+                ],
+                "for": [
+                    53,
+                    248
+                ],
+                "matter:": [
+                    55
+                ],
+                "fed": [
+                    56
+                ],
+                "with": [
+                    57,
+                    170,
+                    202,
+                    227
+                ],
+                "features": [
+                    58,
+                    153
+                ],
+                "describe": [
+                    60
+                ],
+                "software": [
+                    62,
+                    90,
+                    152,
+                    236
+                ],
+                "compiler,": [
+                    65
+                ],
+                "machine": [
+                    67
+                ],
+                "device": [
+                    69
+                ],
+                "is": [
+                    70
+                ],
+                "trained": [
+                    71
+                ],
+                "an": [
+                    74,
+                    148,
+                    228
+                ],
+                "appropriate": [
+                    75
+                ],
+                "optimization": [
+                    76
+                ],
+                "The": [
+                    78
+                ],
+                "related": [
+                    79,
+                    141
+                ],
+                "work": [
+                    80
+                ],
+                "relies": [
+                    81
+                ],
+                "on": [
+                    82,
+                    108,
+                    232
+                ],
+                "control": [
+                    84,
+                    128
+                ],
+                "data": [
+                    86,
+                    130
+                ],
+                "flow": [
+                    87,
+                    131
+                ],
+                "graphs": [
+                    88
+                ],
+                "as": [
+                    89,
+                    178
+                ],
+                "features.": [
+                    91
+                ],
+                "article,": [
+                    94
+                ],
+                "consider": [
+                    96
+                ],
+                "tensor": [
+                    97,
+                    115,
+                    161
+                ],
+                "contraction": [
+                    98,
+                    116,
+                    162
+                ],
+                "programs,": [
+                    99
+                ],
+                "useful": [
+                    100
+                ],
+                "in": [
+                    101
+                ],
+                "various": [
+                    102
+                ],
+                "scientific": [
+                    103
+                ],
+                "simulations,": [
+                    104
+                ],
+                "especially": [
+                    105
+                ],
+                "chemistry.": [
+                    106
+                ],
+                "Depending": [
+                    107
+                ],
+                "how": [
+                    109
+                ],
+                "they": [
+                    110,
+                    125
+                ],
+                "access": [
+                    111
+                ],
+                "memory,": [
+                    113
+                ],
+                "different": [
+                    114,
+                    121
+                ],
+                "kernels": [
+                    117
+                ],
+                "may": [
+                    118
+                ],
+                "yield": [
+                    119
+                ],
+                "very": [
+                    120
+                ],
+                "performance": [
+                    122,
+                    234
+                ],
+                "figures.": [
+                    123
+                ],
+                "However,": [
+                    124
+                ],
+                "exhibit": [
+                    126
+                ],
+                "identical": [
+                    127
+                ],
+                "graphs,": [
+                    132
+                ],
+                "making": [
+                    133
+                ],
+                "them": [
+                    134
+                ],
+                "completely": [
+                    135
+                ],
+                "out": [
+                    136
+                ],
+                "reach": [
+                    138
+                ],
+                "work.": [
+                    142
+                ],
+                "original": [
+                    149,
+                    229
+                ],
+                "set": [
+                    150
+                ],
+                "capture": [
+                    155
+                ],
+                "important": [
+                    157
+                ],
+                "properties": [
+                    158
+                ],
+                "kernels.": [
+                    163
+                ],
+                "Considering": [
+                    164
+                ],
+                "Intel": [
+                    166,
+                    172,
+                    222
+                ],
+                "Merom": [
+                    167
+                ],
+                "processor": [
+                    168
+                ],
+                "architecture": [
+                    169
+                ],
+                "Compiler,": [
+                    173
+                ],
+                "model": [
+                    175
+                ],
+                "problem": [
+                    177,
+                    181
+                ],
+                "classification": [
+                    180
+                ],
+                "solve": [
+                    184
+                ],
+                "using": [
+                    186
+                ],
+                "support": [
+                    188
+                ],
+                "vector": [
+                    189
+                ],
+                "machine.": [
+                    190
+                ],
+                "Our": [
+                    191
+                ],
+                "technique": [
+                    192
+                ],
+                "predicts": [
+                    193
+                ],
+                "best": [
+                    195
+                ],
+                "suited": [
+                    196
+                ],
+                "cross-validation": [
+                    204
+                ],
+                "accuracy": [
+                    205
+                ],
+                "93.4%,": [
+                    207
+                ],
+                "leading": [
+                    208
+                ],
+                "up": [
+                    210
+                ],
+                "3-times": [
+                    213
+                ],
+                "speedup": [
+                    214
+                ],
+                "compared": [
+                    215
+                ],
+                "default": [
+                    218
+                ],
+                "behavior": [
+                    219
+                ],
+                "Compiler.": [
+                    223
+                ],
+                "This": [
+                    224
+                ],
+                "article": [
+                    225
+                ],
+                "ends": [
+                    226
+                ],
+                "qualitative": [
+                    230
+                ],
+                "discussion": [
+                    231
+                ],
+                "metrics": [
+                    237
+                ],
+                "by": [
+                    238
+                ],
+                "means": [
+                    239
+                ],
+                "visualization.": [
+                    241
+                ],
+                "All": [
+                    242
+                ],
+                "our": [
+                    243
+                ],
+                "measurements": [
+                    244
+                ],
+                "are": [
+                    245
+                ],
+                "made": [
+                    246
+                ],
+                "available": [
+                    247
+                ],
+                "sake": [
+                    250
+                ],
+                "reproducibility.": [
+                    252
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2410465082",
+            "counts_by_year": [
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-16T11:24:43.112616",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

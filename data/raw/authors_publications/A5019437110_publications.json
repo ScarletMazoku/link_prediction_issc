@@ -1,0 +1,1586 @@
+{
+    "meta": {
+        "count": 3,
+        "db_response_time_ms": 35,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4394825350",
+            "doi": "https://doi.org/10.1109/pdp62718.2024.00019",
+            "title": "PPL: Structured Parallel Programming Meets Rust",
+            "display_name": "PPL: Structured Parallel Programming Meets Rust",
+            "publication_year": 2024,
+            "publication_date": "2024-03-20",
+            "ids": {
+                "openalex": "https://openalex.org/W4394825350",
+                "doi": "https://doi.org/10.1109/pdp62718.2024.00019"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/pdp62718.2024.00019",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019437110",
+                        "display_name": "Valerio Besozzi",
+                        "orcid": "https://orcid.org/0009-0002-8493-2122"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I108290504",
+                            "display_name": "University of Pisa",
+                            "ror": "https://ror.org/03ad39j10",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Valerio Besozzi",
+                    "raw_affiliation_strings": [
+                        "University of Pisa,Department of Computer Science,Pisa,Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Pisa,Department of Computer Science,Pisa,Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5019437110"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I108290504"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 87
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9984,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10772",
+                    "display_name": "Distributed Fault Tolerance and Consistency in Systems",
+                    "score": 0.9983,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/rust",
+                    "display_name": "Rust (programming language)",
+                    "score": 0.7259466
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.709282
+                },
+                {
+                    "id": "https://openalex.org/keywords/simulation-platforms",
+                    "display_name": "Simulation Platforms",
+                    "score": 0.58035
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.56946
+                },
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.559011
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-grids",
+                    "display_name": "Computational Grids",
+                    "score": 0.557887
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7278092
+                },
+                {
+                    "id": "https://openalex.org/C197781089",
+                    "wikidata": "https://www.wikidata.org/wiki/Q575650",
+                    "display_name": "Rust (programming language)",
+                    "level": 2,
+                    "score": 0.7259466
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.4882834
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.40330544
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/pdp62718.2024.00019",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 16,
+            "referenced_works": [
+                "https://openalex.org/W1578415644",
+                "https://openalex.org/W1984222112",
+                "https://openalex.org/W1988888548",
+                "https://openalex.org/W2150952308",
+                "https://openalex.org/W2336894004",
+                "https://openalex.org/W2779850521",
+                "https://openalex.org/W2786098532",
+                "https://openalex.org/W2911815053",
+                "https://openalex.org/W2972295229",
+                "https://openalex.org/W3017538311",
+                "https://openalex.org/W3023460861",
+                "https://openalex.org/W3098501702",
+                "https://openalex.org/W3138798301",
+                "https://openalex.org/W3187696456",
+                "https://openalex.org/W4232363542",
+                "https://openalex.org/W591515995"
+            ],
+            "related_works": [
+                "https://openalex.org/W4391913857",
+                "https://openalex.org/W4391375266",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2530322880",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4394825350",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T20:10:53.787226",
+            "created_date": "2024-04-16"
+        },
+        {
+            "id": "https://openalex.org/W4321172929",
+            "doi": "https://doi.org/10.48550/arxiv.2302.07551",
+            "title": "Experimental Study of a Parallel Iterative Solver for Markov Chain Modeling",
+            "display_name": "Experimental Study of a Parallel Iterative Solver for Markov Chain Modeling",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4321172929",
+                "doi": "https://doi.org/10.48550/arxiv.2302.07551"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2302.07551",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-nc-nd",
+                "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "arxiv",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/abs/2302.07551",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019437110",
+                        "display_name": "Valerio Besozzi",
+                        "orcid": "https://orcid.org/0009-0002-8493-2122"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Besozzi, V.",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5084164461",
+                        "display_name": "Michele Della Bartola",
+                        "orcid": "https://orcid.org/0000-0002-6911-9208"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Della Bartola, M.",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5033477960",
+                        "display_name": "L. Gemignani",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gemignani, L.",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10792",
+                "display_name": "Matrix Algorithms and Iterative Methods",
+                "score": 0.8655,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1703",
+                    "display_name": "Computational Theory and Mathematics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.8655,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.79972446
+                },
+                {
+                    "id": "https://openalex.org/keywords/iterative-methods",
+                    "display_name": "Iterative Methods",
+                    "score": 0.542765
+                },
+                {
+                    "id": "https://openalex.org/keywords/sparse-linear-systems",
+                    "display_name": "Sparse Linear Systems",
+                    "score": 0.516546
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.511083
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.79972446
+                },
+                {
+                    "id": "https://openalex.org/C98763669",
+                    "wikidata": "https://www.wikidata.org/wiki/Q176645",
+                    "display_name": "Markov chain",
+                    "level": 2,
+                    "score": 0.76050025
+                },
+                {
+                    "id": "https://openalex.org/C2777210771",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4927124",
+                    "display_name": "Block (permutation group theory)",
+                    "level": 2,
+                    "score": 0.7062045
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6459118
+                },
+                {
+                    "id": "https://openalex.org/C159694833",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+                    "display_name": "Iterative method",
+                    "level": 2,
+                    "score": 0.50589603
+                },
+                {
+                    "id": "https://openalex.org/C159886148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q176645",
+                    "display_name": "Markov process",
+                    "level": 2,
+                    "score": 0.49321574
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.44630995
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.4437254
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.41869438
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.34045908
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.28953823
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.06988597
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2302.07551",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-nc-nd",
+                    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.2302.07551",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2302.07551",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-nc-nd",
+                "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W68941528",
+                "https://openalex.org/W4255427455",
+                "https://openalex.org/W4206451355",
+                "https://openalex.org/W2413828414",
+                "https://openalex.org/W2379651310",
+                "https://openalex.org/W2367222340",
+                "https://openalex.org/W2186864281",
+                "https://openalex.org/W2113019827",
+                "https://openalex.org/W1966025497",
+                "https://openalex.org/W1541249122"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "the": [
+                    3,
+                    11,
+                    37,
+                    44
+                ],
+                "results": [
+                    4
+                ],
+                "of": [
+                    5,
+                    10,
+                    13,
+                    28
+                ],
+                "a": [
+                    6,
+                    14,
+                    20,
+                    59
+                ],
+                "preliminary": [
+                    7
+                ],
+                "experimental": [
+                    8
+                ],
+                "investigation": [
+                    9
+                ],
+                "performance": [
+                    12
+                ],
+                "stationary": [
+                    15
+                ],
+                "iterative": [
+                    16
+                ],
+                "method": [
+                    17,
+                    45
+                ],
+                "based": [
+                    18
+                ],
+                "on": [
+                    19
+                ],
+                "block": [
+                    21,
+                    51
+                ],
+                "staircase": [
+                    22
+                ],
+                "splitting": [
+                    23
+                ],
+                "for": [
+                    24,
+                    49
+                ],
+                "solving": [
+                    25,
+                    50
+                ],
+                "singular": [
+                    26
+                ],
+                "systems": [
+                    27,
+                    57
+                ],
+                "linear": [
+                    29
+                ],
+                "equations": [
+                    30
+                ],
+                "arising": [
+                    31
+                ],
+                "in": [
+                    32,
+                    58
+                ],
+                "Markov": [
+                    33
+                ],
+                "chain": [
+                    34
+                ],
+                "modelling.": [
+                    35
+                ],
+                "From": [
+                    36
+                ],
+                "experiments": [
+                    38
+                ],
+                "presented,": [
+                    39
+                ],
+                "we": [
+                    40
+                ],
+                "can": [
+                    41
+                ],
+                "deduce": [
+                    42
+                ],
+                "that": [
+                    43
+                ],
+                "is": [
+                    46
+                ],
+                "well": [
+                    47
+                ],
+                "suited": [
+                    48
+                ],
+                "banded": [
+                    52
+                ],
+                "or": [
+                    53
+                ],
+                "more": [
+                    54
+                ],
+                "generally": [
+                    55
+                ],
+                "localized": [
+                    56
+                ],
+                "parallel": [
+                    60,
+                    64
+                ],
+                "computing": [
+                    61
+                ],
+                "environment.": [
+                    62
+                ],
+                "The": [
+                    63
+                ],
+                "implementation": [
+                    65
+                ],
+                "has": [
+                    66
+                ],
+                "been": [
+                    67
+                ],
+                "benchmarked": [
+                    68
+                ],
+                "using": [
+                    69
+                ],
+                "several": [
+                    70
+                ],
+                "Markovian": [
+                    71
+                ],
+                "models.": [
+                    72
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4321172929",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T13:58:10.295053",
+            "created_date": "2023-02-18"
+        },
+        {
+            "id": "https://openalex.org/W4382703212",
+            "doi": "https://doi.org/10.1007/978-3-031-36021-3_4",
+            "title": "Experimental Study of a Parallel Iterative Solver for Markov Chain Modeling",
+            "display_name": "Experimental Study of a Parallel Iterative Solver for Markov Chain Modeling",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4382703212",
+                "doi": "https://doi.org/10.1007/978-3-031-36021-3_4"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-031-36021-3_4",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5019437110",
+                        "display_name": "Valerio Besozzi",
+                        "orcid": "https://orcid.org/0009-0002-8493-2122"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I108290504",
+                            "display_name": "University of Pisa",
+                            "ror": "https://ror.org/03ad39j10",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Valerio Besozzi",
+                    "raw_affiliation_strings": [
+                        "Dipartimento di Informatica, Università di Pisa, 56127, Pisa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dipartimento di Informatica, Università di Pisa, 56127, Pisa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5104137401",
+                        "display_name": "Matteo Della Bartola",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I108290504",
+                            "display_name": "University of Pisa",
+                            "ror": "https://ror.org/03ad39j10",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matteo Della Bartola",
+                    "raw_affiliation_strings": [
+                        "Dipartimento di Informatica, Università di Pisa, 56127, Pisa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dipartimento di Informatica, Università di Pisa, 56127, Pisa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5085341608",
+                        "display_name": "Luca Gemignani",
+                        "orcid": "https://orcid.org/0000-0001-8000-4906"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I108290504",
+                            "display_name": "University of Pisa",
+                            "ror": "https://ror.org/03ad39j10",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luca Gemignani",
+                    "raw_affiliation_strings": [
+                        "Dipartimento di Informatica, Università di Pisa, 56127, Pisa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dipartimento di Informatica, Università di Pisa, 56127, Pisa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I108290504"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "47",
+                "last_page": "61"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10792",
+                "display_name": "Matrix Algorithms and Iterative Methods",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1703",
+                    "display_name": "Computational Theory and Mathematics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11416",
+                    "display_name": "Numerical Integration Methods for Differential Equations",
+                    "score": 0.992,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2612",
+                        "display_name": "Numerical Analysis"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12056",
+                    "display_name": "Bayesian Monte Carlo Methods in Scientific Inference",
+                    "score": 0.9892,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2613",
+                        "display_name": "Statistics and Probability"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.7813772
+                },
+                {
+                    "id": "https://openalex.org/keywords/iterative-methods",
+                    "display_name": "Iterative Methods",
+                    "score": 0.542765
+                },
+                {
+                    "id": "https://openalex.org/keywords/sparse-linear-systems",
+                    "display_name": "Sparse Linear Systems",
+                    "score": 0.516546
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.511083
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7978984
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.7813772
+                },
+                {
+                    "id": "https://openalex.org/C98763669",
+                    "wikidata": "https://www.wikidata.org/wiki/Q176645",
+                    "display_name": "Markov chain",
+                    "level": 2,
+                    "score": 0.7331243
+                },
+                {
+                    "id": "https://openalex.org/C2777210771",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4927124",
+                    "display_name": "Block (permutation group theory)",
+                    "level": 2,
+                    "score": 0.69232965
+                },
+                {
+                    "id": "https://openalex.org/C159694833",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2321565",
+                    "display_name": "Iterative method",
+                    "level": 2,
+                    "score": 0.54636115
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.49510542
+                },
+                {
+                    "id": "https://openalex.org/C159886148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q176645",
+                    "display_name": "Markov process",
+                    "level": 2,
+                    "score": 0.4791119
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.47132638
+                },
+                {
+                    "id": "https://openalex.org/C6802819",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1072174",
+                    "display_name": "Linear system",
+                    "level": 2,
+                    "score": 0.4472724
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.3946677
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.39256376
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.3504355
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.32698336
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.15940222
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-031-36021-3_4",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 27,
+            "referenced_works": [
+                "https://openalex.org/W1506342804",
+                "https://openalex.org/W1514324734",
+                "https://openalex.org/W1969139579",
+                "https://openalex.org/W1969620704",
+                "https://openalex.org/W1988425770",
+                "https://openalex.org/W1996418493",
+                "https://openalex.org/W2013226093",
+                "https://openalex.org/W2031448447",
+                "https://openalex.org/W2045175083",
+                "https://openalex.org/W2050488651",
+                "https://openalex.org/W2051004022",
+                "https://openalex.org/W2063943959",
+                "https://openalex.org/W2073035127",
+                "https://openalex.org/W2085207070",
+                "https://openalex.org/W2093160174",
+                "https://openalex.org/W2095749831",
+                "https://openalex.org/W2412589610",
+                "https://openalex.org/W2583383801",
+                "https://openalex.org/W2971263156",
+                "https://openalex.org/W3121870447",
+                "https://openalex.org/W3124903422",
+                "https://openalex.org/W3215546065",
+                "https://openalex.org/W4229666556",
+                "https://openalex.org/W4290044953",
+                "https://openalex.org/W4295016751",
+                "https://openalex.org/W4301621763",
+                "https://openalex.org/W4317653927"
+            ],
+            "related_works": [
+                "https://openalex.org/W4367553810",
+                "https://openalex.org/W2901773673",
+                "https://openalex.org/W2804126825",
+                "https://openalex.org/W2731831065",
+                "https://openalex.org/W2133366228",
+                "https://openalex.org/W2104142636",
+                "https://openalex.org/W2011940952",
+                "https://openalex.org/W1970202043",
+                "https://openalex.org/W1604758548",
+                "https://openalex.org/W1549048322"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "the": [
+                    3,
+                    11,
+                    37,
+                    44
+                ],
+                "results": [
+                    4
+                ],
+                "of": [
+                    5,
+                    10,
+                    13,
+                    28
+                ],
+                "a": [
+                    6,
+                    14,
+                    20,
+                    59
+                ],
+                "preliminary": [
+                    7
+                ],
+                "experimental": [
+                    8
+                ],
+                "investigation": [
+                    9
+                ],
+                "performance": [
+                    12
+                ],
+                "stationary": [
+                    15
+                ],
+                "iterative": [
+                    16
+                ],
+                "method": [
+                    17,
+                    45
+                ],
+                "based": [
+                    18
+                ],
+                "on": [
+                    19
+                ],
+                "block": [
+                    21,
+                    51
+                ],
+                "staircase": [
+                    22
+                ],
+                "splitting": [
+                    23
+                ],
+                "for": [
+                    24,
+                    49
+                ],
+                "solving": [
+                    25,
+                    50
+                ],
+                "singular": [
+                    26
+                ],
+                "systems": [
+                    27,
+                    57
+                ],
+                "linear": [
+                    29
+                ],
+                "equations": [
+                    30
+                ],
+                "arising": [
+                    31
+                ],
+                "in": [
+                    32,
+                    58
+                ],
+                "Markov": [
+                    33
+                ],
+                "chain": [
+                    34
+                ],
+                "modelling.": [
+                    35
+                ],
+                "From": [
+                    36
+                ],
+                "experiments": [
+                    38
+                ],
+                "presented,": [
+                    39
+                ],
+                "we": [
+                    40
+                ],
+                "can": [
+                    41
+                ],
+                "deduce": [
+                    42
+                ],
+                "that": [
+                    43
+                ],
+                "is": [
+                    46
+                ],
+                "well": [
+                    47
+                ],
+                "suited": [
+                    48
+                ],
+                "banded": [
+                    52
+                ],
+                "or": [
+                    53
+                ],
+                "more": [
+                    54
+                ],
+                "generally": [
+                    55
+                ],
+                "localized": [
+                    56
+                ],
+                "parallel": [
+                    60,
+                    64
+                ],
+                "computing": [
+                    61
+                ],
+                "environment.": [
+                    62
+                ],
+                "The": [
+                    63
+                ],
+                "implementation": [
+                    65
+                ],
+                "has": [
+                    66
+                ],
+                "been": [
+                    67
+                ],
+                "benchmarked": [
+                    68
+                ],
+                "using": [
+                    69
+                ],
+                "several": [
+                    70
+                ],
+                "Markovian": [
+                    71
+                ],
+                "models.": [
+                    72
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4382703212",
+            "counts_by_year": [],
+            "updated_date": "2024-09-18T14:35:34.056915",
+            "created_date": "2023-07-01"
+        }
+    ],
+    "group_by": []
+}

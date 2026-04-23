@@ -1,0 +1,4761 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 54,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2156283588",
+            "doi": "https://doi.org/10.1016/j.procs.2011.04.012",
+            "title": "Flood early warning system: design, implementation and computational modules",
+            "display_name": "Flood early warning system: design, implementation and computational modules",
+            "publication_year": 2011,
+            "publication_date": "2011-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2156283588",
+                "doi": "https://doi.org/10.1016/j.procs.2011.04.012",
+                "mag": "2156283588"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2011.04.012",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2011.04.012",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5020563993",
+                        "display_name": "Valeria V. Krzhizhanovskaya",
+                        "orcid": "https://orcid.org/0000-0002-8247-129X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I212220629",
+                            "display_name": "Peter the Great St. Petersburg Polytechnic University",
+                            "ror": "https://ror.org/02x91aj62",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I173089394",
+                            "display_name": "ITMO University",
+                            "ror": "https://ror.org/04txgxn49",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173089394"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "V.V. Krzhizhanovskaya",
+                    "raw_affiliation_strings": [
+                        "National Research University ITMO, St. Petersburg, Russia",
+                        "St.Petersburg State Polytechnic University, Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "St.Petersburg State Polytechnic University, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "National Research University ITMO, St. Petersburg, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I173089394"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079911314",
+                        "display_name": "G.S. Shirshov",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I212220629",
+                            "display_name": "Peter the Great St. Petersburg Polytechnic University",
+                            "ror": "https://ror.org/02x91aj62",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "G.S. Shirshov",
+                    "raw_affiliation_strings": [
+                        "St.Petersburg State Polytechnic University, Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "St.Petersburg State Polytechnic University, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081260798",
+                        "display_name": "N.B. Melnikova",
+                        "orcid": "https://orcid.org/0000-0003-4322-5720"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I212220629",
+                            "display_name": "Peter the Great St. Petersburg Polytechnic University",
+                            "ror": "https://ror.org/02x91aj62",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I173089394",
+                            "display_name": "ITMO University",
+                            "ror": "https://ror.org/04txgxn49",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173089394"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "N.B. Melnikova",
+                    "raw_affiliation_strings": [
+                        "National Research University ITMO, St. Petersburg, Russia",
+                        "St.Petersburg State Polytechnic University, Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "St.Petersburg State Polytechnic University, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "National Research University ITMO, St. Petersburg, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I173089394"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5056280677",
+                        "display_name": "Robert G. Belleman",
+                        "orcid": "https://orcid.org/0000-0001-6576-8350"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "R.G. Belleman",
+                    "raw_affiliation_strings": [
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5062230023",
+                        "display_name": "F.I. Rusadi",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "F.I. Rusadi",
+                    "raw_affiliation_strings": [
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5001440321",
+                        "display_name": "B.J. Broekhuijsen",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I148297040",
+                            "display_name": "Netherlands Organisation for Applied Scientific Research",
+                            "ror": "https://ror.org/01bnjb948",
+                            "country_code": "NL",
+                            "type": "nonprofit",
+                            "lineage": [
+                                "https://openalex.org/I148297040"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "B.J. Broekhuijsen",
+                    "raw_affiliation_strings": [
+                        "TNO, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "TNO, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I148297040"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103274452",
+                        "display_name": "Ben Gouldby",
+                        "orcid": "https://orcid.org/0000-0003-0415-5897"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802260906",
+                            "display_name": "HR Wallingford",
+                            "ror": "https://ror.org/00nxna028",
+                            "country_code": "GB",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I2802260906"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "B.P. Gouldby",
+                    "raw_affiliation_strings": [
+                        "HR Wallingford, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "HR Wallingford, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I2802260906"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5090279774",
+                        "display_name": "Julien Lhomme",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2802260906",
+                            "display_name": "HR Wallingford",
+                            "ror": "https://ror.org/00nxna028",
+                            "country_code": "GB",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I2802260906"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. Lhomme",
+                    "raw_affiliation_strings": [
+                        "HR Wallingford, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "HR Wallingford, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I2802260906"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045382990",
+                        "display_name": "Bartosz Baliś",
+                        "orcid": "https://orcid.org/0000-0002-3082-4209"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "B. Balis",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science & ACC Cyfronet AGH, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science & ACC Cyfronet AGH, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5004326594",
+                        "display_name": "Marian Bubak",
+                        "orcid": "https://orcid.org/0000-0001-6083-0549"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Bubak",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science & ACC Cyfronet AGH, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science & ACC Cyfronet AGH, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016093106",
+                        "display_name": "A.L. Pyayt",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210131889",
+                            "display_name": "Siemens (Russia)",
+                            "ror": "https://ror.org/03acf5r27",
+                            "country_code": "RU",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1325886976",
+                                "https://openalex.org/I4210131889"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "A.L. Pyayt",
+                    "raw_affiliation_strings": [
+                        "Siemens , Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Siemens , Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131889"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5046260390",
+                        "display_name": "I.I. Mokhov",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210131889",
+                            "display_name": "Siemens (Russia)",
+                            "ror": "https://ror.org/03acf5r27",
+                            "country_code": "RU",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1325886976",
+                                "https://openalex.org/I4210131889"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "I.I. Mokhov",
+                    "raw_affiliation_strings": [
+                        "Siemens , Russia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Siemens , Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131889"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5065922727",
+                        "display_name": "A.V. Ozhigin",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210131889",
+                            "display_name": "Siemens (Russia)",
+                            "ror": "https://ror.org/03acf5r27",
+                            "country_code": "RU",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1325886976",
+                                "https://openalex.org/I4210131889"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "A.V. Ozhigin",
+                    "raw_affiliation_strings": [
+                        "Siemens , Russia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Siemens , Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131889"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5014952525",
+                        "display_name": "Bernhard Lang",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210131889",
+                            "display_name": "Siemens (Russia)",
+                            "ror": "https://ror.org/03acf5r27",
+                            "country_code": "RU",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I1325886976",
+                                "https://openalex.org/I4210131889"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "B. Lang",
+                    "raw_affiliation_strings": [
+                        "Siemens , Russia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Siemens , Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I4210131889"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5027523571",
+                        "display_name": "Robert Meijer",
+                        "orcid": "https://orcid.org/0000-0002-6828-034X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I148297040",
+                            "display_name": "Netherlands Organisation for Applied Scientific Research",
+                            "ror": "https://ror.org/01bnjb948",
+                            "country_code": "NL",
+                            "type": "nonprofit",
+                            "lineage": [
+                                "https://openalex.org/I148297040"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "R.J. Meijer",
+                    "raw_affiliation_strings": [
+                        "TNO, The Netherlands",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "TNO, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I148297040"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 4,
+            "institutions_distinct_count": 7,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5020563993"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I212220629",
+                "https://openalex.org/I173089394",
+                "https://openalex.org/I887064364"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 7.379,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 158,
+            "citation_normalized_percentile": {
+                "value": 0.999935,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 98,
+                "max": 99
+            },
+            "biblio": {
+                "volume": "4",
+                "issue": null,
+                "first_page": "106",
+                "last_page": "115"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10930",
+                "display_name": "Global Flood Risk Assessment and Management",
+                "score": 0.9973,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2306",
+                    "display_name": "Global and Planetary Change"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10930",
+                    "display_name": "Global Flood Risk Assessment and Management",
+                    "score": 0.9973,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12293",
+                    "display_name": "Statistics and Mechanisms of Embankment Dam Failures",
+                    "score": 0.9925,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2205",
+                        "display_name": "Civil and Structural Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10330",
+                    "display_name": "Hydrological Modeling and Water Resource Management",
+                    "score": 0.9893,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2312",
+                        "display_name": "Water Science and Technology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/dike",
+                    "display_name": "Dike",
+                    "score": 0.9239125
+                },
+                {
+                    "id": "https://openalex.org/keywords/flood-inundation-modeling",
+                    "display_name": "Flood Inundation Modeling",
+                    "score": 0.586496
+                },
+                {
+                    "id": "https://openalex.org/keywords/watershed-simulation",
+                    "display_name": "Watershed Simulation",
+                    "score": 0.577484
+                },
+                {
+                    "id": "https://openalex.org/keywords/urban-flooding",
+                    "display_name": "Urban Flooding",
+                    "score": 0.571619
+                },
+                {
+                    "id": "https://openalex.org/keywords/dam-behaviour-modelling",
+                    "display_name": "Dam Behaviour Modelling",
+                    "score": 0.546684
+                },
+                {
+                    "id": "https://openalex.org/keywords/flood-risk",
+                    "display_name": "Flood Risk",
+                    "score": 0.506994
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C83893233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q662806",
+                    "display_name": "Dike",
+                    "level": 2,
+                    "score": 0.9239125
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.74809754
+                },
+                {
+                    "id": "https://openalex.org/C74256435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134052",
+                    "display_name": "Flood myth",
+                    "level": 2,
+                    "score": 0.6827586
+                },
+                {
+                    "id": "https://openalex.org/C177212765",
+                    "wikidata": "https://www.wikidata.org/wiki/Q627335",
+                    "display_name": "Workflow",
+                    "level": 2,
+                    "score": 0.5775705
+                },
+                {
+                    "id": "https://openalex.org/C29825287",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1427940",
+                    "display_name": "Warning system",
+                    "level": 2,
+                    "score": 0.52088857
+                },
+                {
+                    "id": "https://openalex.org/C112972136",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7595718",
+                    "display_name": "Stability (learning theory)",
+                    "level": 2,
+                    "score": 0.4359367
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.18642217
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.15617889
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.12054744
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.09752792
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C27206212",
+                    "wikidata": "https://www.wikidata.org/wiki/Q34178",
+                    "display_name": "Theology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17409809",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161764",
+                    "display_name": "Geochemistry",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2011.04.012",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://dare.uva.nl/personal/pure/en/publications/flood-early-warning-system-design-implementation-and-computational-modules(ed2dd5b8-aeee-45e6-8465-9f8468a93cc1).html",
+                    "pdf_url": "https://pure.uva.nl/ws/files/1289356/102136_346508.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401843",
+                        "display_name": "Data Archiving and Networked Services (DANS)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1322597698",
+                        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1322597698"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Royal Netherlands Academy of Arts and Sciences"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2011.04.012",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.82,
+                    "id": "https://metadata.un.org/sdg/11"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 19,
+            "referenced_works": [
+                "https://openalex.org/W1495049647",
+                "https://openalex.org/W1909800643",
+                "https://openalex.org/W2000481344",
+                "https://openalex.org/W2080083479",
+                "https://openalex.org/W2092562584",
+                "https://openalex.org/W2102278187",
+                "https://openalex.org/W2121102310",
+                "https://openalex.org/W2129714171",
+                "https://openalex.org/W2142493616",
+                "https://openalex.org/W2157901227",
+                "https://openalex.org/W2162604832",
+                "https://openalex.org/W2412208939",
+                "https://openalex.org/W2504480158",
+                "https://openalex.org/W2592025853",
+                "https://openalex.org/W4233746189",
+                "https://openalex.org/W4243550613",
+                "https://openalex.org/W50671490",
+                "https://openalex.org/W65525414",
+                "https://openalex.org/W9372687"
+            ],
+            "related_works": [
+                "https://openalex.org/W4389297550",
+                "https://openalex.org/W4295047754",
+                "https://openalex.org/W2956031314",
+                "https://openalex.org/W2393103712",
+                "https://openalex.org/W2364120890",
+                "https://openalex.org/W2324990857",
+                "https://openalex.org/W2095759847",
+                "https://openalex.org/W2004464738",
+                "https://openalex.org/W1622540209",
+                "https://openalex.org/W117219793"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0
+                ],
+                "present": [
+                    1
+                ],
+                "a": [
+                    2,
+                    85
+                ],
+                "prototype": [
+                    3
+                ],
+                "of": [
+                    4,
+                    41,
+                    74,
+                    143
+                ],
+                "the": [
+                    5,
+                    13,
+                    47,
+                    105,
+                    118,
+                    125,
+                    128,
+                    134,
+                    140
+                ],
+                "flood": [
+                    6,
+                    23,
+                    45
+                ],
+                "early": [
+                    7
+                ],
+                "warning": [
+                    8
+                ],
+                "system": [
+                    9,
+                    17,
+                    60
+                ],
+                "(EWS)": [
+                    10
+                ],
+                "developed": [
+                    11,
+                    92
+                ],
+                "within": [
+                    12
+                ],
+                "UrbanFlood": [
+                    14,
+                    119
+                ],
+                "FP7": [
+                    15
+                ],
+                "project.The": [
+                    16
+                ],
+                "monitors": [
+                    18
+                ],
+                "sensor": [
+                    19,
+                    30
+                ],
+                "networks": [
+                    20
+                ],
+                "installed": [
+                    21
+                ],
+                "in": [
+                    22,
+                    72,
+                    77
+                ],
+                "defenses": [
+                    24
+                ],
+                "(dikes,": [
+                    25
+                ],
+                "dams,": [
+                    26
+                ],
+                "embankments,": [
+                    27
+                ],
+                "etc.),": [
+                    28
+                ],
+                "detects": [
+                    29
+                ],
+                "signal": [
+                    31,
+                    110
+                ],
+                "abnormalities,": [
+                    32
+                ],
+                "calculates": [
+                    33
+                ],
+                "dike": [
+                    34,
+                    42,
+                    63,
+                    79,
+                    97,
+                    114
+                ],
+                "failure": [
+                    35,
+                    100
+                ],
+                "probability,": [
+                    36
+                ],
+                "and": [
+                    37,
+                    44,
+                    50,
+                    65,
+                    76,
+                    99,
+                    102,
+                    123,
+                    139,
+                    146
+                ],
+                "simulates": [
+                    38
+                ],
+                "possible": [
+                    39
+                ],
+                "scenarios": [
+                    40
+                ],
+                "breaching": [
+                    43
+                ],
+                "propagation.All": [
+                    46
+                ],
+                "relevant": [
+                    48
+                ],
+                "information": [
+                    49
+                ],
+                "simulation": [
+                    51
+                ],
+                "results": [
+                    52,
+                    142
+                ],
+                "are": [
+                    53
+                ],
+                "fed": [
+                    54
+                ],
+                "into": [
+                    55,
+                    96
+                ],
+                "an": [
+                    56
+                ],
+                "interactive": [
+                    57
+                ],
+                "decision": [
+                    58
+                ],
+                "support": [
+                    59
+                ],
+                "that": [
+                    61
+                ],
+                "helps": [
+                    62
+                ],
+                "managers": [
+                    64
+                ],
+                "city": [
+                    66
+                ],
+                "authorities": [
+                    67
+                ],
+                "to": [
+                    68,
+                    83
+                ],
+                "make": [
+                    69
+                ],
+                "informed": [
+                    70
+                ],
+                "decisions": [
+                    71
+                ],
+                "case": [
+                    73
+                ],
+                "emergency": [
+                    75
+                ],
+                "routine": [
+                    78
+                ],
+                "quality": [
+                    80
+                ],
+                "assessment.In": [
+                    81
+                ],
+                "addition": [
+                    82
+                ],
+                "that,": [
+                    84
+                ],
+                "Virtual": [
+                    86
+                ],
+                "Dike": [
+                    87
+                ],
+                "computational": [
+                    88,
+                    126
+                ],
+                "module": [
+                    89,
+                    108
+                ],
+                "has": [
+                    90
+                ],
+                "been": [
+                    91
+                ],
+                "for": [
+                    93,
+                    103
+                ],
+                "advanced": [
+                    94
+                ],
+                "research": [
+                    95
+                ],
+                "stability": [
+                    98
+                ],
+                "mechanisms,": [
+                    101
+                ],
+                "training": [
+                    104
+                ],
+                "artificial": [
+                    106
+                ],
+                "intelligence": [
+                    107
+                ],
+                "on": [
+                    109
+                ],
+                "parameters": [
+                    111
+                ],
+                "induced": [
+                    112
+                ],
+                "by": [
+                    113
+                ],
+                "instabilities.This": [
+                    115
+                ],
+                "paper": [
+                    116
+                ],
+                "describes": [
+                    117
+                ],
+                "EWS": [
+                    120,
+                    144
+                ],
+                "generic": [
+                    121
+                ],
+                "design": [
+                    122
+                ],
+                "functionality,": [
+                    124
+                ],
+                "workflow,": [
+                    127
+                ],
+                "individual": [
+                    129
+                ],
+                "modules,": [
+                    130
+                ],
+                "their": [
+                    131
+                ],
+                "integration": [
+                    132
+                ],
+                "via": [
+                    133
+                ],
+                "Common": [
+                    135
+                ],
+                "Information": [
+                    136
+                ],
+                "Space": [
+                    137
+                ],
+                "middleware,": [
+                    138
+                ],
+                "first": [
+                    141
+                ],
+                "monitoring": [
+                    145
+                ],
+                "performance": [
+                    147
+                ],
+                "benchmarks.": [
+                    148
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2156283588",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 10
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 11
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 14
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 13
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 17
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 14
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 6
+                }
+            ],
+            "updated_date": "2024-09-16T06:44:42.836135",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2120381845",
+            "doi": null,
+            "title": "Flood early warning system: sensors and internet",
+            "display_name": "Flood early warning system: sensors and internet",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2120381845",
+                "mag": "2120381845"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://iahs.info/uploads/dms/15684.357%20445-453.pdf",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S2764497680",
+                    "display_name": "IAHS-AISH publication",
+                    "issn_l": "0144-7815",
+                    "issn": [
+                        "0144-7815"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4322697897",
+                    "host_organization_name": "International Association of Hydrological Sciences",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4322697897"
+                    ],
+                    "host_organization_lineage_names": [
+                        "International Association of Hydrological Sciences"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5022113845",
+                        "display_name": "B.E. Pengel",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "B.E. Pengel",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020563993",
+                        "display_name": "Valeria V. Krzhizhanovskaya",
+                        "orcid": "https://orcid.org/0000-0002-8247-129X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "V.V. Krzhizhanovskaya",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081260798",
+                        "display_name": "N.B. Melnikova",
+                        "orcid": "https://orcid.org/0000-0003-4322-5720"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "N.B. Melnikova",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079911314",
+                        "display_name": "G.S. Shirshov",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "G.S. Shirshov",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5039048131",
+                        "display_name": "André Koelewijn",
+                        "orcid": "https://orcid.org/0000-0003-3705-9957"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "A.R. Koelewijn",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016093106",
+                        "display_name": "A.L. Pyayt",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "A.L. Pyayt",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5046260390",
+                        "display_name": "I.I. Mokhov",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "I.I. Mokhov",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 7.477,
+            "has_fulltext": false,
+            "cited_by_count": 28,
+            "citation_normalized_percentile": {
+                "value": 0.912374,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 92,
+                "max": 93
+            },
+            "biblio": {
+                "volume": null,
+                "issue": "357",
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11220",
+                "display_name": "Design and Management of Water Distribution Networks",
+                "score": 0.9881,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2205",
+                    "display_name": "Civil and Structural Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11220",
+                    "display_name": "Design and Management of Water Distribution Networks",
+                    "score": 0.9881,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2205",
+                        "display_name": "Civil and Structural Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10930",
+                    "display_name": "Global Flood Risk Assessment and Management",
+                    "score": 0.9836,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12697",
+                    "display_name": "Real-time Water Quality Monitoring and Aquaculture Management",
+                    "score": 0.9817,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2312",
+                        "display_name": "Water Science and Technology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/dike",
+                    "display_name": "Dike",
+                    "score": 0.9688889
+                },
+                {
+                    "id": "https://openalex.org/keywords/urban-flooding",
+                    "display_name": "Urban Flooding",
+                    "score": 0.575034
+                },
+                {
+                    "id": "https://openalex.org/keywords/flood-inundation-modeling",
+                    "display_name": "Flood Inundation Modeling",
+                    "score": 0.561226
+                },
+                {
+                    "id": "https://openalex.org/keywords/leak-detection",
+                    "display_name": "Leak Detection",
+                    "score": 0.555537
+                },
+                {
+                    "id": "https://openalex.org/keywords/water-quality-monitoring",
+                    "display_name": "Water Quality Monitoring",
+                    "score": 0.53662
+                },
+                {
+                    "id": "https://openalex.org/keywords/wireless-monitoring",
+                    "display_name": "Wireless Monitoring",
+                    "score": 0.516562
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C83893233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q662806",
+                    "display_name": "Dike",
+                    "level": 2,
+                    "score": 0.9688889
+                },
+                {
+                    "id": "https://openalex.org/C74256435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134052",
+                    "display_name": "Flood myth",
+                    "level": 2,
+                    "score": 0.8351922
+                },
+                {
+                    "id": "https://openalex.org/C115038398",
+                    "wikidata": "https://www.wikidata.org/wiki/Q105190",
+                    "display_name": "Levee",
+                    "level": 2,
+                    "score": 0.7058399
+                },
+                {
+                    "id": "https://openalex.org/C29825287",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1427940",
+                    "display_name": "Warning system",
+                    "level": 2,
+                    "score": 0.66145897
+                },
+                {
+                    "id": "https://openalex.org/C110875604",
+                    "wikidata": "https://www.wikidata.org/wiki/Q75",
+                    "display_name": "The Internet",
+                    "level": 2,
+                    "score": 0.57515436
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.44677404
+                },
+                {
+                    "id": "https://openalex.org/C147176958",
+                    "wikidata": "https://www.wikidata.org/wiki/Q77590",
+                    "display_name": "Civil engineering",
+                    "level": 1,
+                    "score": 0.35568988
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.34683204
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.34041816
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.32482558
+                },
+                {
+                    "id": "https://openalex.org/C187320778",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+                    "display_name": "Geotechnical engineering",
+                    "level": 1,
+                    "score": 0.15764326
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.15082625
+                },
+                {
+                    "id": "https://openalex.org/C136764020",
+                    "wikidata": "https://www.wikidata.org/wiki/Q466",
+                    "display_name": "World Wide Web",
+                    "level": 1,
+                    "score": 0.081213266
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.08090165
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17409809",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161764",
+                    "display_name": "Geochemistry",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://iahs.info/uploads/dms/15684.357%20445-453.pdf",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S2764497680",
+                        "display_name": "IAHS-AISH publication",
+                        "issn_l": "0144-7815",
+                        "issn": [
+                            "0144-7815"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4322697897",
+                        "host_organization_name": "International Association of Hydrological Sciences",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4322697897"
+                        ],
+                        "host_organization_lineage_names": [
+                            "International Association of Hydrological Sciences"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.72,
+                    "id": "https://metadata.un.org/sdg/11"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W1525242008",
+                "https://openalex.org/W1534141306",
+                "https://openalex.org/W1546327978",
+                "https://openalex.org/W1592577545",
+                "https://openalex.org/W1986205285",
+                "https://openalex.org/W2000481344",
+                "https://openalex.org/W2044486689",
+                "https://openalex.org/W2080083479",
+                "https://openalex.org/W2121102310",
+                "https://openalex.org/W2145196254",
+                "https://openalex.org/W2153381725",
+                "https://openalex.org/W2154562593",
+                "https://openalex.org/W2156283588",
+                "https://openalex.org/W2157901227",
+                "https://openalex.org/W8909656"
+            ],
+            "related_works": [
+                "https://openalex.org/W76833434",
+                "https://openalex.org/W67698438",
+                "https://openalex.org/W3201042583",
+                "https://openalex.org/W3122486387",
+                "https://openalex.org/W3108852746",
+                "https://openalex.org/W3048517961",
+                "https://openalex.org/W2942378500",
+                "https://openalex.org/W2931517731",
+                "https://openalex.org/W2925975523",
+                "https://openalex.org/W2922618765",
+                "https://openalex.org/W2675211542",
+                "https://openalex.org/W2381134117",
+                "https://openalex.org/W2339763806",
+                "https://openalex.org/W2156283588",
+                "https://openalex.org/W2153381725",
+                "https://openalex.org/W2121102310",
+                "https://openalex.org/W2095258071",
+                "https://openalex.org/W2044486689",
+                "https://openalex.org/W2000481344",
+                "https://openalex.org/W1626463507"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    26,
+                    99
+                ],
+                "UrbanFlood": [
+                    1
+                ],
+                "early": [
+                    2
+                ],
+                "warning": [
+                    3
+                ],
+                "system": [
+                    4
+                ],
+                "(EWS)": [
+                    5
+                ],
+                "is": [
+                    6,
+                    126
+                ],
+                "designed": [
+                    7
+                ],
+                "to": [
+                    8,
+                    40
+                ],
+                "monitor": [
+                    9
+                ],
+                "data": [
+                    10
+                ],
+                "from": [
+                    11,
+                    62
+                ],
+                "very": [
+                    12
+                ],
+                "large": [
+                    13
+                ],
+                "sensor": [
+                    14,
+                    34
+                ],
+                "networks": [
+                    15
+                ],
+                "in": [
+                    16
+                ],
+                "flood": [
+                    17,
+                    55,
+                    76,
+                    83
+                ],
+                "defences": [
+                    18
+                ],
+                "such": [
+                    19
+                ],
+                "as": [
+                    20
+                ],
+                "embankments,": [
+                    21
+                ],
+                "dikes,": [
+                    22
+                ],
+                "levees,": [
+                    23
+                ],
+                "and": [
+                    24,
+                    36,
+                    57,
+                    79,
+                    93,
+                    113
+                ],
+                "dams.": [
+                    25
+                ],
+                "EWS,": [
+                    27
+                ],
+                "based": [
+                    28
+                ],
+                "on": [
+                    29,
+                    69
+                ],
+                "the": [
+                    30,
+                    43,
+                    48,
+                    63,
+                    120,
+                    124
+                ],
+                "Internet,": [
+                    31
+                ],
+                "uses": [
+                    32
+                ],
+                "real-time": [
+                    33
+                ],
+                "information": [
+                    35
+                ],
+                "Artificial": [
+                    37
+                ],
+                "Intelligence": [
+                    38
+                ],
+                "(AI)": [
+                    39
+                ],
+                "immediately": [
+                    41
+                ],
+                "calculate": [
+                    42
+                ],
+                "probability": [
+                    44
+                ],
+                "of": [
+                    45,
+                    51
+                ],
+                "dike": [
+                    46,
+                    52,
+                    96,
+                    114
+                ],
+                "failure,": [
+                    47
+                ],
+                "ensuing": [
+                    49
+                ],
+                "scenarios": [
+                    50
+                ],
+                "breaching,": [
+                    53
+                ],
+                "predicted": [
+                    54
+                ],
+                "spreading": [
+                    56
+                ],
+                "escape": [
+                    58
+                ],
+                "routes": [
+                    59
+                ],
+                "for": [
+                    60,
+                    90,
+                    94,
+                    107
+                ],
+                "people": [
+                    61
+                ],
+                "affected": [
+                    64
+                ],
+                "areas.": [
+                    65
+                ],
+                "Results": [
+                    66
+                ],
+                "are": [
+                    67
+                ],
+                "presented": [
+                    68
+                ],
+                "interactive": [
+                    70
+                ],
+                "decision": [
+                    71
+                ],
+                "support": [
+                    72
+                ],
+                "systems": [
+                    73
+                ],
+                "that": [
+                    74,
+                    123
+                ],
+                "assist": [
+                    75
+                ],
+                "defence": [
+                    77
+                ],
+                "managers": [
+                    78
+                ],
+                "public": [
+                    80
+                ],
+                "authorities": [
+                    81
+                ],
+                "during": [
+                    82
+                ],
+                "events.": [
+                    84
+                ],
+                "It": [
+                    85
+                ],
+                "can": [
+                    86,
+                    104
+                ],
+                "also": [
+                    87
+                ],
+                "be": [
+                    88,
+                    105
+                ],
+                "applied": [
+                    89
+                ],
+                "policy": [
+                    91
+                ],
+                "development": [
+                    92
+                ],
+                "everyday": [
+                    95
+                ],
+                "condition": [
+                    97
+                ],
+                "assessment.": [
+                    98
+                ],
+                "separate": [
+                    100
+                ],
+                "Virtual": [
+                    101
+                ],
+                "Dike": [
+                    102
+                ],
+                "module": [
+                    103
+                ],
+                "used": [
+                    106
+                ],
+                "advanced": [
+                    108
+                ],
+                "research": [
+                    109
+                ],
+                "into": [
+                    110
+                ],
+                "failure": [
+                    111
+                ],
+                "mechanisms": [
+                    112
+                ],
+                "stability.": [
+                    115
+                ],
+                "By": [
+                    116
+                ],
+                "consulting": [
+                    117
+                ],
+                "international": [
+                    118
+                ],
+                "stakeholders": [
+                    119
+                ],
+                "designers": [
+                    121
+                ],
+                "ensured": [
+                    122
+                ],
+                "EWS": [
+                    125
+                ],
+                "well": [
+                    127
+                ],
+                "aligned": [
+                    128
+                ],
+                "with": [
+                    129
+                ],
+                "user": [
+                    130
+                ],
+                "requirements.": [
+                    131
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2120381845",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 7
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 4
+                }
+            ],
+            "updated_date": "2024-09-15T00:02:45.480875",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2000481344",
+            "doi": "https://doi.org/10.1016/j.procs.2011.04.084",
+            "title": "Virtual Dike: multiscale simulation of dike stability",
+            "display_name": "Virtual Dike: multiscale simulation of dike stability",
+            "publication_year": 2011,
+            "publication_date": "2011-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2000481344",
+                "doi": "https://doi.org/10.1016/j.procs.2011.04.084",
+                "mag": "2000481344"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2011.04.084",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2011.04.084",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5081260798",
+                        "display_name": "N.B. Melnikova",
+                        "orcid": "https://orcid.org/0000-0003-4322-5720"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I171241948",
+                            "display_name": "Moscow Power Engineering Institute",
+                            "ror": "https://ror.org/05sa6gg87",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I171241948"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I173089394",
+                            "display_name": "ITMO University",
+                            "ror": "https://ror.org/04txgxn49",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173089394"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I45571689",
+                            "display_name": "Moscow Aviation Institute",
+                            "ror": "https://ror.org/033zpbv42",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I45571689"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I212220629",
+                            "display_name": "Peter the Great St. Petersburg Polytechnic University",
+                            "ror": "https://ror.org/02x91aj62",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "N.B. Melnikova",
+                    "raw_affiliation_strings": [
+                        "National Research University ITMO, Russia",
+                        "St. Petersburg State Polytechnic University, Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Research University ITMO, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I171241948",
+                                "https://openalex.org/I173089394",
+                                "https://openalex.org/I45571689"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "St. Petersburg State Polytechnic University, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079911314",
+                        "display_name": "G.S. Shirshov",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I212220629",
+                            "display_name": "Peter the Great St. Petersburg Polytechnic University",
+                            "ror": "https://ror.org/02x91aj62",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "G.S. Shirshov",
+                    "raw_affiliation_strings": [
+                        "St. Petersburg State Polytechnic University, Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "St. Petersburg State Polytechnic University, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5020563993",
+                        "display_name": "Valeria V. Krzhizhanovskaya",
+                        "orcid": "https://orcid.org/0000-0002-8247-129X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I212220629",
+                            "display_name": "Peter the Great St. Petersburg Polytechnic University",
+                            "ror": "https://ror.org/02x91aj62",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I173089394",
+                            "display_name": "ITMO University",
+                            "ror": "https://ror.org/04txgxn49",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I173089394"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I171241948",
+                            "display_name": "Moscow Power Engineering Institute",
+                            "ror": "https://ror.org/05sa6gg87",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I171241948"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I45571689",
+                            "display_name": "Moscow Aviation Institute",
+                            "ror": "https://ror.org/033zpbv42",
+                            "country_code": "RU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I45571689"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I887064364",
+                            "display_name": "University of Amsterdam",
+                            "ror": "https://ror.org/04dkp9463",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL",
+                        "RU"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "V.V. Krzhizhanovskaya",
+                    "raw_affiliation_strings": [
+                        "National Research University ITMO, Russia",
+                        "St. Petersburg State Polytechnic University, Russia",
+                        "University of Amsterdam, The Netherlands"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "St. Petersburg State Polytechnic University, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I212220629"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "National Research University ITMO, Russia",
+                            "institution_ids": [
+                                "https://openalex.org/I173089394",
+                                "https://openalex.org/I171241948",
+                                "https://openalex.org/I45571689"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "University of Amsterdam, The Netherlands",
+                            "institution_ids": [
+                                "https://openalex.org/I887064364"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 5,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5020563993"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I212220629",
+                "https://openalex.org/I173089394",
+                "https://openalex.org/I171241948",
+                "https://openalex.org/I45571689",
+                "https://openalex.org/I887064364"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 3.391,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 26,
+            "citation_normalized_percentile": {
+                "value": 0.78325,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 91,
+                "max": 92
+            },
+            "biblio": {
+                "volume": "4",
+                "issue": null,
+                "first_page": "791",
+                "last_page": "800"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10930",
+                "display_name": "Global Flood Risk Assessment and Management",
+                "score": 0.9513,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2306",
+                    "display_name": "Global and Planetary Change"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10930",
+                    "display_name": "Global Flood Risk Assessment and Management",
+                    "score": 0.9513,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9069,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/dike",
+                    "display_name": "Dike",
+                    "score": 0.9848838
+                },
+                {
+                    "id": "https://openalex.org/keywords/urban-flooding",
+                    "display_name": "Urban Flooding",
+                    "score": 0.528063
+                },
+                {
+                    "id": "https://openalex.org/keywords/flood-inundation-modeling",
+                    "display_name": "Flood Inundation Modeling",
+                    "score": 0.5003
+                },
+                {
+                    "id": "https://openalex.org/keywords/multiphysics",
+                    "display_name": "Multiphysics",
+                    "score": 0.43316245
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C83893233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q662806",
+                    "display_name": "Dike",
+                    "level": 2,
+                    "score": 0.9848838
+                },
+                {
+                    "id": "https://openalex.org/C112972136",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7595718",
+                    "display_name": "Stability (learning theory)",
+                    "level": 2,
+                    "score": 0.6157072
+                },
+                {
+                    "id": "https://openalex.org/C74256435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134052",
+                    "display_name": "Flood myth",
+                    "level": 2,
+                    "score": 0.5564375
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.55486244
+                },
+                {
+                    "id": "https://openalex.org/C187320778",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+                    "display_name": "Geotechnical engineering",
+                    "level": 1,
+                    "score": 0.5181828
+                },
+                {
+                    "id": "https://openalex.org/C102579867",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2914346",
+                    "display_name": "Pore water pressure",
+                    "level": 2,
+                    "score": 0.4404453
+                },
+                {
+                    "id": "https://openalex.org/C500300565",
+                    "wikidata": "https://www.wikidata.org/wiki/Q925667",
+                    "display_name": "Computer simulation",
+                    "level": 2,
+                    "score": 0.43541428
+                },
+                {
+                    "id": "https://openalex.org/C46435376",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1829750",
+                    "display_name": "Multiphysics",
+                    "level": 3,
+                    "score": 0.43316245
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.41368026
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.21977463
+                },
+                {
+                    "id": "https://openalex.org/C44154836",
+                    "wikidata": "https://www.wikidata.org/wiki/Q45045",
+                    "display_name": "Simulation",
+                    "level": 1,
+                    "score": 0.21483037
+                },
+                {
+                    "id": "https://openalex.org/C5900021",
+                    "wikidata": "https://www.wikidata.org/wiki/Q163082",
+                    "display_name": "Petrology",
+                    "level": 1,
+                    "score": 0.12244058
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.11843425
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.10136098
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C27206212",
+                    "wikidata": "https://www.wikidata.org/wiki/Q34178",
+                    "display_name": "Theology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2011.04.084",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2011.04.084",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.59,
+                    "id": "https://metadata.un.org/sdg/11"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 9,
+            "referenced_works": [
+                "https://openalex.org/W1499976760",
+                "https://openalex.org/W1977727715",
+                "https://openalex.org/W2054173038",
+                "https://openalex.org/W2057589327",
+                "https://openalex.org/W2060471433",
+                "https://openalex.org/W2075485187",
+                "https://openalex.org/W2077106134",
+                "https://openalex.org/W2156283588",
+                "https://openalex.org/W2162604832"
+            ],
+            "related_works": [
+                "https://openalex.org/W4312133600",
+                "https://openalex.org/W3026055904",
+                "https://openalex.org/W2792869497",
+                "https://openalex.org/W2567205727",
+                "https://openalex.org/W2548694948",
+                "https://openalex.org/W2393103712",
+                "https://openalex.org/W2386253306",
+                "https://openalex.org/W2364120890",
+                "https://openalex.org/W2361803029",
+                "https://openalex.org/W2084426624"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0
+                ],
+                "present": [
+                    1
+                ],
+                "a": [
+                    2,
+                    9,
+                    12,
+                    26,
+                    111,
+                    114
+                ],
+                "Virtual": [
+                    3,
+                    54
+                ],
+                "Dike": [
+                    4,
+                    55
+                ],
+                "simulation": [
+                    5,
+                    64,
+                    79
+                ],
+                "module": [
+                    6,
+                    56
+                ],
+                "developed": [
+                    7
+                ],
+                "as": [
+                    8
+                ],
+                "part": [
+                    10
+                ],
+                "of": [
+                    11,
+                    52,
+                    98,
+                    107,
+                    123,
+                    130,
+                    140,
+                    177
+                ],
+                "flood": [
+                    13,
+                    37,
+                    48
+                ],
+                "Early": [
+                    14
+                ],
+                "Warning": [
+                    15
+                ],
+                "System": [
+                    16
+                ],
+                "(EWS)": [
+                    17
+                ],
+                "for": [
+                    18,
+                    66
+                ],
+                "the": [
+                    19,
+                    53,
+                    95,
+                    99,
+                    104,
+                    108,
+                    118,
+                    124,
+                    161,
+                    178
+                ],
+                "UrbanFlood": [
+                    20,
+                    23
+                ],
+                "project.": [
+                    21
+                ],
+                "The": [
+                    22,
+                    50,
+                    120
+                ],
+                "EWS": [
+                    24
+                ],
+                "is": [
+                    25,
+                    57,
+                    75
+                ],
+                "distributed": [
+                    27
+                ],
+                "system": [
+                    28
+                ],
+                "that": [
+                    29
+                ],
+                "analyzes": [
+                    30
+                ],
+                "sensor": [
+                    31
+                ],
+                "data": [
+                    32,
+                    163
+                ],
+                "received": [
+                    33
+                ],
+                "in": [
+                    34,
+                    116,
+                    164
+                ],
+                "real-time": [
+                    35
+                ],
+                "from": [
+                    36
+                ],
+                "defenses": [
+                    38
+                ],
+                "(dikes,": [
+                    39
+                ],
+                "dams,": [
+                    40
+                ],
+                "etc.)": [
+                    41
+                ],
+                "and": [
+                    42,
+                    47,
+                    69,
+                    84,
+                    92,
+                    133,
+                    145,
+                    174
+                ],
+                "simulates": [
+                    43
+                ],
+                "dike": [
+                    44,
+                    90,
+                    112,
+                    125,
+                    146,
+                    179
+                ],
+                "stability,": [
+                    45
+                ],
+                "breaching": [
+                    46
+                ],
+                "propagation.": [
+                    49
+                ],
+                "aim": [
+                    51
+                ],
+                "to": [
+                    58,
+                    77,
+                    81,
+                    85,
+                    166
+                ],
+                "develop": [
+                    59
+                ],
+                "an": [
+                    60
+                ],
+                "advanced": [
+                    61
+                ],
+                "multiscale": [
+                    62
+                ],
+                "multiphysics": [
+                    63
+                ],
+                "laboratory": [
+                    65
+                ],
+                "expert": [
+                    67
+                ],
+                "users": [
+                    68
+                ],
+                "numerical": [
+                    70
+                ],
+                "model": [
+                    71
+                ],
+                "developers.": [
+                    72
+                ],
+                "This": [
+                    73
+                ],
+                "lab": [
+                    74
+                ],
+                "used": [
+                    76
+                ],
+                "validate": [
+                    78
+                ],
+                "models,": [
+                    80
+                ],
+                "plan": [
+                    82
+                ],
+                "experiments": [
+                    83
+                ],
+                "investigate": [
+                    86
+                ],
+                "physical": [
+                    87
+                ],
+                "processes": [
+                    88
+                ],
+                "influencing": [
+                    89
+                ],
+                "stability": [
+                    91,
+                    106,
+                    176
+                ],
+                "failure.": [
+                    93
+                ],
+                "In": [
+                    94
+                ],
+                "first": [
+                    96
+                ],
+                "stage": [
+                    97
+                ],
+                "project,": [
+                    100
+                ],
+                "we": [
+                    101
+                ],
+                "have": [
+                    102,
+                    148,
+                    157,
+                    180
+                ],
+                "studied": [
+                    103
+                ],
+                "structural": [
+                    105,
+                    175
+                ],
+                "Live": [
+                    109
+                ],
+                "Dike,": [
+                    110
+                ],
+                "protecting": [
+                    113
+                ],
+                "seaport": [
+                    115
+                ],
+                "Groningen,": [
+                    117
+                ],
+                "Netherlands.": [
+                    119
+                ],
+                "four": [
+                    121
+                ],
+                "cross-sections": [
+                    122
+                ],
+                "are": [
+                    126
+                ],
+                "equipped": [
+                    127
+                ],
+                "with": [
+                    128,
+                    160
+                ],
+                "sensors": [
+                    129,
+                    162
+                ],
+                "pore": [
+                    131
+                ],
+                "pressure": [
+                    132
+                ],
+                "inclination.": [
+                    134
+                ],
+                "For": [
+                    135
+                ],
+                "each": [
+                    136
+                ],
+                "section,": [
+                    137
+                ],
+                "2D": [
+                    138
+                ],
+                "simulations": [
+                    139
+                ],
+                "flow": [
+                    141
+                ],
+                "through": [
+                    142
+                ],
+                "porous": [
+                    143
+                ],
+                "media": [
+                    144
+                ],
+                "deformations": [
+                    147
+                ],
+                "been": [
+                    149,
+                    158,
+                    181
+                ],
+                "performed": [
+                    150
+                ],
+                "under": [
+                    151
+                ],
+                "tidal": [
+                    152
+                ],
+                "water": [
+                    153
+                ],
+                "load.": [
+                    154
+                ],
+                "Simulation": [
+                    155
+                ],
+                "results": [
+                    156
+                ],
+                "compared": [
+                    159
+                ],
+                "order": [
+                    165
+                ],
+                "calibrate": [
+                    167
+                ],
+                "soil": [
+                    168
+                ],
+                "properties.": [
+                    169
+                ],
+                "Pore": [
+                    170
+                ],
+                "pressure,": [
+                    171
+                ],
+                "stress": [
+                    172
+                ],
+                "dynamics": [
+                    173
+                ],
+                "analyzed.": [
+                    182
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2000481344",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 6
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 5
+                }
+            ],
+            "updated_date": "2024-09-26T19:34:27.434067",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2153381725",
+            "doi": null,
+            "title": "The urbanflood early warning system: sensors and coastal flood safety",
+            "display_name": "The urbanflood early warning system: sensors and coastal flood safety",
+            "publication_year": 2011,
+            "publication_date": "2011-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2153381725",
+                "mag": "2153381725"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "http://edepot.wur.nl/197116",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5022113845",
+                        "display_name": "B.E. Pengel",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "B. Pengel",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054632210",
+                        "display_name": "Ludolph Wentholt",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "L. Wentholt",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5020563993",
+                        "display_name": "Valeria V. Krzhizhanovskaya",
+                        "orcid": "https://orcid.org/0000-0002-8247-129X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "V.V. Krzhizhanovskaya",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079911314",
+                        "display_name": "G.S. Shirshov",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "G. Shirshov",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081260798",
+                        "display_name": "N.B. Melnikova",
+                        "orcid": "https://orcid.org/0000-0003-4322-5720"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "N. Melnikova",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103274452",
+                        "display_name": "Ben Gouldby",
+                        "orcid": "https://orcid.org/0000-0003-0415-5897"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "B. Gouldby",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075388627",
+                        "display_name": "A.R. Koelewijn",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "A. Koelewijn",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5016093106",
+                        "display_name": "A.L. Pyayt",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "A. Pyayt",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5046260390",
+                        "display_name": "I.I. Mokhov",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "I. Mokhov",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5048999540",
+                        "display_name": "N. Pals",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "N. Pals",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5027523571",
+                        "display_name": "Robert Meijer",
+                        "orcid": "https://orcid.org/0000-0002-6828-034X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "R. Meijer",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5077945122",
+                        "display_name": "Jeroen Broekhuijsen",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "J. Broekhuijsen",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.669,
+            "has_fulltext": false,
+            "cited_by_count": 2,
+            "citation_normalized_percentile": {
+                "value": 0.744672,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 73,
+                "max": 76
+            },
+            "biblio": {
+                "volume": "4",
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12293",
+                "display_name": "Statistics and Mechanisms of Embankment Dam Failures",
+                "score": 0.997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2205",
+                    "display_name": "Civil and Structural Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12293",
+                    "display_name": "Statistics and Mechanisms of Embankment Dam Failures",
+                    "score": 0.997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2205",
+                        "display_name": "Civil and Structural Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10930",
+                    "display_name": "Global Flood Risk Assessment and Management",
+                    "score": 0.9933,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10894",
+                    "display_name": "Groundwater Flow and Transport Modeling",
+                    "score": 0.9714,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2305",
+                        "display_name": "Environmental Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/dike",
+                    "display_name": "Dike",
+                    "score": 0.95449173
+                },
+                {
+                    "id": "https://openalex.org/keywords/urban-flooding",
+                    "display_name": "Urban Flooding",
+                    "score": 0.583445
+                },
+                {
+                    "id": "https://openalex.org/keywords/flood-inundation-modeling",
+                    "display_name": "Flood Inundation Modeling",
+                    "score": 0.540661
+                },
+                {
+                    "id": "https://openalex.org/keywords/dam-behaviour-modelling",
+                    "display_name": "Dam Behaviour Modelling",
+                    "score": 0.516702
+                },
+                {
+                    "id": "https://openalex.org/keywords/surface-water-mapping",
+                    "display_name": "Surface Water Mapping",
+                    "score": 0.506283
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C83893233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q662806",
+                    "display_name": "Dike",
+                    "level": 2,
+                    "score": 0.95449173
+                },
+                {
+                    "id": "https://openalex.org/C74256435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134052",
+                    "display_name": "Flood myth",
+                    "level": 2,
+                    "score": 0.7965022
+                },
+                {
+                    "id": "https://openalex.org/C115038398",
+                    "wikidata": "https://www.wikidata.org/wiki/Q105190",
+                    "display_name": "Levee",
+                    "level": 2,
+                    "score": 0.660862
+                },
+                {
+                    "id": "https://openalex.org/C29825287",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1427940",
+                    "display_name": "Warning system",
+                    "level": 2,
+                    "score": 0.5978161
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.37289876
+                },
+                {
+                    "id": "https://openalex.org/C112930515",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+                    "display_name": "Risk analysis (engineering)",
+                    "level": 1,
+                    "score": 0.35126346
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.3406169
+                },
+                {
+                    "id": "https://openalex.org/C147176958",
+                    "wikidata": "https://www.wikidata.org/wiki/Q77590",
+                    "display_name": "Civil engineering",
+                    "level": 1,
+                    "score": 0.32384667
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.31439912
+                },
+                {
+                    "id": "https://openalex.org/C187320778",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+                    "display_name": "Geotechnical engineering",
+                    "level": 1,
+                    "score": 0.18725744
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.1182144
+                },
+                {
+                    "id": "https://openalex.org/C144133560",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+                    "display_name": "Business",
+                    "level": 0,
+                    "score": 0.1181494
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17409809",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161764",
+                    "display_name": "Geochemistry",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "http://edepot.wur.nl/197116",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.47,
+                    "id": "https://metadata.un.org/sdg/11"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 5,
+            "referenced_works": [
+                "https://openalex.org/W2000481344",
+                "https://openalex.org/W2121102310",
+                "https://openalex.org/W2154562593",
+                "https://openalex.org/W2156283588",
+                "https://openalex.org/W2157901227"
+            ],
+            "related_works": [
+                "https://openalex.org/W3201042583",
+                "https://openalex.org/W3183036113",
+                "https://openalex.org/W3171786706",
+                "https://openalex.org/W3116582614",
+                "https://openalex.org/W3108852746",
+                "https://openalex.org/W3048517961",
+                "https://openalex.org/W3020442562",
+                "https://openalex.org/W3019184838",
+                "https://openalex.org/W2996043657",
+                "https://openalex.org/W2942378500",
+                "https://openalex.org/W2931517731",
+                "https://openalex.org/W2925975523",
+                "https://openalex.org/W2922618765",
+                "https://openalex.org/W2874931260",
+                "https://openalex.org/W2769515751",
+                "https://openalex.org/W2736060206",
+                "https://openalex.org/W2484668996",
+                "https://openalex.org/W2120381845",
+                "https://openalex.org/W2060499930",
+                "https://openalex.org/W1626463507"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    29,
+                    91
+                ],
+                "UrbanFlood": [
+                    1
+                ],
+                "early": [
+                    2
+                ],
+                "warning": [
+                    3
+                ],
+                "system": [
+                    4,
+                    9
+                ],
+                "(EWS)": [
+                    5
+                ],
+                "is": [
+                    6,
+                    112
+                ],
+                "an": [
+                    7,
+                    120
+                ],
+                "Internet-based": [
+                    8
+                ],
+                "designed": [
+                    10
+                ],
+                "to": [
+                    11,
+                    39
+                ],
+                "monitor": [
+                    12
+                ],
+                "data": [
+                    13
+                ],
+                "from": [
+                    14
+                ],
+                "extremely": [
+                    15
+                ],
+                "large": [
+                    16
+                ],
+                "sensor": [
+                    17,
+                    33
+                ],
+                "networks": [
+                    18
+                ],
+                "in": [
+                    19,
+                    126
+                ],
+                "flood": [
+                    20,
+                    55,
+                    73,
+                    81
+                ],
+                "defences": [
+                    21
+                ],
+                "such": [
+                    22
+                ],
+                "as": [
+                    23
+                ],
+                "embankments,": [
+                    24
+                ],
+                "dikes,": [
+                    25
+                ],
+                "levees,": [
+                    26
+                ],
+                "and": [
+                    27,
+                    35,
+                    47,
+                    53,
+                    69,
+                    85,
+                    104
+                ],
+                "dams.": [
+                    28
+                ],
+                "EWS": [
+                    30,
+                    111
+                ],
+                "uses": [
+                    31
+                ],
+                "real-time": [
+                    32
+                ],
+                "information": [
+                    34
+                ],
+                "Artificial": [
+                    36
+                ],
+                "Intelligence": [
+                    37
+                ],
+                "(AI)": [
+                    38
+                ],
+                "quickly": [
+                    40
+                ],
+                "calculate": [
+                    41
+                ],
+                "the": [
+                    42,
+                    110,
+                    117,
+                    127,
+                    130
+                ],
+                "probability": [
+                    43
+                ],
+                "of": [
+                    44,
+                    50,
+                    119,
+                    129
+                ],
+                "dike": [
+                    45,
+                    51,
+                    67,
+                    88,
+                    102
+                ],
+                "failure": [
+                    46,
+                    105
+                ],
+                "possible": [
+                    48
+                ],
+                "scenarios": [
+                    49
+                ],
+                "breaching": [
+                    52
+                ],
+                "predicted": [
+                    54
+                ],
+                "spreading.": [
+                    56
+                ],
+                "It": [
+                    57,
+                    75
+                ],
+                "presents": [
+                    58
+                ],
+                "results": [
+                    59,
+                    118
+                ],
+                "on": [
+                    60
+                ],
+                "interactive": [
+                    61
+                ],
+                "decision": [
+                    62
+                ],
+                "support": [
+                    63
+                ],
+                "systems": [
+                    64
+                ],
+                "that": [
+                    65,
+                    109
+                ],
+                "assist": [
+                    66
+                ],
+                "managers": [
+                    68
+                ],
+                "public": [
+                    70
+                ],
+                "authorities": [
+                    71
+                ],
+                "during": [
+                    72
+                ],
+                "events.": [
+                    74
+                ],
+                "can": [
+                    76,
+                    95
+                ],
+                "also": [
+                    77
+                ],
+                "be": [
+                    78,
+                    96
+                ],
+                "used": [
+                    79,
+                    97,
+                    125
+                ],
+                "for": [
+                    80,
+                    86,
+                    98
+                ],
+                "management": [
+                    82
+                ],
+                "policy": [
+                    83
+                ],
+                "development": [
+                    84
+                ],
+                "routine": [
+                    87
+                ],
+                "condition": [
+                    89
+                ],
+                "assessment.": [
+                    90
+                ],
+                "Virtual": [
+                    92
+                ],
+                "Dike": [
+                    93
+                ],
+                "module": [
+                    94
+                ],
+                "advanced": [
+                    99
+                ],
+                "research": [
+                    100
+                ],
+                "into": [
+                    101
+                ],
+                "stability": [
+                    103
+                ],
+                "mechanisms.": [
+                    106
+                ],
+                "To": [
+                    107
+                ],
+                "ensure": [
+                    108
+                ],
+                "aligned": [
+                    113
+                ],
+                "with": [
+                    114
+                ],
+                "user": [
+                    115
+                ],
+                "requirements": [
+                    116
+                ],
+                "international": [
+                    121
+                ],
+                "stakeholder": [
+                    122
+                ],
+                "consultation": [
+                    123
+                ],
+                "were": [
+                    124
+                ],
+                "design": [
+                    128
+                ],
+                "system.": [
+                    131
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2153381725",
+            "counts_by_year": [
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-15T11:13:00.487300",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2412208939",
+            "doi": "https://doi.org/10.1201/b13715-231",
+            "title": "Computational models in flood early warning systems",
+            "display_name": "Computational models in flood early warning systems",
+            "publication_year": 2012,
+            "publication_date": "2012-11-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2412208939",
+                "doi": "https://doi.org/10.1201/b13715-231",
+                "mag": "2412208939"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1201/b13715-231",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306463075",
+                    "display_name": "CRC Press eBooks",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/P4310320449",
+                    "host_organization_name": "Informa",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320449"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Informa"
+                    ],
+                    "type": "ebook platform"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://pure.uva.nl/ws/files/1867469/118144_Krzhizhanovskaya_FLOODrisk_published_217.pdf",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5020563993",
+                        "display_name": "Valeria V. Krzhizhanovskaya",
+                        "orcid": "https://orcid.org/0000-0002-8247-129X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "V Krzhizhanovskaya",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081260798",
+                        "display_name": "N.B. Melnikova",
+                        "orcid": "https://orcid.org/0000-0003-4322-5720"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "N Melnikova",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079911314",
+                        "display_name": "G.S. Shirshov",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "G Shirshov",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5062230023",
+                        "display_name": "F.I. Rusadi",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "F Rusadi",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5056280677",
+                        "display_name": "Robert G. Belleman",
+                        "orcid": "https://orcid.org/0000-0001-6576-8350"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "R Belleman",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5090279774",
+                        "display_name": "Julien Lhomme",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "J Lhomme",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103274452",
+                        "display_name": "Ben Gouldby",
+                        "orcid": "https://orcid.org/0000-0003-0415-5897"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "B Gouldby",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5083605105",
+                        "display_name": "A Topple",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "A Topple",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5037588677",
+                        "display_name": "J. Simm",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "J Simm",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 2,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 72,
+                "max": 76
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10930",
+                "display_name": "Global Flood Risk Assessment and Management",
+                "score": 0.858,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2306",
+                    "display_name": "Global and Planetary Change"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10930",
+                    "display_name": "Global Flood Risk Assessment and Management",
+                    "score": 0.858,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2306",
+                        "display_name": "Global and Planetary Change"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13650",
+                    "display_name": "Scientific Computing and Data Analysis with Python",
+                    "score": 0.8173,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11490",
+                    "display_name": "Hydrological Modeling using Machine Learning Methods",
+                    "score": 0.7968,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2305",
+                        "display_name": "Environmental Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/flood-inundation-modeling",
+                    "display_name": "Flood Inundation Modeling",
+                    "score": 0.803496
+                },
+                {
+                    "id": "https://openalex.org/keywords/rainfall-runoff-modeling",
+                    "display_name": "Rainfall-Runoff Modeling",
+                    "score": 0.735641
+                },
+                {
+                    "id": "https://openalex.org/keywords/hydrological-modeling",
+                    "display_name": "Hydrological Modeling",
+                    "score": 0.734325
+                },
+                {
+                    "id": "https://openalex.org/keywords/statistical-modeling",
+                    "display_name": "Statistical Modeling",
+                    "score": 0.668711
+                },
+                {
+                    "id": "https://openalex.org/keywords/groundwater-level-forecasting",
+                    "display_name": "Groundwater Level Forecasting",
+                    "score": 0.657022
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C74256435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134052",
+                    "display_name": "Flood myth",
+                    "level": 2,
+                    "score": 0.64366114
+                },
+                {
+                    "id": "https://openalex.org/C29825287",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1427940",
+                    "display_name": "Warning system",
+                    "level": 2,
+                    "score": 0.55365235
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.49287963
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.3409132
+                },
+                {
+                    "id": "https://openalex.org/C39432304",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188847",
+                    "display_name": "Environmental science",
+                    "level": 0,
+                    "score": 0.3405702
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.065807045
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.054528266
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1201/b13715-231",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306463075",
+                        "display_name": "CRC Press eBooks",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/P4310320449",
+                        "host_organization_name": "Informa",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320449"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Informa"
+                        ],
+                        "type": "ebook platform"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://pure.uva.nl/ws/files/1867469/118144_Krzhizhanovskaya_FLOODrisk_published_217.pdf",
+                    "pdf_url": "https://pure.uva.nl/ws/files/1867469/118144_Krzhizhanovskaya_FLOODrisk_published_217.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401571",
+                        "display_name": "Wiardi Beckman Foundation (Wiardi Beckman Foundation)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://pure.uva.nl/ws/files/1867469/118144_Krzhizhanovskaya_FLOODrisk_published_217.pdf",
+                "pdf_url": "https://pure.uva.nl/ws/files/1867469/118144_Krzhizhanovskaya_FLOODrisk_published_217.pdf",
+                "source": {
+                    "id": "https://openalex.org/S4306401571",
+                    "display_name": "Wiardi Beckman Foundation (Wiardi Beckman Foundation)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Climate action",
+                    "score": 0.89,
+                    "id": "https://metadata.un.org/sdg/13"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2530322880",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2130043461",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2412208939",
+            "counts_by_year": [
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T14:06:09.439602",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

@@ -1,0 +1,4931 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 45,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2946691079",
+            "doi": "https://doi.org/10.1016/j.jocs.2019.04.010",
+            "title": "An analysis of altitude, citizen science and a convolutional neural network feedback loop on object detection in Unmanned Aerial Systems",
+            "display_name": "An analysis of altitude, citizen science and a convolutional neural network feedback loop on object detection in Unmanned Aerial Systems",
+            "publication_year": 2019,
+            "publication_date": "2019-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2946691079",
+                "doi": "https://doi.org/10.1016/j.jocs.2019.04.010",
+                "mag": "2946691079"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2019.04.010",
+                "pdf_url": "http://manuscript.elsevier.com/S1877750318310287/pdf/S1877750318310287.pdf",
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "http://manuscript.elsevier.com/S1877750318310287/pdf/S1877750318310287.pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5025860254",
+                        "display_name": "Connor Bowley",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Connor Bowley",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, ND, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, ND, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5011087251",
+                        "display_name": "Marshall Mattingly",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marshall Mattingly",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, ND, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, ND, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054964264",
+                        "display_name": "Andrew F. Barnas",
+                        "orcid": "https://orcid.org/0000-0003-0990-4666"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Andrew Barnas",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, ND, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, ND, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081869733",
+                        "display_name": "Susan N. Ellis‐Felege",
+                        "orcid": "https://orcid.org/0000-0002-4534-0055"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Susan Ellis-Felege",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, ND, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, ND, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5065630093",
+                        "display_name": "Travis Desell",
+                        "orcid": "https://orcid.org/0000-0002-4082-0439"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I155173764",
+                            "display_name": "Rochester Institute of Technology",
+                            "ror": "https://ror.org/00v4yb702",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I155173764"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Travis Desell",
+                    "raw_affiliation_strings": [
+                        "Department of Software Engineering, Rochester Institute of Technology, Rochester, NY, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Software Engineering, Rochester Institute of Technology, Rochester, NY, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I155173764"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5065630093"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I155173764"
+            ],
+            "apc_list": {
+                "value": 2810,
+                "currency": "USD",
+                "value_usd": 2810,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.731,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 11,
+            "citation_normalized_percentile": {
+                "value": 0.861148,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": "34",
+                "issue": null,
+                "first_page": "102",
+                "last_page": "116"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10331",
+                "display_name": "Visual Object Tracking and Person Re-identification",
+                "score": 0.9973,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1707",
+                    "display_name": "Computer Vision and Pattern Recognition"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10331",
+                    "display_name": "Visual Object Tracking and Person Re-identification",
+                    "score": 0.9973,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10036",
+                    "display_name": "Deep Learning in Computer Vision and Image Recognition",
+                    "score": 0.9956,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10627",
+                    "display_name": "Image Feature Retrieval and Recognition Techniques",
+                    "score": 0.9925,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/motion-detection",
+                    "display_name": "Motion Detection",
+                    "score": 0.53574
+                },
+                {
+                    "id": "https://openalex.org/keywords/visual-tracking",
+                    "display_name": "Visual Tracking",
+                    "score": 0.532576
+                },
+                {
+                    "id": "https://openalex.org/keywords/foreground-segmentation",
+                    "display_name": "Foreground Segmentation",
+                    "score": 0.532478
+                },
+                {
+                    "id": "https://openalex.org/keywords/object-tracking",
+                    "display_name": "Object Tracking",
+                    "score": 0.526252
+                },
+                {
+                    "id": "https://openalex.org/keywords/multiple-object-tracking",
+                    "display_name": "Multiple Object Tracking",
+                    "score": 0.525857
+                },
+                {
+                    "id": "https://openalex.org/keywords/data-set",
+                    "display_name": "Data set",
+                    "score": 0.4558649
+                },
+                {
+                    "id": "https://openalex.org/keywords/feedback-loop",
+                    "display_name": "Feedback loop",
+                    "score": 0.42943615
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C81363708",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+                    "display_name": "Convolutional neural network",
+                    "level": 2,
+                    "score": 0.7497613
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.73955286
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.5682672
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.5534327
+                },
+                {
+                    "id": "https://openalex.org/C2777212361",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5127848",
+                    "display_name": "Class (philosophy)",
+                    "level": 2,
+                    "score": 0.4644347
+                },
+                {
+                    "id": "https://openalex.org/C58489278",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1172284",
+                    "display_name": "Data set",
+                    "level": 2,
+                    "score": 0.4558649
+                },
+                {
+                    "id": "https://openalex.org/C6350597",
+                    "wikidata": "https://www.wikidata.org/wiki/Q339495",
+                    "display_name": "Altitude (triangle)",
+                    "level": 2,
+                    "score": 0.45043966
+                },
+                {
+                    "id": "https://openalex.org/C186886427",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5441213",
+                    "display_name": "Feedback loop",
+                    "level": 2,
+                    "score": 0.42943615
+                },
+                {
+                    "id": "https://openalex.org/C2908647359",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+                    "display_name": "Population",
+                    "level": 2,
+                    "score": 0.42741585
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.38857883
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C149923435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q37732",
+                    "display_name": "Demography",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C144024400",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21201",
+                    "display_name": "Sociology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.jocs.2019.04.010",
+                    "pdf_url": "http://manuscript.elsevier.com/S1877750318310287/pdf/S1877750318310287.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S192071280",
+                        "display_name": "Journal of Computational Science",
+                        "issn_l": "1877-7503",
+                        "issn": [
+                            "1877-7503",
+                            "1877-7511"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "publisher-specific-oa",
+                    "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2019.04.010",
+                "pdf_url": "http://manuscript.elsevier.com/S1877750318310287/pdf/S1877750318310287.pdf",
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "id": "https://metadata.un.org/sdg/15",
+                    "score": 0.65
+                }
+            ],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320306076",
+                    "funder_display_name": "National Science Foundation",
+                    "award_id": null
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 63,
+            "referenced_works": [
+                "https://openalex.org/W1490308602",
+                "https://openalex.org/W1536680647",
+                "https://openalex.org/W1554705102",
+                "https://openalex.org/W1577117850",
+                "https://openalex.org/W1836465849",
+                "https://openalex.org/W1861492603",
+                "https://openalex.org/W1863171399",
+                "https://openalex.org/W1993682041",
+                "https://openalex.org/W2004915807",
+                "https://openalex.org/W2024046085",
+                "https://openalex.org/W2036989445",
+                "https://openalex.org/W2037227137",
+                "https://openalex.org/W2098485216",
+                "https://openalex.org/W2102454686",
+                "https://openalex.org/W2102605133",
+                "https://openalex.org/W2112076978",
+                "https://openalex.org/W2112193291",
+                "https://openalex.org/W2117539524",
+                "https://openalex.org/W2122111042",
+                "https://openalex.org/W2124351162",
+                "https://openalex.org/W2134905288",
+                "https://openalex.org/W2151915598",
+                "https://openalex.org/W2157917411",
+                "https://openalex.org/W2159386181",
+                "https://openalex.org/W2164598857",
+                "https://openalex.org/W2174940656",
+                "https://openalex.org/W219040644",
+                "https://openalex.org/W2209301954",
+                "https://openalex.org/W2295675274",
+                "https://openalex.org/W2302928321",
+                "https://openalex.org/W2323722282",
+                "https://openalex.org/W2327043932",
+                "https://openalex.org/W2336302573",
+                "https://openalex.org/W2527949113",
+                "https://openalex.org/W2565639579",
+                "https://openalex.org/W2570343428",
+                "https://openalex.org/W2592997557",
+                "https://openalex.org/W2593327139",
+                "https://openalex.org/W2607180574",
+                "https://openalex.org/W2613718673",
+                "https://openalex.org/W2743473392",
+                "https://openalex.org/W2769332622",
+                "https://openalex.org/W2778429379",
+                "https://openalex.org/W2792176529",
+                "https://openalex.org/W2808659180",
+                "https://openalex.org/W2911964244",
+                "https://openalex.org/W2936995161",
+                "https://openalex.org/W2949533892",
+                "https://openalex.org/W2951433694",
+                "https://openalex.org/W2951638509",
+                "https://openalex.org/W2953106684",
+                "https://openalex.org/W2963037989",
+                "https://openalex.org/W2963351448",
+                "https://openalex.org/W2963516811",
+                "https://openalex.org/W2964298670",
+                "https://openalex.org/W3106250896",
+                "https://openalex.org/W3118608800",
+                "https://openalex.org/W3125892765",
+                "https://openalex.org/W4255976928",
+                "https://openalex.org/W4294583774",
+                "https://openalex.org/W4300661489",
+                "https://openalex.org/W4301045096",
+                "https://openalex.org/W82576261"
+            ],
+            "related_works": [
+                "https://openalex.org/W4287776258",
+                "https://openalex.org/W3133521594",
+                "https://openalex.org/W3082705149",
+                "https://openalex.org/W3027997911",
+                "https://openalex.org/W3021430260",
+                "https://openalex.org/W3005704161",
+                "https://openalex.org/W2961085424",
+                "https://openalex.org/W2953116260",
+                "https://openalex.org/W2748454020",
+                "https://openalex.org/W2347880541"
+            ],
+            "abstract_inverted_index": {
+                "Using": [
+                    0
+                ],
+                "automated": [
+                    1,
+                    50
+                ],
+                "processes": [
+                    2
+                ],
+                "to": [
+                    3,
+                    39,
+                    65,
+                    81,
+                    116,
+                    125,
+                    137,
+                    174,
+                    199,
+                    215
+                ],
+                "detect": [
+                    4
+                ],
+                "wildlife": [
+                    5,
+                    14
+                ],
+                "in": [
+                    6,
+                    10,
+                    231,
+                    247
+                ],
+                "uncontrolled": [
+                    7
+                ],
+                "outdoor": [
+                    8
+                ],
+                "imagery": [
+                    9,
+                    21,
+                    86,
+                    160
+                ],
+                "the": [
+                    11,
+                    96,
+                    101,
+                    139,
+                    156,
+                    159,
+                    169,
+                    176,
+                    180,
+                    183,
+                    189,
+                    248,
+                    251
+                ],
+                "field": [
+                    12
+                ],
+                "of": [
+                    13,
+                    141,
+                    158,
+                    179,
+                    228,
+                    250,
+                    255
+                ],
+                "ecology": [
+                    15
+                ],
+                "is": [
+                    16,
+                    29,
+                    196,
+                    212,
+                    224
+                ],
+                "a": [
+                    17,
+                    203
+                ],
+                "challenging": [
+                    18
+                ],
+                "task.": [
+                    19
+                ],
+                "In": [
+                    20
+                ],
+                "provided": [
+                    22,
+                    188
+                ],
+                "by": [
+                    23,
+                    88
+                ],
+                "Unmanned": [
+                    24,
+                    232
+                ],
+                "Aerial": [
+                    25,
+                    233
+                ],
+                "Systems": [
+                    26,
+                    234
+                ],
+                "(UAS),": [
+                    27
+                ],
+                "this": [
+                    28,
+                    46,
+                    208
+                ],
+                "especially": [
+                    30
+                ],
+                "true": [
+                    31
+                ],
+                "where": [
+                    32
+                ],
+                "individuals": [
+                    33
+                ],
+                "are": [
+                    34
+                ],
+                "small": [
+                    35
+                ],
+                "and": [
+                    36,
+                    92,
+                    123,
+                    165,
+                    210
+                ],
+                "visually": [
+                    37
+                ],
+                "similar": [
+                    38
+                ],
+                "background": [
+                    40
+                ],
+                "substrates.": [
+                    41
+                ],
+                "To": [
+                    42
+                ],
+                "address": [
+                    43
+                ],
+                "these": [
+                    44
+                ],
+                "challenges,": [
+                    45
+                ],
+                "work": [
+                    47
+                ],
+                "presents": [
+                    48
+                ],
+                "an": [
+                    49,
+                    225,
+                    242
+                ],
+                "feedback": [
+                    51,
+                    77,
+                    102
+                ],
+                "loop": [
+                    52,
+                    78,
+                    103
+                ],
+                "which": [
+                    53
+                ],
+                "can": [
+                    54
+                ],
+                "operate": [
+                    55
+                ],
+                "on": [
+                    56,
+                    118,
+                    127,
+                    143,
+                    155
+                ],
+                "large": [
+                    57,
+                    204
+                ],
+                "scale": [
+                    58
+                ],
+                "imagery,": [
+                    59
+                ],
+                "such": [
+                    60
+                ],
+                "as": [
+                    61
+                ],
+                "UAS": [
+                    62
+                ],
+                "generated": [
+                    63
+                ],
+                "orthomosaics,": [
+                    64
+                ],
+                "train": [
+                    66,
+                    83
+                ],
+                "convolutional": [
+                    67
+                ],
+                "neural": [
+                    68
+                ],
+                "networks": [
+                    69
+                ],
+                "(CNNs)": [
+                    70
+                ],
+                "with": [
+                    71,
+                    241
+                ],
+                "extremely": [
+                    72
+                ],
+                "unbalanced": [
+                    73
+                ],
+                "class": [
+                    74
+                ],
+                "sizes.": [
+                    75
+                ],
+                "This": [
+                    76,
+                    222
+                ],
+                "was": [
+                    79,
+                    134,
+                    149,
+                    172
+                ],
+                "used": [
+                    80
+                ],
+                "help": [
+                    82
+                ],
+                "CNNs": [
+                    84
+                ],
+                "using": [
+                    85,
+                    236
+                ],
+                "classified": [
+                    87
+                ],
+                "both": [
+                    89
+                ],
+                "expert": [
+                    90,
+                    128
+                ],
+                "biologists": [
+                    91
+                ],
+                "citizen": [
+                    93,
+                    119
+                ],
+                "scientists": [
+                    94
+                ],
+                "at": [
+                    95,
+                    207
+                ],
+                "[email": [
+                    97
+                ],
+                "protected]": [
+                    98
+                ],
+                "project.": [
+                    99
+                ],
+                "Utilizing": [
+                    100
+                ],
+                "dramatically": [
+                    104
+                ],
+                "reduced": [
+                    105
+                ],
+                "population": [
+                    106
+                ],
+                "count": [
+                    107
+                ],
+                "error": [
+                    108
+                ],
+                "rates": [
+                    109
+                ],
+                "from": [
+                    110,
+                    114,
+                    202,
+                    219
+                ],
+                "previously": [
+                    111
+                ],
+                "published": [
+                    112,
+                    246
+                ],
+                "work:": [
+                    113
+                ],
+                "+150%": [
+                    115
+                ],
+                "−3.93%": [
+                    117
+                ],
+                "scientist": [
+                    120
+                ],
+                "training": [
+                    121,
+                    129,
+                    147,
+                    217
+                ],
+                "data": [
+                    122,
+                    185,
+                    205,
+                    218
+                ],
+                "+88%": [
+                    124
+                ],
+                "+5.24%": [
+                    126
+                ],
+                "data.": [
+                    130
+                ],
+                "The": [
+                    131,
+                    146
+                ],
+                "system": [
+                    132
+                ],
+                "developed": [
+                    133
+                ],
+                "then": [
+                    135
+                ],
+                "utilized": [
+                    136
+                ],
+                "investigate": [
+                    138
+                ],
+                "effect": [
+                    140
+                ],
+                "altitude": [
+                    142,
+                    157,
+                    171
+                ],
+                "CNN": [
+                    144
+                ],
+                "predictions.": [
+                    145
+                ],
+                "dataset": [
+                    148
+                ],
+                "split": [
+                    150
+                ],
+                "into": [
+                    151
+                ],
+                "three": [
+                    152,
+                    181
+                ],
+                "subsets": [
+                    153
+                ],
+                "depending": [
+                    154
+                ],
+                "(75": [
+                    161
+                ],
+                "m,": [
+                    162
+                ],
+                "100": [
+                    163
+                ],
+                "m": [
+                    164
+                ],
+                "120": [
+                    166
+                ],
+                "m).": [
+                    167
+                ],
+                "While": [
+                    168
+                ],
+                "lowest": [
+                    170
+                ],
+                "shown": [
+                    173
+                ],
+                "provide": [
+                    175
+                ],
+                "best": [
+                    177,
+                    190
+                ],
+                "predictions": [
+                    178
+                ],
+                "(+11.46%),": [
+                    182
+                ],
+                "aggregate": [
+                    184
+                ],
+                "set": [
+                    186,
+                    206
+                ],
+                "still": [
+                    187
+                ],
+                "results": [
+                    191
+                ],
+                "(−3.93%)": [
+                    192
+                ],
+                "indicating": [
+                    193
+                ],
+                "that": [
+                    194
+                ],
+                "there": [
+                    195,
+                    211
+                ],
+                "greater": [
+                    197
+                ],
+                "benefit": [
+                    198,
+                    214
+                ],
+                "be": [
+                    200
+                ],
+                "gained": [
+                    201
+                ],
+                "scale,": [
+                    209
+                ],
+                "potential": [
+                    213
+                ],
+                "having": [
+                    216
+                ],
+                "multiple": [
+                    220
+                ],
+                "altitudes.": [
+                    221
+                ],
+                "article": [
+                    223
+                ],
+                "extended": [
+                    226
+                ],
+                "version": [
+                    227
+                ],
+                "\"Detecting": [
+                    229
+                ],
+                "Wildlife": [
+                    230
+                ],
+                "Imagery": [
+                    235
+                ],
+                "Convolutional": [
+                    237
+                ],
+                "Neural": [
+                    238
+                ],
+                "Networks": [
+                    239
+                ],
+                "Trained": [
+                    240
+                ],
+                "Automated": [
+                    243
+                ],
+                "Feedback": [
+                    244
+                ],
+                "Loop\"": [
+                    245
+                ],
+                "proceedings": [
+                    249
+                ],
+                "18th": [
+                    252
+                ],
+                "International": [
+                    253
+                ],
+                "Conference": [
+                    254
+                ],
+                "Computational": [
+                    256
+                ],
+                "Science": [
+                    257
+                ],
+                "(ICCS": [
+                    258
+                ],
+                "2018)": [
+                    259
+                ],
+                "[1].": [
+                    260
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2946691079",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-13T21:02:39.053480",
+            "created_date": "2019-05-29"
+        },
+        {
+            "id": "https://openalex.org/W2808659180",
+            "doi": "https://doi.org/10.1007/978-3-319-93698-7_6",
+            "title": "Detecting Wildlife in Unmanned Aerial Systems Imagery Using Convolutional Neural Networks Trained with an Automated Feedback Loop",
+            "display_name": "Detecting Wildlife in Unmanned Aerial Systems Imagery Using Convolutional Neural Networks Trained with an Automated Feedback Loop",
+            "publication_year": 2018,
+            "publication_date": "2018-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2808659180",
+                "doi": "https://doi.org/10.1007/978-3-319-93698-7_6",
+                "mag": "2808659180"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-319-93698-7_6",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1015&context=cs-fac",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5025860254",
+                        "display_name": "Connor Bowley",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Connor Bowley",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, ND, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, ND, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5011087251",
+                        "display_name": "Marshall Mattingly",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marshall Mattingly",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, ND, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, ND, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054964264",
+                        "display_name": "Andrew F. Barnas",
+                        "orcid": "https://orcid.org/0000-0003-0990-4666"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Andrew Barnas",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, ND, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, ND, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081869733",
+                        "display_name": "Susan N. Ellis‐Felege",
+                        "orcid": "https://orcid.org/0000-0002-4534-0055"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Susan Ellis-Felege",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, ND, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, ND, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5065630093",
+                        "display_name": "Travis Desell",
+                        "orcid": "https://orcid.org/0000-0002-4082-0439"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Travis Desell",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, ND, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, ND, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.193,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 8,
+            "citation_normalized_percentile": {
+                "value": 0.831969,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 84,
+                "max": 85
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "69",
+                "last_page": "82"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10627",
+                "display_name": "Image Feature Retrieval and Recognition Techniques",
+                "score": 0.9981,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1707",
+                    "display_name": "Computer Vision and Pattern Recognition"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10627",
+                    "display_name": "Image Feature Retrieval and Recognition Techniques",
+                    "score": 0.9981,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10331",
+                    "display_name": "Visual Object Tracking and Person Re-identification",
+                    "score": 0.9966,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10191",
+                    "display_name": "Simultaneous Localization and Mapping",
+                    "score": 0.994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2202",
+                        "display_name": "Aerospace Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/visual-tracking",
+                    "display_name": "Visual Tracking",
+                    "score": 0.558894
+                },
+                {
+                    "id": "https://openalex.org/keywords/motion-detection",
+                    "display_name": "Motion Detection",
+                    "score": 0.529856
+                },
+                {
+                    "id": "https://openalex.org/keywords/foreground-segmentation",
+                    "display_name": "Foreground Segmentation",
+                    "score": 0.523152
+                },
+                {
+                    "id": "https://openalex.org/keywords/object-tracking",
+                    "display_name": "Object Tracking",
+                    "score": 0.51851
+                },
+                {
+                    "id": "https://openalex.org/keywords/multiple-object-tracking",
+                    "display_name": "Multiple Object Tracking",
+                    "score": 0.515969
+                },
+                {
+                    "id": "https://openalex.org/keywords/feedback-loop",
+                    "display_name": "Feedback loop",
+                    "score": 0.47839606
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C81363708",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+                    "display_name": "Convolutional neural network",
+                    "level": 2,
+                    "score": 0.7815254
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.75188804
+                },
+                {
+                    "id": "https://openalex.org/C29376679",
+                    "wikidata": "https://www.wikidata.org/wiki/Q241741",
+                    "display_name": "Wildlife",
+                    "level": 2,
+                    "score": 0.7137353
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.6049522
+                },
+                {
+                    "id": "https://openalex.org/C2908647359",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+                    "display_name": "Population",
+                    "level": 2,
+                    "score": 0.54763937
+                },
+                {
+                    "id": "https://openalex.org/C186886427",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5441213",
+                    "display_name": "Feedback loop",
+                    "level": 2,
+                    "score": 0.47839606
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.37463072
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.33741182
+                },
+                {
+                    "id": "https://openalex.org/C18903297",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7150",
+                    "display_name": "Ecology",
+                    "level": 1,
+                    "score": 0.15742049
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.07276428
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C149923435",
+                    "wikidata": "https://www.wikidata.org/wiki/Q37732",
+                    "display_name": "Demography",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C144024400",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21201",
+                    "display_name": "Sociology",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-319-93698-7_6",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1015&context=cs-fac",
+                    "pdf_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1015&context=cs-fac",
+                    "source": {
+                        "id": "https://openalex.org/S4306402276",
+                        "display_name": "UND Scholarly Commons (University of North Dakota)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I24571045",
+                        "host_organization_name": "University of North Dakota",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I24571045"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of North Dakota"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1015&context=cs-fac",
+                "pdf_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1015&context=cs-fac",
+                "source": {
+                    "id": "https://openalex.org/S4306402276",
+                    "display_name": "UND Scholarly Commons (University of North Dakota)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I24571045",
+                    "host_organization_name": "University of North Dakota",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I24571045"
+                    ],
+                    "host_organization_lineage_names": [
+                        "University of North Dakota"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "id": "https://metadata.un.org/sdg/15",
+                    "score": 0.71
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 24,
+            "referenced_works": [
+                "https://openalex.org/W1836465849",
+                "https://openalex.org/W1863171399",
+                "https://openalex.org/W1993682041",
+                "https://openalex.org/W2004915807",
+                "https://openalex.org/W2024046085",
+                "https://openalex.org/W2098485216",
+                "https://openalex.org/W2112076978",
+                "https://openalex.org/W2112193291",
+                "https://openalex.org/W2117539524",
+                "https://openalex.org/W2122111042",
+                "https://openalex.org/W2124351162",
+                "https://openalex.org/W2151915598",
+                "https://openalex.org/W2157917411",
+                "https://openalex.org/W2295675274",
+                "https://openalex.org/W2323722282",
+                "https://openalex.org/W2327043932",
+                "https://openalex.org/W2592997557",
+                "https://openalex.org/W2593327139",
+                "https://openalex.org/W2769332622",
+                "https://openalex.org/W2911964244",
+                "https://openalex.org/W2964298670",
+                "https://openalex.org/W3118608800",
+                "https://openalex.org/W3125892765",
+                "https://openalex.org/W82576261"
+            ],
+            "related_works": [
+                "https://openalex.org/W4306674287",
+                "https://openalex.org/W4287776258",
+                "https://openalex.org/W3181746755",
+                "https://openalex.org/W3119610945",
+                "https://openalex.org/W3027997911",
+                "https://openalex.org/W3021430260",
+                "https://openalex.org/W2961085424",
+                "https://openalex.org/W2748454020",
+                "https://openalex.org/W2036807459",
+                "https://openalex.org/W1891287906"
+            ],
+            "abstract_inverted_index": {
+                "Using": [
+                    0
+                ],
+                "automated": [
+                    1,
+                    51
+                ],
+                "processes": [
+                    2
+                ],
+                "to": [
+                    3,
+                    44,
+                    58,
+                    92,
+                    107,
+                    114,
+                    132,
+                    149,
+                    154,
+                    195,
+                    204
+                ],
+                "detect": [
+                    4
+                ],
+                "wildlife": [
+                    5,
+                    14,
+                    38,
+                    159,
+                    172
+                ],
+                "in": [
+                    6,
+                    10,
+                    24
+                ],
+                "uncontrolled": [
+                    7
+                ],
+                "outdoor": [
+                    8
+                ],
+                "imagery": [
+                    9,
+                    25,
+                    78,
+                    97,
+                    121
+                ],
+                "the": [
+                    11,
+                    34,
+                    81,
+                    120,
+                    127,
+                    142,
+                    152,
+                    158,
+                    161,
+                    168,
+                    180
+                ],
+                "field": [
+                    12
+                ],
+                "of": [
+                    13,
+                    37,
+                    71,
+                    119,
+                    126,
+                    171
+                ],
+                "ecology": [
+                    15
+                ],
+                "is": [
+                    16,
+                    21,
+                    39,
+                    103,
+                    129
+                ],
+                "a": [
+                    17,
+                    133,
+                    138
+                ],
+                "challenging": [
+                    18
+                ],
+                "task.": [
+                    19
+                ],
+                "This": [
+                    20,
+                    47,
+                    74
+                ],
+                "especially": [
+                    22
+                ],
+                "true": [
+                    23
+                ],
+                "provided": [
+                    26
+                ],
+                "by": [
+                    27,
+                    80
+                ],
+                "an": [
+                    28,
+                    50
+                ],
+                "Unmanned": [
+                    29
+                ],
+                "Aerial": [
+                    30
+                ],
+                "System": [
+                    31
+                ],
+                "(UAS),": [
+                    32
+                ],
+                "where": [
+                    33
+                ],
+                "relative": [
+                    35
+                ],
+                "size": [
+                    36
+                ],
+                "small": [
+                    40
+                ],
+                "and": [
+                    41,
+                    89,
+                    98,
+                    160,
+                    165,
+                    202
+                ],
+                "visually": [
+                    42,
+                    162
+                ],
+                "similar": [
+                    43,
+                    163
+                ],
+                "its": [
+                    45
+                ],
+                "background.": [
+                    46
+                ],
+                "work": [
+                    48,
+                    75
+                ],
+                "presents": [
+                    49
+                ],
+                "feedback": [
+                    52,
+                    145,
+                    181
+                ],
+                "loop": [
+                    53,
+                    146,
+                    182
+                ],
+                "which": [
+                    54,
+                    68,
+                    84,
+                    112,
+                    117,
+                    136
+                ],
+                "can": [
+                    55
+                ],
+                "be": [
+                    56
+                ],
+                "used": [
+                    57,
+                    104
+                ],
+                "train": [
+                    59,
+                    151
+                ],
+                "convolutional": [
+                    60,
+                    108
+                ],
+                "neural": [
+                    61,
+                    109
+                ],
+                "networks": [
+                    62,
+                    110
+                ],
+                "with": [
+                    63,
+                    167
+                ],
+                "extremely": [
+                    64
+                ],
+                "unbalanced": [
+                    65
+                ],
+                "class": [
+                    66
+                ],
+                "sizes,": [
+                    67
+                ],
+                "alleviates": [
+                    69
+                ],
+                "some": [
+                    70
+                ],
+                "these": [
+                    72
+                ],
+                "challenges.": [
+                    73
+                ],
+                "utilizes": [
+                    76
+                ],
+                "UAS": [
+                    77,
+                    96
+                ],
+                "collected": [
+                    79,
+                    95
+                ],
+                "Wildlife@Home": [
+                    82
+                ],
+                "project,": [
+                    83
+                ],
+                "has": [
+                    85
+                ],
+                "employed": [
+                    86
+                ],
+                "citizen": [
+                    87,
+                    199
+                ],
+                "scientists": [
+                    88
+                ],
+                "trained": [
+                    90
+                ],
+                "experts": [
+                    91
+                ],
+                "go": [
+                    93
+                ],
+                "through": [
+                    94
+                ],
+                "classify": [
+                    99
+                ],
+                "it.": [
+                    100
+                ],
+                "Classified": [
+                    101
+                ],
+                "data": [
+                    102,
+                    201
+                ],
+                "as": [
+                    105
+                ],
+                "inputs": [
+                    106
+                ],
+                "(CNNs)": [
+                    111
+                ],
+                "seek": [
+                    113
+                ],
+                "automatically": [
+                    115
+                ],
+                "mark": [
+                    116
+                ],
+                "areas": [
+                    118
+                ],
+                "contain": [
+                    122
+                ],
+                "wildlife.": [
+                    123
+                ],
+                "The": [
+                    124,
+                    144
+                ],
+                "output": [
+                    125
+                ],
+                "CNN": [
+                    128
+                ],
+                "then": [
+                    130
+                ],
+                "passed": [
+                    131
+                ],
+                "blob": [
+                    134
+                ],
+                "counter": [
+                    135
+                ],
+                "returns": [
+                    137
+                ],
+                "population": [
+                    139,
+                    185
+                ],
+                "estimate": [
+                    140
+                ],
+                "for": [
+                    141
+                ],
+                "image.": [
+                    143
+                ],
+                "was": [
+                    147
+                ],
+                "developed": [
+                    148
+                ],
+                "help": [
+                    150
+                ],
+                "CNNs": [
+                    153
+                ],
+                "better": [
+                    155
+                ],
+                "differentiate": [
+                    156
+                ],
+                "between": [
+                    157
+                ],
+                "background": [
+                    164,
+                    176
+                ],
+                "deal": [
+                    166
+                ],
+                "disparate": [
+                    169
+                ],
+                "amount": [
+                    170
+                ],
+                "training": [
+                    173,
+                    177
+                ],
+                "images": [
+                    174
+                ],
+                "versus": [
+                    175
+                ],
+                "images.": [
+                    178
+                ],
+                "Utilizing": [
+                    179
+                ],
+                "dramatically": [
+                    183
+                ],
+                "reduced": [
+                    184
+                ],
+                "count": [
+                    186
+                ],
+                "error": [
+                    187
+                ],
+                "rates": [
+                    188
+                ],
+                "from": [
+                    189,
+                    193
+                ],
+                "previously": [
+                    190
+                ],
+                "published": [
+                    191
+                ],
+                "work,": [
+                    192
+                ],
+                "+150%": [
+                    194
+                ],
+                "$$-3.93$$": [
+                    196
+                ],
+                "%": [
+                    197
+                ],
+                "on": [
+                    198,
+                    206
+                ],
+                "scientist": [
+                    200
+                ],
+                "+88%": [
+                    203
+                ],
+                "+5.24%": [
+                    205
+                ],
+                "expert": [
+                    207
+                ],
+                "data.": [
+                    208
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2808659180",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-17T19:54:45.487693",
+            "created_date": "2018-06-21"
+        },
+        {
+            "id": "https://openalex.org/W2592997557",
+            "doi": "https://doi.org/10.1109/escience.2016.7870903",
+            "title": "Developing a citizen science web portal for manual and automated ecological image detection",
+            "display_name": "Developing a citizen science web portal for manual and automated ecological image detection",
+            "publication_year": 2016,
+            "publication_date": "2016-10-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2592997557",
+                "doi": "https://doi.org/10.1109/escience.2016.7870903",
+                "mag": "2592997557"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/escience.2016.7870903",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5011087251",
+                        "display_name": "Marshall Mattingly",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marshall Mattingly",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054964264",
+                        "display_name": "Andrew F. Barnas",
+                        "orcid": "https://orcid.org/0000-0003-0990-4666"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Andrew Barnas",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081869733",
+                        "display_name": "Susan N. Ellis‐Felege",
+                        "orcid": "https://orcid.org/0000-0002-4534-0055"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Susan Ellis-Felege",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103459206",
+                        "display_name": "Robert A. Newman",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Robert Newman",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5091634667",
+                        "display_name": "David T. Iles",
+                        "orcid": "https://orcid.org/0000-0002-7251-4938"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I121980950",
+                            "display_name": "Utah State University",
+                            "ror": "https://ror.org/00h6set76",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I121980950"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Iles",
+                    "raw_affiliation_strings": [
+                        "Department of Wildland Resources and the Ecology Center, Utah State University Logan, Utah"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Wildland Resources and the Ecology Center, Utah State University Logan, Utah",
+                            "institution_ids": [
+                                "https://openalex.org/I121980950"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5065630093",
+                        "display_name": "Travis Desell",
+                        "orcid": "https://orcid.org/0000-0002-4082-0439"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Travis Desell",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 3.141,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 4,
+            "citation_normalized_percentile": {
+                "value": 0.747619,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 81
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10895",
+                "display_name": "Species Distribution Modeling and Climate Change Impacts",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2302",
+                    "display_name": "Ecological Modeling"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10895",
+                    "display_name": "Species Distribution Modeling and Climate Change Impacts",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2302",
+                        "display_name": "Ecological Modeling"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10199",
+                    "display_name": "Wildlife Ecology and Conservation Biology",
+                    "score": 0.9971,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2303",
+                        "display_name": "Ecology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10111",
+                    "display_name": "Remote Sensing in Vegetation Monitoring and Phenology",
+                    "score": 0.9907,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2303",
+                        "display_name": "Ecology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/citizen-science",
+                    "display_name": "Citizen science",
+                    "score": 0.67134243
+                },
+                {
+                    "id": "https://openalex.org/keywords/ground-truth",
+                    "display_name": "Ground truth",
+                    "score": 0.5896649
+                },
+                {
+                    "id": "https://openalex.org/keywords/biomass-estimation",
+                    "display_name": "Biomass Estimation",
+                    "score": 0.529537
+                },
+                {
+                    "id": "https://openalex.org/keywords/vegetation-monitoring",
+                    "display_name": "Vegetation Monitoring",
+                    "score": 0.520359
+                },
+                {
+                    "id": "https://openalex.org/keywords/camera-trapping",
+                    "display_name": "Camera Trapping",
+                    "score": 0.516303
+                },
+                {
+                    "id": "https://openalex.org/keywords/model-evaluation",
+                    "display_name": "Model Evaluation",
+                    "score": 0.508502
+                },
+                {
+                    "id": "https://openalex.org/keywords/habitat-selection",
+                    "display_name": "Habitat Selection",
+                    "score": 0.504877
+                },
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.4283443
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C64543145",
+                    "wikidata": "https://www.wikidata.org/wiki/Q162942",
+                    "display_name": "Intersection (aeronautics)",
+                    "level": 2,
+                    "score": 0.70883983
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7083097
+                },
+                {
+                    "id": "https://openalex.org/C197352329",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1093434",
+                    "display_name": "Citizen science",
+                    "level": 2,
+                    "score": 0.67134243
+                },
+                {
+                    "id": "https://openalex.org/C94124525",
+                    "wikidata": "https://www.wikidata.org/wiki/Q912550",
+                    "display_name": "Categorization",
+                    "level": 2,
+                    "score": 0.6262724
+                },
+                {
+                    "id": "https://openalex.org/C146849305",
+                    "wikidata": "https://www.wikidata.org/wiki/Q370766",
+                    "display_name": "Ground truth",
+                    "level": 2,
+                    "score": 0.5896649
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.5849333
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.5432788
+                },
+                {
+                    "id": "https://openalex.org/C9652623",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
+                    "display_name": "Field (mathematics)",
+                    "level": 2,
+                    "score": 0.47874135
+                },
+                {
+                    "id": "https://openalex.org/C160633673",
+                    "wikidata": "https://www.wikidata.org/wiki/Q355198",
+                    "display_name": "Pixel",
+                    "level": 2,
+                    "score": 0.47214794
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.4283443
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.41567186
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.33864355
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.23747578
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.20959619
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.11979246
+                },
+                {
+                    "id": "https://openalex.org/C59822182",
+                    "wikidata": "https://www.wikidata.org/wiki/Q441",
+                    "display_name": "Botany",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/escience.2016.7870903",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "id": "https://metadata.un.org/sdg/15",
+                    "score": 0.66
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 17,
+            "referenced_works": [
+                "https://openalex.org/W1863171399",
+                "https://openalex.org/W1924655545",
+                "https://openalex.org/W1993682041",
+                "https://openalex.org/W1993913119",
+                "https://openalex.org/W2017335377",
+                "https://openalex.org/W2036686752",
+                "https://openalex.org/W2058213069",
+                "https://openalex.org/W2098485216",
+                "https://openalex.org/W2112193291",
+                "https://openalex.org/W2122575960",
+                "https://openalex.org/W2134895513",
+                "https://openalex.org/W2137171052",
+                "https://openalex.org/W2151915598",
+                "https://openalex.org/W2167888367",
+                "https://openalex.org/W2249483966",
+                "https://openalex.org/W2273570228",
+                "https://openalex.org/W322508576"
+            ],
+            "related_works": [
+                "https://openalex.org/W4311804456",
+                "https://openalex.org/W2735662278",
+                "https://openalex.org/W2623658258",
+                "https://openalex.org/W2382615723",
+                "https://openalex.org/W2165912799",
+                "https://openalex.org/W2143413548",
+                "https://openalex.org/W2134020923",
+                "https://openalex.org/W1995772845",
+                "https://openalex.org/W1987484445",
+                "https://openalex.org/W1969219540"
+            ],
+            "abstract_inverted_index": {
+                "Image": [
+                    0
+                ],
+                "recognition": [
+                    1
+                ],
+                "is": [
+                    2
+                ],
+                "challenging": [
+                    3
+                ],
+                "in": [
+                    4
+                ],
+                "the": [
+                    5,
+                    59,
+                    93,
+                    156,
+                    162
+                ],
+                "field": [
+                    6
+                ],
+                "of": [
+                    7,
+                    12,
+                    70,
+                    82,
+                    95,
+                    120,
+                    126,
+                    129,
+                    152,
+                    158
+                ],
+                "wildlife": [
+                    8
+                ],
+                "ecology": [
+                    9
+                ],
+                "as": [
+                    10,
+                    105,
+                    169
+                ],
+                "samples": [
+                    11
+                ],
+                "a": [
+                    13,
+                    37,
+                    118,
+                    124,
+                    148
+                ],
+                "specific": [
+                    14
+                ],
+                "species": [
+                    15
+                ],
+                "can": [
+                    16
+                ],
+                "be": [
+                    17
+                ],
+                "rare,": [
+                    18
+                ],
+                "making": [
+                    19
+                ],
+                "manual": [
+                    20
+                ],
+                "detection": [
+                    21
+                ],
+                "cumbersome.": [
+                    22
+                ],
+                "With": [
+                    23
+                ],
+                "over": [
+                    24
+                ],
+                "2,060,000": [
+                    25
+                ],
+                "images": [
+                    26,
+                    61,
+                    97,
+                    122
+                ],
+                "taken": [
+                    27
+                ],
+                "from": [
+                    28,
+                    98
+                ],
+                "motion-sensor": [
+                    29
+                ],
+                "trail": [
+                    30
+                ],
+                "cameras": [
+                    31
+                ],
+                "and": [
+                    32,
+                    49,
+                    85,
+                    103,
+                    110,
+                    155,
+                    171
+                ],
+                "unmanned": [
+                    33
+                ],
+                "aerial": [
+                    34
+                ],
+                "vehicle": [
+                    35
+                ],
+                "flights,": [
+                    36
+                ],
+                "touch": [
+                    38
+                ],
+                "enabled": [
+                    39
+                ],
+                "web": [
+                    40
+                ],
+                "interface": [
+                    41
+                ],
+                "has": [
+                    42
+                ],
+                "been": [
+                    43
+                ],
+                "developed": [
+                    44
+                ],
+                "to": [
+                    45,
+                    51,
+                    64
+                ],
+                "allow": [
+                    46
+                ],
+                "citizen": [
+                    47,
+                    133
+                ],
+                "scientists": [
+                    48,
+                    134
+                ],
+                "ecologists": [
+                    50
+                ],
+                "categorize": [
+                    52
+                ],
+                "positive": [
+                    53
+                ],
+                "samples.": [
+                    54
+                ],
+                "To": [
+                    55
+                ],
+                "minimize": [
+                    56
+                ],
+                "categorization": [
+                    57
+                ],
+                "errors,": [
+                    58
+                ],
+                "same": [
+                    60
+                ],
+                "are": [
+                    62,
+                    73,
+                    101
+                ],
+                "shown": [
+                    63
+                ],
+                "multiple": [
+                    65
+                ],
+                "separate": [
+                    66
+                ],
+                "users.": [
+                    67
+                ],
+                "The": [
+                    68
+                ],
+                "observations": [
+                    69,
+                    128
+                ],
+                "each": [
+                    71
+                ],
+                "user": [
+                    72
+                ],
+                "then": [
+                    74
+                ],
+                "compared": [
+                    75,
+                    104
+                ],
+                "using": [
+                    76,
+                    117
+                ],
+                "two": [
+                    77
+                ],
+                "novel": [
+                    78,
+                    90
+                ],
+                "validation": [
+                    79
+                ],
+                "strategies:": [
+                    80
+                ],
+                "percentage": [
+                    81
+                ],
+                "overlapping": [
+                    83
+                ],
+                "area": [
+                    84,
+                    111,
+                    159
+                ],
+                "maximum": [
+                    86,
+                    149
+                ],
+                "corner": [
+                    87,
+                    108,
+                    150
+                ],
+                "distance.": [
+                    88
+                ],
+                "Two": [
+                    89
+                ],
+                "methods": [
+                    91,
+                    114
+                ],
+                "for": [
+                    92,
+                    139,
+                    145,
+                    166
+                ],
+                "extraction": [
+                    94
+                ],
+                "final": [
+                    96
+                ],
+                "validated": [
+                    99
+                ],
+                "results": [
+                    100
+                ],
+                "presented": [
+                    102
+                ],
+                "well:": [
+                    106
+                ],
+                "average": [
+                    107
+                ],
+                "points": [
+                    109
+                ],
+                "intersection.": [
+                    112
+                ],
+                "These": [
+                    113
+                ],
+                "were": [
+                    115,
+                    136
+                ],
+                "evaluated": [
+                    116
+                ],
+                "set": [
+                    119
+                ],
+                "142": [
+                    121
+                ],
+                "with": [
+                    123
+                ],
+                "total": [
+                    125
+                ],
+                "811": [
+                    127
+                ],
+                "objects": [
+                    130
+                ],
+                "generated": [
+                    131
+                ],
+                "by": [
+                    132,
+                    174
+                ],
+                "that": [
+                    135,
+                    144
+                ],
+                "manually": [
+                    137
+                ],
+                "inspected": [
+                    138
+                ],
+                "ground": [
+                    140
+                ],
+                "truth.": [
+                    141
+                ],
+                "Results": [
+                    142
+                ],
+                "show": [
+                    143
+                ],
+                "this": [
+                    146
+                ],
+                "research": [
+                    147
+                ],
+                "distance": [
+                    151
+                ],
+                "10": [
+                    153
+                ],
+                "pixels": [
+                    154
+                ],
+                "use": [
+                    157,
+                    168
+                ],
+                "intersection": [
+                    160
+                ],
+                "provided": [
+                    161
+                ],
+                "best": [
+                    163
+                ],
+                "extracted": [
+                    164
+                ],
+                "imagery": [
+                    165
+                ],
+                "future": [
+                    167
+                ],
+                "training": [
+                    170
+                ],
+                "testing": [
+                    172
+                ],
+                "data": [
+                    173
+                ],
+                "computer": [
+                    175
+                ],
+                "vision": [
+                    176
+                ],
+                "methods.": [
+                    177
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2592997557",
+            "counts_by_year": [
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T03:19:35.224167",
+            "created_date": "2017-03-16"
+        },
+        {
+            "id": "https://openalex.org/W2769332622",
+            "doi": "https://doi.org/10.1109/escience.2017.22",
+            "title": "Toward Using Citizen Scientists to Drive Automated Ecological Object Detection in Aerial Imagery",
+            "display_name": "Toward Using Citizen Scientists to Drive Automated Ecological Object Detection in Aerial Imagery",
+            "publication_year": 2017,
+            "publication_date": "2017-10-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2769332622",
+                "doi": "https://doi.org/10.1109/escience.2017.22",
+                "mag": "2769332622"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/escience.2017.22",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5025860254",
+                        "display_name": "Connor Bowley",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Connor Bowley",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5011087251",
+                        "display_name": "Marshall Mattingly",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marshall Mattingly",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054964264",
+                        "display_name": "Andrew F. Barnas",
+                        "orcid": "https://orcid.org/0000-0003-0990-4666"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Andrew Barnas",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5081869733",
+                        "display_name": "Susan N. Ellis‐Felege",
+                        "orcid": "https://orcid.org/0000-0002-4534-0055"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Susan Ellis-Felege",
+                    "raw_affiliation_strings": [
+                        "Department of Biology, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biology, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5065630093",
+                        "display_name": "Travis Desell",
+                        "orcid": "https://orcid.org/0000-0002-4082-0439"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24571045",
+                            "display_name": "University of North Dakota",
+                            "ror": "https://ror.org/04a5szx83",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Travis Desell",
+                    "raw_affiliation_strings": [
+                        "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Computer Science, University of North Dakota, Grand Forks, North Dakota",
+                            "institution_ids": [
+                                "https://openalex.org/I24571045"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.19,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.691542,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 75,
+                "max": 78
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10895",
+                "display_name": "Species Distribution Modeling and Climate Change Impacts",
+                "score": 0.9995,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2302",
+                    "display_name": "Ecological Modeling"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10895",
+                    "display_name": "Species Distribution Modeling and Climate Change Impacts",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2302",
+                        "display_name": "Ecological Modeling"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11164",
+                    "display_name": "Mapping Forests with Lidar Remote Sensing",
+                    "score": 0.9949,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2305",
+                        "display_name": "Environmental Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10199",
+                    "display_name": "Wildlife Ecology and Conservation Biology",
+                    "score": 0.9908,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2303",
+                        "display_name": "Ecology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/citizen-science",
+                    "display_name": "Citizen Science",
+                    "score": 0.522977
+                },
+                {
+                    "id": "https://openalex.org/keywords/biomass-estimation",
+                    "display_name": "Biomass Estimation",
+                    "score": 0.50653
+                },
+                {
+                    "id": "https://openalex.org/keywords/habitat-selection",
+                    "display_name": "Habitat Selection",
+                    "score": 0.500964
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C197352329",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1093434",
+                    "display_name": "Citizen science",
+                    "level": 2,
+                    "score": 0.8376023
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6964158
+                },
+                {
+                    "id": "https://openalex.org/C81363708",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+                    "display_name": "Convolutional neural network",
+                    "level": 2,
+                    "score": 0.6247486
+                },
+                {
+                    "id": "https://openalex.org/C2776151529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3045304",
+                    "display_name": "Object detection",
+                    "level": 3,
+                    "score": 0.58936906
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.5378465
+                },
+                {
+                    "id": "https://openalex.org/C2781238097",
+                    "wikidata": "https://www.wikidata.org/wiki/Q175026",
+                    "display_name": "Object (grammar)",
+                    "level": 2,
+                    "score": 0.4774597
+                },
+                {
+                    "id": "https://openalex.org/C98045186",
+                    "wikidata": "https://www.wikidata.org/wiki/Q205663",
+                    "display_name": "Process (computing)",
+                    "level": 2,
+                    "score": 0.46451417
+                },
+                {
+                    "id": "https://openalex.org/C64543145",
+                    "wikidata": "https://www.wikidata.org/wiki/Q162942",
+                    "display_name": "Intersection (aeronautics)",
+                    "level": 2,
+                    "score": 0.43604645
+                },
+                {
+                    "id": "https://openalex.org/C108583219",
+                    "wikidata": "https://www.wikidata.org/wiki/Q197536",
+                    "display_name": "Deep learning",
+                    "level": 2,
+                    "score": 0.41850615
+                },
+                {
+                    "id": "https://openalex.org/C29376679",
+                    "wikidata": "https://www.wikidata.org/wiki/Q241741",
+                    "display_name": "Wildlife",
+                    "level": 2,
+                    "score": 0.4150109
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.38157082
+                },
+                {
+                    "id": "https://openalex.org/C62649853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199687",
+                    "display_name": "Remote sensing",
+                    "level": 1,
+                    "score": 0.3524943
+                },
+                {
+                    "id": "https://openalex.org/C18903297",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7150",
+                    "display_name": "Ecology",
+                    "level": 1,
+                    "score": 0.23825982
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.19400918
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.17838323
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.15694228
+                },
+                {
+                    "id": "https://openalex.org/C59822182",
+                    "wikidata": "https://www.wikidata.org/wiki/Q441",
+                    "display_name": "Botany",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/escience.2017.22",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Life on land",
+                    "id": "https://metadata.un.org/sdg/15",
+                    "score": 0.55
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 25,
+            "referenced_works": [
+                "https://openalex.org/W1776181700",
+                "https://openalex.org/W1836465849",
+                "https://openalex.org/W1863171399",
+                "https://openalex.org/W1924655545",
+                "https://openalex.org/W1993682041",
+                "https://openalex.org/W2017335377",
+                "https://openalex.org/W2036686752",
+                "https://openalex.org/W2058213069",
+                "https://openalex.org/W2098485216",
+                "https://openalex.org/W2112193291",
+                "https://openalex.org/W2117539524",
+                "https://openalex.org/W2122575960",
+                "https://openalex.org/W2137171052",
+                "https://openalex.org/W2151915598",
+                "https://openalex.org/W2249483966",
+                "https://openalex.org/W2273570228",
+                "https://openalex.org/W2295675274",
+                "https://openalex.org/W2318806192",
+                "https://openalex.org/W2322975682",
+                "https://openalex.org/W2323722282",
+                "https://openalex.org/W2592997557",
+                "https://openalex.org/W2593327139",
+                "https://openalex.org/W3125892765",
+                "https://openalex.org/W322508576",
+                "https://openalex.org/W82576261"
+            ],
+            "related_works": [
+                "https://openalex.org/W4379468622",
+                "https://openalex.org/W4246741989",
+                "https://openalex.org/W4234241848",
+                "https://openalex.org/W3217434375",
+                "https://openalex.org/W2969228573",
+                "https://openalex.org/W2965011540",
+                "https://openalex.org/W2792023157",
+                "https://openalex.org/W2479871838",
+                "https://openalex.org/W2134020923",
+                "https://openalex.org/W1815107807"
+            ],
+            "abstract_inverted_index": {
+                "Automated": [
+                    0
+                ],
+                "object": [
+                    1,
+                    163,
+                    187
+                ],
+                "detection": [
+                    2,
+                    30,
+                    73
+                ],
+                "within": [
+                    3
+                ],
+                "imagery": [
+                    4,
+                    113
+                ],
+                "is": [
+                    5,
+                    141,
+                    220,
+                    244,
+                    293
+                ],
+                "challenging": [
+                    6
+                ],
+                "in": [
+                    7,
+                    61,
+                    91,
+                    99,
+                    209,
+                    268,
+                    283
+                ],
+                "the": [
+                    8,
+                    17,
+                    24,
+                    40,
+                    72,
+                    92,
+                    100,
+                    127,
+                    130,
+                    139,
+                    147,
+                    185,
+                    190,
+                    193,
+                    203,
+                    210,
+                    238,
+                    241,
+                    248,
+                    251,
+                    255,
+                    271,
+                    278,
+                    287,
+                    290,
+                    302,
+                    316
+                ],
+                "field": [
+                    9
+                ],
+                "of": [
+                    10,
+                    20,
+                    96,
+                    111,
+                    149,
+                    184,
+                    192,
+                    205,
+                    240,
+                    250,
+                    289
+                ],
+                "wildlife": [
+                    11
+                ],
+                "biology.": [
+                    12
+                ],
+                "Uncontrolled": [
+                    13
+                ],
+                "conditions,": [
+                    14
+                ],
+                "along": [
+                    15
+                ],
+                "with": [
+                    16,
+                    46,
+                    81,
+                    169
+                ],
+                "relative": [
+                    18
+                ],
+                "size": [
+                    19
+                ],
+                "target": [
+                    21
+                ],
+                "species": [
+                    22
+                ],
+                "to": [
+                    23,
+                    36,
+                    50,
+                    54,
+                    70,
+                    136,
+                    156,
+                    262,
+                    277,
+                    295,
+                    300
+                ],
+                "more": [
+                    25,
+                    245
+                ],
+                "abundant": [
+                    26
+                ],
+                "background": [
+                    27
+                ],
+                "makes": [
+                    28
+                ],
+                "manual": [
+                    29
+                ],
+                "tedious": [
+                    31
+                ],
+                "and": [
+                    32,
+                    56,
+                    103,
+                    114,
+                    175,
+                    188,
+                    199,
+                    216
+                ],
+                "error-prone.": [
+                    33
+                ],
+                "In": [
+                    34
+                ],
+                "order": [
+                    35
+                ],
+                "address": [
+                    37
+                ],
+                "these": [
+                    38,
+                    58
+                ],
+                "concerns,": [
+                    39
+                ],
+                "Wildlife@Home": [
+                    41
+                ],
+                "project": [
+                    42,
+                    80
+                ],
+                "has": [
+                    43
+                ],
+                "been": [
+                    44
+                ],
+                "developed": [
+                    45
+                ],
+                "a": [
+                    47,
+                    79,
+                    117,
+                    297
+                ],
+                "web": [
+                    48
+                ],
+                "portal": [
+                    49
+                ],
+                "allow": [
+                    51
+                ],
+                "citizen": [
+                    52,
+                    151,
+                    172,
+                    181,
+                    257
+                ],
+                "scientists": [
+                    53,
+                    258
+                ],
+                "inspect": [
+                    55,
+                    138
+                ],
+                "catalog": [
+                    57
+                ],
+                "images,": [
+                    59
+                ],
+                "which": [
+                    60,
+                    219
+                ],
+                "turn": [
+                    62
+                ],
+                "provides": [
+                    63
+                ],
+                "training": [
+                    64
+                ],
+                "data": [
+                    65,
+                    106,
+                    128,
+                    140,
+                    153,
+                    243
+                ],
+                "for": [
+                    66,
+                    162
+                ],
+                "computer": [
+                    67
+                ],
+                "vision": [
+                    68
+                ],
+                "algorithms": [
+                    69
+                ],
+                "automate": [
+                    71
+                ],
+                "process.": [
+                    74
+                ],
+                "This": [
+                    75,
+                    105,
+                    144
+                ],
+                "work": [
+                    76,
+                    145,
+                    224
+                ],
+                "focuses": [
+                    77
+                ],
+                "on": [
+                    78,
+                    228,
+                    314
+                ],
+                "over": [
+                    82,
+                    109
+                ],
+                "65,000": [
+                    83
+                ],
+                "Unmanned": [
+                    84
+                ],
+                "Aerial": [
+                    85
+                ],
+                "System": [
+                    86
+                ],
+                "(UAS)": [
+                    87
+                ],
+                "images": [
+                    88,
+                    121,
+                    212
+                ],
+                "from": [
+                    89,
+                    122
+                ],
+                "flights": [
+                    90
+                ],
+                "Hudson": [
+                    93
+                ],
+                "Bay": [
+                    94
+                ],
+                "area": [
+                    95
+                ],
+                "Canada": [
+                    97
+                ],
+                "gathered": [
+                    98
+                ],
+                "years": [
+                    101
+                ],
+                "2015": [
+                    102
+                ],
+                "2016.": [
+                    104
+                ],
+                "set": [
+                    107
+                ],
+                "comprises": [
+                    108
+                ],
+                "3TB": [
+                    110
+                ],
+                "raw": [
+                    112
+                ],
+                "also": [
+                    115
+                ],
+                "contains": [
+                    116
+                ],
+                "further": [
+                    118
+                ],
+                "2": [
+                    119
+                ],
+                "million": [
+                    120
+                ],
+                "related": [
+                    123
+                ],
+                "ecological": [
+                    124
+                ],
+                "projects.": [
+                    125
+                ],
+                "Given": [
+                    126
+                ],
+                "scale,": [
+                    129
+                ],
+                "person-hours": [
+                    131
+                ],
+                "that": [
+                    132,
+                    237,
+                    310
+                ],
+                "would": [
+                    133
+                ],
+                "be": [
+                    134,
+                    263
+                ],
+                "needed": [
+                    135
+                ],
+                "manually": [
+                    137
+                ],
+                "extremely": [
+                    142
+                ],
+                "high.": [
+                    143
+                ],
+                "examines": [
+                    146
+                ],
+                "efficacy": [
+                    148
+                ],
+                "using": [
+                    150,
+                    225,
+                    307
+                ],
+                "science": [
+                    152
+                ],
+                "as": [
+                    154,
+                    254
+                ],
+                "inputs": [
+                    155
+                ],
+                "convolutional": [
+                    157
+                ],
+                "neural": [
+                    158
+                ],
+                "networks": [
+                    159
+                ],
+                "(CNNs)": [
+                    160
+                ],
+                "used": [
+                    161
+                ],
+                "detection.": [
+                    164
+                ],
+                "Three": [
+                    165
+                ],
+                "CNNs": [
+                    166,
+                    201
+                ],
+                "were": [
+                    167
+                ],
+                "trained": [
+                    168,
+                    306
+                ],
+                "expert": [
+                    170,
+                    279
+                ],
+                "observations,": [
+                    171,
+                    174,
+                    280
+                ],
+                "scientist": [
+                    173,
+                    182
+                ],
+                "matched": [
+                    176,
+                    272
+                ],
+                "observations": [
+                    177,
+                    183,
+                    259,
+                    273,
+                    309
+                ],
+                "made": [
+                    178
+                ],
+                "by": [
+                    179,
+                    213
+                ],
+                "pairing": [
+                    180
+                ],
+                "same": [
+                    186
+                ],
+                "taking": [
+                    189
+                ],
+                "intersection": [
+                    191
+                ],
+                "two": [
+                    194
+                ],
+                "observations.": [
+                    195
+                ],
+                "The": [
+                    196
+                ],
+                "expert,": [
+                    197
+                ],
+                "matched,": [
+                    198
+                ],
+                "unmatched": [
+                    200,
+                    256
+                ],
+                "overestimated": [
+                    202
+                ],
+                "number": [
+                    204
+                ],
+                "lesser": [
+                    206
+                ],
+                "snow": [
+                    207
+                ],
+                "geese": [
+                    208
+                ],
+                "testing": [
+                    211,
+                    317
+                ],
+                "88%,": [
+                    214
+                ],
+                "150%,": [
+                    215
+                ],
+                "250%,": [
+                    217
+                ],
+                "respectively,": [
+                    218
+                ],
+                "less": [
+                    221,
+                    282
+                ],
+                "than": [
+                    222,
+                    247
+                ],
+                "current": [
+                    223
+                ],
+                "similar": [
+                    226
+                ],
+                "techniques": [
+                    227
+                ],
+                "all": [
+                    229
+                ],
+                "visible": [
+                    230
+                ],
+                "(RGB)": [
+                    231
+                ],
+                "UAS": [
+                    232
+                ],
+                "imagery.": [
+                    233
+                ],
+                "These": [
+                    234
+                ],
+                "results": [
+                    235
+                ],
+                "show": [
+                    236
+                ],
+                "accuracy": [
+                    239,
+                    288
+                ],
+                "input": [
+                    242,
+                    252
+                ],
+                "important": [
+                    246
+                ],
+                "quantity": [
+                    249
+                ],
+                "data,": [
+                    253
+                ],
+                "are": [
+                    260,
+                    274
+                ],
+                "shown": [
+                    261
+                ],
+                "highly": [
+                    264
+                ],
+                "variable,": [
+                    265
+                ],
+                "but": [
+                    266
+                ],
+                "substantial": [
+                    267
+                ],
+                "number,": [
+                    269
+                ],
+                "while": [
+                    270
+                ],
+                "much": [
+                    275
+                ],
+                "closer": [
+                    276
+                ],
+                "though": [
+                    281
+                ],
+                "number.": [
+                    284
+                ],
+                "To": [
+                    285
+                ],
+                "increase": [
+                    286
+                ],
+                "CNNs,": [
+                    291
+                ],
+                "it": [
+                    292,
+                    311
+                ],
+                "proposed": [
+                    294
+                ],
+                "use": [
+                    296
+                ],
+                "feedback": [
+                    298
+                ],
+                "loop": [
+                    299
+                ],
+                "ensure": [
+                    301
+                ],
+                "CNN": [
+                    303
+                ],
+                "gets": [
+                    304
+                ],
+                "continually": [
+                    305
+                ],
+                "extracted": [
+                    308
+                ],
+                "did": [
+                    312
+                ],
+                "poorly": [
+                    313
+                ],
+                "during": [
+                    315
+                ],
+                "phase.": [
+                    318
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2769332622",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-17T19:33:49.307875",
+            "created_date": "2017-12-04"
+        },
+        {
+            "id": "https://openalex.org/W3212931000",
+            "doi": null,
+            "title": "Using Citizen Scientists To Inform Machine Learning Algorithms To Automate The Detection Of Species In Ecological Imagery",
+            "display_name": "Using Citizen Scientists To Inform Machine Learning Algorithms To Automate The Detection Of Species In Ecological Imagery",
+            "publication_year": 2018,
+            "publication_date": "2018-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3212931000",
+                "mag": "3212931000"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=3282&context=theses",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5011087251",
+                        "display_name": "Marshall Mattingly",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Marshall Mattingly",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5011087251"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 62
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10895",
+                "display_name": "Species Distribution Modeling and Climate Change Impacts",
+                "score": 0.9839,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2302",
+                    "display_name": "Ecological Modeling"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/23",
+                    "display_name": "Environmental Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10895",
+                    "display_name": "Species Distribution Modeling and Climate Change Impacts",
+                    "score": 0.9839,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2302",
+                        "display_name": "Ecological Modeling"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/23",
+                        "display_name": "Environmental Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/citizen-science",
+                    "display_name": "Citizen Science",
+                    "score": 0.607501
+                },
+                {
+                    "id": "https://openalex.org/keywords/species-distribution-modeling",
+                    "display_name": "Species Distribution Modeling",
+                    "score": 0.563687
+                },
+                {
+                    "id": "https://openalex.org/keywords/ecological-niche",
+                    "display_name": "Ecological Niche",
+                    "score": 0.517799
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.5258116
+                },
+                {
+                    "id": "https://openalex.org/C197352329",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1093434",
+                    "display_name": "Citizen science",
+                    "level": 2,
+                    "score": 0.5198958
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.48883694
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.4516933
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.116256505
+                },
+                {
+                    "id": "https://openalex.org/C59822182",
+                    "wikidata": "https://www.wikidata.org/wiki/Q441",
+                    "display_name": "Botany",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=3282&context=theses",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W44060036",
+                "https://openalex.org/W3183519965",
+                "https://openalex.org/W3027021517",
+                "https://openalex.org/W2949936301",
+                "https://openalex.org/W2914057540",
+                "https://openalex.org/W2911377157",
+                "https://openalex.org/W2610457199",
+                "https://openalex.org/W1983854065"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3212931000",
+            "counts_by_year": [],
+            "updated_date": "2024-09-26T10:57:45.767728",
+            "created_date": "2021-11-22"
+        }
+    ],
+    "group_by": []
+}

@@ -1,0 +1,2040 @@
+{
+    "meta": {
+        "count": 4,
+        "db_response_time_ms": 46,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2480798680",
+            "doi": "https://doi.org/10.1016/j.procs.2016.05.466",
+            "title": "KGEN: A Python Tool for Automated Fortran Kernel Generation and Verification",
+            "display_name": "KGEN: A Python Tool for Automated Fortran Kernel Generation and Verification",
+            "publication_year": 2016,
+            "publication_date": "2016-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2480798680",
+                "doi": "https://doi.org/10.1016/j.procs.2016.05.466",
+                "mag": "2480798680"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.466",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2016.05.466",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5054217176",
+                        "display_name": "Youngsung Kim",
+                        "orcid": "https://orcid.org/0000-0002-7217-411X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107766831",
+                            "display_name": "NSF National Center for Atmospheric Research",
+                            "ror": "https://ror.org/05cvfcr44",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I107766831",
+                                "https://openalex.org/I2799356940"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Youngsung Kim",
+                    "raw_affiliation_strings": [
+                        "National Center for Atmospheric Research, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Center for Atmospheric Research, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I107766831"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5053602586",
+                        "display_name": "John M. Dennis",
+                        "orcid": "https://orcid.org/0000-0002-2119-8242"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107766831",
+                            "display_name": "NSF National Center for Atmospheric Research",
+                            "ror": "https://ror.org/05cvfcr44",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I107766831",
+                                "https://openalex.org/I2799356940"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "John Dennis",
+                    "raw_affiliation_strings": [
+                        "National Center for Atmospheric Research, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Center for Atmospheric Research, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I107766831"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5012817105",
+                        "display_name": "Christopher Kerr",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107766831",
+                            "display_name": "NSF National Center for Atmospheric Research",
+                            "ror": "https://ror.org/05cvfcr44",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I107766831",
+                                "https://openalex.org/I2799356940"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Christopher Kerr",
+                    "raw_affiliation_strings": [
+                        "National Center for Atmospheric Research, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Center for Atmospheric Research, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I107766831"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079166445",
+                        "display_name": "Raghu Raj Prasanna Kumar",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107766831",
+                            "display_name": "NSF National Center for Atmospheric Research",
+                            "ror": "https://ror.org/05cvfcr44",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I107766831",
+                                "https://openalex.org/I2799356940"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raghu Raj Prasanna Kumar",
+                    "raw_affiliation_strings": [
+                        "National Center for Atmospheric Research, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Center for Atmospheric Research, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I107766831"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5072357274",
+                        "display_name": "Amogh Simha",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I188538660",
+                            "display_name": "University of Colorado Boulder",
+                            "ror": "https://ror.org/02ttsq026",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Amogh Simha",
+                    "raw_affiliation_strings": [
+                        "University of Colorado, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Colorado, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I188538660"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5067337048",
+                        "display_name": "Allison H. Baker",
+                        "orcid": "https://orcid.org/0000-0003-2436-7838"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107766831",
+                            "display_name": "NSF National Center for Atmospheric Research",
+                            "ror": "https://ror.org/05cvfcr44",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I107766831",
+                                "https://openalex.org/I2799356940"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Allison Baker",
+                    "raw_affiliation_strings": [
+                        "National Center for Atmospheric Research, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Center for Atmospheric Research, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I107766831"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5048152909",
+                        "display_name": "Sheri Mickelson",
+                        "orcid": "https://orcid.org/0000-0001-6101-1975"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107766831",
+                            "display_name": "NSF National Center for Atmospheric Research",
+                            "ror": "https://ror.org/05cvfcr44",
+                            "country_code": "US",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I107766831",
+                                "https://openalex.org/I2799356940"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sheri Mickelson",
+                    "raw_affiliation_strings": [
+                        "National Center for Atmospheric Research, Boulder, Colorado, U.S.A."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "National Center for Atmospheric Research, Boulder, Colorado, U.S.A.",
+                            "institution_ids": [
+                                "https://openalex.org/I107766831"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5054217176"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I107766831"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 3.203,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 18,
+            "citation_normalized_percentile": {
+                "value": 0.83497,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 90,
+                "max": 91
+            },
+            "biblio": {
+                "volume": "80",
+                "issue": null,
+                "first_page": "1450",
+                "last_page": "1460"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T13650",
+                "display_name": "Scientific Computing and Data Analysis with Python",
+                "score": 0.9947,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T13650",
+                    "display_name": "Scientific Computing and Data Analysis with Python",
+                    "score": 0.9947,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9934,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10466",
+                    "display_name": "Numerical Weather Prediction Models",
+                    "score": 0.9924,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/fortran",
+                    "display_name": "Fortran",
+                    "score": 0.6145309
+                },
+                {
+                    "id": "https://openalex.org/keywords/executable",
+                    "display_name": "Executable",
+                    "score": 0.5851766
+                },
+                {
+                    "id": "https://openalex.org/keywords/python",
+                    "display_name": "Python",
+                    "score": 0.538024
+                },
+                {
+                    "id": "https://openalex.org/keywords/scientific-computing",
+                    "display_name": "Scientific Computing",
+                    "score": 0.521504
+                },
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.5049427
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.9117249
+                },
+                {
+                    "id": "https://openalex.org/C519991488",
+                    "wikidata": "https://www.wikidata.org/wiki/Q28865",
+                    "display_name": "Python (programming language)",
+                    "level": 2,
+                    "score": 0.7294669
+                },
+                {
+                    "id": "https://openalex.org/C169590947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47506",
+                    "display_name": "Compiler",
+                    "level": 2,
+                    "score": 0.72429436
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.62871444
+                },
+                {
+                    "id": "https://openalex.org/C2778241615",
+                    "wikidata": "https://www.wikidata.org/wiki/Q83303",
+                    "display_name": "Fortran",
+                    "level": 2,
+                    "score": 0.6145309
+                },
+                {
+                    "id": "https://openalex.org/C160145156",
+                    "wikidata": "https://www.wikidata.org/wiki/Q778586",
+                    "display_name": "Executable",
+                    "level": 2,
+                    "score": 0.5851766
+                },
+                {
+                    "id": "https://openalex.org/C168065819",
+                    "wikidata": "https://www.wikidata.org/wiki/Q845566",
+                    "display_name": "Debugging",
+                    "level": 2,
+                    "score": 0.5722562
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.5049427
+                },
+                {
+                    "id": "https://openalex.org/C43126263",
+                    "wikidata": "https://www.wikidata.org/wiki/Q128751",
+                    "display_name": "Source code",
+                    "level": 2,
+                    "score": 0.4573296
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.45408773
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.466",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2016.05.466",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/13",
+                    "display_name": "Climate action",
+                    "score": 0.83
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 13,
+            "referenced_works": [
+                "https://openalex.org/W1525215176",
+                "https://openalex.org/W1881686332",
+                "https://openalex.org/W1973607394",
+                "https://openalex.org/W1987822482",
+                "https://openalex.org/W2010341850",
+                "https://openalex.org/W2030785523",
+                "https://openalex.org/W2043337814",
+                "https://openalex.org/W2102604868",
+                "https://openalex.org/W2114669797",
+                "https://openalex.org/W2115247641",
+                "https://openalex.org/W2153226382",
+                "https://openalex.org/W2345095037",
+                "https://openalex.org/W2981485674"
+            ],
+            "related_works": [
+                "https://openalex.org/W4321442002",
+                "https://openalex.org/W3120610872",
+                "https://openalex.org/W3030873103",
+                "https://openalex.org/W2598672065",
+                "https://openalex.org/W2523911541",
+                "https://openalex.org/W2357088637",
+                "https://openalex.org/W2015265939",
+                "https://openalex.org/W1993817217",
+                "https://openalex.org/W1638297612",
+                "https://openalex.org/W1515628377"
+            ],
+            "abstract_inverted_index": {
+                "Computational": [
+                    0
+                ],
+                "kernels,": [
+                    1
+                ],
+                "which": [
+                    2
+                ],
+                "are": [
+                    3
+                ],
+                "small": [
+                    4
+                ],
+                "pieces": [
+                    5
+                ],
+                "of": [
+                    6,
+                    13,
+                    27,
+                    35,
+                    60,
+                    87,
+                    101,
+                    124,
+                    155,
+                    161
+                ],
+                "software": [
+                    7
+                ],
+                "that": [
+                    8,
+                    82
+                ],
+                "selectively": [
+                    9
+                ],
+                "capture": [
+                    10
+                ],
+                "the": [
+                    11,
+                    25,
+                    57,
+                    85,
+                    125
+                ],
+                "characteristics": [
+                    12
+                ],
+                "larger": [
+                    14,
+                    103
+                ],
+                "applications,": [
+                    15
+                ],
+                "have": [
+                    16,
+                    129,
+                    149
+                ],
+                "been": [
+                    17,
+                    150
+                ],
+                "used": [
+                    18,
+                    151
+                ],
+                "successfully": [
+                    19
+                ],
+                "for": [
+                    20,
+                    24,
+                    119,
+                    152,
+                    173
+                ],
+                "decades.": [
+                    21
+                ],
+                "Kernels": [
+                    22
+                ],
+                "allow": [
+                    23
+                ],
+                "testing": [
+                    26
+                ],
+                "a": [
+                    28,
+                    79,
+                    102,
+                    107,
+                    141,
+                    153
+                ],
+                "compiler's": [
+                    29
+                ],
+                "ability": [
+                    30
+                ],
+                "to": [
+                    31,
+                    49,
+                    70,
+                    133
+                ],
+                "optimize": [
+                    32
+                ],
+                "code,": [
+                    33
+                ],
+                "performance": [
+                    34
+                ],
+                "future": [
+                    36
+                ],
+                "hardware": [
+                    37
+                ],
+                "and": [
+                    38,
+                    51,
+                    122,
+                    172
+                ],
+                "reproducing": [
+                    39
+                ],
+                "compiler": [
+                    40,
+                    164,
+                    169
+                ],
+                "bugs.": [
+                    41
+                ],
+                "Unfortunately": [
+                    42
+                ],
+                "they": [
+                    43
+                ],
+                "can": [
+                    44
+                ],
+                "be": [
+                    45
+                ],
+                "rather": [
+                    46
+                ],
+                "time": [
+                    47
+                ],
+                "consuming": [
+                    48
+                ],
+                "create": [
+                    50,
+                    71
+                ],
+                "do": [
+                    52
+                ],
+                "not": [
+                    53
+                ],
+                "always": [
+                    54
+                ],
+                "accurately": [
+                    55
+                ],
+                "represent": [
+                    56
+                ],
+                "full": [
+                    58
+                ],
+                "complexity": [
+                    59
+                ],
+                "large": [
+                    61
+                ],
+                "scientific": [
+                    62
+                ],
+                "applications.": [
+                    63,
+                    93
+                ],
+                "Furthermore,": [
+                    64
+                ],
+                "expert": [
+                    65
+                ],
+                "knowledge": [
+                    66
+                ],
+                "is": [
+                    67
+                ],
+                "often": [
+                    68
+                ],
+                "required": [
+                    69
+                ],
+                "such": [
+                    72
+                ],
+                "kernels.": [
+                    73
+                ],
+                "In": [
+                    74
+                ],
+                "this": [
+                    75
+                ],
+                "paper,": [
+                    76
+                ],
+                "we": [
+                    77
+                ],
+                "present": [
+                    78
+                ],
+                "Python-based": [
+                    80
+                ],
+                "tool": [
+                    81,
+                    95,
+                    113,
+                    132
+                ],
+                "greatly": [
+                    83
+                ],
+                "simplifies": [
+                    84
+                ],
+                "generation": [
+                    86
+                ],
+                "computational": [
+                    88,
+                    138
+                ],
+                "kernels": [
+                    89,
+                    139,
+                    148
+                ],
+                "from": [
+                    90,
+                    140
+                ],
+                "Fortran": [
+                    91,
+                    104
+                ],
+                "based": [
+                    92
+                ],
+                "Our": [
+                    94,
+                    146
+                ],
+                "automatically": [
+                    96
+                ],
+                "extracts": [
+                    97
+                ],
+                "partial": [
+                    98
+                ],
+                "source": [
+                    99
+                ],
+                "code": [
+                    100,
+                    158
+                ],
+                "application": [
+                    105
+                ],
+                "into": [
+                    106
+                ],
+                "stand-alone": [
+                    108
+                ],
+                "executable": [
+                    109
+                ],
+                "kernel.": [
+                    110,
+                    127
+                ],
+                "Additionally,": [
+                    111
+                ],
+                "our": [
+                    112,
+                    131
+                ],
+                "also": [
+                    114
+                ],
+                "generates": [
+                    115
+                ],
+                "state": [
+                    116
+                ],
+                "data": [
+                    117
+                ],
+                "necessary": [
+                    118
+                ],
+                "proper": [
+                    120
+                ],
+                "execution": [
+                    121
+                ],
+                "verification": [
+                    123
+                ],
+                "extracted": [
+                    126,
+                    147
+                ],
+                "We": [
+                    128
+                ],
+                "utilized": [
+                    130
+                ],
+                "extract": [
+                    134
+                ],
+                "more": [
+                    135
+                ],
+                "than": [
+                    136
+                ],
+                "thirty": [
+                    137
+                ],
+                "million-line": [
+                    142
+                ],
+                "climate": [
+                    143
+                ],
+                "simulation": [
+                    144
+                ],
+                "model.": [
+                    145
+                ],
+                "variety": [
+                    154
+                ],
+                "purposes": [
+                    156
+                ],
+                "including:": [
+                    157
+                ],
+                "modernization,": [
+                    159
+                ],
+                "identification": [
+                    160
+                ],
+                "limitations": [
+                    162
+                ],
+                "in": [
+                    163
+                ],
+                "optimizations,": [
+                    165
+                ],
+                "numerical": [
+                    166
+                ],
+                "algorithm": [
+                    167
+                ],
+                "debugging,": [
+                    168
+                ],
+                "bug": [
+                    170
+                ],
+                "reporting,": [
+                    171
+                ],
+                "procurement": [
+                    174
+                ],
+                "benchmarking.": [
+                    175
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2480798680",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 6
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-26T07:27:11.654370",
+            "created_date": "2016-08-23"
+        },
+        {
+            "id": "https://openalex.org/W2489966875",
+            "doi": null,
+            "title": "Many-core optimization of the Community Earth System Model [presentation]",
+            "display_name": "Many-core optimization of the Community Earth System Model [presentation]",
+            "publication_year": 2015,
+            "publication_date": "2015-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2489966875",
+                "mag": "2489966875"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://opensky.ucar.edu/islandora/object/conference%3A2973/",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5040029156",
+                        "display_name": "M. Dennis",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Dennis",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5065041599",
+                        "display_name": "L. Kerr",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "L. Kerr",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101544186",
+                        "display_name": "Youngsung Kim",
+                        "orcid": "https://orcid.org/0009-0001-7420-129X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Youngsung Kim",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079166445",
+                        "display_name": "Raghu Raj Prasanna Kumar",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raghu Raj Prasanna Kumar",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5032035452",
+                        "display_name": "Rashmi Oak",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Rashmi Oak",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5072357274",
+                        "display_name": "Amogh Simha",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Amogh Simha",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 66
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11195",
+                "display_name": "Optimization Techniques in Simulation Modeling",
+                "score": 0.6477,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1803",
+                    "display_name": "Management Science and Operations Research"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/18",
+                    "display_name": "Decision Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/2",
+                    "display_name": "Social Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11195",
+                    "display_name": "Optimization Techniques in Simulation Modeling",
+                    "score": 0.6477,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T14509",
+                    "display_name": "Spatial Microsimulation Models for Policy Analysis",
+                    "score": 0.6372,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1803",
+                        "display_name": "Management Science and Operations Research"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/simulation-optimization",
+                    "display_name": "Simulation Optimization",
+                    "score": 0.553597
+                },
+                {
+                    "id": "https://openalex.org/keywords/metamodeling",
+                    "display_name": "Metamodeling",
+                    "score": 0.529598
+                },
+                {
+                    "id": "https://openalex.org/keywords/dynamic-microsimulation",
+                    "display_name": "Dynamic Microsimulation",
+                    "score": 0.520739
+                },
+                {
+                    "id": "https://openalex.org/keywords/complex-adaptive-systems",
+                    "display_name": "Complex Adaptive Systems",
+                    "score": 0.51704
+                },
+                {
+                    "id": "https://openalex.org/keywords/spatial-microsimulation",
+                    "display_name": "Spatial Microsimulation",
+                    "score": 0.514981
+                },
+                {
+                    "id": "https://openalex.org/keywords/presentation",
+                    "display_name": "Presentation (obstetrics)",
+                    "score": 0.5130919
+                },
+                {
+                    "id": "https://openalex.org/keywords/earth-system-science",
+                    "display_name": "Earth system science",
+                    "score": 0.41277194
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2777601897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3409113",
+                    "display_name": "Presentation (obstetrics)",
+                    "level": 2,
+                    "score": 0.5130919
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.4915615
+                },
+                {
+                    "id": "https://openalex.org/C2164484",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+                    "display_name": "Core (optical fiber)",
+                    "level": 2,
+                    "score": 0.482993
+                },
+                {
+                    "id": "https://openalex.org/C26148502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2488752",
+                    "display_name": "Earth (classical element)",
+                    "level": 2,
+                    "score": 0.4406773
+                },
+                {
+                    "id": "https://openalex.org/C80368990",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3046459",
+                    "display_name": "Earth system science",
+                    "level": 2,
+                    "score": 0.41277194
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.3531081
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.13052574
+                },
+                {
+                    "id": "https://openalex.org/C111368507",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43518",
+                    "display_name": "Oceanography",
+                    "level": 1,
+                    "score": 0.10385138
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C37914503",
+                    "wikidata": "https://www.wikidata.org/wiki/Q156495",
+                    "display_name": "Mathematical physics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C126838900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q77604",
+                    "display_name": "Radiology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://opensky.ucar.edu/islandora/object/conference%3A2973/",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/13",
+                    "display_name": "Climate action",
+                    "score": 0.66
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W3009428510",
+                "https://openalex.org/W2389083704"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2489966875",
+            "counts_by_year": [],
+            "updated_date": "2024-09-01T10:46:34.319884",
+            "created_date": "2016-08-23"
+        },
+        {
+            "id": "https://openalex.org/W2885635422",
+            "doi": null,
+            "title": "Optimizing CESM for many-core [presentation]",
+            "display_name": "Optimizing CESM for many-core [presentation]",
+            "publication_year": 2015,
+            "publication_date": "2015-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2885635422",
+                "mag": "2885635422"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://opensky.ucar.edu/islandora/object/conference%3A2972",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5040029156",
+                        "display_name": "M. Dennis",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Dennis",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5065041599",
+                        "display_name": "L. Kerr",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "L. Kerr",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101544186",
+                        "display_name": "Youngsung Kim",
+                        "orcid": "https://orcid.org/0009-0001-7420-129X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Youngsung Kim",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079166445",
+                        "display_name": "Raghu Raj Prasanna Kumar",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raghu Raj Prasanna Kumar",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5072357274",
+                        "display_name": "Amogh Simha",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Amogh Simha",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 66
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.1977,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.1977,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/task-scheduling",
+                    "display_name": "Task Scheduling",
+                    "score": 0.585007
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.584198
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-grids",
+                    "display_name": "Computational Grids",
+                    "score": 0.565494
+                },
+                {
+                    "id": "https://openalex.org/keywords/grid-computing",
+                    "display_name": "Grid Computing",
+                    "score": 0.550237
+                },
+                {
+                    "id": "https://openalex.org/keywords/presentation",
+                    "display_name": "Presentation (obstetrics)",
+                    "score": 0.4933652
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2777601897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3409113",
+                    "display_name": "Presentation (obstetrics)",
+                    "level": 2,
+                    "score": 0.4933652
+                },
+                {
+                    "id": "https://openalex.org/C2164484",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+                    "display_name": "Core (optical fiber)",
+                    "level": 2,
+                    "score": 0.48466542
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.45746782
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.114985585
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.09078267
+                },
+                {
+                    "id": "https://openalex.org/C126838900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q77604",
+                    "display_name": "Radiology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://opensky.ucar.edu/islandora/object/conference%3A2972",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2885635422",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T23:55:07.022011",
+            "created_date": "2018-08-22"
+        },
+        {
+            "id": "https://openalex.org/W3019084546",
+            "doi": null,
+            "title": "KGEN: Fortran Kernel Generator [presentation]",
+            "display_name": "KGEN: Fortran Kernel Generator [presentation]",
+            "publication_year": 2015,
+            "publication_date": "2015-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3019084546",
+                "mag": "3019084546"
+            },
+            "language": "it",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://opensky.ucar.edu/islandora/object/conference%3A2955",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5101544185",
+                        "display_name": "Young-Sung Kim",
+                        "orcid": "https://orcid.org/0000-0002-2866-2669"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Youngsung Kim",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5040029156",
+                        "display_name": "M. Dennis",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Dennis",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079166445",
+                        "display_name": "Raghu Raj Prasanna Kumar",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Raghu Raj Prasanna Kumar",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5072357274",
+                        "display_name": "Amogh Simha",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Amogh Simha",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 66
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10522",
+                "display_name": "Positron Emission Tomography Imaging in Oncology",
+                "score": 0.1947,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2741",
+                    "display_name": "Radiology, Nuclear Medicine and Imaging"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/27",
+                    "display_name": "Medicine"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/4",
+                    "display_name": "Health Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10522",
+                    "display_name": "Positron Emission Tomography Imaging in Oncology",
+                    "score": 0.1947,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2741",
+                        "display_name": "Radiology, Nuclear Medicine and Imaging"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/fortran",
+                    "display_name": "Fortran",
+                    "score": 0.70736563
+                },
+                {
+                    "id": "https://openalex.org/keywords/presentation",
+                    "display_name": "Presentation (obstetrics)",
+                    "score": 0.56919307
+                },
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.47023648
+                },
+                {
+                    "id": "https://openalex.org/keywords/imaging",
+                    "display_name": "Imaging",
+                    "score": 0.454045
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778241615",
+                    "wikidata": "https://www.wikidata.org/wiki/Q83303",
+                    "display_name": "Fortran",
+                    "level": 2,
+                    "score": 0.70736563
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.64241076
+                },
+                {
+                    "id": "https://openalex.org/C2780992000",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17016113",
+                    "display_name": "Generator (circuit theory)",
+                    "level": 3,
+                    "score": 0.58918023
+                },
+                {
+                    "id": "https://openalex.org/C2777601897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3409113",
+                    "display_name": "Presentation (obstetrics)",
+                    "level": 2,
+                    "score": 0.56919307
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.5060217
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.47023648
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.20148835
+                },
+                {
+                    "id": "https://openalex.org/C118615104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121416",
+                    "display_name": "Discrete mathematics",
+                    "level": 1,
+                    "score": 0.12526366
+                },
+                {
+                    "id": "https://openalex.org/C163258240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q25342",
+                    "display_name": "Power (physics)",
+                    "level": 2,
+                    "score": 0.09975386
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.08404228
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.08390316
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C126838900",
+                    "wikidata": "https://www.wikidata.org/wiki/Q77604",
+                    "display_name": "Radiology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://opensky.ucar.edu/islandora/object/conference%3A2955",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W642332269",
+                "https://openalex.org/W61323828",
+                "https://openalex.org/W602453385",
+                "https://openalex.org/W58451679",
+                "https://openalex.org/W46974709",
+                "https://openalex.org/W3199862928",
+                "https://openalex.org/W2796181786",
+                "https://openalex.org/W2753625102",
+                "https://openalex.org/W2592708234",
+                "https://openalex.org/W2488876804",
+                "https://openalex.org/W2484820599",
+                "https://openalex.org/W2402985162",
+                "https://openalex.org/W2349302855",
+                "https://openalex.org/W2134067201",
+                "https://openalex.org/W213367668",
+                "https://openalex.org/W2081685310",
+                "https://openalex.org/W1998290128",
+                "https://openalex.org/W1984521165",
+                "https://openalex.org/W1955369750",
+                "https://openalex.org/W148485663"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3019084546",
+            "counts_by_year": [],
+            "updated_date": "2024-09-13T20:42:24.425438",
+            "created_date": "2020-05-01"
+        }
+    ],
+    "group_by": []
+}

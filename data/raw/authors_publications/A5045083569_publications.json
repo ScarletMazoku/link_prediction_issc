@@ -1,0 +1,3674 @@
+{
+    "meta": {
+        "count": 4,
+        "db_response_time_ms": 173,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W3176606069",
+            "doi": "https://doi.org/10.1609/icaps.v31i1.15991",
+            "title": "In-Station Train Dispatching: A PDDL+ Planning Approach",
+            "display_name": "In-Station Train Dispatching: A PDDL+ Planning Approach",
+            "publication_year": 2021,
+            "publication_date": "2021-05-17",
+            "ids": {
+                "openalex": "https://openalex.org/W3176606069",
+                "doi": "https://doi.org/10.1609/icaps.v31i1.15991",
+                "mag": "3176606069"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1609/icaps.v31i1.15991",
+                "pdf_url": "https://ojs.aaai.org/index.php/ICAPS/article/download/15991/15802",
+                "source": {
+                    "id": "https://openalex.org/S4387283601",
+                    "display_name": "Proceedings of the International Conference on Automated Planning and Scheduling",
+                    "issn_l": "2334-0835",
+                    "issn": [
+                        "2334-0835",
+                        "2334-0843"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://ojs.aaai.org/index.php/ICAPS/article/download/15991/15802",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5080659970",
+                        "display_name": "Matteo Cardellini",
+                        "orcid": "https://orcid.org/0000-0003-3788-9475"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matteo Cardellini",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5077756388",
+                        "display_name": "Marco Maratea",
+                        "orcid": "https://orcid.org/0000-0002-9034-2527"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marco Maratea",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086585008",
+                        "display_name": "Mauro Vallati",
+                        "orcid": "https://orcid.org/0000-0002-8429-3570"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I133837150",
+                            "display_name": "University of Huddersfield",
+                            "ror": "https://ror.org/05t1h8f27",
+                            "country_code": "GB",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mauro Vallati",
+                    "raw_affiliation_strings": [
+                        "University of Huddersfield"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Huddersfield",
+                            "institution_ids": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045083569",
+                        "display_name": "Gianluca Boleto",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gianluca Boleto",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5045802198",
+                        "display_name": "Luca Oneto",
+                        "orcid": "https://orcid.org/0000-0002-8445-395X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luca Oneto",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 2.589,
+            "has_fulltext": false,
+            "cited_by_count": 9,
+            "citation_normalized_percentile": {
+                "value": 0.869265,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": "31",
+                "issue": null,
+                "first_page": "450",
+                "last_page": "458"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11450",
+                "display_name": "Model-Driven Engineering in Software Development",
+                "score": 0.9903,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1712",
+                    "display_name": "Software"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11450",
+                    "display_name": "Model-Driven Engineering in Software Development",
+                    "score": 0.9903,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11568",
+                    "display_name": "Optimization of Railway Scheduling and Operations",
+                    "score": 0.99,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2209",
+                        "display_name": "Industrial and Manufacturing Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10698",
+                    "display_name": "Understanding Attitudes Towards Public Transport and Private Car",
+                    "score": 0.987,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3313",
+                        "display_name": "Transportation"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/33",
+                        "display_name": "Social Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/train-scheduling",
+                    "display_name": "Train Scheduling",
+                    "score": 0.618589
+                },
+                {
+                    "id": "https://openalex.org/keywords/transit-network-design",
+                    "display_name": "Transit Network Design",
+                    "score": 0.538121
+                },
+                {
+                    "id": "https://openalex.org/keywords/railway-timetabling",
+                    "display_name": "Railway Timetabling",
+                    "score": 0.536273
+                },
+                {
+                    "id": "https://openalex.org/keywords/operator",
+                    "display_name": "Operator (biology)",
+                    "score": 0.5324482
+                },
+                {
+                    "id": "https://openalex.org/keywords/rescheduling-algorithms",
+                    "display_name": "Rescheduling Algorithms",
+                    "score": 0.51192
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C190839683",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2448197",
+                    "display_name": "Train",
+                    "level": 2,
+                    "score": 0.9222721
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.74950606
+                },
+                {
+                    "id": "https://openalex.org/C2779343474",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+                    "display_name": "Context (archaeology)",
+                    "level": 2,
+                    "score": 0.64931375
+                },
+                {
+                    "id": "https://openalex.org/C36503486",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+                    "display_name": "Domain (mathematical analysis)",
+                    "level": 2,
+                    "score": 0.556695
+                },
+                {
+                    "id": "https://openalex.org/C17020691",
+                    "wikidata": "https://www.wikidata.org/wiki/Q139677",
+                    "display_name": "Operator (biology)",
+                    "level": 5,
+                    "score": 0.5324482
+                },
+                {
+                    "id": "https://openalex.org/C42475967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194292",
+                    "display_name": "Operations research",
+                    "level": 1,
+                    "score": 0.52711564
+                },
+                {
+                    "id": "https://openalex.org/C204323151",
+                    "wikidata": "https://www.wikidata.org/wiki/Q905424",
+                    "display_name": "Range (aeronautics)",
+                    "level": 2,
+                    "score": 0.47116098
+                },
+                {
+                    "id": "https://openalex.org/C79403827",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3988",
+                    "display_name": "Real-time computing",
+                    "level": 1,
+                    "score": 0.37545845
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.13387743
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.0739069
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C55493867",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7094",
+                    "display_name": "Biochemistry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C185592680",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2329",
+                    "display_name": "Chemistry",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C158448853",
+                    "wikidata": "https://www.wikidata.org/wiki/Q425218",
+                    "display_name": "Repressor",
+                    "level": 4,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C104317684",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7187",
+                    "display_name": "Gene",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C146978453",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+                    "display_name": "Aerospace engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86339819",
+                    "wikidata": "https://www.wikidata.org/wiki/Q407384",
+                    "display_name": "Transcription factor",
+                    "level": 3,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1609/icaps.v31i1.15991",
+                    "pdf_url": "https://ojs.aaai.org/index.php/ICAPS/article/download/15991/15802",
+                    "source": {
+                        "id": "https://openalex.org/S4387283601",
+                        "display_name": "Proceedings of the International Conference on Automated Planning and Scheduling",
+                        "issn_l": "2334-0835",
+                        "issn": [
+                            "2334-0835",
+                            "2334-0843"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/11567/1086626",
+                    "pdf_url": "https://iris.unige.it/bitstream/11567/1086626/1/C2.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4377196291",
+                        "display_name": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I83816512",
+                        "host_organization_name": "University of Genoa",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I83816512"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Genoa"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1609/icaps.v31i1.15991",
+                "pdf_url": "https://ojs.aaai.org/index.php/ICAPS/article/download/15991/15802",
+                "source": {
+                    "id": "https://openalex.org/S4387283601",
+                    "display_name": "Proceedings of the International Conference on Automated Planning and Scheduling",
+                    "issn_l": "2334-0835",
+                    "issn": [
+                        "2334-0835",
+                        "2334-0843"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.5,
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 29,
+            "referenced_works": [
+                "https://openalex.org/W1587621605",
+                "https://openalex.org/W1986225115",
+                "https://openalex.org/W1993136048",
+                "https://openalex.org/W2031545009",
+                "https://openalex.org/W2033916191",
+                "https://openalex.org/W2034008299",
+                "https://openalex.org/W2036221507",
+                "https://openalex.org/W2039223626",
+                "https://openalex.org/W2063467791",
+                "https://openalex.org/W2091049420",
+                "https://openalex.org/W2095383966",
+                "https://openalex.org/W2096216827",
+                "https://openalex.org/W2100723464",
+                "https://openalex.org/W2105144073",
+                "https://openalex.org/W2118529358",
+                "https://openalex.org/W2133517325",
+                "https://openalex.org/W2140563961",
+                "https://openalex.org/W2156328255",
+                "https://openalex.org/W2229300754",
+                "https://openalex.org/W2571800388",
+                "https://openalex.org/W2604096579",
+                "https://openalex.org/W2610683335",
+                "https://openalex.org/W2808402329",
+                "https://openalex.org/W2902869630",
+                "https://openalex.org/W2966751547",
+                "https://openalex.org/W3040865615",
+                "https://openalex.org/W3048427244",
+                "https://openalex.org/W3117414135",
+                "https://openalex.org/W567279358"
+            ],
+            "related_works": [
+                "https://openalex.org/W618248309",
+                "https://openalex.org/W4390419160",
+                "https://openalex.org/W4225671779",
+                "https://openalex.org/W2897407000",
+                "https://openalex.org/W2377336366",
+                "https://openalex.org/W2361332776",
+                "https://openalex.org/W2102464536",
+                "https://openalex.org/W2072323338",
+                "https://openalex.org/W1601203902",
+                "https://openalex.org/W1568097102"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0,
+                    53,
+                    100
+                ],
+                "railway": [
+                    1,
+                    70
+                ],
+                "networks,": [
+                    2
+                ],
+                "stations": [
+                    3
+                ],
+                "are": [
+                    4
+                ],
+                "probably": [
+                    5
+                ],
+                "the": [
+                    6,
+                    34,
+                    48,
+                    51,
+                    65,
+                    75,
+                    109,
+                    130,
+                    135,
+                    141,
+                    144,
+                    147,
+                    168,
+                    174
+                ],
+                "most": [
+                    7
+                ],
+                "critical": [
+                    8
+                ],
+                "points": [
+                    9
+                ],
+                "for": [
+                    10,
+                    119,
+                    140
+                ],
+                "interconnecting": [
+                    11
+                ],
+                "trains'": [
+                    12
+                ],
+                "routes:": [
+                    13
+                ],
+                "in": [
+                    14,
+                    63,
+                    73,
+                    93
+                ],
+                "a": [
+                    15,
+                    19,
+                    44,
+                    60,
+                    96,
+                    105,
+                    158,
+                    165
+                ],
+                "restricted": [
+                    16
+                ],
+                "geographical": [
+                    17
+                ],
+                "area,": [
+                    18
+                ],
+                "potentially": [
+                    20
+                ],
+                "large": [
+                    21
+                ],
+                "number": [
+                    22
+                ],
+                "of": [
+                    23,
+                    37,
+                    50,
+                    68,
+                    77,
+                    95,
+                    98,
+                    125,
+                    134,
+                    143,
+                    160,
+                    164,
+                    167,
+                    171,
+                    176
+                ],
+                "trains": [
+                    24
+                ],
+                "have": [
+                    25,
+                    43
+                ],
+                "to": [
+                    26,
+                    29
+                ],
+                "stop": [
+                    27
+                ],
+                "according": [
+                    28
+                ],
+                "an": [
+                    30,
+                    117
+                ],
+                "official": [
+                    31
+                ],
+                "timetable,": [
+                    32
+                ],
+                "with": [
+                    33,
+                    111
+                ],
+                "concrete": [
+                    35
+                ],
+                "risk": [
+                    36
+                ],
+                "accumulating": [
+                    38
+                ],
+                "delays": [
+                    39
+                ],
+                "that": [
+                    40
+                ],
+                "can": [
+                    41
+                ],
+                "then": [
+                    42
+                ],
+                "knockout": [
+                    45
+                ],
+                "effect": [
+                    46
+                ],
+                "on": [
+                    47,
+                    157
+                ],
+                "rest": [
+                    49
+                ],
+                "network.": [
+                    52
+                ],
+                "this": [
+                    54,
+                    101
+                ],
+                "context,": [
+                    55
+                ],
+                "in-station": [
+                    56,
+                    82,
+                    121
+                ],
+                "train": [
+                    57,
+                    83
+                ],
+                "dispatching": [
+                    58,
+                    84,
+                    122
+                ],
+                "plays": [
+                    59
+                ],
+                "central": [
+                    61
+                ],
+                "role": [
+                    62
+                ],
+                "maximising": [
+                    64
+                ],
+                "effective": [
+                    66
+                ],
+                "utilisation": [
+                    67
+                ],
+                "available": [
+                    69
+                ],
+                "infrastructures": [
+                    71
+                ],
+                "and": [
+                    72,
+                    79,
+                    146
+                ],
+                "mitigating": [
+                    74
+                ],
+                "impact": [
+                    76
+                ],
+                "incidents": [
+                    78
+                ],
+                "delays.": [
+                    80
+                ],
+                "Unfortunately,": [
+                    81
+                ],
+                "is": [
+                    85
+                ],
+                "still": [
+                    86
+                ],
+                "largely": [
+                    87
+                ],
+                "handled": [
+                    88
+                ],
+                "manually": [
+                    89
+                ],
+                "by": [
+                    90,
+                    115,
+                    123,
+                    152
+                ],
+                "human": [
+                    91
+                ],
+                "operators": [
+                    92
+                ],
+                "charge": [
+                    94
+                ],
+                "group": [
+                    97
+                ],
+                "stations.": [
+                    99
+                ],
+                "paper": [
+                    102
+                ],
+                "we": [
+                    103,
+                    137
+                ],
+                "make": [
+                    104
+                ],
+                "step": [
+                    106
+                ],
+                "towards": [
+                    107
+                ],
+                "supporting": [
+                    108
+                ],
+                "operator": [
+                    110
+                ],
+                "some": [
+                    112
+                ],
+                "automatic": [
+                    113
+                ],
+                "tool,": [
+                    114
+                ],
+                "describing": [
+                    116
+                ],
+                "approach": [
+                    118
+                ],
+                "performing": [
+                    120
+                ],
+                "means": [
+                    124
+                ],
+                "automated": [
+                    126
+                ],
+                "planning": [
+                    127,
+                    149
+                ],
+                "techniques.": [
+                    128,
+                    155
+                ],
+                "Given": [
+                    129
+                ],
+                "mixed": [
+                    131
+                ],
+                "discrete-continuous": [
+                    132
+                ],
+                "nature": [
+                    133
+                ],
+                "problem,": [
+                    136,
+                    145
+                ],
+                "employ": [
+                    138
+                ],
+                "PDDL+": [
+                    139
+                ],
+                "specification": [
+                    142
+                ],
+                "ENHSP": [
+                    148
+                ],
+                "engine": [
+                    150
+                ],
+                "enhanced": [
+                    151
+                ],
+                "domain-specific": [
+                    153
+                ],
+                "solving": [
+                    154
+                ],
+                "Results": [
+                    156
+                ],
+                "range": [
+                    159
+                ],
+                "scenarios,": [
+                    161
+                ],
+                "using": [
+                    162
+                ],
+                "real-data": [
+                    163
+                ],
+                "station": [
+                    166
+                ],
+                "North": [
+                    169
+                ],
+                "West": [
+                    170
+                ],
+                "Italy,": [
+                    172
+                ],
+                "show": [
+                    173
+                ],
+                "potential": [
+                    175
+                ],
+                "our": [
+                    177
+                ],
+                "approach.": [
+                    178
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3176606069",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 3
+                }
+            ],
+            "updated_date": "2024-09-19T01:19:57.394139",
+            "created_date": "2021-07-05"
+        },
+        {
+            "id": "https://openalex.org/W3207147199",
+            "doi": "https://doi.org/10.14428/esann/2021.es2021-29",
+            "title": "In-Station Train Movements Prediction: from Shallow to Deep Multi Scale Models",
+            "display_name": "In-Station Train Movements Prediction: from Shallow to Deep Multi Scale Models",
+            "publication_year": 2021,
+            "publication_date": "2021-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3207147199",
+                "doi": "https://doi.org/10.14428/esann/2021.es2021-29",
+                "mag": "3207147199"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.14428/esann/2021.es2021-29",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306509709",
+                    "display_name": "ESANN 2021 proceedings",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://doi.org/10.14428/esann/2021.es2021-29",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5045083569",
+                        "display_name": "Gianluca Boleto",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gianluca Boleto",
+                    "raw_affiliation_strings": [
+                        "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045802198",
+                        "display_name": "Luca Oneto",
+                        "orcid": "https://orcid.org/0000-0002-8445-395X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luca Oneto",
+                    "raw_affiliation_strings": [
+                        "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5080659970",
+                        "display_name": "Matteo Cardellini",
+                        "orcid": "https://orcid.org/0000-0003-3788-9475"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matteo Cardellini",
+                    "raw_affiliation_strings": [
+                        "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5077756388",
+                        "display_name": "Marco Maratea",
+                        "orcid": "https://orcid.org/0000-0002-9034-2527"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marco Maratea",
+                    "raw_affiliation_strings": [
+                        "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086585008",
+                        "display_name": "Mauro Vallati",
+                        "orcid": "https://orcid.org/0000-0002-8429-3570"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I133837150",
+                            "display_name": "University of Huddersfield",
+                            "ror": "https://ror.org/05t1h8f27",
+                            "country_code": "GB",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mauro Vallati",
+                    "raw_affiliation_strings": [
+                        "University of Huddersfield -Huddersfield, West Yorkshire, HD1 3DH, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Huddersfield -Huddersfield, West Yorkshire, HD1 3DH, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5087959776",
+                        "display_name": "Renzo Canepa",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210117345",
+                            "display_name": "Trenitalia (Italy)",
+                            "ror": "https://ror.org/02c4sht73",
+                            "country_code": "IT",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I4210117345"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Renzo Canepa",
+                    "raw_affiliation_strings": [
+                        "Rete Ferroviaria Italiana -Via Don Vincenzo Minetti 6/5, 16126, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rete Ferroviaria Italiana -Via Don Vincenzo Minetti 6/5, 16126, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I4210117345"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5036611143",
+                        "display_name": "Davide Anguita",
+                        "orcid": "https://orcid.org/0000-0001-7523-5291"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Davide Anguita",
+                    "raw_affiliation_strings": [
+                        "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa -Via Opera Pia 11a, 16145, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 59
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11344",
+                "display_name": "Traffic Flow Prediction and Forecasting",
+                "score": 0.996,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2215",
+                    "display_name": "Building and Construction"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11344",
+                    "display_name": "Traffic Flow Prediction and Forecasting",
+                    "score": 0.996,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2215",
+                        "display_name": "Building and Construction"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11568",
+                    "display_name": "Optimization of Railway Scheduling and Operations",
+                    "score": 0.9888,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2209",
+                        "display_name": "Industrial and Manufacturing Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10842",
+                    "display_name": "Dynamics of Railway Track and Vehicles",
+                    "score": 0.9798,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2210",
+                        "display_name": "Mechanical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/train-scheduling",
+                    "display_name": "Train Scheduling",
+                    "score": 0.608526
+                },
+                {
+                    "id": "https://openalex.org/keywords/deep-learning",
+                    "display_name": "Deep Learning",
+                    "score": 0.560794
+                },
+                {
+                    "id": "https://openalex.org/keywords/vibration-prediction",
+                    "display_name": "Vibration Prediction",
+                    "score": 0.556356
+                },
+                {
+                    "id": "https://openalex.org/keywords/short-term-forecasting",
+                    "display_name": "Short-Term Forecasting",
+                    "score": 0.556146
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-speed-trains",
+                    "display_name": "High-Speed Trains",
+                    "score": 0.548295
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778755073",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+                    "display_name": "Scale (ratio)",
+                    "level": 2,
+                    "score": 0.62649155
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.59530324
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": 0.11252606
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": 0.081359
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.14428/esann/2021.es2021-29",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306509709",
+                        "display_name": "ESANN 2021 proceedings",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://www.esann.org/proceedings/2021",
+                    "pdf_url": "https://www.esann.org/sites/default/files/proceedings/2021/ES2021-4.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402508",
+                        "display_name": "Huddersfield Research Portal (University of Huddersfield)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I133837150",
+                        "host_organization_name": "University of Huddersfield",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I133837150"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Huddersfield"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "mit",
+                    "license_id": "https://openalex.org/licenses/mit",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/11567/1086511",
+                    "pdf_url": "https://iris.unige.it/bitstream/11567/1086511/1/C096.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4377196291",
+                        "display_name": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I83816512",
+                        "host_organization_name": "University of Genoa",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I83816512"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Genoa"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.14428/esann/2021.es2021-29",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306509709",
+                    "display_name": "ESANN 2021 proceedings",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.47,
+                    "display_name": "Climate action",
+                    "id": "https://metadata.un.org/sdg/13"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W2097998348",
+                "https://openalex.org/W2165250079",
+                "https://openalex.org/W2792764867",
+                "https://openalex.org/W2887126012",
+                "https://openalex.org/W2909238763",
+                "https://openalex.org/W2911964244",
+                "https://openalex.org/W2919115771",
+                "https://openalex.org/W2963015369",
+                "https://openalex.org/W2963840672",
+                "https://openalex.org/W2964054038",
+                "https://openalex.org/W2969003068",
+                "https://openalex.org/W2998993395",
+                "https://openalex.org/W3012364298",
+                "https://openalex.org/W3176606069",
+                "https://openalex.org/W607505555"
+            ],
+            "related_works": [
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2530322880",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2130043461",
+                "https://openalex.org/W1596801655"
+            ],
+            "abstract_inverted_index": {
+                "Public": [
+                    0
+                ],
+                "railway": [
+                    1,
+                    78,
+                    167
+                ],
+                "transport": [
+                    2,
+                    16
+                ],
+                "systems": [
+                    3
+                ],
+                "play": [
+                    4
+                ],
+                "a": [
+                    5,
+                    19,
+                    22,
+                    77,
+                    140
+                ],
+                "crucial": [
+                    6,
+                    52
+                ],
+                "role": [
+                    7
+                ],
+                "in": [
+                    8,
+                    76,
+                    83,
+                    98,
+                    103
+                ],
+                "servicing": [
+                    9
+                ],
+                "the": [
+                    10,
+                    15,
+                    44,
+                    72,
+                    84,
+                    87,
+                    95,
+                    101,
+                    118,
+                    132,
+                    150,
+                    154,
+                    157,
+                    165
+                ],
+                "global": [
+                    11
+                ],
+                "society": [
+                    12
+                ],
+                "and": [
+                    13,
+                    41,
+                    106,
+                    152
+                ],
+                "are": [
+                    14,
+                    71
+                ],
+                "backbone": [
+                    17
+                ],
+                "of": [
+                    18,
+                    46,
+                    86,
+                    89,
+                    117,
+                    156
+                ],
+                "sustainable": [
+                    20
+                ],
+                "economy.While": [
+                    21
+                ],
+                "significant": [
+                    23
+                ],
+                "effort": [
+                    24
+                ],
+                "has": [
+                    25,
+                    63
+                ],
+                "been": [
+                    26,
+                    64
+                ],
+                "devoted": [
+                    27
+                ],
+                "to": [
+                    28,
+                    33,
+                    53,
+                    130,
+                    147
+                ],
+                "predict": [
+                    29
+                ],
+                "inter-station": [
+                    30
+                ],
+                "trains": [
+                    31,
+                    90
+                ],
+                "movements": [
+                    32,
+                    91
+                ],
+                "support": [
+                    34,
+                    170
+                ],
+                "stakeholders": [
+                    35
+                ],
+                "(i.e.,": [
+                    36,
+                    57
+                ],
+                "infrastructure": [
+                    37
+                ],
+                "managers,": [
+                    38
+                ],
+                "train": [
+                    39,
+                    55
+                ],
+                "operators,": [
+                    40
+                ],
+                "travellers)": [
+                    42
+                ],
+                "decisions,": [
+                    43
+                ],
+                "problem": [
+                    45
+                ],
+                "predicting": [
+                    47
+                ],
+                "instation": [
+                    48
+                ],
+                "movements,": [
+                    49
+                ],
+                "while": [
+                    50
+                ],
+                "being": [
+                    51
+                ],
+                "improve": [
+                    54,
+                    131,
+                    153
+                ],
+                "dispatching": [
+                    56,
+                    96
+                ],
+                "empowering": [
+                    58
+                ],
+                "human": [
+                    59
+                ],
+                "or": [
+                    60
+                ],
+                "automatic": [
+                    61
+                ],
+                "dispatchers),": [
+                    62
+                ],
+                "far": [
+                    65
+                ],
+                "more": [
+                    66
+                ],
+                "less": [
+                    67
+                ],
+                "investigated.In": [
+                    68
+                ],
+                "fact,": [
+                    69
+                ],
+                "stations": [
+                    70
+                ],
+                "most": [
+                    73
+                ],
+                "critical": [
+                    74
+                ],
+                "points": [
+                    75
+                ],
+                "network:": [
+                    79
+                ],
+                "even": [
+                    80
+                ],
+                "small": [
+                    81
+                ],
+                "improvements": [
+                    82
+                ],
+                "estimation": [
+                    85
+                ],
+                "duration": [
+                    88
+                ],
+                "can": [
+                    92
+                ],
+                "remarkably": [
+                    93
+                ],
+                "enhance": [
+                    94
+                ],
+                "efficiency": [
+                    97
+                ],
+                "coping": [
+                    99
+                ],
+                "with": [
+                    100,
+                    107,
+                    126
+                ],
+                "increase": [
+                    102
+                ],
+                "capacity": [
+                    104
+                ],
+                "demand": [
+                    105
+                ],
+                "delays.In": [
+                    108
+                ],
+                "this": [
+                    109
+                ],
+                "work": [
+                    110
+                ],
+                "we": [
+                    111,
+                    136
+                ],
+                "will": [
+                    112,
+                    137,
+                    169
+                ],
+                "first": [
+                    113
+                ],
+                "leverage": [
+                    114,
+                    138
+                ],
+                "on": [
+                    115,
+                    139,
+                    160
+                ],
+                "state": [
+                    116
+                ],
+                "art": [
+                    119
+                ],
+                "shallow": [
+                    120,
+                    158
+                ],
+                "models,": [
+                    121
+                ],
+                "fed": [
+                    122
+                ],
+                "by": [
+                    123
+                ],
+                "domain": [
+                    124,
+                    127
+                ],
+                "experts": [
+                    125
+                ],
+                "specific": [
+                    128
+                ],
+                "features,": [
+                    129
+                ],
+                "current": [
+                    133
+                ],
+                "predictive": [
+                    134
+                ],
+                "systems.Then,": [
+                    135
+                ],
+                "customised": [
+                    141
+                ],
+                "deep": [
+                    142
+                ],
+                "multi": [
+                    143
+                ],
+                "scale": [
+                    144
+                ],
+                "model": [
+                    145
+                ],
+                "able": [
+                    146
+                ],
+                "automatically": [
+                    148
+                ],
+                "learn": [
+                    149
+                ],
+                "representation": [
+                    151
+                ],
+                "accuracy": [
+                    155
+                ],
+                "models.Results": [
+                    159
+                ],
+                "real-world": [
+                    161
+                ],
+                "data": [
+                    162
+                ],
+                "coming": [
+                    163
+                ],
+                "from": [
+                    164
+                ],
+                "Italian": [
+                    166
+                ],
+                "network": [
+                    168
+                ],
+                "our": [
+                    171
+                ],
+                "proposal.": [
+                    172
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3207147199",
+            "counts_by_year": [],
+            "updated_date": "2024-08-22T03:52:00.379839",
+            "created_date": "2021-10-25"
+        },
+        {
+            "id": "https://openalex.org/W3169197024",
+            "doi": "https://doi.org/10.1007/978-3-030-77961-0_15",
+            "title": "An Efficient Hybrid Planning Framework for In-Station Train Dispatching",
+            "display_name": "An Efficient Hybrid Planning Framework for In-Station Train Dispatching",
+            "publication_year": 2021,
+            "publication_date": "2021-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3169197024",
+                "doi": "https://doi.org/10.1007/978-3-030-77961-0_15",
+                "mag": "3169197024"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-030-77961-0_15",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-030-77961-0/1?pdf=chapter%20toc",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5080659970",
+                        "display_name": "Matteo Cardellini",
+                        "orcid": "https://orcid.org/0000-0003-3788-9475"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matteo Cardellini",
+                    "raw_affiliation_strings": [
+                        "University of Genoa, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5077756388",
+                        "display_name": "Marco Maratea",
+                        "orcid": "https://orcid.org/0000-0002-9034-2527"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marco Maratea",
+                    "raw_affiliation_strings": [
+                        "University of Genoa, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086585008",
+                        "display_name": "Mauro Vallati",
+                        "orcid": "https://orcid.org/0000-0002-8429-3570"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I133837150",
+                            "display_name": "University of Huddersfield",
+                            "ror": "https://ror.org/05t1h8f27",
+                            "country_code": "GB",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Mauro Vallati",
+                    "raw_affiliation_strings": [
+                        "University of Huddersfield, Huddersfield, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Huddersfield, Huddersfield, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045083569",
+                        "display_name": "Gianluca Boleto",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gianluca Boleto",
+                    "raw_affiliation_strings": [
+                        "University of Genoa, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5045802198",
+                        "display_name": "Luca Oneto",
+                        "orcid": "https://orcid.org/0000-0002-8445-395X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luca Oneto",
+                    "raw_affiliation_strings": [
+                        "University of Genoa, Genova, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Genoa, Genova, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5086585008"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I133837150"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 58
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "168",
+                "last_page": "182"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10679",
+                "display_name": "QoS-Aware Web Services Composition and Semantic Matching",
+                "score": 0.9967,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1710",
+                    "display_name": "Information Systems"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10679",
+                    "display_name": "QoS-Aware Web Services Composition and Semantic Matching",
+                    "score": 0.9967,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10456",
+                    "display_name": "Methods and Techniques for Agent-Based Modeling",
+                    "score": 0.996,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10639",
+                    "display_name": "Autonomic Computing and Self-Adaptive Systems",
+                    "score": 0.9953,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/simulations",
+                    "display_name": "Simulations",
+                    "score": 0.446291
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.85064936
+                },
+                {
+                    "id": "https://openalex.org/C79403827",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3988",
+                    "display_name": "Real-time computing",
+                    "level": 1,
+                    "score": 0.39578307
+                },
+                {
+                    "id": "https://openalex.org/C42475967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194292",
+                    "display_name": "Operations research",
+                    "level": 1,
+                    "score": 0.36167186
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.05432269
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-030-77961-0_15",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://link.springer.com/book/10.1007/978-3-030-77961-0#about",
+                    "pdf_url": "https://link.springer.com/content/pdf/bfm:978-3-030-77961-0/1?pdf=chapter%20toc",
+                    "source": {
+                        "id": "https://openalex.org/S4306402508",
+                        "display_name": "Huddersfield Research Portal (University of Huddersfield)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I133837150",
+                        "host_organization_name": "University of Huddersfield",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I133837150"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Huddersfield"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://pure.hud.ac.uk/en/publications/0c6997a5-f7a2-4af2-8985-30deb8a49485",
+                    "pdf_url": "https://pure.hud.ac.uk/ws/files/36342932/ICCS_21_treni.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402508",
+                        "display_name": "Huddersfield Research Portal (University of Huddersfield)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I133837150",
+                        "host_organization_name": "University of Huddersfield",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I133837150"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Huddersfield"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://link.springer.com/book/10.1007/978-3-030-77961-0#about",
+                "pdf_url": "https://link.springer.com/content/pdf/bfm:978-3-030-77961-0/1?pdf=chapter%20toc",
+                "source": {
+                    "id": "https://openalex.org/S4306402508",
+                    "display_name": "Huddersfield Research Portal (University of Huddersfield)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I133837150",
+                    "host_organization_name": "University of Huddersfield",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I133837150"
+                    ],
+                    "host_organization_lineage_names": [
+                        "University of Huddersfield"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.58,
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 16,
+            "referenced_works": [
+                "https://openalex.org/W125541279",
+                "https://openalex.org/W1511336005",
+                "https://openalex.org/W2036221507",
+                "https://openalex.org/W2096216827",
+                "https://openalex.org/W2100723464",
+                "https://openalex.org/W2133517325",
+                "https://openalex.org/W2156328255",
+                "https://openalex.org/W2571800388",
+                "https://openalex.org/W2610683335",
+                "https://openalex.org/W2624925384",
+                "https://openalex.org/W2808402329",
+                "https://openalex.org/W2902869630",
+                "https://openalex.org/W3012364298",
+                "https://openalex.org/W3048427244",
+                "https://openalex.org/W3176606069",
+                "https://openalex.org/W567279358"
+            ],
+            "related_works": [
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2530322880",
+                "https://openalex.org/W2478288626",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2001405890",
+                "https://openalex.org/W1596801655"
+            ],
+            "abstract_inverted_index": {
+                "In-station": [
+                    0
+                ],
+                "train": [
+                    1,
+                    69,
+                    88
+                ],
+                "dispatching": [
+                    2,
+                    70,
+                    89
+                ],
+                "is": [
+                    3,
+                    21,
+                    71
+                ],
+                "the": [
+                    4,
+                    8,
+                    26,
+                    35,
+                    46,
+                    109,
+                    113,
+                    116,
+                    119,
+                    129,
+                    144,
+                    151,
+                    157,
+                    167,
+                    171,
+                    183
+                ],
+                "problem": [
+                    5,
+                    24
+                ],
+                "of": [
+                    6,
+                    11,
+                    37,
+                    56,
+                    58,
+                    115,
+                    140,
+                    143,
+                    147,
+                    153,
+                    170
+                ],
+                "optimising": [
+                    7
+                ],
+                "effective": [
+                    9
+                ],
+                "utilisation": [
+                    10
+                ],
+                "available": [
+                    12
+                ],
+                "railway": [
+                    13,
+                    28
+                ],
+                "infrastructures": [
+                    14
+                ],
+                "for": [
+                    15,
+                    25,
+                    34,
+                    85,
+                    107,
+                    112,
+                    127,
+                    180
+                ],
+                "mitigating": [
+                    16
+                ],
+                "incidents": [
+                    17
+                ],
+                "and": [
+                    18,
+                    31,
+                    39,
+                    105,
+                    118,
+                    156
+                ],
+                "delays.": [
+                    19
+                ],
+                "This": [
+                    20
+                ],
+                "a": [
+                    22,
+                    53,
+                    83,
+                    134,
+                    141,
+                    177
+                ],
+                "fundamental": [
+                    23
+                ],
+                "whole": [
+                    27
+                ],
+                "network": [
+                    29
+                ],
+                "efficiency,": [
+                    30
+                ],
+                "in": [
+                    32,
+                    50,
+                    95,
+                    164
+                ],
+                "turn": [
+                    33
+                ],
+                "transportation": [
+                    36
+                ],
+                "goods": [
+                    38
+                ],
+                "passengers,": [
+                    40
+                ],
+                "given": [
+                    41
+                ],
+                "that": [
+                    42,
+                    149,
+                    159
+                ],
+                "stations": [
+                    43
+                ],
+                "are": [
+                    44
+                ],
+                "among": [
+                    45
+                ],
+                "most": [
+                    47
+                ],
+                "critical": [
+                    48
+                ],
+                "points": [
+                    49
+                ],
+                "networks": [
+                    51
+                ],
+                "since": [
+                    52
+                ],
+                "high": [
+                    54
+                ],
+                "number": [
+                    55
+                ],
+                "interconnections": [
+                    57
+                ],
+                "trains’": [
+                    59
+                ],
+                "routes": [
+                    60
+                ],
+                "holds": [
+                    61
+                ],
+                "therein": [
+                    62
+                ],
+                ".": [
+                    63
+                ],
+                "Despite": [
+                    64
+                ],
+                "such": [
+                    65,
+                    98
+                ],
+                "importance,": [
+                    66
+                ],
+                "nowadays": [
+                    67
+                ],
+                "in-station": [
+                    68,
+                    87
+                ],
+                "mainly": [
+                    72
+                ],
+                "managed": [
+                    73
+                ],
+                "manually": [
+                    74
+                ],
+                "by": [
+                    75,
+                    124
+                ],
+                "human": [
+                    76,
+                    93
+                ],
+                "operators.": [
+                    77
+                ],
+                "In": [
+                    78
+                ],
+                "this": [
+                    79
+                ],
+                "paper": [
+                    80
+                ],
+                "we": [
+                    81,
+                    174
+                ],
+                "present": [
+                    82,
+                    176
+                ],
+                "framework": [
+                    84
+                ],
+                "solving": [
+                    86,
+                    108,
+                    128,
+                    166
+                ],
+                "problems,": [
+                    90
+                ],
+                "to": [
+                    91
+                ],
+                "support": [
+                    92
+                ],
+                "operators": [
+                    94
+                ],
+                "dealing": [
+                    96
+                ],
+                "with": [
+                    97
+                ],
+                "task.": [
+                    99
+                ],
+                "We": [
+                    100,
+                    131
+                ],
+                "employ": [
+                    101
+                ],
+                "automated": [
+                    102
+                ],
+                "planning": [
+                    103,
+                    121
+                ],
+                "languages": [
+                    104
+                ],
+                "tools": [
+                    106
+                ],
+                "task:": [
+                    110
+                ],
+                "PDDL+": [
+                    111
+                ],
+                "specification": [
+                    114
+                ],
+                "problem,": [
+                    117
+                ],
+                "ENHSP": [
+                    120
+                ],
+                "engine,": [
+                    122
+                ],
+                "enhanced": [
+                    123
+                ],
+                "domain-specific": [
+                    125,
+                    160
+                ],
+                "techniques,": [
+                    126
+                ],
+                "problem.": [
+                    130,
+                    172
+                ],
+                "carry": [
+                    132
+                ],
+                "out": [
+                    133
+                ],
+                "in-depth": [
+                    135
+                ],
+                "analysis": [
+                    136
+                ],
+                "using": [
+                    137
+                ],
+                "real": [
+                    138
+                ],
+                "data": [
+                    139
+                ],
+                "station": [
+                    142
+                ],
+                "North": [
+                    145
+                ],
+                "West": [
+                    146
+                ],
+                "Italy,": [
+                    148
+                ],
+                "shows": [
+                    150
+                ],
+                "effectiveness": [
+                    152
+                ],
+                "our": [
+                    154
+                ],
+                "approach": [
+                    155
+                ],
+                "contribution": [
+                    158
+                ],
+                "techniques": [
+                    161
+                ],
+                "may": [
+                    162
+                ],
+                "have": [
+                    163
+                ],
+                "efficiently": [
+                    165
+                ],
+                "various": [
+                    168
+                ],
+                "instances": [
+                    169
+                ],
+                "Finally,": [
+                    173
+                ],
+                "also": [
+                    175
+                ],
+                "visualisation": [
+                    178
+                ],
+                "tool": [
+                    179
+                ],
+                "graphically": [
+                    181
+                ],
+                "inspecting": [
+                    182
+                ],
+                "generated": [
+                    184
+                ],
+                "plans.": [
+                    185
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3169197024",
+            "counts_by_year": [],
+            "updated_date": "2024-09-19T00:39:38.814539",
+            "created_date": "2021-06-22"
+        },
+        {
+            "id": "https://openalex.org/W3197729660",
+            "doi": "https://doi.org/10.1609/socs.v12i1.18568",
+            "title": "A Planning-Based Approach for In-Station Train Dispatching",
+            "display_name": "A Planning-Based Approach for In-Station Train Dispatching",
+            "publication_year": 2021,
+            "publication_date": "2021-07-22",
+            "ids": {
+                "openalex": "https://openalex.org/W3197729660",
+                "doi": "https://doi.org/10.1609/socs.v12i1.18568",
+                "mag": "3197729660"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1609/socs.v12i1.18568",
+                "pdf_url": "https://ojs.aaai.org/index.php/SOCS/article/download/18568/18357",
+                "source": {
+                    "id": "https://openalex.org/S4387284494",
+                    "display_name": "Proceedings of the International Symposium on Combinatorial Search",
+                    "issn_l": "2832-9163",
+                    "issn": [
+                        "2832-9163",
+                        "2832-9171"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://ojs.aaai.org/index.php/SOCS/article/download/18568/18357",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5080659970",
+                        "display_name": "Matteo Cardellini",
+                        "orcid": "https://orcid.org/0000-0003-3788-9475"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Matteo Cardellini",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5077756388",
+                        "display_name": "Marco Maratea",
+                        "orcid": "https://orcid.org/0000-0002-9034-2527"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Marco Maratea",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5086585008",
+                        "display_name": "Mauro Vallati",
+                        "orcid": "https://orcid.org/0000-0002-8429-3570"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I133837150",
+                            "display_name": "University of Huddersfield",
+                            "ror": "https://ror.org/05t1h8f27",
+                            "country_code": "GB",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "GB"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mauro Vallati",
+                    "raw_affiliation_strings": [
+                        "School of Computing and Engineering, University of Huddersfield, UK"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing and Engineering, University of Huddersfield, UK",
+                            "institution_ids": [
+                                "https://openalex.org/I133837150"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5045083569",
+                        "display_name": "Gianluca Boleto",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Gianluca Boleto",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5045802198",
+                        "display_name": "Luca Oneto",
+                        "orcid": "https://orcid.org/0000-0002-8445-395X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I83816512",
+                            "display_name": "University of Genoa",
+                            "ror": "https://ror.org/0107c5v14",
+                            "country_code": "IT",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IT"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luca Oneto",
+                    "raw_affiliation_strings": [
+                        "DIBRIS, University of Genoa, Italy"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "DIBRIS, University of Genoa, Italy",
+                            "institution_ids": [
+                                "https://openalex.org/I83816512"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 58
+            },
+            "biblio": {
+                "volume": "12",
+                "issue": "1",
+                "first_page": "156",
+                "last_page": "158"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11942",
+                "display_name": "Implications of Shared Autonomous Vehicle Services",
+                "score": 0.9829,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2203",
+                    "display_name": "Automotive Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11942",
+                    "display_name": "Implications of Shared Autonomous Vehicle Services",
+                    "score": 0.9829,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2203",
+                        "display_name": "Automotive Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11450",
+                    "display_name": "Model-Driven Engineering in Software Development",
+                    "score": 0.9792,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1712",
+                        "display_name": "Software"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10567",
+                    "display_name": "Vehicle Routing Problem and Variants",
+                    "score": 0.9768,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2209",
+                        "display_name": "Industrial and Manufacturing Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/vehicle-routing-problem",
+                    "display_name": "Vehicle Routing Problem",
+                    "score": 0.512598
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.59788305
+                },
+                {
+                    "id": "https://openalex.org/C42475967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q194292",
+                    "display_name": "Operations research",
+                    "level": 1,
+                    "score": 0.5518657
+                },
+                {
+                    "id": "https://openalex.org/C22212356",
+                    "wikidata": "https://www.wikidata.org/wiki/Q775325",
+                    "display_name": "Transport engineering",
+                    "level": 1,
+                    "score": 0.39617655
+                },
+                {
+                    "id": "https://openalex.org/C79403827",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3988",
+                    "display_name": "Real-time computing",
+                    "level": 1,
+                    "score": 0.3542655
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.26182866
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1609/socs.v12i1.18568",
+                    "pdf_url": "https://ojs.aaai.org/index.php/SOCS/article/download/18568/18357",
+                    "source": {
+                        "id": "https://openalex.org/S4387284494",
+                        "display_name": "Proceedings of the International Symposium on Combinatorial Search",
+                        "issn_l": "2832-9163",
+                        "issn": [
+                            "2832-9163",
+                            "2832-9171"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/11567/1086608",
+                    "pdf_url": "https://iris.unige.it/bitstream/11567/1086608/1/18568-Article%20Text-22087-1-2-20210721.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4377196291",
+                        "display_name": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I83816512",
+                        "host_organization_name": "University of Genoa",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I83816512"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of Genoa"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1609/socs.v12i1.18568",
+                "pdf_url": "https://ojs.aaai.org/index.php/SOCS/article/download/18568/18357",
+                "source": {
+                    "id": "https://openalex.org/S4387284494",
+                    "display_name": "Proceedings of the International Symposium on Combinatorial Search",
+                    "issn_l": "2832-9163",
+                    "issn": [
+                        "2832-9163",
+                        "2832-9171"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.49,
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 4,
+            "referenced_works": [
+                "https://openalex.org/W2096216827",
+                "https://openalex.org/W2571800388",
+                "https://openalex.org/W3117414135",
+                "https://openalex.org/W3176606069"
+            ],
+            "related_works": [
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2530322880",
+                "https://openalex.org/W2478288626",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2001405890",
+                "https://openalex.org/W1596801655"
+            ],
+            "abstract_inverted_index": {
+                "In-station": [
+                    0
+                ],
+                "train": [
+                    1
+                ],
+                "dispatching": [
+                    2,
+                    32
+                ],
+                "is": [
+                    3
+                ],
+                "the": [
+                    4,
+                    8,
+                    30
+                ],
+                "problem": [
+                    5,
+                    33
+                ],
+                "of": [
+                    6,
+                    11,
+                    36
+                ],
+                "optimising": [
+                    7
+                ],
+                "effective": [
+                    9
+                ],
+                "utilisation": [
+                    10
+                ],
+                "available": [
+                    12
+                ],
+                "railway": [
+                    13
+                ],
+                "infrastructures": [
+                    14
+                ],
+                "for": [
+                    15,
+                    27
+                ],
+                "mitigating": [
+                    16
+                ],
+                "incidents": [
+                    17
+                ],
+                "and": [
+                    18
+                ],
+                "delays.": [
+                    19
+                ],
+                "In": [
+                    20
+                ],
+                "this": [
+                    21
+                ],
+                "paper,": [
+                    22
+                ],
+                "we": [
+                    23
+                ],
+                "describe": [
+                    24
+                ],
+                "an": [
+                    25
+                ],
+                "approach": [
+                    26
+                ],
+                "dealing": [
+                    28
+                ],
+                "with": [
+                    29
+                ],
+                "in-station": [
+                    31
+                ],
+                "by": [
+                    34
+                ],
+                "means": [
+                    35
+                ],
+                "automated": [
+                    37
+                ],
+                "planning": [
+                    38
+                ],
+                "techniques.": [
+                    39
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3197729660",
+            "counts_by_year": [],
+            "updated_date": "2024-09-26T10:52:19.453003",
+            "created_date": "2021-09-13"
+        }
+    ],
+    "group_by": []
+}

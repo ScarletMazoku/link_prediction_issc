@@ -1,0 +1,2093 @@
+{
+    "meta": {
+        "count": 3,
+        "db_response_time_ms": 33,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2008977985",
+            "doi": "https://doi.org/10.1016/j.procs.2013.05.237",
+            "title": "Seismic Image Restoration Using Nonlinear Least Squares Shape Optimization",
+            "display_name": "Seismic Image Restoration Using Nonlinear Least Squares Shape Optimization",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2008977985",
+                "doi": "https://doi.org/10.1016/j.procs.2013.05.237",
+                "mag": "2008977985"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.237",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2013.05.237",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5011873649",
+                        "display_name": "Mathieu Gilardet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I144889574",
+                            "display_name": "Université de Pau et des Pays de l'Adour",
+                            "ror": "https://ror.org/01frn9647",
+                            "country_code": "FR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I144889574"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I103084370",
+                            "display_name": "Total (France)",
+                            "ror": "https://ror.org/04sk34n56",
+                            "country_code": "FR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I103084370"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Mathieu Gilardet",
+                    "raw_affiliation_strings": [
+                        "LIUPPA, University of Pau, France",
+                        "TOTAL, Pau, France"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "LIUPPA, University of Pau, France",
+                            "institution_ids": [
+                                "https://openalex.org/I144889574"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "TOTAL, Pau, France",
+                            "institution_ids": [
+                                "https://openalex.org/I103084370"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5038852235",
+                        "display_name": "Sébastien Guillon",
+                        "orcid": "https://orcid.org/0000-0002-6506-9442"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I103084370",
+                            "display_name": "Total (France)",
+                            "ror": "https://ror.org/04sk34n56",
+                            "country_code": "FR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I103084370"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sebastien Guillon",
+                    "raw_affiliation_strings": [
+                        "TOTAL, Pau, France"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "TOTAL, Pau, France",
+                            "institution_ids": [
+                                "https://openalex.org/I103084370"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5091867930",
+                        "display_name": "Bruno Jobard",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I144889574",
+                            "display_name": "Université de Pau et des Pays de l'Adour",
+                            "ror": "https://ror.org/01frn9647",
+                            "country_code": "FR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I144889574"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bruno Jobard",
+                    "raw_affiliation_strings": [
+                        "LIUPPA, University of Pau, France"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "LIUPPA, University of Pau, France",
+                            "institution_ids": [
+                                "https://openalex.org/I144889574"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5001988181",
+                        "display_name": "Dimitri Komatitsch",
+                        "orcid": "https://orcid.org/0000-0003-2309-8269"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1294671590",
+                            "display_name": "Centre National de la Recherche Scientifique",
+                            "ror": "https://ror.org/02feahw73",
+                            "country_code": "FR",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I1294671590"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I21491767",
+                            "display_name": "Aix-Marseille Université",
+                            "ror": "https://ror.org/035xkbk20",
+                            "country_code": "FR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I21491767"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dimitri Komatitsch",
+                    "raw_affiliation_strings": [
+                        "LMA, CNRS UPR 7051, Université Aix-Marseille, Centrale Marseille, France"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "LMA, CNRS UPR 7051, Université Aix-Marseille, Centrale Marseille, France",
+                            "institution_ids": [
+                                "https://openalex.org/I1294671590",
+                                "https://openalex.org/I21491767"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5011873649"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I144889574",
+                "https://openalex.org/I103084370"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.452424,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 76,
+                "max": 78
+            },
+            "biblio": {
+                "volume": "18",
+                "issue": null,
+                "first_page": "732",
+                "last_page": "741"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10271",
+                "display_name": "Seismic Waveform Inversion in Geophysics",
+                "score": 0.9995,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1908",
+                    "display_name": "Geophysics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10271",
+                    "display_name": "Seismic Waveform Inversion in Geophysics",
+                    "score": 0.9995,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1908",
+                        "display_name": "Geophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10052",
+                    "display_name": "Image Segmentation Techniques",
+                    "score": 0.9968,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13067",
+                    "display_name": "Geological Modeling and Uncertainty Analysis",
+                    "score": 0.9949,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1906",
+                        "display_name": "Geochemistry and Petrology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/seismic-waveform-inversion",
+                    "display_name": "Seismic Waveform Inversion",
+                    "score": 0.565799
+                },
+                {
+                    "id": "https://openalex.org/keywords/seismic-data-processing",
+                    "display_name": "Seismic Data Processing",
+                    "score": 0.544181
+                },
+                {
+                    "id": "https://openalex.org/keywords/deformable-image-registration",
+                    "display_name": "Deformable Image Registration",
+                    "score": 0.535737
+                },
+                {
+                    "id": "https://openalex.org/keywords/minification",
+                    "display_name": "Minification",
+                    "score": 0.52732724
+                },
+                {
+                    "id": "https://openalex.org/keywords/image-segmentation",
+                    "display_name": "Image Segmentation",
+                    "score": 0.519933
+                },
+                {
+                    "id": "https://openalex.org/keywords/geophysical-imaging",
+                    "display_name": "Geophysical Imaging",
+                    "score": 0.517546
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6802075
+                },
+                {
+                    "id": "https://openalex.org/C115961682",
+                    "wikidata": "https://www.wikidata.org/wiki/Q860623",
+                    "display_name": "Image (mathematics)",
+                    "level": 2,
+                    "score": 0.54592973
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.53242064
+                },
+                {
+                    "id": "https://openalex.org/C147764199",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6865248",
+                    "display_name": "Minification",
+                    "level": 2,
+                    "score": 0.52732724
+                },
+                {
+                    "id": "https://openalex.org/C98045186",
+                    "wikidata": "https://www.wikidata.org/wiki/Q205663",
+                    "display_name": "Process (computing)",
+                    "level": 2,
+                    "score": 0.48312208
+                },
+                {
+                    "id": "https://openalex.org/C106430172",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6002272",
+                    "display_name": "Image restoration",
+                    "level": 4,
+                    "score": 0.47737834
+                },
+                {
+                    "id": "https://openalex.org/C175551986",
+                    "wikidata": "https://www.wikidata.org/wiki/Q47089",
+                    "display_name": "Fault (geology)",
+                    "level": 2,
+                    "score": 0.4734611
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.4687094
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.4348386
+                },
+                {
+                    "id": "https://openalex.org/C161794534",
+                    "wikidata": "https://www.wikidata.org/wiki/Q177493",
+                    "display_name": "Gauss",
+                    "level": 2,
+                    "score": 0.4198642
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.36347455
+                },
+                {
+                    "id": "https://openalex.org/C165205528",
+                    "wikidata": "https://www.wikidata.org/wiki/Q83371",
+                    "display_name": "Seismology",
+                    "level": 1,
+                    "score": 0.34231663
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.28766698
+                },
+                {
+                    "id": "https://openalex.org/C9417928",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1070689",
+                    "display_name": "Image processing",
+                    "level": 3,
+                    "score": 0.19544542
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.237",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.science/hal-00905097",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://hal.archives-ouvertes.fr/hal-00905097",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.237",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/11",
+                    "score": 0.49,
+                    "display_name": "Sustainable cities and communities"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 10,
+            "referenced_works": [
+                "https://openalex.org/W1995838993",
+                "https://openalex.org/W2000865297",
+                "https://openalex.org/W2021167140",
+                "https://openalex.org/W2024187787",
+                "https://openalex.org/W2059017188",
+                "https://openalex.org/W2129793631",
+                "https://openalex.org/W2133314692",
+                "https://openalex.org/W2152617318",
+                "https://openalex.org/W2623446808",
+                "https://openalex.org/W4233370650"
+            ],
+            "related_works": [
+                "https://openalex.org/W90581812",
+                "https://openalex.org/W4388059796",
+                "https://openalex.org/W2388074670",
+                "https://openalex.org/W2358906198",
+                "https://openalex.org/W2357322570",
+                "https://openalex.org/W2069836761",
+                "https://openalex.org/W2037356416",
+                "https://openalex.org/W2028521866",
+                "https://openalex.org/W2016474650",
+                "https://openalex.org/W182453952"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "this": [
+                    1
+                ],
+                "article": [
+                    2
+                ],
+                "we": [
+                    3
+                ],
+                "present": [
+                    4,
+                    144
+                ],
+                "a": [
+                    5,
+                    14,
+                    30,
+                    43,
+                    60,
+                    73,
+                    77,
+                    107,
+                    121,
+                    153
+                ],
+                "new": [
+                    6
+                ],
+                "method": [
+                    7
+                ],
+                "for": [
+                    8
+                ],
+                "seismic": [
+                    9,
+                    15,
+                    51,
+                    136
+                ],
+                "image": [
+                    10,
+                    16,
+                    62,
+                    137
+                ],
+                "restoration.": [
+                    11
+                ],
+                "When": [
+                    12
+                ],
+                "observed,": [
+                    13
+                ],
+                "is": [
+                    17,
+                    104
+                ],
+                "the": [
+                    18,
+                    56,
+                    65,
+                    85,
+                    98,
+                    128,
+                    135,
+                    146
+                ],
+                "result": [
+                    19
+                ],
+                "of": [
+                    20,
+                    32,
+                    46,
+                    50,
+                    116
+                ],
+                "an": [
+                    21
+                ],
+                "initial": [
+                    22
+                ],
+                "deposit": [
+                    23,
+                    67
+                ],
+                "system": [
+                    24,
+                    68
+                ],
+                "that": [
+                    25,
+                    40,
+                    63,
+                    79,
+                    91,
+                    110
+                ],
+                "has": [
+                    26
+                ],
+                "been": [
+                    27
+                ],
+                "transformed": [
+                    28
+                ],
+                "by": [
+                    29
+                ],
+                "set": [
+                    31
+                ],
+                "successive": [
+                    33
+                ],
+                "geological": [
+                    34,
+                    66,
+                    89,
+                    112,
+                    154
+                ],
+                "deformations": [
+                    35,
+                    57,
+                    113
+                ],
+                "(flexures,": [
+                    36
+                ],
+                "fault": [
+                    37
+                ],
+                "slip,": [
+                    38
+                ],
+                "etc)": [
+                    39
+                ],
+                "occurred": [
+                    41
+                ],
+                "over": [
+                    42
+                ],
+                "large": [
+                    44
+                ],
+                "period": [
+                    45
+                ],
+                "time.": [
+                    47
+                ],
+                "The": [
+                    48,
+                    101
+                ],
+                "goal": [
+                    49
+                ],
+                "restoration": [
+                    52,
+                    138
+                ],
+                "consists": [
+                    53
+                ],
+                "in": [
+                    54,
+                    72,
+                    97,
+                    114,
+                    152
+                ],
+                "inverting": [
+                    55
+                ],
+                "to": [
+                    58,
+                    87,
+                    126,
+                    133
+                ],
+                "provide": [
+                    59,
+                    131
+                ],
+                "resulting": [
+                    61
+                ],
+                "depicts": [
+                    64
+                ],
+                "as": [
+                    69
+                ],
+                "it": [
+                    70
+                ],
+                "was": [
+                    71
+                ],
+                "previous": [
+                    74
+                ],
+                "state.": [
+                    75
+                ],
+                "Providing": [
+                    76
+                ],
+                "tool": [
+                    78
+                ],
+                "quickly": [
+                    80,
+                    122
+                ],
+                "generates": [
+                    81
+                ],
+                "restored": [
+                    82,
+                    147
+                ],
+                "images": [
+                    83
+                ],
+                "helps": [
+                    84
+                ],
+                "geophysicists": [
+                    86
+                ],
+                "recognize": [
+                    88
+                ],
+                "features": [
+                    90
+                ],
+                "may": [
+                    92
+                ],
+                "be": [
+                    93,
+                    150
+                ],
+                "too": [
+                    94
+                ],
+                "strongly": [
+                    95
+                ],
+                "altered": [
+                    96
+                ],
+                "observed": [
+                    99
+                ],
+                "image.": [
+                    100
+                ],
+                "proposed": [
+                    102
+                ],
+                "approach": [
+                    103,
+                    125
+                ],
+                "based": [
+                    105
+                ],
+                "on": [
+                    106,
+                    140
+                ],
+                "minimization": [
+                    108
+                ],
+                "process": [
+                    109,
+                    139
+                ],
+                "expresses": [
+                    111
+                ],
+                "terms": [
+                    115
+                ],
+                "geometrical": [
+                    117
+                ],
+                "constraints.": [
+                    118
+                ],
+                "We": [
+                    119,
+                    130
+                ],
+                "use": [
+                    120
+                ],
+                "converging": [
+                    123
+                ],
+                "Gauss-Newton": [
+                    124
+                ],
+                "solve": [
+                    127
+                ],
+                "system.": [
+                    129
+                ],
+                "results": [
+                    132
+                ],
+                "illustrate": [
+                    134
+                ],
+                "real": [
+                    141
+                ],
+                "data": [
+                    142
+                ],
+                "and": [
+                    143
+                ],
+                "how": [
+                    145
+                ],
+                "version": [
+                    148
+                ],
+                "can": [
+                    149
+                ],
+                "used": [
+                    151
+                ],
+                "interpretation": [
+                    155
+                ],
+                "framework.": [
+                    156
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2008977985",
+            "counts_by_year": [
+                {
+                    "year": 2019,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T18:14:03.983902",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1938670260",
+            "doi": null,
+            "title": "Étude d'algorithmes de restauration d'images sismiques par optimisation de forme non linéaire et application à la reconstruction sédimentaire",
+            "display_name": "Étude d'algorithmes de restauration d'images sismiques par optimisation de forme non linéaire et application à la reconstruction sédimentaire",
+            "publication_year": 2013,
+            "publication_date": "2013-12-19",
+            "ids": {
+                "openalex": "https://openalex.org/W1938670260",
+                "mag": "1938670260"
+            },
+            "language": "fr",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://tel.archives-ouvertes.fr/tel-00952964",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "dissertation",
+            "type_crossref": "dissertation",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5011873649",
+                        "display_name": "Mathieu Gilardet",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I144889574",
+                            "display_name": "Université de Pau et des Pays de l'Adour",
+                            "ror": "https://ror.org/01frn9647",
+                            "country_code": "FR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I144889574"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "FR"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Mathieu Gilardet",
+                    "raw_affiliation_strings": [
+                        "Laboratoire Informatique de l'Université de Pau et des Pays de l'Adour"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratoire Informatique de l'Université de Pau et des Pays de l'Adour",
+                            "institution_ids": [
+                                "https://openalex.org/I144889574"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5011873649"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I144889574"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10271",
+                "display_name": "Seismic Waveform Inversion in Geophysics",
+                "score": 0.994,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1908",
+                    "display_name": "Geophysics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10271",
+                    "display_name": "Seismic Waveform Inversion in Geophysics",
+                    "score": 0.994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1908",
+                        "display_name": "Geophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13067",
+                    "display_name": "Geological Modeling and Uncertainty Analysis",
+                    "score": 0.991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1906",
+                        "display_name": "Geochemistry and Petrology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10052",
+                    "display_name": "Image Segmentation Techniques",
+                    "score": 0.985,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/seismic-data-processing",
+                    "display_name": "Seismic Data Processing",
+                    "score": 0.569305
+                },
+                {
+                    "id": "https://openalex.org/keywords/seismic-waveform-inversion",
+                    "display_name": "Seismic Waveform Inversion",
+                    "score": 0.546138
+                },
+                {
+                    "id": "https://openalex.org/keywords/deformable-image-registration",
+                    "display_name": "Deformable Image Registration",
+                    "score": 0.524361
+                },
+                {
+                    "id": "https://openalex.org/keywords/geophysical-imaging",
+                    "display_name": "Geophysical Imaging",
+                    "score": 0.508613
+                },
+                {
+                    "id": "https://openalex.org/keywords/geological-modeling",
+                    "display_name": "Geological Modeling",
+                    "score": 0.508048
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C15708023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80083",
+                    "display_name": "Humanities",
+                    "level": 1,
+                    "score": 0.7104404
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.5002372
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.349567
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://tel.archives-ouvertes.fr/tel-00952964",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [],
+            "abstract_inverted_index": {
+                "Nous": [
+                    0,
+                    177
+                ],
+                "presentons": [
+                    1
+                ],
+                "une": [
+                    2,
+                    13,
+                    46,
+                    63,
+                    179,
+                    192
+                ],
+                "nouvelle": [
+                    3
+                ],
+                "methode": [
+                    4
+                ],
+                "pour": [
+                    5,
+                    61,
+                    148,
+                    187
+                ],
+                "la": [
+                    6,
+                    38,
+                    53,
+                    86,
+                    149,
+                    223
+                ],
+                "restauration": [
+                    7,
+                    54,
+                    212
+                ],
+                "d'images": [
+                    8
+                ],
+                "sismiques.": [
+                    9,
+                    155
+                ],
+                "Quand": [
+                    10
+                ],
+                "on": [
+                    11
+                ],
+                "l'observe,": [
+                    12
+                ],
+                "image": [
+                    14,
+                    64
+                ],
+                "sismique": [
+                    15,
+                    55,
+                    214
+                ],
+                "est": [
+                    16,
+                    160
+                ],
+                "le": [
+                    17,
+                    68,
+                    189,
+                    209
+                ],
+                "resultat": [
+                    18
+                ],
+                "d'un": [
+                    19
+                ],
+                "systeme": [
+                    20,
+                    69
+                ],
+                "de": [
+                    21,
+                    31,
+                    37,
+                    49,
+                    52,
+                    70,
+                    84,
+                    108,
+                    165,
+                    174,
+                    182,
+                    195,
+                    211,
+                    220
+                ],
+                "depot": [
+                    22,
+                    71
+                ],
+                "initial": [
+                    23
+                ],
+                "qui": [
+                    24,
+                    41,
+                    66,
+                    106,
+                    115,
+                    127,
+                    167,
+                    184
+                ],
+                "a": [
+                    25,
+                    57,
+                    120
+                ],
+                "ete": [
+                    26
+                ],
+                "transforme": [
+                    27
+                ],
+                "par": [
+                    28,
+                    92
+                ],
+                "un": [
+                    29,
+                    77,
+                    104,
+                    163,
+                    230
+                ],
+                "ensemble": [
+                    30
+                ],
+                "deformations": [
+                    32,
+                    60,
+                    170
+                ],
+                "geologiques": [
+                    33,
+                    126,
+                    171
+                ],
+                "successives": [
+                    34
+                ],
+                "(flexions,": [
+                    35
+                ],
+                "glissement": [
+                    36
+                ],
+                "faille,": [
+                    39
+                ],
+                "etc)": [
+                    40
+                ],
+                "se": [
+                    42
+                ],
+                "sont": [
+                    43
+                ],
+                "produites": [
+                    44
+                ],
+                "sur": [
+                    45,
+                    95,
+                    162,
+                    215
+                ],
+                "grande": [
+                    47
+                ],
+                "periode": [
+                    48
+                ],
+                "temps.": [
+                    50
+                ],
+                "L'objectif": [
+                    51
+                ],
+                "consiste": [
+                    56
+                ],
+                "inverser": [
+                    58
+                ],
+                "les": [
+                    59,
+                    93,
+                    96,
+                    118,
+                    124,
+                    169
+                ],
+                "fournir": [
+                    62
+                ],
+                "resultante": [
+                    65
+                ],
+                "represente": [
+                    67
+                ],
+                "geologique": [
+                    72
+                ],
+                "tel": [
+                    73
+                ],
+                "qu'il": [
+                    74
+                ],
+                "etait": [
+                    75
+                ],
+                "dans": [
+                    76,
+                    137,
+                    203,
+                    229
+                ],
+                "etat": [
+                    78
+                ],
+                "anterieur.": [
+                    79
+                ],
+                "Classiquement,": [
+                    80
+                ],
+                "ce": [
+                    81
+                ],
+                "procede": [
+                    82
+                ],
+                "permet": [
+                    83,
+                    107,
+                    143
+                ],
+                "tester": [
+                    85
+                ],
+                "coherence": [
+                    87
+                ],
+                "des": [
+                    88,
+                    111,
+                    153,
+                    204,
+                    216
+                ],
+                "hypotheses": [
+                    89
+                ],
+                "d'interpretations": [
+                    90
+                ],
+                "formulees": [
+                    91
+                ],
+                "geophysiciens": [
+                    94,
+                    119,
+                    147
+                ],
+                "images": [
+                    97,
+                    112,
+                    154
+                ],
+                "initiales.": [
+                    98
+                ],
+                "Dans": [
+                    99,
+                    191
+                ],
+                "notre": [
+                    100,
+                    196
+                ],
+                "contribution,": [
+                    101
+                ],
+                "nous": [
+                    102,
+                    158,
+                    198
+                ],
+                "fournissons": [
+                    103
+                ],
+                "outil": [
+                    105
+                ],
+                "generer": [
+                    109
+                ],
+                "rapidement": [
+                    110,
+                    186
+                ],
+                "restaurees": [
+                    113
+                ],
+                "et": [
+                    114,
+                    122,
+                    133,
+                    219
+                ],
+                "aide": [
+                    116
+                ],
+                "donc": [
+                    117,
+                    134
+                ],
+                "reconnaitre": [
+                    121
+                ],
+                "identifier": [
+                    123
+                ],
+                "caracteristiques": [
+                    125
+                ],
+                "peuvent": [
+                    128
+                ],
+                "etre": [
+                    129,
+                    227
+                ],
+                "tres": [
+                    130
+                ],
+                "fortement": [
+                    131
+                ],
+                "modifiees": [
+                    132
+                ],
+                "difficilement": [
+                    135
+                ],
+                "identifiables": [
+                    136
+                ],
+                "l'image": [
+                    138
+                ],
+                "observee": [
+                    139
+                ],
+                "d'origine.": [
+                    140
+                ],
+                "Cette": [
+                    141
+                ],
+                "application": [
+                    142
+                ],
+                "alors": [
+                    144
+                ],
+                "d'assister": [
+                    145
+                ],
+                "ces": [
+                    146
+                ],
+                "formulation": [
+                    150
+                ],
+                "d'hypotheses": [
+                    151
+                ],
+                "d'interpretation": [
+                    152,
+                    232
+                ],
+                "L'approche": [
+                    156
+                ],
+                "que": [
+                    157
+                ],
+                "introduisons": [
+                    159
+                ],
+                "basee": [
+                    161
+                ],
+                "processus": [
+                    164,
+                    210
+                ],
+                "minimisation": [
+                    166
+                ],
+                "exprime": [
+                    168
+                ],
+                "en": [
+                    172
+                ],
+                "termes": [
+                    173
+                ],
+                "contraintes": [
+                    175
+                ],
+                "geometriques.": [
+                    176
+                ],
+                "utilisons": [
+                    178
+                ],
+                "approche": [
+                    180
+                ],
+                "iterative": [
+                    181
+                ],
+                "Gauss-Newton": [
+                    183
+                ],
+                "converge": [
+                    185
+                ],
+                "resoudre": [
+                    188
+                ],
+                "systeme.": [
+                    190
+                ],
+                "deuxieme": [
+                    193
+                ],
+                "partie": [
+                    194
+                ],
+                "travail": [
+                    197
+                ],
+                "montrons": [
+                    199
+                ],
+                "differents": [
+                    200
+                ],
+                "resultats": [
+                    201
+                ],
+                "obtenus": [
+                    202
+                ],
+                "cas": [
+                    205
+                ],
+                "concrets": [
+                    206
+                ],
+                "afin": [
+                    207
+                ],
+                "d'illustrer": [
+                    208
+                ],
+                "d'image": [
+                    213
+                ],
+                "donnees": [
+                    217
+                ],
+                "reelles": [
+                    218
+                ],
+                "montrer": [
+                    221
+                ],
+                "comment": [
+                    222
+                ],
+                "version": [
+                    224
+                ],
+                "restauree": [
+                    225
+                ],
+                "peut": [
+                    226
+                ],
+                "utilisee": [
+                    228
+                ],
+                "cadre": [
+                    231
+                ],
+                "geologique.": [
+                    233
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1938670260",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T12:51:47.423020",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W4392403428",
+            "doi": null,
+            "title": "Seismic images restoration using non linear optimization and application to the sedimentary reconstruction",
+            "display_name": "Seismic images restoration using non linear optimization and application to the sedimentary reconstruction",
+            "publication_year": 2013,
+            "publication_date": "2013-12-19",
+            "ids": {
+                "openalex": "https://openalex.org/W4392403428"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://tel.archives-ouvertes.fr/tel-00952964",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306402512",
+                    "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I1294671590",
+                    "host_organization_name": "Centre National de la Recherche Scientifique",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I1294671590"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Centre National de la Recherche Scientifique"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "dissertation",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://theses.hal.science/tel-00952964/document",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5011873649",
+                        "display_name": "Mathieu Gilardet",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": true,
+                    "raw_author_name": "Gilardet, Mathieu",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5011873649"
+            ],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T13067",
+                "display_name": "Geological Modeling and Uncertainty Analysis",
+                "score": 0.9828,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1906",
+                    "display_name": "Geochemistry and Petrology"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/19",
+                    "display_name": "Earth and Planetary Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T13067",
+                    "display_name": "Geological Modeling and Uncertainty Analysis",
+                    "score": 0.9828,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1906",
+                        "display_name": "Geochemistry and Petrology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10271",
+                    "display_name": "Seismic Waveform Inversion in Geophysics",
+                    "score": 0.9823,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1908",
+                        "display_name": "Geophysics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10052",
+                    "display_name": "Image Segmentation Techniques",
+                    "score": 0.9349,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1707",
+                        "display_name": "Computer Vision and Pattern Recognition"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/seismic-data-processing",
+                    "display_name": "Seismic Data Processing",
+                    "score": 0.59305
+                },
+                {
+                    "id": "https://openalex.org/keywords/geological-modeling",
+                    "display_name": "Geological Modeling",
+                    "score": 0.555813
+                },
+                {
+                    "id": "https://openalex.org/keywords/seismic-waveform-inversion",
+                    "display_name": "Seismic Waveform Inversion",
+                    "score": 0.555095
+                },
+                {
+                    "id": "https://openalex.org/keywords/geophysical-imaging",
+                    "display_name": "Geophysical Imaging",
+                    "score": 0.524414
+                },
+                {
+                    "id": "https://openalex.org/keywords/image-segmentation",
+                    "display_name": "Image Segmentation",
+                    "score": 0.524013
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.45771518
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.41162515
+                },
+                {
+                    "id": "https://openalex.org/C165205528",
+                    "wikidata": "https://www.wikidata.org/wiki/Q83371",
+                    "display_name": "Seismology",
+                    "level": 1,
+                    "score": 0.38693967
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://tel.archives-ouvertes.fr/tel-00952964",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306402512",
+                        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1294671590",
+                        "host_organization_name": "Centre National de la Recherche Scientifique",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1294671590"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Centre National de la Recherche Scientifique"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://theses.hal.science/tel-00952964",
+                    "pdf_url": "https://theses.hal.science/tel-00952964/document",
+                    "source": null,
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://theses.hal.science/tel-00952964",
+                "pdf_url": "https://theses.hal.science/tel-00952964/document",
+                "source": null,
+                "license": "other-oa",
+                "license_id": "https://openalex.org/licenses/other-oa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4391375266",
+                "https://openalex.org/W3186982001",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2324615561",
+                "https://openalex.org/W2245170124",
+                "https://openalex.org/W2086120259",
+                "https://openalex.org/W2076393078",
+                "https://openalex.org/W1984402782"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4392403428",
+            "counts_by_year": [],
+            "updated_date": "2024-09-15T20:45:44.849386",
+            "created_date": "2024-03-05"
+        }
+    ],
+    "group_by": []
+}

@@ -1,0 +1,4815 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 101,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W3164405530",
+            "doi": "https://doi.org/10.1371/journal.pone.0252339",
+            "title": "Glaucoma classification based on scanning laser ophthalmoscopic images using a deep learning ensemble method",
+            "display_name": "Glaucoma classification based on scanning laser ophthalmoscopic images using a deep learning ensemble method",
+            "publication_year": 2021,
+            "publication_date": "2021-06-04",
+            "ids": {
+                "openalex": "https://openalex.org/W3164405530",
+                "doi": "https://doi.org/10.1371/journal.pone.0252339",
+                "mag": "3164405530",
+                "pmid": "https://pubmed.ncbi.nlm.nih.gov/34086716",
+                "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/8177489"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1371/journal.pone.0252339",
+                "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0252339&type=printable",
+                "source": {
+                    "id": "https://openalex.org/S202381698",
+                    "display_name": "PLoS ONE",
+                    "issn_l": "1932-6203",
+                    "issn": [
+                        "1932-6203"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310315706",
+                    "host_organization_name": "Public Library of Science",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310315706"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Public Library of Science"
+                    ],
+                    "type": "journal"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref",
+                "doaj",
+                "pubmed"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0252339&type=printable",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5087900328",
+                        "display_name": "Dominika Sułot",
+                        "orcid": "https://orcid.org/0000-0002-0246-3223"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Dominika Sułot",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002372452",
+                        "display_name": "David Alonso‐Caneiro",
+                        "orcid": "https://orcid.org/0000-0002-7754-6592"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I160993911",
+                            "display_name": "Queensland University of Technology",
+                            "ror": "https://ror.org/03pnv4752",
+                            "country_code": "AU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AU"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "David Alonso-Caneiro",
+                    "raw_affiliation_strings": [
+                        "Queensland University of Technology, Contact Lens and Visual Optics Laboratory, Centre for Vision and Eye Research, School of Optometry and Vision Science, Brisbane, Australia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Queensland University of Technology, Contact Lens and Visual Optics Laboratory, Centre for Vision and Eye Research, School of Optometry and Vision Science, Brisbane, Australia",
+                            "institution_ids": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5059369082",
+                        "display_name": "Paweł Ksieniewicz",
+                        "orcid": "https://orcid.org/0000-0001-9578-8395"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Paweł Ksieniewicz",
+                    "raw_affiliation_strings": [
+                        "Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5051344818",
+                        "display_name": "Patrycja Krzyżanowska-Berkowska",
+                        "orcid": "https://orcid.org/0000-0001-8034-2534"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I385303915",
+                            "display_name": "Wroclaw Medical University",
+                            "ror": "https://ror.org/01qpw1b93",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I385303915"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Patrycja Krzyzanowska-Berkowska",
+                    "raw_affiliation_strings": [
+                        "Department of Ophthalmology, Wroclaw Medical University, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Ophthalmology, Wroclaw Medical University, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I385303915"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5053470224",
+                        "display_name": "D. Robert Iskander",
+                        "orcid": "https://orcid.org/0000-0002-5962-6206"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "D. Robert Iskander",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5087900328",
+                "https://openalex.org/A5002372452",
+                "https://openalex.org/A5059369082",
+                "https://openalex.org/A5051344818",
+                "https://openalex.org/A5053470224"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I11923345",
+                "https://openalex.org/I686019",
+                "https://openalex.org/I160993911",
+                "https://openalex.org/I11923345",
+                "https://openalex.org/I686019",
+                "https://openalex.org/I385303915",
+                "https://openalex.org/I11923345",
+                "https://openalex.org/I686019"
+            ],
+            "apc_list": {
+                "value": 1805,
+                "currency": "USD",
+                "value_usd": 1805,
+                "provenance": "doaj"
+            },
+            "apc_paid": {
+                "value": 1805,
+                "currency": "USD",
+                "value_usd": 1805,
+                "provenance": "doaj"
+            },
+            "fwci": 2.565,
+            "has_fulltext": false,
+            "cited_by_count": 17,
+            "citation_normalized_percentile": {
+                "value": 0.999951,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 92,
+                "max": 93
+            },
+            "biblio": {
+                "volume": "16",
+                "issue": "6",
+                "first_page": "e0252339",
+                "last_page": "e0252339"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11438",
+                "display_name": "Detection and Management of Retinal Diseases",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2741",
+                    "display_name": "Radiology, Nuclear Medicine and Imaging"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/27",
+                    "display_name": "Medicine"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/4",
+                    "display_name": "Health Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11438",
+                    "display_name": "Detection and Management of Retinal Diseases",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2741",
+                        "display_name": "Radiology, Nuclear Medicine and Imaging"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10250",
+                    "display_name": "Global Prevalence and Treatment of Glaucoma",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2731",
+                        "display_name": "Ophthalmology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10170",
+                    "display_name": "Age-Related Macular Degeneration Research",
+                    "score": 0.9925,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2731",
+                        "display_name": "Ophthalmology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/glaucoma",
+                    "display_name": "Glaucoma",
+                    "score": 0.530828
+                },
+                {
+                    "id": "https://openalex.org/keywords/optical-coherence-tomography-angiography",
+                    "display_name": "Optical Coherence Tomography Angiography",
+                    "score": 0.519343
+                },
+                {
+                    "id": "https://openalex.org/keywords/optical-coherence-tomography",
+                    "display_name": "Optical Coherence Tomography",
+                    "score": 0.512179
+                },
+                {
+                    "id": "https://openalex.org/keywords/ensemble-learning",
+                    "display_name": "Ensemble learning",
+                    "score": 0.5102322
+                },
+                {
+                    "id": "https://openalex.org/keywords/image-analysis",
+                    "display_name": "Image Analysis",
+                    "score": 0.504809
+                },
+                {
+                    "id": "https://openalex.org/keywords/optic-disk",
+                    "display_name": "Optic disk",
+                    "score": 0.43985638
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778818243",
+                    "wikidata": "https://www.wikidata.org/wiki/Q899552",
+                    "display_name": "Optical coherence tomography",
+                    "level": 2,
+                    "score": 0.80452013
+                },
+                {
+                    "id": "https://openalex.org/C2778527774",
+                    "wikidata": "https://www.wikidata.org/wiki/Q159701",
+                    "display_name": "Glaucoma",
+                    "level": 2,
+                    "score": 0.7435442
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.73423046
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.63933045
+                },
+                {
+                    "id": "https://openalex.org/C81363708",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+                    "display_name": "Convolutional neural network",
+                    "level": 2,
+                    "score": 0.6258884
+                },
+                {
+                    "id": "https://openalex.org/C2780592520",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4423908",
+                    "display_name": "Nerve fiber layer",
+                    "level": 3,
+                    "score": 0.54720086
+                },
+                {
+                    "id": "https://openalex.org/C45942800",
+                    "wikidata": "https://www.wikidata.org/wiki/Q245652",
+                    "display_name": "Ensemble learning",
+                    "level": 2,
+                    "score": 0.5102322
+                },
+                {
+                    "id": "https://openalex.org/C108583219",
+                    "wikidata": "https://www.wikidata.org/wiki/Q197536",
+                    "display_name": "Deep learning",
+                    "level": 2,
+                    "score": 0.48792765
+                },
+                {
+                    "id": "https://openalex.org/C2780837183",
+                    "wikidata": "https://www.wikidata.org/wiki/Q186029",
+                    "display_name": "Optic nerve",
+                    "level": 2,
+                    "score": 0.467224
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.4532238
+                },
+                {
+                    "id": "https://openalex.org/C2983497740",
+                    "wikidata": "https://www.wikidata.org/wiki/Q16873995",
+                    "display_name": "Optic disk",
+                    "level": 3,
+                    "score": 0.43985638
+                },
+                {
+                    "id": "https://openalex.org/C12267149",
+                    "wikidata": "https://www.wikidata.org/wiki/Q282453",
+                    "display_name": "Support vector machine",
+                    "level": 2,
+                    "score": 0.43601245
+                },
+                {
+                    "id": "https://openalex.org/C2781092963",
+                    "wikidata": "https://www.wikidata.org/wiki/Q650050",
+                    "display_name": "Intraocular pressure",
+                    "level": 2,
+                    "score": 0.41206777
+                },
+                {
+                    "id": "https://openalex.org/C118487528",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161437",
+                    "display_name": "Ophthalmology",
+                    "level": 1,
+                    "score": 0.27940455
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.24938762
+                }
+            ],
+            "mesh": [
+                {
+                    "descriptor_ui": "D005901",
+                    "descriptor_name": "Glaucoma",
+                    "qualifier_ui": "Q000000981",
+                    "qualifier_name": "diagnostic imaging",
+                    "is_major_topic": true
+                },
+                {
+                    "descriptor_ui": "D005901",
+                    "descriptor_name": "Glaucoma",
+                    "qualifier_ui": "Q000175",
+                    "qualifier_name": "diagnosis",
+                    "is_major_topic": true
+                },
+                {
+                    "descriptor_ui": "D000368",
+                    "descriptor_name": "Aged",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D000077321",
+                    "descriptor_name": "Deep Learning",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D005260",
+                    "descriptor_name": "Female",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D005901",
+                    "descriptor_name": "Glaucoma",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D006801",
+                    "descriptor_name": "Humans",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D007429",
+                    "descriptor_name": "Intraocular Pressure",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D007429",
+                    "descriptor_name": "Intraocular Pressure",
+                    "qualifier_ui": "Q000502",
+                    "qualifier_name": "physiology",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D007834",
+                    "descriptor_name": "Lasers",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D000069550",
+                    "descriptor_name": "Machine Learning",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D008297",
+                    "descriptor_name": "Male",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D009412",
+                    "descriptor_name": "Nerve Fibers",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D009412",
+                    "descriptor_name": "Nerve Fibers",
+                    "qualifier_ui": "Q000502",
+                    "qualifier_name": "physiology",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D016571",
+                    "descriptor_name": "Neural Networks, Computer",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D009887",
+                    "descriptor_name": "Ophthalmoscopy",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D009887",
+                    "descriptor_name": "Ophthalmoscopy",
+                    "qualifier_ui": "Q000379",
+                    "qualifier_name": "methods",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D009898",
+                    "descriptor_name": "Optic Disk",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D009898",
+                    "descriptor_name": "Optic Disk",
+                    "qualifier_ui": "Q000000981",
+                    "qualifier_name": "diagnostic imaging",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D012372",
+                    "descriptor_name": "ROC Curve",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D012160",
+                    "descriptor_name": "Retina",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D012160",
+                    "descriptor_name": "Retina",
+                    "qualifier_ui": "Q000000981",
+                    "qualifier_name": "diagnostic imaging",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D012165",
+                    "descriptor_name": "Retinal Ganglion Cells",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D012165",
+                    "descriptor_name": "Retinal Ganglion Cells",
+                    "qualifier_ui": "Q000502",
+                    "qualifier_name": "physiology",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D041623",
+                    "descriptor_name": "Tomography, Optical Coherence",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D041623",
+                    "descriptor_name": "Tomography, Optical Coherence",
+                    "qualifier_ui": "Q000379",
+                    "qualifier_name": "methods",
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D014794",
+                    "descriptor_name": "Visual Fields",
+                    "qualifier_ui": "",
+                    "qualifier_name": null,
+                    "is_major_topic": false
+                },
+                {
+                    "descriptor_ui": "D014794",
+                    "descriptor_name": "Visual Fields",
+                    "qualifier_ui": "Q000502",
+                    "qualifier_name": "physiology",
+                    "is_major_topic": false
+                }
+            ],
+            "locations_count": 4,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1371/journal.pone.0252339",
+                    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0252339&type=printable",
+                    "source": {
+                        "id": "https://openalex.org/S202381698",
+                        "display_name": "PLoS ONE",
+                        "issn_l": "1932-6203",
+                        "issn": [
+                            "1932-6203"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": true,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310315706",
+                        "host_organization_name": "Public Library of Science",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310315706"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Public Library of Science"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doaj.org/article/77cdf73337d745b49629b1d2f6859210",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306401280",
+                        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8177489",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S2764455111",
+                        "display_name": "PubMed Central",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1299303238",
+                        "host_organization_name": "National Institutes of Health",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1299303238"
+                        ],
+                        "host_organization_lineage_names": [
+                            "National Institutes of Health"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34086716",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306525036",
+                        "display_name": "PubMed",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I1299303238",
+                        "host_organization_name": "National Institutes of Health",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I1299303238"
+                        ],
+                        "host_organization_lineage_names": [
+                            "National Institutes of Health"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1371/journal.pone.0252339",
+                "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0252339&type=printable",
+                "source": {
+                    "id": "https://openalex.org/S202381698",
+                    "display_name": "PLoS ONE",
+                    "issn_l": "1932-6203",
+                    "issn": [
+                        "1932-6203"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310315706",
+                    "host_organization_name": "Public Library of Science",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310315706"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Public Library of Science"
+                    ],
+                    "type": "journal"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Reduced inequalities",
+                    "score": 0.53,
+                    "id": "https://metadata.un.org/sdg/10"
+                },
+                {
+                    "display_name": "Peace, justice, and strong institutions",
+                    "score": 0.45,
+                    "id": "https://metadata.un.org/sdg/16"
+                }
+            ],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320320471",
+                    "funder_display_name": "Rebecca L. Cooper Medical Research Foundation",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320322511",
+                    "funder_display_name": "Narodowe Centrum Nauki",
+                    "award_id": "2018/29/B/ST7/02451"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 36,
+            "referenced_works": [
+                "https://openalex.org/W1533861849",
+                "https://openalex.org/W1896510086",
+                "https://openalex.org/W1904365287",
+                "https://openalex.org/W2023488238",
+                "https://openalex.org/W2038705219",
+                "https://openalex.org/W2057266151",
+                "https://openalex.org/W2072750586",
+                "https://openalex.org/W2101234009",
+                "https://openalex.org/W2101807845",
+                "https://openalex.org/W2105748096",
+                "https://openalex.org/W2128759179",
+                "https://openalex.org/W2133671386",
+                "https://openalex.org/W2155806188",
+                "https://openalex.org/W2165698076",
+                "https://openalex.org/W2183341477",
+                "https://openalex.org/W2271840356",
+                "https://openalex.org/W2332566777",
+                "https://openalex.org/W2338203391",
+                "https://openalex.org/W2533800772",
+                "https://openalex.org/W2608854843",
+                "https://openalex.org/W2616952103",
+                "https://openalex.org/W2736608459",
+                "https://openalex.org/W2790299667",
+                "https://openalex.org/W2803613314",
+                "https://openalex.org/W2808330913",
+                "https://openalex.org/W2888829152",
+                "https://openalex.org/W2892348674",
+                "https://openalex.org/W2896056014",
+                "https://openalex.org/W2960170118",
+                "https://openalex.org/W2969678086",
+                "https://openalex.org/W2970508074",
+                "https://openalex.org/W2970650116",
+                "https://openalex.org/W2977922008",
+                "https://openalex.org/W2980444207",
+                "https://openalex.org/W2997774879",
+                "https://openalex.org/W3024324397"
+            ],
+            "related_works": [
+                "https://openalex.org/W3164978125",
+                "https://openalex.org/W3048836742",
+                "https://openalex.org/W2791439505",
+                "https://openalex.org/W2169255130",
+                "https://openalex.org/W2145827201",
+                "https://openalex.org/W2083237162",
+                "https://openalex.org/W2063464963",
+                "https://openalex.org/W2044206049",
+                "https://openalex.org/W2032895418",
+                "https://openalex.org/W1966138724"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "study": [
+                    1,
+                    166
+                ],
+                "aimed": [
+                    2
+                ],
+                "to": [
+                    3,
+                    48,
+                    137,
+                    183
+                ],
+                "assess": [
+                    4
+                ],
+                "the": [
+                    5,
+                    28,
+                    33,
+                    120,
+                    123,
+                    163,
+                    191
+                ],
+                "utility": [
+                    6
+                ],
+                "of": [
+                    7,
+                    27,
+                    35,
+                    58,
+                    67,
+                    72,
+                    89,
+                    94,
+                    122,
+                    128,
+                    185,
+                    190
+                ],
+                "optic": [
+                    8
+                ],
+                "nerve": [
+                    9,
+                    80
+                ],
+                "head": [
+                    10
+                ],
+                "(onh)": [
+                    11
+                ],
+                "en-face": [
+                    12
+                ],
+                "images,": [
+                    13
+                ],
+                "captured": [
+                    14
+                ],
+                "with": [
+                    15,
+                    181
+                ],
+                "scanning": [
+                    16
+                ],
+                "laser": [
+                    17
+                ],
+                "ophthalmoscopy": [
+                    18
+                ],
+                "(slo)": [
+                    19
+                ],
+                "during": [
+                    20
+                ],
+                "standard": [
+                    21
+                ],
+                "optical": [
+                    22
+                ],
+                "coherence": [
+                    23
+                ],
+                "tomography": [
+                    24
+                ],
+                "(oct)": [
+                    25
+                ],
+                "imaging": [
+                    26
+                ],
+                "posterior": [
+                    29
+                ],
+                "segment,": [
+                    30
+                ],
+                "and": [
+                    31,
+                    85,
+                    100,
+                    156
+                ],
+                "demonstrate": [
+                    32
+                ],
+                "potential": [
+                    34
+                ],
+                "deep": [
+                    36
+                ],
+                "learning": [
+                    37,
+                    135
+                ],
+                "(dl)": [
+                    38
+                ],
+                "ensemble": [
+                    39,
+                    149,
+                    171
+                ],
+                "method": [
+                    40
+                ],
+                "that": [
+                    41,
+                    168
+                ],
+                "operates": [
+                    42
+                ],
+                "in": [
+                    43,
+                    146
+                ],
+                "a": [
+                    44,
+                    65,
+                    126,
+                    177
+                ],
+                "low": [
+                    45
+                ],
+                "data": [
+                    46
+                ],
+                "regime": [
+                    47
+                ],
+                "differentiate": [
+                    49
+                ],
+                "glaucoma": [
+                    50,
+                    98,
+                    139,
+                    147
+                ],
+                "patients": [
+                    51,
+                    99
+                ],
+                "from": [
+                    52,
+                    162
+                ],
+                "healthy": [
+                    53
+                ],
+                "controls.": [
+                    54
+                ],
+                "The": [
+                    55,
+                    165
+                ],
+                "two": [
+                    56
+                ],
+                "groups": [
+                    57
+                ],
+                "subjects": [
+                    59,
+                    96
+                ],
+                "were": [
+                    60,
+                    103,
+                    130
+                ],
+                "initially": [
+                    61
+                ],
+                "categorized": [
+                    62
+                ],
+                "based": [
+                    63,
+                    140,
+                    151,
+                    158,
+                    172
+                ],
+                "on": [
+                    64,
+                    141,
+                    152,
+                    159,
+                    173
+                ],
+                "range": [
+                    66,
+                    127
+                ],
+                "clinical": [
+                    68
+                ],
+                "tests": [
+                    69
+                ],
+                "including": [
+                    70,
+                    132
+                ],
+                "measurements": [
+                    71
+                ],
+                "intraocular": [
+                    73
+                ],
+                "pressure,": [
+                    74
+                ],
+                "visual": [
+                    75
+                ],
+                "fields,": [
+                    76
+                ],
+                "oct": [
+                    77
+                ],
+                "derived": [
+                    78
+                ],
+                "retinal": [
+                    79
+                ],
+                "fiber": [
+                    81
+                ],
+                "layer": [
+                    82
+                ],
+                "(rnfl)": [
+                    83
+                ],
+                "thickness": [
+                    84
+                ],
+                "dilated": [
+                    86
+                ],
+                "stereoscopic": [
+                    87
+                ],
+                "examination": [
+                    88
+                ],
+                "onh.": [
+                    90
+                ],
+                "227": [
+                    91,
+                    95
+                ],
+                "slo": [
+                    92,
+                    115,
+                    174
+                ],
+                "images": [
+                    93,
+                    175
+                ],
+                "(105": [
+                    97
+                ],
+                "122": [
+                    101
+                ],
+                "controls)": [
+                    102
+                ],
+                "used.": [
+                    104
+                ],
+                "A": [
+                    105
+                ],
+                "new": [
+                    106
+                ],
+                "task-specific": [
+                    107
+                ],
+                "convolutional": [
+                    108
+                ],
+                "neural": [
+                    109
+                ],
+                "network": [
+                    110
+                ],
+                "architecture": [
+                    111
+                ],
+                "was": [
+                    112
+                ],
+                "developed": [
+                    113
+                ],
+                "for": [
+                    114
+                ],
+                "image-based": [
+                    116
+                ],
+                "classification.": [
+                    117
+                ],
+                "To": [
+                    118
+                ],
+                "benchmark": [
+                    119
+                ],
+                "results": [
+                    121
+                ],
+                "proposed": [
+                    124
+                ],
+                "method,": [
+                    125
+                ],
+                "classifiers": [
+                    129,
+                    157
+                ],
+                "tested": [
+                    131,
+                    193
+                ],
+                "five": [
+                    133
+                ],
+                "machine": [
+                    134
+                ],
+                "methods": [
+                    136
+                ],
+                "classify": [
+                    138
+                ],
+                "rnfl": [
+                    142
+                ],
+                "thickness-a": [
+                    143
+                ],
+                "well-known": [
+                    144
+                ],
+                "biomarker": [
+                    145
+                ],
+                "diagnostics,": [
+                    148
+                ],
+                "classifier": [
+                    150
+                ],
+                "inception": [
+                    153
+                ],
+                "v3": [
+                    154
+                ],
+                "architecture,": [
+                    155
+                ],
+                "features": [
+                    160
+                ],
+                "extracted": [
+                    161
+                ],
+                "image.": [
+                    164
+                ],
+                "shows": [
+                    167
+                ],
+                "cross-validation": [
+                    169
+                ],
+                "dl": [
+                    170
+                ],
+                "achieved": [
+                    176
+                ],
+                "good": [
+                    178
+                ],
+                "discrimination": [
+                    179
+                ],
+                "performance": [
+                    180
+                ],
+                "up": [
+                    182
+                ],
+                "0.962": [
+                    184
+                ],
+                "balanced": [
+                    186
+                ],
+                "accuracy,": [
+                    187
+                ],
+                "outperforming": [
+                    188
+                ],
+                "all": [
+                    189
+                ],
+                "other": [
+                    192
+                ],
+                "classifiers.": [
+                    194
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3164405530",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-13T15:54:45.502843",
+            "created_date": "2021-06-07"
+        },
+        {
+            "id": "https://openalex.org/W3094729426",
+            "doi": "https://doi.org/10.1364/osac.403102",
+            "title": "Deep learning approaches for segmenting Bruch’s membrane opening from OCT volumes",
+            "display_name": "Deep learning approaches for segmenting Bruch’s membrane opening from OCT volumes",
+            "publication_year": 2020,
+            "publication_date": "2020-10-30",
+            "ids": {
+                "openalex": "https://openalex.org/W3094729426",
+                "doi": "https://doi.org/10.1364/osac.403102",
+                "mag": "3094729426"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1364/osac.403102",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210187356",
+                    "display_name": "OSA Continuum",
+                    "issn_l": "2578-7519",
+                    "issn": [
+                        "2578-7519"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310315679",
+                    "host_organization_name": "Optica Publishing Group",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310315679"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Optica Publishing Group"
+                    ],
+                    "type": "journal"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1364/osac.403102",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5087900328",
+                        "display_name": "Dominika Sułot",
+                        "orcid": "https://orcid.org/0000-0002-0246-3223"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominika Sułot",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002372452",
+                        "display_name": "David Alonso‐Caneiro",
+                        "orcid": "https://orcid.org/0000-0002-7754-6592"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I160993911",
+                            "display_name": "Queensland University of Technology",
+                            "ror": "https://ror.org/03pnv4752",
+                            "country_code": "AU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Alonso-Caneiro",
+                    "raw_affiliation_strings": [
+                        "Queensland University of Technology (QUT), Contact Lens and Visual Optics Laboratory, Centre for Vision and Eye Research, School of Optometry and Vision Science, Kelvin Grove, QLD, 4059, Australia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Queensland University of Technology (QUT), Contact Lens and Visual Optics Laboratory, Centre for Vision and Eye Research, School of Optometry and Vision Science, Kelvin Grove, QLD, 4059, Australia",
+                            "institution_ids": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5053470224",
+                        "display_name": "D. Robert Iskander",
+                        "orcid": "https://orcid.org/0000-0002-5962-6206"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "D. Robert Iskander",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019",
+                                "https://openalex.org/I11923345"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5074839699",
+                        "display_name": "Michael J. Collins",
+                        "orcid": "https://orcid.org/0000-0001-5226-5498"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I160993911",
+                            "display_name": "Queensland University of Technology",
+                            "ror": "https://ror.org/03pnv4752",
+                            "country_code": "AU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michael J. Collins",
+                    "raw_affiliation_strings": [
+                        "Queensland University of Technology (QUT), Contact Lens and Visual Optics Laboratory, Centre for Vision and Eye Research, School of Optometry and Vision Science, Kelvin Grove, QLD, 4059, Australia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Queensland University of Technology (QUT), Contact Lens and Visual Optics Laboratory, Centre for Vision and Eye Research, School of Optometry and Vision Science, Kelvin Grove, QLD, 4059, Australia",
+                            "institution_ids": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 1372,
+                "currency": "USD",
+                "value_usd": 1372,
+                "provenance": "doaj"
+            },
+            "apc_paid": {
+                "value": 1372,
+                "currency": "USD",
+                "value_usd": 1372,
+                "provenance": "doaj"
+            },
+            "fwci": 0.727,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 7,
+            "citation_normalized_percentile": {
+                "value": 0.839077,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 83,
+                "max": 85
+            },
+            "biblio": {
+                "volume": "3",
+                "issue": "12",
+                "first_page": "3351",
+                "last_page": "3351"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11438",
+                "display_name": "Detection and Management of Retinal Diseases",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2741",
+                    "display_name": "Radiology, Nuclear Medicine and Imaging"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/27",
+                    "display_name": "Medicine"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/4",
+                    "display_name": "Health Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11438",
+                    "display_name": "Detection and Management of Retinal Diseases",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2741",
+                        "display_name": "Radiology, Nuclear Medicine and Imaging"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11569",
+                    "display_name": "Optical Coherence Tomography Imaging",
+                    "score": 0.9943,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2204",
+                        "display_name": "Biomedical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10250",
+                    "display_name": "Global Prevalence and Treatment of Glaucoma",
+                    "score": 0.99,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2731",
+                        "display_name": "Ophthalmology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/bruchs-membrane",
+                    "display_name": "Bruch's membrane",
+                    "score": 0.81067955
+                },
+                {
+                    "id": "https://openalex.org/keywords/deep-learning",
+                    "display_name": "Deep Learning",
+                    "score": 0.533829
+                },
+                {
+                    "id": "https://openalex.org/keywords/image-analysis",
+                    "display_name": "Image Analysis",
+                    "score": 0.523953
+                },
+                {
+                    "id": "https://openalex.org/keywords/sørensen–dice-coefficient",
+                    "display_name": "Sørensen–Dice coefficient",
+                    "score": 0.5205487
+                },
+                {
+                    "id": "https://openalex.org/keywords/tissue-optical-clearing",
+                    "display_name": "Tissue Optical Clearing",
+                    "score": 0.519891
+                },
+                {
+                    "id": "https://openalex.org/keywords/in-vivo-imaging",
+                    "display_name": "In Vivo Imaging",
+                    "score": 0.508316
+                },
+                {
+                    "id": "https://openalex.org/keywords/similarity",
+                    "display_name": "Similarity (geometry)",
+                    "score": 0.50758255
+                },
+                {
+                    "id": "https://openalex.org/keywords/vessel-segmentation",
+                    "display_name": "Vessel Segmentation",
+                    "score": 0.506311
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2776582655",
+                    "wikidata": "https://www.wikidata.org/wiki/Q991899",
+                    "display_name": "Bruch's membrane",
+                    "level": 4,
+                    "score": 0.81067955
+                },
+                {
+                    "id": "https://openalex.org/C89600930",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1423946",
+                    "display_name": "Segmentation",
+                    "level": 2,
+                    "score": 0.79410565
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.759823
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6662606
+                },
+                {
+                    "id": "https://openalex.org/C108583219",
+                    "wikidata": "https://www.wikidata.org/wiki/Q197536",
+                    "display_name": "Deep learning",
+                    "level": 2,
+                    "score": 0.6010782
+                },
+                {
+                    "id": "https://openalex.org/C163892561",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2613728",
+                    "display_name": "Sørensen–Dice coefficient",
+                    "level": 4,
+                    "score": 0.5205487
+                },
+                {
+                    "id": "https://openalex.org/C103278499",
+                    "wikidata": "https://www.wikidata.org/wiki/Q254465",
+                    "display_name": "Similarity (geometry)",
+                    "level": 3,
+                    "score": 0.50758255
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.46373287
+                },
+                {
+                    "id": "https://openalex.org/C124504099",
+                    "wikidata": "https://www.wikidata.org/wiki/Q56933",
+                    "display_name": "Image segmentation",
+                    "level": 3,
+                    "score": 0.43770355
+                },
+                {
+                    "id": "https://openalex.org/C160633673",
+                    "wikidata": "https://www.wikidata.org/wiki/Q355198",
+                    "display_name": "Pixel",
+                    "level": 2,
+                    "score": 0.43635744
+                },
+                {
+                    "id": "https://openalex.org/C62354387",
+                    "wikidata": "https://www.wikidata.org/wiki/Q875399",
+                    "display_name": "Boundary (topology)",
+                    "level": 2,
+                    "score": 0.410103
+                },
+                {
+                    "id": "https://openalex.org/C31972630",
+                    "wikidata": "https://www.wikidata.org/wiki/Q844240",
+                    "display_name": "Computer vision",
+                    "level": 1,
+                    "score": 0.39252377
+                },
+                {
+                    "id": "https://openalex.org/C115961682",
+                    "wikidata": "https://www.wikidata.org/wiki/Q860623",
+                    "display_name": "Image (mathematics)",
+                    "level": 2,
+                    "score": 0.37591386
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.1581901
+                },
+                {
+                    "id": "https://openalex.org/C118487528",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161437",
+                    "display_name": "Ophthalmology",
+                    "level": 1,
+                    "score": 0.08791044
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.08502856
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2780827179",
+                    "wikidata": "https://www.wikidata.org/wiki/Q422001",
+                    "display_name": "Retinal",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2778024200",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2346242",
+                    "display_name": "Retinal pigment epithelium",
+                    "level": 3,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1364/osac.403102",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210187356",
+                        "display_name": "OSA Continuum",
+                        "issn_l": "2578-7519",
+                        "issn": [
+                            "2578-7519"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": true,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310315679",
+                        "host_organization_name": "Optica Publishing Group",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310315679"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Optica Publishing Group"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://eprints.qut.edu.au/211343/1/86872231.pdf",
+                    "pdf_url": "https://eprints.qut.edu.au/211343/1/86872231.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306402607",
+                        "display_name": "QUT ePrints (Queensland University of Technology)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I160993911",
+                        "host_organization_name": "Queensland University of Technology",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I160993911"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Queensland University of Technology"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/10072/413105",
+                    "pdf_url": "https://research-repository.griffith.edu.au/bitstream/10072/413105/2/Alonso-Caneiro958642-Published.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4377196263",
+                        "display_name": "Griffith Research Online (Griffith University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I11701301",
+                        "host_organization_name": "Griffith University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I11701301"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Griffith University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "other-oa",
+                    "license_id": "https://openalex.org/licenses/other-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1364/osac.403102",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210187356",
+                    "display_name": "OSA Continuum",
+                    "issn_l": "2578-7519",
+                    "issn": [
+                        "2578-7519"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310315679",
+                    "host_organization_name": "Optica Publishing Group",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310315679"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Optica Publishing Group"
+                    ],
+                    "type": "journal"
+                },
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Peace, justice, and strong institutions",
+                    "score": 0.79,
+                    "id": "https://metadata.un.org/sdg/16"
+                }
+            ],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320320471",
+                    "funder_display_name": "Rebecca L. Cooper Medical Research Foundation",
+                    "award_id": null
+                },
+                {
+                    "funder": "https://openalex.org/F4320322511",
+                    "funder_display_name": "Narodowe Centrum Nauki",
+                    "award_id": "2018/29/B/ST7/02451"
+                },
+                {
+                    "funder": "https://openalex.org/F4320328499",
+                    "funder_display_name": "Narodowa Agencja Wymiany Akademickiej",
+                    "award_id": "PPI/APM/2019/1/00085/DEC/1"
+                },
+                {
+                    "funder": "https://openalex.org/F4320334705",
+                    "funder_display_name": "National Health and Medical Research Council",
+                    "award_id": "APP1186915"
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 34,
+            "referenced_works": [
+                "https://openalex.org/W1499915754",
+                "https://openalex.org/W1973875809",
+                "https://openalex.org/W2003968699",
+                "https://openalex.org/W2007014682",
+                "https://openalex.org/W2016203464",
+                "https://openalex.org/W2047474241",
+                "https://openalex.org/W2056467439",
+                "https://openalex.org/W2081872210",
+                "https://openalex.org/W2106255562",
+                "https://openalex.org/W2139235771",
+                "https://openalex.org/W2168558228",
+                "https://openalex.org/W2336829860",
+                "https://openalex.org/W2382215370",
+                "https://openalex.org/W2482254631",
+                "https://openalex.org/W2486188381",
+                "https://openalex.org/W2513240084",
+                "https://openalex.org/W2514829763",
+                "https://openalex.org/W2560078119",
+                "https://openalex.org/W2564149795",
+                "https://openalex.org/W2575285771",
+                "https://openalex.org/W2608854843",
+                "https://openalex.org/W2611659507",
+                "https://openalex.org/W2768217608",
+                "https://openalex.org/W2781475284",
+                "https://openalex.org/W2788786482",
+                "https://openalex.org/W2803921547",
+                "https://openalex.org/W2808330913",
+                "https://openalex.org/W2886169086",
+                "https://openalex.org/W2908934661",
+                "https://openalex.org/W2946778679",
+                "https://openalex.org/W2964015468",
+                "https://openalex.org/W2966347734",
+                "https://openalex.org/W2973920946",
+                "https://openalex.org/W3021426668"
+            ],
+            "related_works": [
+                "https://openalex.org/W4285827401",
+                "https://openalex.org/W2790662084",
+                "https://openalex.org/W2559722280",
+                "https://openalex.org/W2517104666",
+                "https://openalex.org/W2337415362",
+                "https://openalex.org/W2134924024",
+                "https://openalex.org/W2023558673",
+                "https://openalex.org/W2008656436",
+                "https://openalex.org/W2005437358",
+                "https://openalex.org/W1669643531"
+            ],
+            "abstract_inverted_index": {
+                "Automated": [
+                    0
+                ],
+                "segmentation": [
+                    1,
+                    23,
+                    56
+                ],
+                "of": [
+                    2,
+                    24,
+                    50,
+                    53,
+                    58,
+                    67,
+                    73,
+                    87,
+                    122,
+                    129,
+                    140,
+                    149,
+                    159
+                ],
+                "the": [
+                    3,
+                    25,
+                    51,
+                    59,
+                    80,
+                    85,
+                    88,
+                    93,
+                    106,
+                    116,
+                    147,
+                    157
+                ],
+                "eye’s": [
+                    4
+                ],
+                "morphological": [
+                    5
+                ],
+                "features": [
+                    6
+                ],
+                "in": [
+                    7,
+                    104,
+                    115,
+                    156
+                ],
+                "OCT": [
+                    8,
+                    68,
+                    160
+                ],
+                "datasets": [
+                    9
+                ],
+                "is": [
+                    10,
+                    109
+                ],
+                "fundamental": [
+                    11
+                ],
+                "to": [
+                    12,
+                    19,
+                    40,
+                    83
+                ],
+                "support": [
+                    13
+                ],
+                "rapid": [
+                    14
+                ],
+                "clinical": [
+                    15
+                ],
+                "decision": [
+                    16
+                ],
+                "making": [
+                    17
+                ],
+                "and": [
+                    18,
+                    131
+                ],
+                "avoid": [
+                    20
+                ],
+                "time-consuming": [
+                    21
+                ],
+                "manual": [
+                    22
+                ],
+                "images.": [
+                    26
+                ],
+                "In": [
+                    27
+                ],
+                "recent": [
+                    28
+                ],
+                "years,": [
+                    29
+                ],
+                "deep": [
+                    30
+                ],
+                "learning": [
+                    31
+                ],
+                "(DL)": [
+                    32
+                ],
+                "techniques": [
+                    33,
+                    75,
+                    155
+                ],
+                "have": [
+                    34
+                ],
+                "become": [
+                    35
+                ],
+                "a": [
+                    36,
+                    48,
+                    65,
+                    100,
+                    126,
+                    136
+                ],
+                "commonly": [
+                    37
+                ],
+                "employed": [
+                    38
+                ],
+                "approach": [
+                    39
+                ],
+                "tackle": [
+                    41
+                ],
+                "image": [
+                    42
+                ],
+                "analysis": [
+                    43
+                ],
+                "problems.": [
+                    44
+                ],
+                "This": [
+                    45
+                ],
+                "study": [
+                    46
+                ],
+                "provides": [
+                    47
+                ],
+                "description": [
+                    49
+                ],
+                "development": [
+                    52
+                ],
+                "automated": [
+                    54
+                ],
+                "DL": [
+                    55,
+                    74
+                ],
+                "methods": [
+                    57,
+                    152
+                ],
+                "Bruch’s": [
+                    60
+                ],
+                "membrane": [
+                    61
+                ],
+                "opening": [
+                    62
+                ],
+                "(BMO)": [
+                    63
+                ],
+                "from": [
+                    64
+                ],
+                "series": [
+                    66
+                ],
+                "cross-sectional": [
+                    69
+                ],
+                "scans.": [
+                    70
+                ],
+                "A": [
+                    71
+                ],
+                "range": [
+                    72
+                ],
+                "are": [
+                    76
+                ],
+                "systematically": [
+                    77
+                ],
+                "evaluated,": [
+                    78
+                ],
+                "with": [
+                    79,
+                    111,
+                    125,
+                    135
+                ],
+                "secondary": [
+                    81
+                ],
+                "goal": [
+                    82
+                ],
+                "understand": [
+                    84
+                ],
+                "effect": [
+                    86
+                ],
+                "network": [
+                    89
+                ],
+                "input": [
+                    90
+                ],
+                "size": [
+                    91
+                ],
+                "on": [
+                    92
+                ],
+                "model": [
+                    94
+                ],
+                "performance.": [
+                    95
+                ],
+                "The": [
+                    96,
+                    143
+                ],
+                "results": [
+                    97,
+                    114
+                ],
+                "indicate": [
+                    98
+                ],
+                "that": [
+                    99
+                ],
+                "fully": [
+                    101,
+                    150
+                ],
+                "semantic": [
+                    102,
+                    151
+                ],
+                "approach,": [
+                    103
+                ],
+                "which": [
+                    105
+                ],
+                "whole": [
+                    107
+                ],
+                "B-scan": [
+                    108
+                ],
+                "considered": [
+                    110
+                ],
+                "data": [
+                    112
+                ],
+                "augmentation,": [
+                    113
+                ],
+                "best": [
+                    117
+                ],
+                "performance,": [
+                    118
+                ],
+                "achieving": [
+                    119
+                ],
+                "high": [
+                    120
+                ],
+                "levels": [
+                    121
+                ],
+                "similarity": [
+                    123
+                ],
+                "metrics": [
+                    124
+                ],
+                "dice": [
+                    127
+                ],
+                "coefficient": [
+                    128
+                ],
+                "0.995": [
+                    130
+                ],
+                "BMO": [
+                    132
+                ],
+                "boundary": [
+                    133
+                ],
+                "localization": [
+                    134
+                ],
+                "mean": [
+                    137
+                ],
+                "absolute": [
+                    138
+                ],
+                "error": [
+                    139
+                ],
+                "1.15": [
+                    141
+                ],
+                "pixels.": [
+                    142
+                ],
+                "work": [
+                    144
+                ],
+                "further": [
+                    145
+                ],
+                "highlights": [
+                    146
+                ],
+                "importance": [
+                    148
+                ],
+                "over": [
+                    153
+                ],
+                "patch-based": [
+                    154
+                ],
+                "classification": [
+                    158
+                ],
+                "regions.": [
+                    161
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3094729426",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-24T16:04:22.706926",
+            "created_date": "2020-11-09"
+        },
+        {
+            "id": "https://openalex.org/W3168013836",
+            "doi": "https://doi.org/10.1007/978-3-030-77967-2_10",
+            "title": "Analysis of Variance Application in the Construction of Classifier Ensemble Based on Optimal Feature Subset for the Task of Supporting Glaucoma Diagnosis",
+            "display_name": "Analysis of Variance Application in the Construction of Classifier Ensemble Based on Optimal Feature Subset for the Task of Supporting Glaucoma Diagnosis",
+            "publication_year": 2021,
+            "publication_date": "2021-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3168013836",
+                "doi": "https://doi.org/10.1007/978-3-030-77967-2_10",
+                "mag": "3168013836"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-030-77967-2_10",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5087900328",
+                        "display_name": "Dominika Sułot",
+                        "orcid": "https://orcid.org/0000-0002-0246-3223"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominika Sułot",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wrocław, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wrocław, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5054430294",
+                        "display_name": "Paweł Zyblewski",
+                        "orcid": "https://orcid.org/0000-0002-4224-6709"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paweł Zyblewski",
+                    "raw_affiliation_strings": [
+                        "Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Wrocław, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Wrocław, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5059369082",
+                        "display_name": "Paweł Ksieniewicz",
+                        "orcid": "https://orcid.org/0000-0001-9578-8395"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paweł Ksieniewicz",
+                    "raw_affiliation_strings": [
+                        "Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Wrocław, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Systems and Computer Networks, Wroclaw University of Science and Technology, Wrocław, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 2.761,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.846087,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 58,
+                "max": 68
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "109",
+                "last_page": "117"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10250",
+                "display_name": "Global Prevalence and Treatment of Glaucoma",
+                "score": 0.9945,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2731",
+                    "display_name": "Ophthalmology"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/27",
+                    "display_name": "Medicine"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/4",
+                    "display_name": "Health Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10250",
+                    "display_name": "Global Prevalence and Treatment of Glaucoma",
+                    "score": 0.9945,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2731",
+                        "display_name": "Ophthalmology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11438",
+                    "display_name": "Detection and Management of Retinal Diseases",
+                    "score": 0.9807,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2741",
+                        "display_name": "Radiology, Nuclear Medicine and Imaging"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10640",
+                    "display_name": "Chemometrics in Analytical Chemistry and Food Technology",
+                    "score": 0.9779,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1602",
+                        "display_name": "Analytical Chemistry"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/16",
+                        "display_name": "Chemistry"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/hyperparameter",
+                    "display_name": "Hyperparameter",
+                    "score": 0.61114764
+                },
+                {
+                    "id": "https://openalex.org/keywords/glaucoma",
+                    "display_name": "Glaucoma",
+                    "score": 0.532756
+                },
+                {
+                    "id": "https://openalex.org/keywords/image-analysis",
+                    "display_name": "Image Analysis",
+                    "score": 0.50417
+                },
+                {
+                    "id": "https://openalex.org/keywords/ensemble-learning",
+                    "display_name": "Ensemble learning",
+                    "score": 0.5015099
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C106135958",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7291993",
+                    "display_name": "Random subspace method",
+                    "level": 3,
+                    "score": 0.8487833
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.81355536
+                },
+                {
+                    "id": "https://openalex.org/C95623464",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1096149",
+                    "display_name": "Classifier (UML)",
+                    "level": 2,
+                    "score": 0.69452953
+                },
+                {
+                    "id": "https://openalex.org/C32834561",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660730",
+                    "display_name": "Subspace topology",
+                    "level": 2,
+                    "score": 0.67279875
+                },
+                {
+                    "id": "https://openalex.org/C8642999",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4171168",
+                    "display_name": "Hyperparameter",
+                    "level": 2,
+                    "score": 0.61114764
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.6104818
+                },
+                {
+                    "id": "https://openalex.org/C148483581",
+                    "wikidata": "https://www.wikidata.org/wiki/Q446488",
+                    "display_name": "Feature selection",
+                    "level": 2,
+                    "score": 0.5667746
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.5395535
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.5019305
+                },
+                {
+                    "id": "https://openalex.org/C45942800",
+                    "wikidata": "https://www.wikidata.org/wiki/Q245652",
+                    "display_name": "Ensemble learning",
+                    "level": 2,
+                    "score": 0.5015099
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-030-77967-2_10",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 16,
+            "referenced_works": [
+                "https://openalex.org/W2034742711",
+                "https://openalex.org/W2036439084",
+                "https://openalex.org/W2089468765",
+                "https://openalex.org/W2101234009",
+                "https://openalex.org/W2113242816",
+                "https://openalex.org/W2462433223",
+                "https://openalex.org/W2946778679",
+                "https://openalex.org/W3014413945",
+                "https://openalex.org/W3042038200",
+                "https://openalex.org/W3043549138",
+                "https://openalex.org/W3137875472",
+                "https://openalex.org/W4237171445",
+                "https://openalex.org/W4285719527",
+                "https://openalex.org/W767037412",
+                "https://openalex.org/W91269260",
+                "https://openalex.org/W98199129"
+            ],
+            "related_works": [
+                "https://openalex.org/W4221136059",
+                "https://openalex.org/W2397292208",
+                "https://openalex.org/W2143234973",
+                "https://openalex.org/W2052615004",
+                "https://openalex.org/W2007593166",
+                "https://openalex.org/W1981866886",
+                "https://openalex.org/W1603777065",
+                "https://openalex.org/W1548677759",
+                "https://openalex.org/W1503513760",
+                "https://openalex.org/W109131529"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    24,
+                    110
+                ],
+                "following": [
+                    1
+                ],
+                "work": [
+                    2
+                ],
+                "aims": [
+                    3
+                ],
+                "to": [
+                    4,
+                    102,
+                    161,
+                    173
+                ],
+                "propose": [
+                    5
+                ],
+                "a": [
+                    6,
+                    29,
+                    91
+                ],
+                "new": [
+                    7
+                ],
+                "method": [
+                    8,
+                    83,
+                    111,
+                    137,
+                    163,
+                    172
+                ],
+                "of": [
+                    9,
+                    13,
+                    20,
+                    48,
+                    61,
+                    67,
+                    74,
+                    94,
+                    131,
+                    169,
+                    177
+                ],
+                "constructing": [
+                    10
+                ],
+                "an": [
+                    11,
+                    175
+                ],
+                "ensemble": [
+                    12,
+                    176
+                ],
+                "classifiers": [
+                    14,
+                    117,
+                    178
+                ],
+                "diversified": [
+                    15
+                ],
+                "by": [
+                    16,
+                    55,
+                    106
+                ],
+                "the": [
+                    17,
+                    21,
+                    59,
+                    65,
+                    72,
+                    79,
+                    81,
+                    95,
+                    98,
+                    103,
+                    107,
+                    132,
+                    136,
+                    144,
+                    159,
+                    167,
+                    170
+                ],
+                "appropriate": [
+                    18
+                ],
+                "selection": [
+                    19,
+                    127
+                ],
+                "problem": [
+                    22
+                ],
+                "subspace.": [
+                    23
+                ],
+                "experiments": [
+                    25
+                ],
+                "were": [
+                    26
+                ],
+                "performed": [
+                    27
+                ],
+                "on": [
+                    28
+                ],
+                "numerical": [
+                    30
+                ],
+                "dataset": [
+                    31
+                ],
+                "in": [
+                    32,
+                    78,
+                    141
+                ],
+                "which": [
+                    33,
+                    156
+                ],
+                "three": [
+                    34
+                ],
+                "groups": [
+                    35
+                ],
+                "are": [
+                    36
+                ],
+                "present:": [
+                    37
+                ],
+                "healthy": [
+                    38
+                ],
+                "controls,": [
+                    39
+                ],
+                "glaucoma": [
+                    40,
+                    43,
+                    68
+                ],
+                "suspects,": [
+                    41
+                ],
+                "and": [
+                    42,
+                    118,
+                    122
+                ],
+                "patients.": [
+                    44
+                ],
+                "Overall,": [
+                    45
+                ],
+                "it": [
+                    46
+                ],
+                "consists": [
+                    47
+                ],
+                "medical": [
+                    49
+                ],
+                "records": [
+                    50
+                ],
+                "from": [
+                    51,
+                    97
+                ],
+                "211": [
+                    52
+                ],
+                "cases": [
+                    53
+                ],
+                "described": [
+                    54
+                ],
+                "48": [
+                    56
+                ],
+                "features,": [
+                    57,
+                    80
+                ],
+                "being": [
+                    58
+                ],
+                "values": [
+                    60
+                ],
+                "biomarkers,": [
+                    62
+                ],
+                "collected": [
+                    63
+                ],
+                "at": [
+                    64
+                ],
+                "time": [
+                    66
+                ],
+                "diagnosis.": [
+                    69
+                ],
+                "To": [
+                    70
+                ],
+                "avoid": [
+                    71
+                ],
+                "risk": [
+                    73
+                ],
+                "losing": [
+                    75
+                ],
+                "information": [
+                    76
+                ],
+                "hidden": [
+                    77
+                ],
+                "proposed": [
+                    82,
+                    171
+                ],
+                "–": [
+                    84,
+                    89
+                ],
+                "for": [
+                    85,
+                    152,
+                    179
+                ],
+                "each": [
+                    86
+                ],
+                "base": [
+                    87,
+                    116,
+                    134
+                ],
+                "classifier": [
+                    88
+                ],
+                "draws": [
+                    90
+                ],
+                "separate": [
+                    92
+                ],
+                "subset": [
+                    93
+                ],
+                "features": [
+                    96
+                ],
+                "available": [
+                    99
+                ],
+                "pool,": [
+                    100
+                ],
+                "according": [
+                    101
+                ],
+                "probability": [
+                    104
+                ],
+                "determined": [
+                    105
+                ],
+                "anova": [
+                    108
+                ],
+                "test.": [
+                    109
+                ],
+                "was": [
+                    112
+                ],
+                "validated": [
+                    113
+                ],
+                "with": [
+                    114,
+                    124,
+                    143
+                ],
+                "four": [
+                    115
+                ],
+                "various": [
+                    119
+                ],
+                "subspace": [
+                    120,
+                    154
+                ],
+                "sizes,": [
+                    121
+                ],
+                "compared": [
+                    123
+                ],
+                "existing": [
+                    125
+                ],
+                "feature": [
+                    126
+                ],
+                "methods.": [
+                    128
+                ],
+                "For": [
+                    129
+                ],
+                "all": [
+                    130
+                ],
+                "presented": [
+                    133
+                ],
+                "classifiers,": [
+                    135
+                ],
+                "achieved": [
+                    138
+                ],
+                "superior": [
+                    139
+                ],
+                "results": [
+                    140
+                ],
+                "comparison": [
+                    142
+                ],
+                "others.": [
+                    145
+                ],
+                "A": [
+                    146
+                ],
+                "high": [
+                    147
+                ],
+                "generalization": [
+                    148
+                ],
+                "power": [
+                    149
+                ],
+                "is": [
+                    150
+                ],
+                "maintained": [
+                    151
+                ],
+                "different": [
+                    153
+                ],
+                "sizes": [
+                    155
+                ],
+                "also": [
+                    157
+                ],
+                "reduces": [
+                    158
+                ],
+                "need": [
+                    160
+                ],
+                "optimize": [
+                    162
+                ],
+                "hyperparameters.": [
+                    164
+                ],
+                "Experiments": [
+                    165
+                ],
+                "confirmed": [
+                    166
+                ],
+                "effectiveness": [
+                    168
+                ],
+                "create": [
+                    174
+                ],
+                "small,": [
+                    180
+                ],
+                "high-dimensional": [
+                    181
+                ],
+                "datasets.": [
+                    182
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3168013836",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T00:58:39.503064",
+            "created_date": "2021-06-22"
+        },
+        {
+            "id": "https://openalex.org/W3195038197",
+            "doi": null,
+            "title": "Differentiating glaucoma patients from healthy controls and glaucoma suspects using deep learning",
+            "display_name": "Differentiating glaucoma patients from healthy controls and glaucoma suspects using deep learning",
+            "publication_year": 2020,
+            "publication_date": "2020-06-10",
+            "ids": {
+                "openalex": "https://openalex.org/W3195038197",
+                "mag": "3195038197"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://iovs.arvojournals.org/article.aspx?articleid=2767151",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S76304953",
+                    "display_name": "Investigative Ophthalmology & Visual Science",
+                    "issn_l": "0146-0404",
+                    "issn": [
+                        "0146-0404",
+                        "1552-5783"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": true,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310321950",
+                    "host_organization_name": "Cadmus Press",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310321950"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cadmus Press"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5087900328",
+                        "display_name": "Dominika Sułot",
+                        "orcid": "https://orcid.org/0000-0002-0246-3223"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Dominika Sulot",
+                    "raw_affiliation_strings": [
+                        "Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5002372452",
+                        "display_name": "David Alonso‐Caneiro",
+                        "orcid": "https://orcid.org/0000-0002-7754-6592"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I160993911",
+                            "display_name": "Queensland University of Technology",
+                            "ror": "https://ror.org/03pnv4752",
+                            "country_code": "AU",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "AU"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Alonso-Caneiro",
+                    "raw_affiliation_strings": [
+                        "School of Optometry and Vision Science, Queensland University of Technology, Brisbane, Queensland, Australia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Optometry and Vision Science, Queensland University of Technology, Brisbane, Queensland, Australia",
+                            "institution_ids": [
+                                "https://openalex.org/I160993911"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5051344818",
+                        "display_name": "Patrycja Krzyżanowska-Berkowska",
+                        "orcid": "https://orcid.org/0000-0001-8034-2534"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I385303915",
+                            "display_name": "Wroclaw Medical University",
+                            "ror": "https://ror.org/01qpw1b93",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I385303915"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Patrycja Krzyzanowska-Berkowska",
+                    "raw_affiliation_strings": [
+                        "Ophthalmology, Wroclaw Medical University, Wroclaw, Poland."
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Ophthalmology, Wroclaw Medical University, Wroclaw, Poland.",
+                            "institution_ids": [
+                                "https://openalex.org/I385303915"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5053470224",
+                        "display_name": "D. Robert Iskander",
+                        "orcid": "https://orcid.org/0000-0002-5962-6206"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "D. Robert Iskander",
+                    "raw_affiliation_strings": [
+                        "Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Biomedical Engineering, Wroclaw University of Science and Technology, Wroclaw, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 1850,
+                "currency": "USD",
+                "value_usd": 1850,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 61
+            },
+            "biblio": {
+                "volume": "61",
+                "issue": "7",
+                "first_page": "1648",
+                "last_page": "1648"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11438",
+                "display_name": "Detection and Management of Retinal Diseases",
+                "score": 0.9864,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2741",
+                    "display_name": "Radiology, Nuclear Medicine and Imaging"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/27",
+                    "display_name": "Medicine"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/4",
+                    "display_name": "Health Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11438",
+                    "display_name": "Detection and Management of Retinal Diseases",
+                    "score": 0.9864,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2741",
+                        "display_name": "Radiology, Nuclear Medicine and Imaging"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10250",
+                    "display_name": "Global Prevalence and Treatment of Glaucoma",
+                    "score": 0.9143,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2731",
+                        "display_name": "Ophthalmology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/deep-learning",
+                    "display_name": "Deep Learning",
+                    "score": 0.586918
+                },
+                {
+                    "id": "https://openalex.org/keywords/glaucoma",
+                    "display_name": "Glaucoma",
+                    "score": 0.577955
+                },
+                {
+                    "id": "https://openalex.org/keywords/image-analysis",
+                    "display_name": "Image Analysis",
+                    "score": 0.517067
+                },
+                {
+                    "id": "https://openalex.org/keywords/primary-open-angle-glaucoma",
+                    "display_name": "Primary Open-Angle Glaucoma",
+                    "score": 0.51394
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778527774",
+                    "wikidata": "https://www.wikidata.org/wiki/Q159701",
+                    "display_name": "Glaucoma",
+                    "level": 2,
+                    "score": 0.89846396
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.67273074
+                },
+                {
+                    "id": "https://openalex.org/C118487528",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161437",
+                    "display_name": "Ophthalmology",
+                    "level": 1,
+                    "score": 0.6524354
+                },
+                {
+                    "id": "https://openalex.org/C119767625",
+                    "wikidata": "https://www.wikidata.org/wiki/Q618211",
+                    "display_name": "Optometry",
+                    "level": 1,
+                    "score": 0.49258167
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://iovs.arvojournals.org/article.aspx?articleid=2767151",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S76304953",
+                        "display_name": "Investigative Ophthalmology & Visual Science",
+                        "issn_l": "0146-0404",
+                        "issn": [
+                            "0146-0404",
+                            "1552-5783"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": true,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310321950",
+                        "host_organization_name": "Cadmus Press",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310321950"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cadmus Press"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Zero hunger",
+                    "score": 0.59,
+                    "id": "https://metadata.un.org/sdg/2"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W831555537",
+                "https://openalex.org/W811738348",
+                "https://openalex.org/W811058161",
+                "https://openalex.org/W3093499791",
+                "https://openalex.org/W3028837932",
+                "https://openalex.org/W3018240012",
+                "https://openalex.org/W2994040466",
+                "https://openalex.org/W2993621342",
+                "https://openalex.org/W2991859722",
+                "https://openalex.org/W2966499612",
+                "https://openalex.org/W2947053744",
+                "https://openalex.org/W2758152755",
+                "https://openalex.org/W2583339211",
+                "https://openalex.org/W2430998878",
+                "https://openalex.org/W2409302567",
+                "https://openalex.org/W2409147734",
+                "https://openalex.org/W2350923514",
+                "https://openalex.org/W2203420718",
+                "https://openalex.org/W2127379451",
+                "https://openalex.org/W2021817819"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3195038197",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T19:29:09.347421",
+            "created_date": "2021-08-30"
+        },
+        {
+            "id": "https://openalex.org/W3208119211",
+            "doi": "https://doi.org/10.1007/978-3-030-88976-0_19",
+            "title": "Selection of Interpretable Decision Tree as a Method for Classification of Early and Developed Glaucoma",
+            "display_name": "Selection of Interpretable Decision Tree as a Method for Classification of Early and Developed Glaucoma",
+            "publication_year": 2021,
+            "publication_date": "2021-10-28",
+            "ids": {
+                "openalex": "https://openalex.org/W3208119211",
+                "doi": "https://doi.org/10.1007/978-3-030-88976-0_19",
+                "mag": "3208119211"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-030-88976-0_19",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S2764905038",
+                    "display_name": "Advances in intelligent systems and computing",
+                    "issn_l": "2194-5365",
+                    "issn": [
+                        "2194-5365",
+                        "2194-5357"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319965",
+                    "host_organization_name": "Springer Nature",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5087900328",
+                        "display_name": "Dominika Sułot",
+                        "orcid": "https://orcid.org/0000-0002-0246-3223"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I11923345",
+                            "display_name": "Wrocław University of Science and Technology",
+                            "ror": "https://ror.org/008fyn775",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I11923345"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Dominika Sułot",
+                    "raw_affiliation_strings": [
+                        "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wybrzeże Stanisława Wyspiańskiego 27, 50-370, Wrocław, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Biomedical Engineering, Wroclaw University of Science and Technology, Wybrzeże Stanisława Wyspiańskiego 27, 50-370, Wrocław, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I11923345",
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5087900328"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I11923345",
+                "https://openalex.org/I686019"
+            ],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 58
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "144",
+                "last_page": "150"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10250",
+                "display_name": "Global Prevalence and Treatment of Glaucoma",
+                "score": 0.9999,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2731",
+                    "display_name": "Ophthalmology"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/27",
+                    "display_name": "Medicine"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/4",
+                    "display_name": "Health Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10250",
+                    "display_name": "Global Prevalence and Treatment of Glaucoma",
+                    "score": 0.9999,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2731",
+                        "display_name": "Ophthalmology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11438",
+                    "display_name": "Detection and Management of Retinal Diseases",
+                    "score": 0.9974,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2741",
+                        "display_name": "Radiology, Nuclear Medicine and Imaging"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/interpretability",
+                    "display_name": "Interpretability",
+                    "score": 0.97584367
+                },
+                {
+                    "id": "https://openalex.org/keywords/glaucoma",
+                    "display_name": "Glaucoma",
+                    "score": 0.542109
+                },
+                {
+                    "id": "https://openalex.org/keywords/tree",
+                    "display_name": "Tree (set theory)",
+                    "score": 0.448039
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2781067378",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17027399",
+                    "display_name": "Interpretability",
+                    "level": 2,
+                    "score": 0.97584367
+                },
+                {
+                    "id": "https://openalex.org/C176217482",
+                    "wikidata": "https://www.wikidata.org/wiki/Q860554",
+                    "display_name": "Metric (unit)",
+                    "level": 2,
+                    "score": 0.680879
+                },
+                {
+                    "id": "https://openalex.org/C84525736",
+                    "wikidata": "https://www.wikidata.org/wiki/Q831366",
+                    "display_name": "Decision tree",
+                    "level": 2,
+                    "score": 0.67981505
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.6267954
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.62416375
+                },
+                {
+                    "id": "https://openalex.org/C2778527774",
+                    "wikidata": "https://www.wikidata.org/wiki/Q159701",
+                    "display_name": "Glaucoma",
+                    "level": 2,
+                    "score": 0.6125399
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.5636965
+                },
+                {
+                    "id": "https://openalex.org/C81917197",
+                    "wikidata": "https://www.wikidata.org/wiki/Q628760",
+                    "display_name": "Selection (genetic algorithm)",
+                    "level": 2,
+                    "score": 0.5460907
+                },
+                {
+                    "id": "https://openalex.org/C83546350",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1139051",
+                    "display_name": "Regression",
+                    "level": 2,
+                    "score": 0.48682493
+                },
+                {
+                    "id": "https://openalex.org/C113174947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2859736",
+                    "display_name": "Tree (set theory)",
+                    "level": 2,
+                    "score": 0.448039
+                },
+                {
+                    "id": "https://openalex.org/C48921125",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10861030",
+                    "display_name": "Linear regression",
+                    "level": 2,
+                    "score": 0.44548455
+                },
+                {
+                    "id": "https://openalex.org/C2780385302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q367158",
+                    "display_name": "Protocol (science)",
+                    "level": 3,
+                    "score": 0.4345009
+                },
+                {
+                    "id": "https://openalex.org/C152877465",
+                    "wikidata": "https://www.wikidata.org/wiki/Q208042",
+                    "display_name": "Regression analysis",
+                    "level": 2,
+                    "score": 0.41181087
+                },
+                {
+                    "id": "https://openalex.org/C124101348",
+                    "wikidata": "https://www.wikidata.org/wiki/Q172491",
+                    "display_name": "Data mining",
+                    "level": 1,
+                    "score": 0.41111827
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.34860379
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.2675827
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.25334418
+                },
+                {
+                    "id": "https://openalex.org/C71924100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                    "display_name": "Medicine",
+                    "level": 0,
+                    "score": 0.23742744
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.07073274
+                },
+                {
+                    "id": "https://openalex.org/C118487528",
+                    "wikidata": "https://www.wikidata.org/wiki/Q161437",
+                    "display_name": "Ophthalmology",
+                    "level": 1,
+                    "score": 0.06884107
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C21547014",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+                    "display_name": "Operations management",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C204787440",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188504",
+                    "display_name": "Alternative medicine",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C142724271",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7208",
+                    "display_name": "Pathology",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-030-88976-0_19",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S2764905038",
+                        "display_name": "Advances in intelligent systems and computing",
+                        "issn_l": "2194-5365",
+                        "issn": [
+                            "2194-5365",
+                            "2194-5357"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319965",
+                        "host_organization_name": "Springer Nature",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Peace, justice, and strong institutions",
+                    "score": 0.72,
+                    "id": "https://metadata.un.org/sdg/16"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 23,
+            "referenced_works": [
+                "https://openalex.org/W2013525763",
+                "https://openalex.org/W2016023958",
+                "https://openalex.org/W2021933371",
+                "https://openalex.org/W2057266151",
+                "https://openalex.org/W2101234009",
+                "https://openalex.org/W2106411961",
+                "https://openalex.org/W2332566777",
+                "https://openalex.org/W2782519866",
+                "https://openalex.org/W2782845052",
+                "https://openalex.org/W2884563238",
+                "https://openalex.org/W2913240367",
+                "https://openalex.org/W2918439342",
+                "https://openalex.org/W2974131077",
+                "https://openalex.org/W2983133404",
+                "https://openalex.org/W2997037757",
+                "https://openalex.org/W3082465265",
+                "https://openalex.org/W3092462775",
+                "https://openalex.org/W3094729426",
+                "https://openalex.org/W3122090364",
+                "https://openalex.org/W3137875472",
+                "https://openalex.org/W3145506661",
+                "https://openalex.org/W767037412",
+                "https://openalex.org/W98199129"
+            ],
+            "related_works": [
+                "https://openalex.org/W4390569940",
+                "https://openalex.org/W4361193272",
+                "https://openalex.org/W4293151273",
+                "https://openalex.org/W4233024177",
+                "https://openalex.org/W3174613421",
+                "https://openalex.org/W31220157",
+                "https://openalex.org/W2905433371",
+                "https://openalex.org/W2888392564",
+                "https://openalex.org/W2288557197",
+                "https://openalex.org/W2101914902"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    40,
+                    117,
+                    156
+                ],
+                "purpose": [
+                    1
+                ],
+                "is": [
+                    2,
+                    43
+                ],
+                "to": [
+                    3,
+                    13,
+                    64,
+                    80,
+                    89,
+                    106,
+                    136,
+                    201
+                ],
+                "develop": [
+                    4
+                ],
+                "a": [
+                    5,
+                    44,
+                    166,
+                    202
+                ],
+                "pattern": [
+                    6
+                ],
+                "recognition": [
+                    7
+                ],
+                "model": [
+                    8,
+                    108,
+                    142,
+                    178
+                ],
+                "that": [
+                    9,
+                    159
+                ],
+                "would": [
+                    10
+                ],
+                "be": [
+                    11
+                ],
+                "able": [
+                    12
+                ],
+                "classify": [
+                    14
+                ],
+                "three": [
+                    15,
+                    58
+                ],
+                "groups": [
+                    16,
+                    59
+                ],
+                "of": [
+                    17,
+                    47,
+                    53,
+                    68,
+                    95,
+                    140,
+                    151,
+                    176,
+                    195,
+                    204
+                ],
+                "glaucoma": [
+                    18,
+                    24,
+                    27
+                ],
+                "progression": [
+                    19
+                ],
+                "(which": [
+                    20
+                ],
+                "are:": [
+                    21
+                ],
+                "healthy": [
+                    22
+                ],
+                "controls,": [
+                    23
+                ],
+                "suspects,": [
+                    25
+                ],
+                "and": [
+                    26,
+                    71,
+                    83,
+                    86,
+                    97,
+                    129,
+                    148,
+                    171,
+                    198
+                ],
+                "patients)": [
+                    28
+                ],
+                "while": [
+                    29,
+                    102
+                ],
+                "being": [
+                    30,
+                    35
+                ],
+                "interpretable": [
+                    31
+                ],
+                "by": [
+                    32,
+                    60
+                ],
+                "medical": [
+                    33
+                ],
+                "doctors,": [
+                    34
+                ],
+                "non-expert": [
+                    36
+                ],
+                "in": [
+                    37,
+                    126,
+                    153
+                ],
+                "machine": [
+                    38
+                ],
+                "learning.": [
+                    39
+                ],
+                "utilized": [
+                    41
+                ],
+                "dataset": [
+                    42
+                ],
+                "numerical": [
+                    45,
+                    66
+                ],
+                "collection": [
+                    46
+                ],
+                "48": [
+                    48
+                ],
+                "biomarkers": [
+                    49
+                ],
+                "acquired": [
+                    50
+                ],
+                "from": [
+                    51,
+                    114
+                ],
+                "each": [
+                    52
+                ],
+                "211": [
+                    54
+                ],
+                "patients": [
+                    55
+                ],
+                "classified": [
+                    56
+                ],
+                "into": [
+                    57
+                ],
+                "an": [
+                    61
+                ],
+                "ophthalmologist.": [
+                    62
+                ],
+                "Due": [
+                    63
+                ],
+                "the": [
+                    65,
+                    69,
+                    72,
+                    91,
+                    99,
+                    107,
+                    110,
+                    115,
+                    127,
+                    138,
+                    141,
+                    149,
+                    154,
+                    174,
+                    177,
+                    193,
+                    196
+                ],
+                "type": [
+                    67
+                ],
+                "features": [
+                    70
+                ],
+                "high": [
+                    73,
+                    167
+                ],
+                "need": [
+                    74
+                ],
+                "for": [
+                    75
+                ],
+                "interpretability,": [
+                    76
+                ],
+                "it": [
+                    77
+                ],
+                "was": [
+                    78,
+                    124
+                ],
+                "decided": [
+                    79
+                ],
+                "employ": [
+                    81
+                ],
+                "Classification": [
+                    82,
+                    197
+                ],
+                "Regression": [
+                    84,
+                    199
+                ],
+                "Trees,": [
+                    85
+                ],
+                "optimize": [
+                    87
+                ],
+                "them": [
+                    88
+                ],
+                "obtain": [
+                    90
+                ],
+                "smallest": [
+                    92
+                ],
+                "possible": [
+                    93
+                ],
+                "number": [
+                    94,
+                    150
+                ],
+                "nodes": [
+                    96,
+                    152
+                ],
+                "thus": [
+                    98
+                ],
+                "highest": [
+                    100,
+                    111
+                ],
+                "interpretability": [
+                    101
+                ],
+                "maintaining": [
+                    103
+                ],
+                "statistical": [
+                    104
+                ],
+                "dependence": [
+                    105
+                ],
+                "with": [
+                    109
+                ],
+                "quality": [
+                    112,
+                    139
+                ],
+                "metric": [
+                    113,
+                    147
+                ],
+                "review.": [
+                    116
+                ],
+                "5": [
+                    118,
+                    121
+                ],
+                "$$\\times": [
+                    119
+                ],
+                "$$": [
+                    120
+                ],
+                "cross-validation": [
+                    122
+                ],
+                "protocol": [
+                    123
+                ],
+                "used": [
+                    125
+                ],
+                "designed": [
+                    128
+                ],
+                "conducted": [
+                    130
+                ],
+                "experiments.": [
+                    131
+                ],
+                "Two": [
+                    132
+                ],
+                "criteria": [
+                    133
+                ],
+                "were": [
+                    134
+                ],
+                "validated": [
+                    135
+                ],
+                "assess": [
+                    137
+                ],
+                "selection": [
+                    143
+                ],
+                "–": [
+                    144,
+                    179
+                ],
+                "balanced": [
+                    145,
+                    168
+                ],
+                "accuracy": [
+                    146,
+                    169
+                ],
+                "tree.": [
+                    155
+                ],
+                "results": [
+                    157
+                ],
+                "indicate": [
+                    158
+                ],
+                "this": [
+                    160,
+                    189
+                ],
+                "fairly": [
+                    161
+                ],
+                "simple": [
+                    162
+                ],
+                "approach": [
+                    163,
+                    190
+                ],
+                "could": [
+                    164
+                ],
+                "preserve": [
+                    165
+                ],
+                "score": [
+                    170
+                ],
+                "simultaneously": [
+                    172
+                ],
+                "reduce": [
+                    173,
+                    192
+                ],
+                "size": [
+                    175,
+                    194
+                ],
+                "thereby": [
+                    180
+                ],
+                "increasing": [
+                    181
+                ],
+                "its": [
+                    182,
+                    205
+                ],
+                "interpretability.": [
+                    183
+                ],
+                "For": [
+                    184
+                ],
+                "$$\\alpha": [
+                    185
+                ],
+                "=": [
+                    186
+                ],
+                "0.2$$": [
+                    187
+                ],
+                ",": [
+                    188
+                ],
+                "can": [
+                    191
+                ],
+                "Trees": [
+                    200
+                ],
+                "quarter": [
+                    203
+                ],
+                "original": [
+                    206
+                ],
+                "spread.": [
+                    207
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3208119211",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T19:28:08.210112",
+            "created_date": "2021-11-08"
+        }
+    ],
+    "group_by": []
+}

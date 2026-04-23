@@ -1,0 +1,5043 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 64,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W4322765999",
+            "doi": "https://doi.org/10.1016/j.jocs.2023.101981",
+            "title": "Multi-discretization domain specific language and code generation for differential equations",
+            "display_name": "Multi-discretization domain specific language and code generation for differential equations",
+            "publication_year": 2023,
+            "publication_date": "2023-03-02",
+            "ids": {
+                "openalex": "https://openalex.org/W4322765999",
+                "doi": "https://doi.org/10.1016/j.jocs.2023.101981"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2023.101981",
+                "pdf_url": "http://manuscript.elsevier.com/S1877750323000418/pdf/S1877750323000418.pdf",
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "http://manuscript.elsevier.com/S1877750323000418/pdf/S1877750323000418.pdf",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5079847651",
+                        "display_name": "Eric Heisler",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Eric Heisler",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007641857",
+                        "display_name": "Aadesh Deshmukh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Aadesh Deshmukh",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5043784045",
+                        "display_name": "Sandip Mazumder",
+                        "orcid": "https://orcid.org/0000-0002-5236-1356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I52357470",
+                            "display_name": "The Ohio State University",
+                            "ror": "https://ror.org/00rs6vg23",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I52357470"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sandip Mazumder",
+                    "raw_affiliation_strings": [
+                        "Department of Mechanical and Aerospace Engineering, The Ohio State University, Columbus, 43210, OH, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Mechanical and Aerospace Engineering, The Ohio State University, Columbus, 43210, OH, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I52357470"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5027517817",
+                        "display_name": "P. Sadayappan",
+                        "orcid": "https://orcid.org/0000-0002-4737-2034"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ponnuswamy Sadayappan",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5051806400",
+                        "display_name": "Hari Sundar",
+                        "orcid": "https://orcid.org/0000-0001-9001-5107"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hari Sundar",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, 84112, UT, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5079847651"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I223532165"
+            ],
+            "apc_list": {
+                "value": 2810,
+                "currency": "USD",
+                "value_usd": 2810,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 1.099,
+            "has_fulltext": false,
+            "cited_by_count": 3,
+            "citation_normalized_percentile": {
+                "value": 0.999832,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 90
+            },
+            "biblio": {
+                "volume": "68",
+                "issue": null,
+                "first_page": "101981",
+                "last_page": "101981"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11206",
+                "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                "score": 0.9954,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/3109",
+                    "display_name": "Statistical and Nonlinear Physics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/31",
+                    "display_name": "Physics and Astronomy"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9954,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11416",
+                    "display_name": "Numerical Integration Methods for Differential Equations",
+                    "score": 0.9939,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2612",
+                        "display_name": "Numerical Analysis"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9891,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/partial-differential-equations",
+                    "display_name": "Partial Differential Equations",
+                    "score": 0.54365
+                },
+                {
+                    "id": "https://openalex.org/keywords/pde-constrained-optimization",
+                    "display_name": "PDE-Constrained Optimization",
+                    "score": 0.516361
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-element-methods",
+                    "display_name": "Finite Element Methods",
+                    "score": 0.513373
+                },
+                {
+                    "id": "https://openalex.org/keywords/nonlinear-systems",
+                    "display_name": "Nonlinear Systems",
+                    "score": 0.50694
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.41847086
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C93779851",
+                    "wikidata": "https://www.wikidata.org/wiki/Q271977",
+                    "display_name": "Partial differential equation",
+                    "level": 2,
+                    "score": 0.7563038
+                },
+                {
+                    "id": "https://openalex.org/C73000952",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17007827",
+                    "display_name": "Discretization",
+                    "level": 2,
+                    "score": 0.66886294
+                },
+                {
+                    "id": "https://openalex.org/C50478463",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1401936",
+                    "display_name": "Finite volume method",
+                    "level": 2,
+                    "score": 0.5609111
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.5484737
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.49320143
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.46580678
+                },
+                {
+                    "id": "https://openalex.org/C36503486",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+                    "display_name": "Domain (mathematical analysis)",
+                    "level": 2,
+                    "score": 0.4623199
+                },
+                {
+                    "id": "https://openalex.org/C165995430",
+                    "wikidata": "https://www.wikidata.org/wiki/Q891653",
+                    "display_name": "Boltzmann equation",
+                    "level": 2,
+                    "score": 0.42626446
+                },
+                {
+                    "id": "https://openalex.org/C64057670",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4381442",
+                    "display_name": "First-order partial differential equation",
+                    "level": 3,
+                    "score": 0.42051128
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.41847086
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.41140345
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.39820874
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.26262867
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.12682104
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.jocs.2023.101981",
+                    "pdf_url": "http://manuscript.elsevier.com/S1877750323000418/pdf/S1877750323000418.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S192071280",
+                        "display_name": "Journal of Computational Science",
+                        "issn_l": "1877-7503",
+                        "issn": [
+                            "1877-7503",
+                            "1877-7511"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "publisher-specific-oa",
+                    "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2023.101981",
+                "pdf_url": "http://manuscript.elsevier.com/S1877750323000418/pdf/S1877750323000418.pdf",
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/17",
+                    "display_name": "Partnerships for the goals",
+                    "score": 0.41
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 27,
+            "referenced_works": [
+                "https://openalex.org/W1583515859",
+                "https://openalex.org/W1972119727",
+                "https://openalex.org/W2005000839",
+                "https://openalex.org/W2048007344",
+                "https://openalex.org/W2082187902",
+                "https://openalex.org/W2100418324",
+                "https://openalex.org/W2107979247",
+                "https://openalex.org/W2128095813",
+                "https://openalex.org/W2212370034",
+                "https://openalex.org/W2619381903",
+                "https://openalex.org/W2767526721",
+                "https://openalex.org/W2888730305",
+                "https://openalex.org/W3046774627",
+                "https://openalex.org/W3099623019",
+                "https://openalex.org/W3102290318",
+                "https://openalex.org/W3102697874",
+                "https://openalex.org/W3104566386",
+                "https://openalex.org/W3112246944",
+                "https://openalex.org/W3212185571",
+                "https://openalex.org/W4210251334",
+                "https://openalex.org/W4212794368",
+                "https://openalex.org/W4243657877",
+                "https://openalex.org/W4244521977",
+                "https://openalex.org/W4285503980",
+                "https://openalex.org/W4285668896",
+                "https://openalex.org/W4319588471",
+                "https://openalex.org/W4379462284"
+            ],
+            "related_works": [
+                "https://openalex.org/W4238318050",
+                "https://openalex.org/W3021320825",
+                "https://openalex.org/W2563073486",
+                "https://openalex.org/W2485938319",
+                "https://openalex.org/W2479314534",
+                "https://openalex.org/W2388355944",
+                "https://openalex.org/W2359206539",
+                "https://openalex.org/W2231544277",
+                "https://openalex.org/W2072438171",
+                "https://openalex.org/W1991459776"
+            ],
+            "abstract_inverted_index": {
+                "Finch,": [
+                    0
+                ],
+                "a": [
+                    1
+                ],
+                "domain": [
+                    2
+                ],
+                "specific": [
+                    3
+                ],
+                "language": [
+                    4
+                ],
+                "and": [
+                    5,
+                    28,
+                    39,
+                    73,
+                    76
+                ],
+                "code": [
+                    6
+                ],
+                "generation": [
+                    7
+                ],
+                "framework": [
+                    8
+                ],
+                "for": [
+                    9,
+                    66,
+                    80
+                ],
+                "partial": [
+                    10
+                ],
+                "differential": [
+                    11
+                ],
+                "equations": [
+                    12,
+                    69
+                ],
+                "(PDEs),": [
+                    13
+                ],
+                "is": [
+                    14
+                ],
+                "demonstrated": [
+                    15
+                ],
+                "here": [
+                    16
+                ],
+                "to": [
+                    17,
+                    47
+                ],
+                "solve": [
+                    18
+                ],
+                "two": [
+                    19
+                ],
+                "classical": [
+                    20
+                ],
+                "problems:": [
+                    21
+                ],
+                "steady-state": [
+                    22
+                ],
+                "advection": [
+                    23
+                ],
+                "diffusion": [
+                    24
+                ],
+                "equation": [
+                    25,
+                    33
+                ],
+                "(single": [
+                    26
+                ],
+                "PDE)": [
+                    27
+                ],
+                "the": [
+                    29,
+                    51,
+                    78,
+                    81
+                ],
+                "phonon": [
+                    30
+                ],
+                "Boltzmann": [
+                    31
+                ],
+                "transport": [
+                    32
+                ],
+                "(coupled": [
+                    34
+                ],
+                "PDEs).": [
+                    35
+                ],
+                "Both": [
+                    36
+                ],
+                "finite": [
+                    37,
+                    40
+                ],
+                "volume": [
+                    38
+                ],
+                "element": [
+                    41
+                ],
+                "methods": [
+                    42
+                ],
+                "are": [
+                    43
+                ],
+                "explored.": [
+                    44
+                ],
+                "In": [
+                    45
+                ],
+                "addition": [
+                    46
+                ],
+                "work": [
+                    48
+                ],
+                "presented": [
+                    49
+                ],
+                "at": [
+                    50
+                ],
+                "2022": [
+                    52
+                ],
+                "International": [
+                    53
+                ],
+                "Conference": [
+                    54
+                ],
+                "on": [
+                    55
+                ],
+                "Computational": [
+                    56
+                ],
+                "Science": [
+                    57
+                ],
+                "(Heisler": [
+                    58
+                ],
+                "et": [
+                    59
+                ],
+                "al.,": [
+                    60
+                ],
+                "2022),": [
+                    61
+                ],
+                "we": [
+                    62
+                ],
+                "include": [
+                    63
+                ],
+                "recent": [
+                    64
+                ],
+                "developments": [
+                    65
+                ],
+                "solving": [
+                    67
+                ],
+                "nonlinear": [
+                    68
+                ],
+                "using": [
+                    70
+                ],
+                "both": [
+                    71
+                ],
+                "automatic": [
+                    72
+                ],
+                "symbolic": [
+                    74
+                ],
+                "differentiation,": [
+                    75
+                ],
+                "demonstrate": [
+                    77
+                ],
+                "capability": [
+                    79
+                ],
+                "Bratu": [
+                    82
+                ],
+                "(nonlinear": [
+                    83
+                ],
+                "Poisson)": [
+                    84
+                ],
+                "equation.": [
+                    85
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4322765999",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2024-09-18T00:22:09.402681",
+            "created_date": "2023-03-03"
+        },
+        {
+            "id": "https://openalex.org/W4285307445",
+            "doi": "https://doi.org/10.1007/978-3-031-08751-6_9",
+            "title": "Finch: Domain Specific Language and Code Generation for Finite Element and Finite Volume in Julia",
+            "display_name": "Finch: Domain Specific Language and Code Generation for Finite Element and Finite Volume in Julia",
+            "publication_year": 2022,
+            "publication_date": "2022-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4285307445",
+                "doi": "https://doi.org/10.1007/978-3-031-08751-6_9"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-031-08751-6_9",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5079847651",
+                        "display_name": "Eric Heisler",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Eric Heisler",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007641857",
+                        "display_name": "Aadesh Deshmukh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Aadesh Deshmukh",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5051806400",
+                        "display_name": "Hari Sundar",
+                        "orcid": "https://orcid.org/0000-0001-9001-5107"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hari Sundar",
+                    "raw_affiliation_strings": [
+                        "School of Computing, University of Utah, Salt Lake City, USA"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computing, University of Utah, Salt Lake City, USA",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5079847651"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I223532165"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 1.118,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.707984,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 62,
+                "max": 72
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "118",
+                "last_page": "132"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10715",
+                "display_name": "Distributed Grid Computing Systems",
+                "score": 0.9653,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1705",
+                    "display_name": "Computer Networks and Communications"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9653,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13286",
+                    "display_name": "Modelica Language and Simulation Environment",
+                    "score": 0.9522,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11808",
+                    "display_name": "Development of Superconducting Magnets for Particle Accelerators and Fusion Reactors",
+                    "score": 0.942,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2204",
+                        "display_name": "Biomedical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-language",
+                    "display_name": "Domain-specific language",
+                    "score": 0.57165426
+                },
+                {
+                    "id": "https://openalex.org/keywords/scala",
+                    "display_name": "Scala",
+                    "score": 0.5329695
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.49479002
+                },
+                {
+                    "id": "https://openalex.org/keywords/equation-based-languages",
+                    "display_name": "Equation-Based Languages",
+                    "score": 0.466283
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.82170427
+                },
+                {
+                    "id": "https://openalex.org/C101468663",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1620158",
+                    "display_name": "Modular design",
+                    "level": 2,
+                    "score": 0.68153095
+                },
+                {
+                    "id": "https://openalex.org/C201374245",
+                    "wikidata": "https://www.wikidata.org/wiki/Q104534",
+                    "display_name": "Digital subscriber line",
+                    "level": 2,
+                    "score": 0.64645344
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.6072281
+                },
+                {
+                    "id": "https://openalex.org/C135257023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q691358",
+                    "display_name": "Domain-specific language",
+                    "level": 2,
+                    "score": 0.57165426
+                },
+                {
+                    "id": "https://openalex.org/C109701466",
+                    "wikidata": "https://www.wikidata.org/wiki/Q460584",
+                    "display_name": "Scala",
+                    "level": 3,
+                    "score": 0.5329695
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.52943
+                },
+                {
+                    "id": "https://openalex.org/C192209626",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190909",
+                    "display_name": "Focus (optics)",
+                    "level": 2,
+                    "score": 0.5162401
+                },
+                {
+                    "id": "https://openalex.org/C133162039",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1061077",
+                    "display_name": "Code generation",
+                    "level": 3,
+                    "score": 0.5128536
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.49479002
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.47726887
+                },
+                {
+                    "id": "https://openalex.org/C36503486",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+                    "display_name": "Domain (mathematical analysis)",
+                    "level": 2,
+                    "score": 0.46137226
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.46061018
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.43996775
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.43225062
+                },
+                {
+                    "id": "https://openalex.org/C50478463",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1401936",
+                    "display_name": "Finite volume method",
+                    "level": 2,
+                    "score": 0.41555974
+                },
+                {
+                    "id": "https://openalex.org/C26517878",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228039",
+                    "display_name": "Key (lock)",
+                    "level": 2,
+                    "score": 0.40232974
+                },
+                {
+                    "id": "https://openalex.org/C548217200",
+                    "wikidata": "https://www.wikidata.org/wiki/Q251",
+                    "display_name": "Java",
+                    "level": 2,
+                    "score": 0.27643144
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.12091845
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C38652104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+                    "display_name": "Computer security",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C120665830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q14620",
+                    "display_name": "Optics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-031-08751-6_9",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 22,
+            "referenced_works": [
+                "https://openalex.org/W1972119727",
+                "https://openalex.org/W2019422499",
+                "https://openalex.org/W2048007344",
+                "https://openalex.org/W2082187902",
+                "https://openalex.org/W2100418324",
+                "https://openalex.org/W2107979247",
+                "https://openalex.org/W2128095813",
+                "https://openalex.org/W2212370034",
+                "https://openalex.org/W2619381903",
+                "https://openalex.org/W2888730305",
+                "https://openalex.org/W2948287087",
+                "https://openalex.org/W2951623632",
+                "https://openalex.org/W3046774627",
+                "https://openalex.org/W3099623019",
+                "https://openalex.org/W3102290318",
+                "https://openalex.org/W3102697874",
+                "https://openalex.org/W3104566386",
+                "https://openalex.org/W3112246944",
+                "https://openalex.org/W3119652125",
+                "https://openalex.org/W3212185571",
+                "https://openalex.org/W4251197584",
+                "https://openalex.org/W4285503980"
+            ],
+            "related_works": [
+                "https://openalex.org/W3124124991",
+                "https://openalex.org/W307712065",
+                "https://openalex.org/W2582410692",
+                "https://openalex.org/W2460228634",
+                "https://openalex.org/W2258960507",
+                "https://openalex.org/W2140083133",
+                "https://openalex.org/W2119542776",
+                "https://openalex.org/W2097052821",
+                "https://openalex.org/W2014596857",
+                "https://openalex.org/W1485300234"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0
+                ],
+                "introduce": [
+                    1
+                ],
+                "Finch,": [
+                    2
+                ],
+                "a": [
+                    3,
+                    15,
+                    43,
+                    51,
+                    63,
+                    80,
+                    135,
+                    140,
+                    171
+                ],
+                "Julia-based": [
+                    4
+                ],
+                "domain": [
+                    5,
+                    119
+                ],
+                "specific": [
+                    6
+                ],
+                "language": [
+                    7
+                ],
+                "(DSL)": [
+                    8
+                ],
+                "for": [
+                    9,
+                    33,
+                    83,
+                    92,
+                    147
+                ],
+                "solving": [
+                    10
+                ],
+                "partial": [
+                    11
+                ],
+                "differential": [
+                    12
+                ],
+                "equations": [
+                    13
+                ],
+                "in": [
+                    14,
+                    48,
+                    134
+                ],
+                "discretization": [
+                    16
+                ],
+                "agnostic": [
+                    17
+                ],
+                "way,": [
+                    18
+                ],
+                "currently": [
+                    19
+                ],
+                "including": [
+                    20,
+                    150
+                ],
+                "finite": [
+                    21,
+                    24,
+                    151,
+                    154
+                ],
+                "element": [
+                    22,
+                    152
+                ],
+                "and": [
+                    23,
+                    71,
+                    110,
+                    139,
+                    153,
+                    184,
+                    217,
+                    222
+                ],
+                "volume": [
+                    25,
+                    155
+                ],
+                "methods.": [
+                    26
+                ],
+                "A": [
+                    27
+                ],
+                "key": [
+                    28,
+                    204
+                ],
+                "focus": [
+                    29,
+                    163
+                ],
+                "is": [
+                    30,
+                    167
+                ],
+                "code": [
+                    31,
+                    60,
+                    66,
+                    183
+                ],
+                "generation": [
+                    32,
+                    61
+                ],
+                "various": [
+                    34
+                ],
+                "internal": [
+                    35
+                ],
+                "or": [
+                    36,
+                    76,
+                    86,
+                    88
+                ],
+                "external": [
+                    37,
+                    59,
+                    74
+                ],
+                "software": [
+                    38
+                ],
+                "targets.": [
+                    39
+                ],
+                "Internal": [
+                    40
+                ],
+                "targets": [
+                    41,
+                    91
+                ],
+                "use": [
+                    42
+                ],
+                "modular": [
+                    44,
+                    122
+                ],
+                "set": [
+                    45,
+                    64,
+                    142,
+                    173,
+                    209
+                ],
+                "of": [
+                    46,
+                    65,
+                    103,
+                    117,
+                    124,
+                    129,
+                    143,
+                    164,
+                    174,
+                    206
+                ],
+                "tools": [
+                    47
+                ],
+                "Julia": [
+                    49
+                ],
+                "providing": [
+                    50
+                ],
+                "direct": [
+                    52
+                ],
+                "solution": [
+                    53
+                ],
+                "within": [
+                    54
+                ],
+                "the": [
+                    55,
+                    115,
+                    118,
+                    196,
+                    203,
+                    219
+                ],
+                "framework.": [
+                    56
+                ],
+                "In": [
+                    57,
+                    198
+                ],
+                "contrast,": [
+                    58
+                ],
+                "produces": [
+                    62
+                ],
+                "files": [
+                    67
+                ],
+                "to": [
+                    68,
+                    100,
+                    114,
+                    159,
+                    181,
+                    193
+                ],
+                "be": [
+                    69,
+                    179
+                ],
+                "compiled": [
+                    70
+                ],
+                "run": [
+                    72
+                ],
+                "with": [
+                    73
+                ],
+                "libraries": [
+                    75
+                ],
+                "frameworks.": [
+                    77
+                ],
+                "Examples": [
+                    78
+                ],
+                "include": [
+                    79
+                ],
+                "matlab": [
+                    81
+                ],
+                "target,": [
+                    82
+                ],
+                "smaller": [
+                    84
+                ],
+                "problems": [
+                    85,
+                    94
+                ],
+                "prototyping,": [
+                    87
+                ],
+                "C++/MPI": [
+                    89
+                ],
+                "based": [
+                    90
+                ],
+                "larger": [
+                    93
+                ],
+                "needing": [
+                    95
+                ],
+                "scalability.": [
+                    96
+                ],
+                "This": [
+                    97
+                ],
+                "allows": [
+                    98,
+                    126
+                ],
+                "us": [
+                    99
+                ],
+                "take": [
+                    101
+                ],
+                "advantage": [
+                    102
+                ],
+                "their": [
+                    104
+                ],
+                "capabilities": [
+                    105,
+                    224
+                ],
+                "without": [
+                    106
+                ],
+                "needlessly": [
+                    107
+                ],
+                "duplicating": [
+                    108
+                ],
+                "them,": [
+                    109
+                ],
+                "provides": [
+                    111
+                ],
+                "options": [
+                    112
+                ],
+                "tailored": [
+                    113
+                ],
+                "needs": [
+                    116
+                ],
+                "scientist.": [
+                    120
+                ],
+                "The": [
+                    121,
+                    145
+                ],
+                "design": [
+                    123
+                ],
+                "Finch": [
+                    125,
+                    207
+                ],
+                "ongoing": [
+                    127
+                ],
+                "development": [
+                    128
+                ],
+                "these": [
+                    130
+                ],
+                "target": [
+                    131
+                ],
+                "modules": [
+                    132
+                ],
+                "resulting": [
+                    133
+                ],
+                "more": [
+                    136
+                ],
+                "extensible": [
+                    137
+                ],
+                "framework": [
+                    138
+                ],
+                "broader": [
+                    141
+                ],
+                "applications.": [
+                    144
+                ],
+                "support": [
+                    146
+                ],
+                "multiple": [
+                    148
+                ],
+                "discretizations,": [
+                    149
+                ],
+                "methods,": [
+                    156
+                ],
+                "also": [
+                    157
+                ],
+                "contributes": [
+                    158
+                ],
+                "this": [
+                    160,
+                    165,
+                    199
+                ],
+                "goal.": [
+                    161
+                ],
+                "Another": [
+                    162
+                ],
+                "project": [
+                    166
+                ],
+                "complex": [
+                    168
+                ],
+                "systems": [
+                    169
+                ],
+                "containing": [
+                    170
+                ],
+                "large": [
+                    172
+                ],
+                "coupled": [
+                    175
+                ],
+                "PDEs": [
+                    176
+                ],
+                "that": [
+                    177,
+                    189,
+                    208
+                ],
+                "could": [
+                    178
+                ],
+                "challenging": [
+                    180
+                ],
+                "efficiently": [
+                    182
+                ],
+                "optimize": [
+                    185
+                ],
+                "by": [
+                    186
+                ],
+                "hand,": [
+                    187
+                ],
+                "but": [
+                    188
+                ],
+                "are": [
+                    190
+                ],
+                "relatively": [
+                    191
+                ],
+                "simple": [
+                    192
+                ],
+                "specify": [
+                    194
+                ],
+                "using": [
+                    195
+                ],
+                "DSL.": [
+                    197
+                ],
+                "paper": [
+                    200
+                ],
+                "we": [
+                    201
+                ],
+                "present": [
+                    202
+                ],
+                "features": [
+                    205
+                ],
+                "it": [
+                    210
+                ],
+                "apart": [
+                    211
+                ],
+                "from": [
+                    212
+                ],
+                "many": [
+                    213
+                ],
+                "other": [
+                    214
+                ],
+                "DSL": [
+                    215
+                ],
+                "options,": [
+                    216
+                ],
+                "demonstrate": [
+                    218
+                ],
+                "basic": [
+                    220
+                ],
+                "usage": [
+                    221
+                ],
+                "current": [
+                    223
+                ],
+                "through": [
+                    225
+                ],
+                "examples.": [
+                    226
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4285307445",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-18T16:18:54.926150",
+            "created_date": "2022-07-14"
+        },
+        {
+            "id": "https://openalex.org/W4319588471",
+            "doi": "https://doi.org/10.1115/imece2022-95034",
+            "title": "A Domain Specific Language Applied to Phonon Boltzmann Transport for Heat Conduction",
+            "display_name": "A Domain Specific Language Applied to Phonon Boltzmann Transport for Heat Conduction",
+            "publication_year": 2022,
+            "publication_date": "2022-10-30",
+            "ids": {
+                "openalex": "https://openalex.org/W4319588471",
+                "doi": "https://doi.org/10.1115/imece2022-95034"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1115/imece2022-95034",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4363607352",
+                    "display_name": "Volume 8: Fluids Engineering; Heat Transfer and Thermal Engineering",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "conference"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5079847651",
+                        "display_name": "Eric Heisler",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Eric Heisler",
+                    "raw_affiliation_strings": [
+                        "University of Utah , Salt Lake City, Utah, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Utah , Salt Lake City, Utah, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5053972996",
+                        "display_name": "Siddharth Saurav",
+                        "orcid": "https://orcid.org/0009-0000-4975-0353"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I52357470",
+                            "display_name": "The Ohio State University",
+                            "ror": "https://ror.org/00rs6vg23",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I52357470"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Siddharth Saurav",
+                    "raw_affiliation_strings": [
+                        "Ohio State University , Columbus, Ohio, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Ohio State University , Columbus, Ohio, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I52357470"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007641857",
+                        "display_name": "Aadesh Deshmukh",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Aadesh Deshmukh",
+                    "raw_affiliation_strings": [
+                        "University of Utah , Salt Lake City, Utah, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Utah , Salt Lake City, Utah, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5043784045",
+                        "display_name": "Sandip Mazumder",
+                        "orcid": "https://orcid.org/0000-0002-5236-1356"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I52357470",
+                            "display_name": "The Ohio State University",
+                            "ror": "https://ror.org/00rs6vg23",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I52357470"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sandip Mazumder",
+                    "raw_affiliation_strings": [
+                        "Ohio State University , Columbus, Ohio, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Ohio State University , Columbus, Ohio, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I52357470"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5027517817",
+                        "display_name": "P. Sadayappan",
+                        "orcid": "https://orcid.org/0000-0002-4737-2034"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ponnuswamy Sadayappan",
+                    "raw_affiliation_strings": [
+                        "University of Utah , Salt Lake City, Utah, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Utah , Salt Lake City, Utah, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5051806400",
+                        "display_name": "Hari Sundar",
+                        "orcid": "https://orcid.org/0000-0001-9001-5107"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I223532165",
+                            "display_name": "University of Utah",
+                            "ror": "https://ror.org/03r0ha626",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hari Sundar",
+                    "raw_affiliation_strings": [
+                        "University of Utah , Salt Lake City, Utah, United States"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of Utah , Salt Lake City, Utah, United States",
+                            "institution_ids": [
+                                "https://openalex.org/I223532165"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.174,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": {
+                "value": 0.433683,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 62,
+                "max": 72
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10998",
+                "display_name": "Microchannel Heat Transfer and Cooling Technology",
+                "score": 0.9961,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2210",
+                    "display_name": "Mechanical Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10998",
+                    "display_name": "Microchannel Heat Transfer and Cooling Technology",
+                    "score": 0.9961,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2210",
+                        "display_name": "Mechanical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11206",
+                    "display_name": "Physics-Informed Neural Networks for Scientific Computing",
+                    "score": 0.9892,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11751",
+                    "display_name": "Lattice Boltzmann Method for Complex Flows",
+                    "score": 0.9649,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/boltzmann-constant",
+                    "display_name": "Boltzmann constant",
+                    "score": 0.632112
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.6019994
+                },
+                {
+                    "id": "https://openalex.org/keywords/nonlinear-systems",
+                    "display_name": "Nonlinear Systems",
+                    "score": 0.509231
+                },
+                {
+                    "id": "https://openalex.org/keywords/convective-heat-transfer",
+                    "display_name": "Convective Heat Transfer",
+                    "score": 0.505998
+                },
+                {
+                    "id": "https://openalex.org/keywords/lattice-boltzmann-methods",
+                    "display_name": "Lattice Boltzmann methods",
+                    "score": 0.45198122
+                },
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-language",
+                    "display_name": "Domain-specific language",
+                    "score": 0.4233698
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C165995430",
+                    "wikidata": "https://www.wikidata.org/wiki/Q891653",
+                    "display_name": "Boltzmann equation",
+                    "level": 2,
+                    "score": 0.8086077
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7071061
+                },
+                {
+                    "id": "https://openalex.org/C35304006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5962",
+                    "display_name": "Boltzmann constant",
+                    "level": 2,
+                    "score": 0.632112
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.6019994
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.501312
+                },
+                {
+                    "id": "https://openalex.org/C2780598303",
+                    "wikidata": "https://www.wikidata.org/wiki/Q65921492",
+                    "display_name": "Flexibility (engineering)",
+                    "level": 2,
+                    "score": 0.47411993
+                },
+                {
+                    "id": "https://openalex.org/C172100665",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7465774",
+                    "display_name": "Thermal conduction",
+                    "level": 2,
+                    "score": 0.46391574
+                },
+                {
+                    "id": "https://openalex.org/C21821499",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1807064",
+                    "display_name": "Lattice Boltzmann methods",
+                    "level": 2,
+                    "score": 0.45198122
+                },
+                {
+                    "id": "https://openalex.org/C36503486",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+                    "display_name": "Domain (mathematical analysis)",
+                    "level": 2,
+                    "score": 0.4368114
+                },
+                {
+                    "id": "https://openalex.org/C135257023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q691358",
+                    "display_name": "Domain-specific language",
+                    "level": 2,
+                    "score": 0.4233698
+                },
+                {
+                    "id": "https://openalex.org/C24169881",
+                    "wikidata": "https://www.wikidata.org/wiki/Q186608",
+                    "display_name": "Phonon",
+                    "level": 2,
+                    "score": 0.41938344
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.35997716
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.24137098
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.2232778
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.17373884
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.15078256
+                },
+                {
+                    "id": "https://openalex.org/C57879066",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41217",
+                    "display_name": "Mechanics",
+                    "level": 1,
+                    "score": 0.084398
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.08249596
+                },
+                {
+                    "id": "https://openalex.org/C105795698",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12483",
+                    "display_name": "Statistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C26873012",
+                    "wikidata": "https://www.wikidata.org/wiki/Q214781",
+                    "display_name": "Condensed matter physics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1115/imece2022-95034",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4363607352",
+                        "display_name": "Volume 8: Fluids Engineering; Heat Transfer and Thermal Engineering",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "conference"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/4",
+                    "display_name": "Quality education",
+                    "score": 0.76
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4319588471",
+                "https://openalex.org/W3135349030",
+                "https://openalex.org/W2962701444",
+                "https://openalex.org/W2419300822",
+                "https://openalex.org/W2236189809",
+                "https://openalex.org/W2165467194",
+                "https://openalex.org/W2092234437",
+                "https://openalex.org/W2074815000",
+                "https://openalex.org/W2049289618",
+                "https://openalex.org/W1912702365"
+            ],
+            "abstract_inverted_index": {
+                "Abstract": [
+                    0
+                ],
+                "The": [
+                    1
+                ],
+                "phonon": [
+                    2,
+                    116
+                ],
+                "Boltzmann": [
+                    3,
+                    117
+                ],
+                "transport": [
+                    4,
+                    118
+                ],
+                "equation": [
+                    5
+                ],
+                "is": [
+                    6,
+                    23,
+                    133
+                ],
+                "a": [
+                    7,
+                    83,
+                    91,
+                    123,
+                    156
+                ],
+                "good": [
+                    8
+                ],
+                "model": [
+                    9,
+                    162
+                ],
+                "for": [
+                    10
+                ],
+                "heat": [
+                    11
+                ],
+                "transfer": [
+                    12
+                ],
+                "in": [
+                    13,
+                    29,
+                    56,
+                    90,
+                    100,
+                    122,
+                    135
+                ],
+                "nanometer": [
+                    14
+                ],
+                "scale": [
+                    15
+                ],
+                "structures": [
+                    16
+                ],
+                "such": [
+                    17,
+                    114
+                ],
+                "as": [
+                    18,
+                    115
+                ],
+                "semiconductor": [
+                    19
+                ],
+                "devices.": [
+                    20
+                ],
+                "Computational": [
+                    21
+                ],
+                "complexity": [
+                    22
+                ],
+                "one": [
+                    24
+                ],
+                "of": [
+                    25,
+                    34,
+                    37,
+                    112,
+                    130,
+                    145,
+                    158,
+                    170
+                ],
+                "the": [
+                    26,
+                    71,
+                    88,
+                    101,
+                    131,
+                    146,
+                    166
+                ],
+                "main": [
+                    27
+                ],
+                "challenges": [
+                    28
+                ],
+                "numerically": [
+                    30
+                ],
+                "solving": [
+                    31
+                ],
+                "this": [
+                    32,
+                    67,
+                    153
+                ],
+                "set": [
+                    33
+                ],
+                "potentially": [
+                    35
+                ],
+                "thousands": [
+                    36
+                ],
+                "nonlinearly": [
+                    38
+                ],
+                "coupled": [
+                    39
+                ],
+                "equations.": [
+                    40
+                ],
+                "Writing": [
+                    41
+                ],
+                "efficient": [
+                    42,
+                    105
+                ],
+                "code": [
+                    43,
+                    76
+                ],
+                "will": [
+                    44
+                ],
+                "involve": [
+                    45
+                ],
+                "careful": [
+                    46
+                ],
+                "optimization": [
+                    47
+                ],
+                "and": [
+                    48,
+                    62,
+                    75,
+                    103,
+                    142,
+                    161,
+                    168
+                ],
+                "choosing": [
+                    49
+                ],
+                "an": [
+                    50
+                ],
+                "effective": [
+                    51
+                ],
+                "parallelization": [
+                    52
+                ],
+                "strategy,": [
+                    53
+                ],
+                "requiring": [
+                    54
+                ],
+                "expertise": [
+                    55
+                ],
+                "high": [
+                    57
+                ],
+                "performance": [
+                    58
+                ],
+                "computing,": [
+                    59
+                ],
+                "mathematical": [
+                    60,
+                    97
+                ],
+                "methods,": [
+                    61,
+                    137
+                ],
+                "thermal": [
+                    63
+                ],
+                "physics.": [
+                    64
+                ],
+                "To": [
+                    65
+                ],
+                "address": [
+                    66
+                ],
+                "challenge,": [
+                    68
+                ],
+                "we": [
+                    69
+                ],
+                "present": [
+                    70
+                ],
+                "domain": [
+                    72,
+                    84
+                ],
+                "specific": [
+                    73
+                ],
+                "language": [
+                    74,
+                    81
+                ],
+                "generation": [
+                    77
+                ],
+                "software": [
+                    78
+                ],
+                "Finch.": [
+                    79
+                ],
+                "This": [
+                    80
+                ],
+                "allows": [
+                    82
+                ],
+                "scientist": [
+                    85
+                ],
+                "to": [
+                    86,
+                    164
+                ],
+                "enter": [
+                    87
+                ],
+                "equations": [
+                    89,
+                    113
+                ],
+                "simple": [
+                    92
+                ],
+                "format,": [
+                    93
+                ],
+                "provide": [
+                    94
+                ],
+                "only": [
+                    95
+                ],
+                "basic": [
+                    96
+                ],
+                "functions": [
+                    98
+                ],
+                "used": [
+                    99
+                ],
+                "model,": [
+                    102
+                ],
+                "generate": [
+                    104
+                ],
+                "parallel": [
+                    106,
+                    140,
+                    159
+                ],
+                "code.": [
+                    107,
+                    148
+                ],
+                "Even": [
+                    108
+                ],
+                "very": [
+                    109,
+                    124
+                ],
+                "complex": [
+                    110
+                ],
+                "systems": [
+                    111
+                ],
+                "can": [
+                    119
+                ],
+                "be": [
+                    120
+                ],
+                "entered": [
+                    121
+                ],
+                "simple,": [
+                    125
+                ],
+                "intuitive": [
+                    126
+                ],
+                "way.": [
+                    127
+                ],
+                "A": [
+                    128
+                ],
+                "feature": [
+                    129
+                ],
+                "framework": [
+                    132
+                ],
+                "flexibility": [
+                    134,
+                    167
+                ],
+                "numerical": [
+                    136
+                ],
+                "computing": [
+                    138
+                ],
+                "environments,": [
+                    139
+                ],
+                "strategies,": [
+                    141
+                ],
+                "other": [
+                    143
+                ],
+                "aspects": [
+                    144
+                ],
+                "generated": [
+                    147
+                ],
+                "We": [
+                    149
+                ],
+                "demonstrate": [
+                    150,
+                    165
+                ],
+                "Finch": [
+                    151
+                ],
+                "on": [
+                    152
+                ],
+                "problem": [
+                    154
+                ],
+                "using": [
+                    155
+                ],
+                "variety": [
+                    157
+                ],
+                "strategies": [
+                    160
+                ],
+                "configurations": [
+                    163
+                ],
+                "ease": [
+                    169
+                ],
+                "use.": [
+                    171
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4319588471",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-23T23:51:02.349193",
+            "created_date": "2023-02-09"
+        },
+        {
+            "id": "https://openalex.org/W4379087095",
+            "doi": "https://doi.org/10.48550/arxiv.2305.19398",
+            "title": "Generating Finite Element Codes combining Adaptive Octrees with Complex Geometries",
+            "display_name": "Generating Finite Element Codes combining Adaptive Octrees with Complex Geometries",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4379087095",
+                "doi": "https://doi.org/10.48550/arxiv.2305.19398"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2305.19398",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-sa",
+                "license_id": "https://openalex.org/licenses/cc-by-sa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "arxiv",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/abs/2305.19398",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5079847651",
+                        "display_name": "Eric Heisler",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Heisler, Eric",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5101696232",
+                        "display_name": "Cheng-Hau Yang",
+                        "orcid": "https://orcid.org/0000-0002-1149-3686"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Yang, Cheng-Hau",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007641857",
+                        "display_name": "Aadesh Deshmukh",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Deshmukh, Aadesh",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5011704511",
+                        "display_name": "Baskar Ganapathysubramanian",
+                        "orcid": "https://orcid.org/0000-0002-8931-4852"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ganapathysubramanian, Baskar",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5051806400",
+                        "display_name": "Hari Sundar",
+                        "orcid": "https://orcid.org/0000-0001-9001-5107"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sundar, Hari",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10339",
+                "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                "score": 0.992,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.992,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9668,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11751",
+                    "display_name": "Lattice Boltzmann Method for Complex Flows",
+                    "score": 0.9393,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-language",
+                    "display_name": "Domain-specific language",
+                    "score": 0.6629068
+                },
+                {
+                    "id": "https://openalex.org/keywords/interface",
+                    "display_name": "Interface (matter)",
+                    "score": 0.59581345
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-element-methods",
+                    "display_name": "Finite Element Methods",
+                    "score": 0.569953
+                },
+                {
+                    "id": "https://openalex.org/keywords/adaptive-mesh-refinement",
+                    "display_name": "Adaptive Mesh Refinement",
+                    "score": 0.528524
+                },
+                {
+                    "id": "https://openalex.org/keywords/immersed-boundary-method",
+                    "display_name": "Immersed Boundary Method",
+                    "score": 0.500119
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.44864023
+                },
+                {
+                    "id": "https://openalex.org/keywords/tree",
+                    "display_name": "Tree (set theory)",
+                    "score": 0.41008705
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C201374245",
+                    "wikidata": "https://www.wikidata.org/wiki/Q104534",
+                    "display_name": "Digital subscriber line",
+                    "level": 2,
+                    "score": 0.9001095
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7317819
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.69931376
+                },
+                {
+                    "id": "https://openalex.org/C135257023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q691358",
+                    "display_name": "Domain-specific language",
+                    "level": 2,
+                    "score": 0.6629068
+                },
+                {
+                    "id": "https://openalex.org/C31487907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1154597",
+                    "display_name": "Polygon mesh",
+                    "level": 2,
+                    "score": 0.6297441
+                },
+                {
+                    "id": "https://openalex.org/C177212765",
+                    "wikidata": "https://www.wikidata.org/wiki/Q627335",
+                    "display_name": "Workflow",
+                    "level": 2,
+                    "score": 0.6019087
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.59591264
+                },
+                {
+                    "id": "https://openalex.org/C113843644",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901882",
+                    "display_name": "Interface (matter)",
+                    "level": 4,
+                    "score": 0.59581345
+                },
+                {
+                    "id": "https://openalex.org/C62354387",
+                    "wikidata": "https://www.wikidata.org/wiki/Q875399",
+                    "display_name": "Boundary (topology)",
+                    "level": 2,
+                    "score": 0.5599634
+                },
+                {
+                    "id": "https://openalex.org/C199519371",
+                    "wikidata": "https://www.wikidata.org/wiki/Q942695",
+                    "display_name": "Source lines of code",
+                    "level": 3,
+                    "score": 0.50633895
+                },
+                {
+                    "id": "https://openalex.org/C36503486",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+                    "display_name": "Domain (mathematical analysis)",
+                    "level": 2,
+                    "score": 0.4961949
+                },
+                {
+                    "id": "https://openalex.org/C98045186",
+                    "wikidata": "https://www.wikidata.org/wiki/Q205663",
+                    "display_name": "Process (computing)",
+                    "level": 2,
+                    "score": 0.48654523
+                },
+                {
+                    "id": "https://openalex.org/C136197465",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1729295",
+                    "display_name": "Variety (cybernetics)",
+                    "level": 2,
+                    "score": 0.47692105
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.44864023
+                },
+                {
+                    "id": "https://openalex.org/C131053463",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4680751",
+                    "display_name": "Adaptive mesh refinement",
+                    "level": 2,
+                    "score": 0.44526052
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.4447673
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.4446877
+                },
+                {
+                    "id": "https://openalex.org/C113174947",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2859736",
+                    "display_name": "Tree (set theory)",
+                    "level": 2,
+                    "score": 0.41008705
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.3875518
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.3757358
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.3678968
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.14041021
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.11860156
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.09592685
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.09016979
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.08365449
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C157915830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+                    "display_name": "Bubble",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C129307140",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+                    "display_name": "Maximum bubble pressure method",
+                    "level": 3,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2305.19398",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-sa",
+                    "license_id": "https://openalex.org/licenses/cc-by-sa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://arxiv.org/abs/2305.19398",
+                    "pdf_url": "http://arxiv.org/pdf/2305.19398",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.2305.19398",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2305.19398",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-sa",
+                "license_id": "https://openalex.org/licenses/cc-by-sa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W3195685258",
+                "https://openalex.org/W2582410692",
+                "https://openalex.org/W2460228634",
+                "https://openalex.org/W2258960507",
+                "https://openalex.org/W2140083133",
+                "https://openalex.org/W2119542776",
+                "https://openalex.org/W2097052821",
+                "https://openalex.org/W2014596857",
+                "https://openalex.org/W1573904598",
+                "https://openalex.org/W1485300234"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    85,
+                    128
+                ],
+                "present": [
+                    1
+                ],
+                "a": [
+                    2,
+                    91,
+                    115,
+                    133,
+                    150
+                ],
+                "high-level": [
+                    3,
+                    116
+                ],
+                "domain-specific": [
+                    4
+                ],
+                "language": [
+                    5
+                ],
+                "(DSL)": [
+                    6
+                ],
+                "interface": [
+                    7,
+                    64
+                ],
+                "to": [
+                    8,
+                    21,
+                    67,
+                    156,
+                    168,
+                    179
+                ],
+                "drive": [
+                    9
+                ],
+                "an": [
+                    10
+                ],
+                "adaptive": [
+                    11
+                ],
+                "incomplete": [
+                    12
+                ],
+                "$k$-d": [
+                    13
+                ],
+                "tree-based": [
+                    14
+                ],
+                "framework": [
+                    15
+                ],
+                "for": [
+                    16,
+                    81,
+                    93
+                ],
+                "finite": [
+                    17
+                ],
+                "element": [
+                    18
+                ],
+                "(FEM)": [
+                    19
+                ],
+                "solutions": [
+                    20
+                ],
+                "PDEs.": [
+                    22
+                ],
+                "This": [
+                    23,
+                    160
+                ],
+                "DSL": [
+                    24,
+                    63,
+                    88,
+                    117
+                ],
+                "provides": [
+                    25
+                ],
+                "three": [
+                    26
+                ],
+                "key": [
+                    27
+                ],
+                "advances:": [
+                    28
+                ],
+                "(a)": [
+                    29
+                ],
+                "it": [
+                    30,
+                    41,
+                    55
+                ],
+                "abstracts": [
+                    31
+                ],
+                "out": [
+                    32
+                ],
+                "the": [
+                    33,
+                    62,
+                    97,
+                    182
+                ],
+                "complexity": [
+                    34
+                ],
+                "of": [
+                    35,
+                    126,
+                    135,
+                    145,
+                    158
+                ],
+                "implementing": [
+                    36,
+                    90
+                ],
+                "non-trivial": [
+                    37
+                ],
+                "FEM": [
+                    38
+                ],
+                "formulations,": [
+                    39
+                ],
+                "(b)": [
+                    40
+                ],
+                "simplifies": [
+                    42,
+                    119
+                ],
+                "deploying": [
+                    43
+                ],
+                "these": [
+                    44,
+                    130
+                ],
+                "formulations": [
+                    45
+                ],
+                "on": [
+                    46,
+                    78,
+                    132
+                ],
+                "arbitrarily": [
+                    47
+                ],
+                "complicated": [
+                    48,
+                    109
+                ],
+                "and": [
+                    49,
+                    53,
+                    69,
+                    75,
+                    122,
+                    137,
+                    166,
+                    172
+                ],
+                "adaptively": [
+                    50
+                ],
+                "refined": [
+                    51
+                ],
+                "meshes,": [
+                    52
+                ],
+                "(c)": [
+                    54
+                ],
+                "exhibits": [
+                    56
+                ],
+                "good": [
+                    57
+                ],
+                "parallel": [
+                    58,
+                    151
+                ],
+                "performance.": [
+                    59
+                ],
+                "Taken": [
+                    60
+                ],
+                "together,": [
+                    61
+                ],
+                "allows": [
+                    65,
+                    123
+                ],
+                "end-users": [
+                    66
+                ],
+                "rapidly": [
+                    68
+                ],
+                "efficiently": [
+                    70
+                ],
+                "prototype": [
+                    71
+                ],
+                "new": [
+                    72
+                ],
+                "mathematical": [
+                    73
+                ],
+                "approaches,": [
+                    74
+                ],
+                "deploy": [
+                    76
+                ],
+                "them": [
+                    77
+                ],
+                "large": [
+                    79
+                ],
+                "clusters": [
+                    80
+                ],
+                "solving": [
+                    82,
+                    94
+                ],
+                "practical": [
+                    83
+                ],
+                "problems.": [
+                    84
+                ],
+                "illustrate": [
+                    86
+                ],
+                "this": [
+                    87,
+                    120,
+                    175
+                ],
+                "by": [
+                    89
+                ],
+                "workflow": [
+                    92
+                ],
+                "PDEs": [
+                    95
+                ],
+                "using": [
+                    96
+                ],
+                "recently": [
+                    98
+                ],
+                "developed": [
+                    99
+                ],
+                "shifted": [
+                    100
+                ],
+                "boundary": [
+                    101,
+                    112
+                ],
+                "method": [
+                    102
+                ],
+                "(SBM).": [
+                    103
+                ],
+                "The": [
+                    104
+                ],
+                "SBM": [
+                    105
+                ],
+                "requires": [
+                    106
+                ],
+                "approximating": [
+                    107
+                ],
+                "relatively": [
+                    108
+                ],
+                "integrals": [
+                    110
+                ],
+                "over": [
+                    111
+                ],
+                "surfaces.": [
+                    113
+                ],
+                "Using": [
+                    114
+                ],
+                "greatly": [
+                    118
+                ],
+                "process": [
+                    121
+                ],
+                "rapid": [
+                    124
+                ],
+                "exploration": [
+                    125
+                ],
+                "variations.": [
+                    127
+                ],
+                "demonstrate": [
+                    129
+                ],
+                "tools": [
+                    131
+                ],
+                "variety": [
+                    134
+                ],
+                "2-D": [
+                    136
+                ],
+                "3-D": [
+                    138
+                ],
+                "configurations.": [
+                    139
+                ],
+                "With": [
+                    140
+                ],
+                "fewer": [
+                    141
+                ],
+                "than": [
+                    142
+                ],
+                "20": [
+                    143
+                ],
+                "lines": [
+                    144
+                ],
+                "input,": [
+                    146
+                ],
+                "we": [
+                    147
+                ],
+                "can": [
+                    148
+                ],
+                "produce": [
+                    149
+                ],
+                "code": [
+                    152,
+                    162
+                ],
+                "that": [
+                    153
+                ],
+                "scales": [
+                    154
+                ],
+                "well": [
+                    155
+                ],
+                "thousands": [
+                    157
+                ],
+                "processes.": [
+                    159
+                ],
+                "generated": [
+                    161
+                ],
+                "is": [
+                    163
+                ],
+                "made": [
+                    164
+                ],
+                "accessible": [
+                    165
+                ],
+                "readable": [
+                    167
+                ],
+                "be": [
+                    169
+                ],
+                "easily": [
+                    170
+                ],
+                "modified": [
+                    171
+                ],
+                "hand-tuned,": [
+                    173
+                ],
+                "making": [
+                    174
+                ],
+                "tool": [
+                    176
+                ],
+                "useful": [
+                    177
+                ],
+                "even": [
+                    178
+                ],
+                "experts": [
+                    180
+                ],
+                "with": [
+                    181
+                ],
+                "target": [
+                    183
+                ],
+                "software.": [
+                    184
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4379087095",
+            "counts_by_year": [],
+            "updated_date": "2024-09-26T06:22:39.724060",
+            "created_date": "2023-06-02"
+        },
+        {
+            "id": "https://openalex.org/W4379087103",
+            "doi": "https://doi.org/10.48550/arxiv.2305.19400",
+            "title": "Automating GPU Scalability for Complex Scientific Models: Phonon Boltzman Transport Equation",
+            "display_name": "Automating GPU Scalability for Complex Scientific Models: Phonon Boltzman Transport Equation",
+            "publication_year": 2023,
+            "publication_date": "2023-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4379087103",
+                "doi": "https://doi.org/10.48550/arxiv.2305.19400"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2305.19400",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-sa",
+                "license_id": "https://openalex.org/licenses/cc-by-sa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "arxiv",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://arxiv.org/abs/2305.19400",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5079847651",
+                        "display_name": "Eric Heisler",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Heisler, Eric",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5053972996",
+                        "display_name": "Siddharth Saurav",
+                        "orcid": "https://orcid.org/0009-0000-4975-0353"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Saurav, Siddharth",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007641857",
+                        "display_name": "Aadesh Deshmukh",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Deshmukh, Aadesh",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5043784045",
+                        "display_name": "Sandip Mazumder",
+                        "orcid": "https://orcid.org/0000-0002-5236-1356"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mazumder, Sandip",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5027517817",
+                        "display_name": "P. Sadayappan",
+                        "orcid": "https://orcid.org/0000-0002-4737-2034"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sadayappan, Ponnuswamy",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5051806400",
+                        "display_name": "Hari Sundar",
+                        "orcid": "https://orcid.org/0000-0001-9001-5107"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Sundar, Hari",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 71
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11751",
+                "display_name": "Lattice Boltzmann Method for Complex Flows",
+                "score": 0.9942,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11751",
+                    "display_name": "Lattice Boltzmann Method for Complex Flows",
+                    "score": 0.9942,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11948",
+                    "display_name": "Accelerating Materials Innovation through Informatics",
+                    "score": 0.9869,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2505",
+                        "display_name": "Materials Chemistry"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/25",
+                        "display_name": "Materials Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9844,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.600968
+                },
+                {
+                    "id": "https://openalex.org/keywords/heterogeneous-computing",
+                    "display_name": "Heterogeneous Computing",
+                    "score": 0.550309
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.543142
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.513843
+                },
+                {
+                    "id": "https://openalex.org/keywords/multicore-architectures",
+                    "display_name": "Multicore Architectures",
+                    "score": 0.507885
+                },
+                {
+                    "id": "https://openalex.org/keywords/code",
+                    "display_name": "Code (set theory)",
+                    "score": 0.4657968
+                },
+                {
+                    "id": "https://openalex.org/keywords/domain-specific-language",
+                    "display_name": "Domain-specific language",
+                    "score": 0.43102208
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.7813161
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.64209765
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.62194484
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5909828
+                },
+                {
+                    "id": "https://openalex.org/C165995430",
+                    "wikidata": "https://www.wikidata.org/wiki/Q891653",
+                    "display_name": "Boltzmann equation",
+                    "level": 2,
+                    "score": 0.5859952
+                },
+                {
+                    "id": "https://openalex.org/C201374245",
+                    "wikidata": "https://www.wikidata.org/wiki/Q104534",
+                    "display_name": "Digital subscriber line",
+                    "level": 2,
+                    "score": 0.5741385
+                },
+                {
+                    "id": "https://openalex.org/C93779851",
+                    "wikidata": "https://www.wikidata.org/wiki/Q271977",
+                    "display_name": "Partial differential equation",
+                    "level": 2,
+                    "score": 0.54010224
+                },
+                {
+                    "id": "https://openalex.org/C2776760102",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+                    "display_name": "Code (set theory)",
+                    "level": 3,
+                    "score": 0.4657968
+                },
+                {
+                    "id": "https://openalex.org/C2778119891",
+                    "wikidata": "https://www.wikidata.org/wiki/Q477690",
+                    "display_name": "CUDA",
+                    "level": 2,
+                    "score": 0.4453917
+                },
+                {
+                    "id": "https://openalex.org/C135257023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q691358",
+                    "display_name": "Domain-specific language",
+                    "level": 2,
+                    "score": 0.43102208
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.36075515
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.16373605
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.13222814
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.10316545
+                },
+                {
+                    "id": "https://openalex.org/C76155785",
+                    "wikidata": "https://www.wikidata.org/wiki/Q418",
+                    "display_name": "Telecommunications",
+                    "level": 1,
+                    "score": 0.08922589
+                },
+                {
+                    "id": "https://openalex.org/C177264268",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+                    "display_name": "Set (abstract data type)",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/2305.19400",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-sa",
+                    "license_id": "https://openalex.org/licenses/cc-by-sa",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://arxiv.org/abs/2305.19400",
+                    "pdf_url": "http://arxiv.org/pdf/2305.19400",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.2305.19400",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://arxiv.org/abs/2305.19400",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4306400194",
+                    "display_name": "arXiv (Cornell University)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I205783295",
+                    "host_organization_name": "Cornell University",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I205783295"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Cornell University"
+                    ],
+                    "type": "repository"
+                },
+                "license": "cc-by-sa",
+                "license_id": "https://openalex.org/licenses/cc-by-sa",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/9",
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.47
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4313343615",
+                "https://openalex.org/W2582410692",
+                "https://openalex.org/W2460228634",
+                "https://openalex.org/W2258960507",
+                "https://openalex.org/W2140083133",
+                "https://openalex.org/W2119542776",
+                "https://openalex.org/W2097052821",
+                "https://openalex.org/W2014596857",
+                "https://openalex.org/W1573904598",
+                "https://openalex.org/W1485300234"
+            ],
+            "abstract_inverted_index": {
+                "Heterogeneous": [
+                    0
+                ],
+                "computing": [
+                    1,
+                    15
+                ],
+                "environments": [
+                    2
+                ],
+                "combining": [
+                    3
+                ],
+                "CPU": [
+                    4,
+                    25
+                ],
+                "and": [
+                    5,
+                    26,
+                    39,
+                    44,
+                    62,
+                    116
+                ],
+                "GPU": [
+                    6,
+                    27
+                ],
+                "resources": [
+                    7,
+                    47
+                ],
+                "provide": [
+                    8
+                ],
+                "a": [
+                    9,
+                    50,
+                    58,
+                    150
+                ],
+                "great": [
+                    10
+                ],
+                "boost": [
+                    11
+                ],
+                "to": [
+                    12,
+                    36,
+                    49,
+                    128,
+                    149
+                ],
+                "large-scale": [
+                    13
+                ],
+                "scientific": [
+                    14
+                ],
+                "applications.": [
+                    16
+                ],
+                "Code": [
+                    17
+                ],
+                "generation": [
+                    18,
+                    64
+                ],
+                "utilities": [
+                    19
+                ],
+                "that": [
+                    20,
+                    134
+                ],
+                "partition": [
+                    21
+                ],
+                "the": [
+                    22,
+                    78,
+                    87,
+                    103,
+                    126
+                ],
+                "work": [
+                    23
+                ],
+                "into": [
+                    24
+                ],
+                "tasks": [
+                    28
+                ],
+                "while": [
+                    29
+                ],
+                "considering": [
+                    30
+                ],
+                "data": [
+                    31
+                ],
+                "movement": [
+                    32
+                ],
+                "costs": [
+                    33
+                ],
+                "allow": [
+                    34
+                ],
+                "researchers": [
+                    35
+                ],
+                "more": [
+                    37
+                ],
+                "quickly": [
+                    38
+                ],
+                "easily": [
+                    40
+                ],
+                "develop": [
+                    41
+                ],
+                "high-performance": [
+                    42
+                ],
+                "solutions,": [
+                    43
+                ],
+                "make": [
+                    45
+                ],
+                "these": [
+                    46
+                ],
+                "accessible": [
+                    48
+                ],
+                "larger": [
+                    51
+                ],
+                "user": [
+                    52
+                ],
+                "base.": [
+                    53
+                ],
+                "We": [
+                    54,
+                    141
+                ],
+                "present": [
+                    55
+                ],
+                "developments": [
+                    56,
+                    124
+                ],
+                "for": [
+                    57,
+                    66,
+                    83,
+                    90
+                ],
+                "domain-specific": [
+                    59
+                ],
+                "language": [
+                    60
+                ],
+                "(DSL)": [
+                    61
+                ],
+                "code": [
+                    63,
+                    133
+                ],
+                "framework": [
+                    65
+                ],
+                "solving": [
+                    67
+                ],
+                "partial": [
+                    68
+                ],
+                "differential": [
+                    69
+                ],
+                "equations": [
+                    70
+                ],
+                "(PDEs).": [
+                    71
+                ],
+                "These": [
+                    72,
+                    123
+                ],
+                "enhancements": [
+                    73
+                ],
+                "facilitate": [
+                    74
+                ],
+                "GPU-accelerated": [
+                    75
+                ],
+                "solution": [
+                    76,
+                    101
+                ],
+                "of": [
+                    77,
+                    102,
+                    107,
+                    145
+                ],
+                "Boltzmann": [
+                    79
+                ],
+                "transport": [
+                    80,
+                    93
+                ],
+                "equation": [
+                    81,
+                    89
+                ],
+                "(BTE)": [
+                    82
+                ],
+                "phonons,": [
+                    84
+                ],
+                "which": [
+                    85
+                ],
+                "is": [
+                    86
+                ],
+                "governing": [
+                    88
+                ],
+                "simulating": [
+                    91
+                ],
+                "thermal": [
+                    92
+                ],
+                "in": [
+                    94
+                ],
+                "semiconductor": [
+                    95
+                ],
+                "materials": [
+                    96
+                ],
+                "at": [
+                    97,
+                    119
+                ],
+                "sub-micron": [
+                    98
+                ],
+                "scales.": [
+                    99
+                ],
+                "The": [
+                    100
+                ],
+                "BTE": [
+                    104
+                ],
+                "involves": [
+                    105
+                ],
+                "thousands": [
+                    106
+                ],
+                "coupled": [
+                    108
+                ],
+                "PDEs": [
+                    109
+                ],
+                "as": [
+                    110,
+                    112
+                ],
+                "well": [
+                    111
+                ],
+                "complicated": [
+                    113
+                ],
+                "boundary": [
+                    114
+                ],
+                "conditions": [
+                    115
+                ],
+                "nonlinear": [
+                    117
+                ],
+                "processing": [
+                    118
+                ],
+                "each": [
+                    120
+                ],
+                "time": [
+                    121
+                ],
+                "step.": [
+                    122
+                ],
+                "enable": [
+                    125
+                ],
+                "DSL": [
+                    127,
+                    157
+                ],
+                "generate": [
+                    129
+                ],
+                "configurable": [
+                    130
+                ],
+                "hybrid": [
+                    131
+                ],
+                "GPU/CPU": [
+                    132
+                ],
+                "couples": [
+                    135
+                ],
+                "accelerated": [
+                    136
+                ],
+                "kernels": [
+                    137
+                ],
+                "with": [
+                    138,
+                    158
+                ],
+                "user-defined": [
+                    139
+                ],
+                "code.": [
+                    140
+                ],
+                "observed": [
+                    142
+                ],
+                "performance": [
+                    143
+                ],
+                "improvements": [
+                    144
+                ],
+                "around": [
+                    146
+                ],
+                "18X": [
+                    147
+                ],
+                "compared": [
+                    148
+                ],
+                "CPU-only": [
+                    151
+                ],
+                "version": [
+                    152
+                ],
+                "produced": [
+                    153
+                ],
+                "by": [
+                    154
+                ],
+                "this": [
+                    155
+                ],
+                "same": [
+                    156
+                ],
+                "minimal": [
+                    159
+                ],
+                "additional": [
+                    160
+                ],
+                "programming": [
+                    161
+                ],
+                "effort.": [
+                    162
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4379087103",
+            "counts_by_year": [],
+            "updated_date": "2024-09-19T17:36:17.918952",
+            "created_date": "2023-06-02"
+        }
+    ],
+    "group_by": []
+}

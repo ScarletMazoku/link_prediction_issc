@@ -1,0 +1,1614 @@
+{
+    "meta": {
+        "count": 2,
+        "db_response_time_ms": 52,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2808206581",
+            "doi": "https://doi.org/10.1007/978-3-319-93701-4_59",
+            "title": "Prediction of Blasting Vibration Intensity by Improved PSO-SVR on Apache Spark Cluster",
+            "display_name": "Prediction of Blasting Vibration Intensity by Improved PSO-SVR on Apache Spark Cluster",
+            "publication_year": 2018,
+            "publication_date": "2018-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2808206581",
+                "doi": "https://doi.org/10.1007/978-3-319-93701-4_59",
+                "mag": "2808206581"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-319-93701-4_59",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5051100696",
+                        "display_name": "Yunlan Wang",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Yunlan Wang",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100740128",
+                        "display_name": "Jing Wang",
+                        "orcid": "https://orcid.org/0000-0002-3288-2111"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jing Wang",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5012961763",
+                        "display_name": "Xingshe Zhou",
+                        "orcid": "https://orcid.org/0000-0001-7301-2174"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Xingshe Zhou",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5025053229",
+                        "display_name": "Tianhai Zhao",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tianhai Zhao",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5102208568",
+                        "display_name": "Jianhua Gu",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jianhua Gu",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science, Center for High Performance Computing, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5051100696"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I17145004"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.886,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 4,
+            "citation_normalized_percentile": {
+                "value": 0.842553,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 77,
+                "max": 79
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "748",
+                "last_page": "759"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10640",
+                "display_name": "Chemometrics in Analytical Chemistry and Food Technology",
+                "score": 0.9991,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1602",
+                    "display_name": "Analytical Chemistry"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/16",
+                    "display_name": "Chemistry"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10640",
+                    "display_name": "Chemometrics in Analytical Chemistry and Food Technology",
+                    "score": 0.9991,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1602",
+                        "display_name": "Analytical Chemistry"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/16",
+                        "display_name": "Chemistry"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13717",
+                    "display_name": "Control Systems and Network Applications",
+                    "score": 0.9792,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2207",
+                        "display_name": "Control and Systems Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13890",
+                    "display_name": "Applications of Remote Sensing in Geoscience and Agriculture",
+                    "score": 0.9775,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1902",
+                        "display_name": "Atmospheric Science"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/19",
+                        "display_name": "Earth and Planetary Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/spark",
+                    "display_name": "SPARK (programming language)",
+                    "score": 0.6428081
+                },
+                {
+                    "id": "https://openalex.org/keywords/support-vector-machines",
+                    "display_name": "Support Vector Machines",
+                    "score": 0.567477
+                },
+                {
+                    "id": "https://openalex.org/keywords/multivariate-calibration",
+                    "display_name": "Multivariate Calibration",
+                    "score": 0.510911
+                },
+                {
+                    "id": "https://openalex.org/keywords/variable-selection",
+                    "display_name": "Variable Selection",
+                    "score": 0.505851
+                },
+                {
+                    "id": "https://openalex.org/keywords/intensity",
+                    "display_name": "Intensity (physics)",
+                    "score": 0.41959617
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C85617194",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2072794",
+                    "display_name": "Particle swarm optimization",
+                    "level": 2,
+                    "score": 0.83477163
+                },
+                {
+                    "id": "https://openalex.org/C12267149",
+                    "wikidata": "https://www.wikidata.org/wiki/Q282453",
+                    "display_name": "Support vector machine",
+                    "level": 2,
+                    "score": 0.69696516
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.6915712
+                },
+                {
+                    "id": "https://openalex.org/C2781215313",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3493345",
+                    "display_name": "SPARK (programming language)",
+                    "level": 2,
+                    "score": 0.6428081
+                },
+                {
+                    "id": "https://openalex.org/C198394728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3695508",
+                    "display_name": "Vibration",
+                    "level": 2,
+                    "score": 0.6034465
+                },
+                {
+                    "id": "https://openalex.org/C8880873",
+                    "wikidata": "https://www.wikidata.org/wiki/Q187787",
+                    "display_name": "Genetic algorithm",
+                    "level": 2,
+                    "score": 0.58543515
+                },
+                {
+                    "id": "https://openalex.org/C50644808",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192776",
+                    "display_name": "Artificial neural network",
+                    "level": 2,
+                    "score": 0.52859163
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.43768054
+                },
+                {
+                    "id": "https://openalex.org/C93038891",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1061524",
+                    "display_name": "Intensity (physics)",
+                    "level": 2,
+                    "score": 0.41959617
+                },
+                {
+                    "id": "https://openalex.org/C153180895",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+                    "display_name": "Pattern recognition (psychology)",
+                    "level": 2,
+                    "score": 0.33950484
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.33319974
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.2933867
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": 0.2007218
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.14425796
+                },
+                {
+                    "id": "https://openalex.org/C24890656",
+                    "wikidata": "https://www.wikidata.org/wiki/Q82811",
+                    "display_name": "Acoustics",
+                    "level": 1,
+                    "score": 0.057864547
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-319-93701-4_59",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Affordable and clean energy",
+                    "id": "https://metadata.un.org/sdg/7",
+                    "score": 0.66
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 7,
+            "referenced_works": [
+                "https://openalex.org/W1970593617",
+                "https://openalex.org/W2109364787",
+                "https://openalex.org/W2162284399",
+                "https://openalex.org/W2231104193",
+                "https://openalex.org/W2379184428",
+                "https://openalex.org/W2387022369",
+                "https://openalex.org/W3144619878"
+            ],
+            "related_works": [
+                "https://openalex.org/W3159871278",
+                "https://openalex.org/W3109411864",
+                "https://openalex.org/W3015859229",
+                "https://openalex.org/W2905242764",
+                "https://openalex.org/W2380410789",
+                "https://openalex.org/W2230552005",
+                "https://openalex.org/W2203888795",
+                "https://openalex.org/W2113981829",
+                "https://openalex.org/W2112959154",
+                "https://openalex.org/W1975949872"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0,
+                    60
+                ],
+                "order": [
+                    1
+                ],
+                "to": [
+                    2,
+                    15,
+                    34,
+                    51
+                ],
+                "predict": [
+                    3,
+                    16,
+                    119
+                ],
+                "blasting": [
+                    4,
+                    17,
+                    121
+                ],
+                "vibration": [
+                    5,
+                    18,
+                    20,
+                    23,
+                    122
+                ],
+                "intensity": [
+                    6,
+                    123
+                ],
+                "accurately,": [
+                    7
+                ],
+                "support": [
+                    8
+                ],
+                "vector": [
+                    9
+                ],
+                "machine": [
+                    10
+                ],
+                "regression": [
+                    11
+                ],
+                "(SVR)": [
+                    12
+                ],
+                "was": [
+                    13,
+                    67
+                ],
+                "adopted": [
+                    14
+                ],
+                "velocity,": [
+                    19
+                ],
+                "frequency": [
+                    21
+                ],
+                "and": [
+                    22,
+                    77,
+                    93,
+                    112,
+                    114
+                ],
+                "duration.": [
+                    24
+                ],
+                "The": [
+                    25,
+                    45,
+                    74,
+                    100
+                ],
+                "mutation": [
+                    26
+                ],
+                "operation": [
+                    27
+                ],
+                "of": [
+                    28,
+                    40,
+                    57,
+                    80
+                ],
+                "genetic": [
+                    29
+                ],
+                "algorithm": [
+                    30,
+                    48,
+                    66,
+                    92,
+                    97,
+                    107
+                ],
+                "(GA)": [
+                    31
+                ],
+                "is": [
+                    32,
+                    49,
+                    110
+                ],
+                "used": [
+                    33,
+                    50
+                ],
+                "avoid": [
+                    35
+                ],
+                "the": [
+                    36,
+                    54,
+                    61,
+                    63,
+                    70,
+                    81,
+                    84,
+                    88,
+                    94,
+                    104,
+                    115,
+                    120
+                ],
+                "local": [
+                    37
+                ],
+                "optimal": [
+                    38
+                ],
+                "solution": [
+                    39
+                ],
+                "particle": [
+                    41
+                ],
+                "swarm": [
+                    42
+                ],
+                "optimization": [
+                    43
+                ],
+                "(PSO).": [
+                    44
+                ],
+                "improved": [
+                    46,
+                    64,
+                    95,
+                    105
+                ],
+                "PSO": [
+                    47
+                ],
+                "search": [
+                    52
+                ],
+                "for": [
+                    53
+                ],
+                "best": [
+                    55
+                ],
+                "parameters": [
+                    56
+                ],
+                "SVR": [
+                    58,
+                    86,
+                    116
+                ],
+                "model.": [
+                    59
+                ],
+                "experiments,": [
+                    62
+                ],
+                "PSO-SVR": [
+                    65,
+                    96,
+                    106
+                ],
+                "realized": [
+                    68
+                ],
+                "on": [
+                    69,
+                    108
+                ],
+                "Apache": [
+                    71
+                ],
+                "Spark": [
+                    72,
+                    109
+                ],
+                "platform.": [
+                    73
+                ],
+                "execution": [
+                    75
+                ],
+                "time": [
+                    76
+                ],
+                "prediction": [
+                    78
+                ],
+                "accuracy": [
+                    79
+                ],
+                "sadovski": [
+                    82
+                ],
+                "method,": [
+                    83
+                ],
+                "traditional": [
+                    85
+                ],
+                "algorithm,": [
+                    87
+                ],
+                "neural": [
+                    89
+                ],
+                "network": [
+                    90
+                ],
+                "(NN)": [
+                    91
+                ],
+                "were": [
+                    98
+                ],
+                "compared.": [
+                    99
+                ],
+                "results": [
+                    101
+                ],
+                "show": [
+                    102
+                ],
+                "that": [
+                    103
+                ],
+                "feasible": [
+                    111
+                ],
+                "efficient,": [
+                    113
+                ],
+                "model": [
+                    117
+                ],
+                "can": [
+                    118
+                ],
+                "more": [
+                    124
+                ],
+                "accurately": [
+                    125
+                ],
+                "than": [
+                    126
+                ],
+                "other": [
+                    127
+                ],
+                "methods.": [
+                    128
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2808206581",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T23:12:16.164040",
+            "created_date": "2018-06-21"
+        },
+        {
+            "id": "https://openalex.org/W2809038381",
+            "doi": "https://doi.org/10.1109/compsac.2018.10217",
+            "title": "Prediction Method of Blasting Vibration by Optimized GEP Based on Spark",
+            "display_name": "Prediction Method of Blasting Vibration by Optimized GEP Based on Spark",
+            "publication_year": 2018,
+            "publication_date": "2018-07-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2809038381",
+                "doi": "https://doi.org/10.1109/compsac.2018.10217",
+                "mag": "2809038381"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/compsac.2018.10217",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5051100696",
+                        "display_name": "Yunlan Wang",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Yunlan Wang",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5100392848",
+                        "display_name": "Bin Zhang",
+                        "orcid": "https://orcid.org/0000-0002-5591-7874"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bin Zhang",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5025053229",
+                        "display_name": "Tianhai Zhao",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Tianhai Zhao",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102959765",
+                        "display_name": "Zhengxiong Hou",
+                        "orcid": "https://orcid.org/0000-0003-0427-0799"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Zhengxiong Hou",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5021998562",
+                        "display_name": "Xiangyu Wu",
+                        "orcid": "https://orcid.org/0000-0003-2055-5890"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Xiangyu Wu",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5048793571",
+                        "display_name": "Hussain Khanzada Muzammil",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I17145004",
+                            "display_name": "Northwestern Polytechnical University",
+                            "ror": "https://ror.org/01y0j0j86",
+                            "country_code": "CN",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CN"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hussain Khanzada Muzammil",
+                    "raw_affiliation_strings": [
+                        "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi'an, Shaanxi, China",
+                            "institution_ids": [
+                                "https://openalex.org/I17145004"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 63
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T13734",
+                "display_name": "Artificial Intelligence and Expert Systems",
+                "score": 0.9823,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T13734",
+                    "display_name": "Artificial Intelligence and Expert Systems",
+                    "score": 0.9823,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1702",
+                        "display_name": "Artificial Intelligence"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13717",
+                    "display_name": "Control Systems and Network Applications",
+                    "score": 0.9583,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2207",
+                        "display_name": "Control and Systems Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T14042",
+                    "display_name": "Internet of Things and Big Data Applications",
+                    "score": 0.9471,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/spark",
+                    "display_name": "SPARK (programming language)",
+                    "score": 0.74005526
+                },
+                {
+                    "id": "https://openalex.org/keywords/support-vector-machines",
+                    "display_name": "Support Vector Machines",
+                    "score": 0.49756
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C50933969",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2891954",
+                    "display_name": "Rock blasting",
+                    "level": 2,
+                    "score": 0.8534063
+                },
+                {
+                    "id": "https://openalex.org/C2781215313",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3493345",
+                    "display_name": "SPARK (programming language)",
+                    "level": 2,
+                    "score": 0.74005526
+                },
+                {
+                    "id": "https://openalex.org/C198394728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3695508",
+                    "display_name": "Vibration",
+                    "level": 2,
+                    "score": 0.68107104
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.54021144
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.3844751
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.31785312
+                },
+                {
+                    "id": "https://openalex.org/C16674752",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+                    "display_name": "Mining engineering",
+                    "level": 1,
+                    "score": 0.17342514
+                },
+                {
+                    "id": "https://openalex.org/C24890656",
+                    "wikidata": "https://www.wikidata.org/wiki/Q82811",
+                    "display_name": "Acoustics",
+                    "level": 1,
+                    "score": 0.16295627
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/compsac.2018.10217",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 8,
+            "referenced_works": [
+                "https://openalex.org/W1571236208",
+                "https://openalex.org/W2022752101",
+                "https://openalex.org/W2353663245",
+                "https://openalex.org/W2380827383",
+                "https://openalex.org/W2384178156",
+                "https://openalex.org/W2407816573",
+                "https://openalex.org/W2509457272",
+                "https://openalex.org/W4249063111"
+            ],
+            "related_works": [
+                "https://openalex.org/W4234706425",
+                "https://openalex.org/W3015859229",
+                "https://openalex.org/W2500867234",
+                "https://openalex.org/W2394386260",
+                "https://openalex.org/W2389130112",
+                "https://openalex.org/W2384416889",
+                "https://openalex.org/W2377205869",
+                "https://openalex.org/W2376068700",
+                "https://openalex.org/W2359102462",
+                "https://openalex.org/W2351837897"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "order": [
+                    1
+                ],
+                "to": [
+                    2,
+                    14,
+                    26,
+                    37,
+                    58
+                ],
+                "minimize": [
+                    3
+                ],
+                "the": [
+                    4,
+                    17,
+                    28,
+                    39,
+                    51,
+                    64,
+                    79,
+                    88,
+                    93,
+                    99
+                ],
+                "damage": [
+                    5
+                ],
+                "of": [
+                    6,
+                    42,
+                    54
+                ],
+                "engineering": [
+                    7,
+                    48
+                ],
+                "blasting": [
+                    8,
+                    18,
+                    31,
+                    49
+                ],
+                "vibration,": [
+                    9
+                ],
+                "it": [
+                    10
+                ],
+                "is": [
+                    11,
+                    24,
+                    56,
+                    67
+                ],
+                "very": [
+                    12
+                ],
+                "important": [
+                    13
+                ],
+                "accurately": [
+                    15
+                ],
+                "predict": [
+                    16
+                ],
+                "peak": [
+                    19
+                ],
+                "velocity.": [
+                    20
+                ],
+                "The": [
+                    21,
+                    72,
+                    83
+                ],
+                "GEP": [
+                    22,
+                    43,
+                    55,
+                    65,
+                    75
+                ],
+                "algorithm": [
+                    23,
+                    66
+                ],
+                "used": [
+                    25
+                ],
+                "analyze": [
+                    27
+                ],
+                "relationship": [
+                    29
+                ],
+                "between": [
+                    30
+                ],
+                "vibration": [
+                    32
+                ],
+                "and": [
+                    33,
+                    61,
+                    96
+                ],
+                "related": [
+                    34
+                ],
+                "parameters.": [
+                    35
+                ],
+                "Aiming": [
+                    36
+                ],
+                "improve": [
+                    38,
+                    98
+                ],
+                "time": [
+                    40,
+                    95
+                ],
+                "performance": [
+                    41
+                ],
+                "in": [
+                    44,
+                    102
+                ],
+                "dealing": [
+                    45
+                ],
+                "with": [
+                    46
+                ],
+                "large-scale": [
+                    47
+                ],
+                "data,": [
+                    50
+                ],
+                "gene": [
+                    52
+                ],
+                "structure": [
+                    53
+                ],
+                "adjusted": [
+                    57
+                ],
+                "head,": [
+                    59
+                ],
+                "body": [
+                    60
+                ],
+                "tail.": [
+                    62
+                ],
+                "Then": [
+                    63
+                ],
+                "paralleled": [
+                    68
+                ],
+                "on": [
+                    69
+                ],
+                "Spark": [
+                    70
+                ],
+                "cluster.": [
+                    71
+                ],
+                "optimized": [
+                    73
+                ],
+                "parallel": [
+                    74
+                ],
+                "can": [
+                    76,
+                    90,
+                    97
+                ],
+                "greatly": [
+                    77
+                ],
+                "improves": [
+                    78
+                ],
+                "global": [
+                    80
+                ],
+                "search": [
+                    81
+                ],
+                "efficiency.": [
+                    82
+                ],
+                "experimental": [
+                    84
+                ],
+                "results": [
+                    85
+                ],
+                "show": [
+                    86
+                ],
+                "that": [
+                    87
+                ],
+                "method": [
+                    89
+                ],
+                "obviously": [
+                    91
+                ],
+                "reduce": [
+                    92
+                ],
+                "running": [
+                    94
+                ],
+                "prediction": [
+                    100
+                ],
+                "accuracy": [
+                    101
+                ],
+                "most": [
+                    103
+                ],
+                "cases.": [
+                    104
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2809038381",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T12:24:40.514189",
+            "created_date": "2018-06-29"
+        }
+    ],
+    "group_by": []
+}

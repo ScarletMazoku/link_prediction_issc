@@ -1,0 +1,4700 @@
+{
+    "meta": {
+        "count": 6,
+        "db_response_time_ms": 44,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2088717811",
+            "doi": "https://doi.org/10.1016/j.camwa.2014.03.017",
+            "title": "Computational cost estimates for parallel shared memory isogeometric multi-frontal solvers",
+            "display_name": "Computational cost estimates for parallel shared memory isogeometric multi-frontal solvers",
+            "publication_year": 2014,
+            "publication_date": "2014-04-18",
+            "ids": {
+                "openalex": "https://openalex.org/W2088717811",
+                "doi": "https://doi.org/10.1016/j.camwa.2014.03.017",
+                "mag": "2088717811"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.camwa.2014.03.017",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210205691",
+                    "display_name": "Computers & Mathematics with Applications",
+                    "issn_l": "0898-1221",
+                    "issn": [
+                        "0898-1221",
+                        "1873-7668"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://doi.org/10.1016/j.camwa.2014.03.017",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5011728048",
+                        "display_name": "Maciej Woźniak",
+                        "orcid": "https://orcid.org/0000-0002-5576-5671"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Woźniak",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003329521",
+                        "display_name": "Krzysztof Kuźnik",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "K. Kuźnik",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075191779",
+                        "display_name": "Maciej Paszyński",
+                        "orcid": "https://orcid.org/0000-0001-7766-6052"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Paszyński",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5024876563",
+                        "display_name": "Victor M. Calo",
+                        "orcid": "https://orcid.org/0000-0002-1805-4045"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I71920554",
+                            "display_name": "King Abdullah University of Science and Technology",
+                            "ror": "https://ror.org/01q3tbs38",
+                            "country_code": "SA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "V.M. Calo",
+                    "raw_affiliation_strings": [
+                        "King Abdullah University of Science and Technology Thuwal, Saudi Arabia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah University of Science and Technology Thuwal, Saudi Arabia",
+                            "institution_ids": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5082696717",
+                        "display_name": "David Pardo",
+                        "orcid": "https://orcid.org/0000-0002-1101-2248"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I169108374",
+                            "display_name": "University of the Basque Country",
+                            "ror": "https://ror.org/000xsnr85",
+                            "country_code": "ES",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I169108374"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I110594554",
+                            "display_name": "Ikerbasque",
+                            "ror": "https://ror.org/01cc3fy72",
+                            "country_code": "ES",
+                            "type": "other",
+                            "lineage": [
+                                "https://openalex.org/I110594554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "ES"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "D. Pardo",
+                    "raw_affiliation_strings": [
+                        "University of the Basque Country (UPV/EHU), BCAM, and Ikerbasque, Bilbao, Spain"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "University of the Basque Country (UPV/EHU), BCAM, and Ikerbasque, Bilbao, Spain",
+                            "institution_ids": [
+                                "https://openalex.org/I169108374",
+                                "https://openalex.org/I110594554"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 3,
+            "institutions_distinct_count": 4,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 3480,
+                "currency": "USD",
+                "value_usd": 3480,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 4.841,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 35,
+            "citation_normalized_percentile": {
+                "value": 0.888333,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 94,
+                "max": 95
+            },
+            "biblio": {
+                "volume": "67",
+                "issue": "10",
+                "first_page": "1864",
+                "last_page": "1883"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11245",
+                "display_name": "Isogeometric Analysis in Computational Engineering",
+                "score": 1.0,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11245",
+                    "display_name": "Isogeometric Analysis in Computational Engineering",
+                    "score": 1.0,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9405,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10335",
+                    "display_name": "Colorectal Cancer Research and Treatment",
+                    "score": 0.9111,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2730",
+                        "display_name": "Oncology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/27",
+                        "display_name": "Medicine"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/4",
+                        "display_name": "Health Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.83300793
+                },
+                {
+                    "id": "https://openalex.org/keywords/isogeometric-analysis",
+                    "display_name": "Isogeometric analysis",
+                    "score": 0.5183731
+                },
+                {
+                    "id": "https://openalex.org/keywords/geometric-optimization",
+                    "display_name": "Geometric Optimization",
+                    "score": 0.507353
+                },
+                {
+                    "id": "https://openalex.org/keywords/distributed-memory",
+                    "display_name": "Distributed memory",
+                    "score": 0.5063461
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-geometry",
+                    "display_name": "Computational Geometry",
+                    "score": 0.504596
+                },
+                {
+                    "id": "https://openalex.org/keywords/hyperplane",
+                    "display_name": "Hyperplane",
+                    "score": 0.49291086
+                },
+                {
+                    "id": "https://openalex.org/keywords/quintic-function",
+                    "display_name": "Quintic function",
+                    "score": 0.46741366
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.83300793
+                },
+                {
+                    "id": "https://openalex.org/C133875982",
+                    "wikidata": "https://www.wikidata.org/wiki/Q764810",
+                    "display_name": "Shared memory",
+                    "level": 2,
+                    "score": 0.6590879
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.64338857
+                },
+                {
+                    "id": "https://openalex.org/C130432447",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11420049",
+                    "display_name": "Quartic function",
+                    "level": 2,
+                    "score": 0.6420711
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.53597754
+                },
+                {
+                    "id": "https://openalex.org/C129844170",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41299",
+                    "display_name": "Quadratic equation",
+                    "level": 2,
+                    "score": 0.5344227
+                },
+                {
+                    "id": "https://openalex.org/C2780737243",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17082433",
+                    "display_name": "Isogeometric analysis",
+                    "level": 3,
+                    "score": 0.5183731
+                },
+                {
+                    "id": "https://openalex.org/C91481028",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1054686",
+                    "display_name": "Distributed memory",
+                    "level": 3,
+                    "score": 0.5063461
+                },
+                {
+                    "id": "https://openalex.org/C68693459",
+                    "wikidata": "https://www.wikidata.org/wiki/Q657586",
+                    "display_name": "Hyperplane",
+                    "level": 2,
+                    "score": 0.49291086
+                },
+                {
+                    "id": "https://openalex.org/C124966035",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33104507",
+                    "display_name": "Quintic function",
+                    "level": 3,
+                    "score": 0.46741366
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.430452
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.3717525
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.3621447
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.3060134
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.19412485
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.17793193
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.13799238
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C158622935",
+                    "wikidata": "https://www.wikidata.org/wiki/Q660848",
+                    "display_name": "Nonlinear system",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C77088390",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8513",
+                    "display_name": "Database",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.camwa.2014.03.017",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210205691",
+                        "display_name": "Computers & Mathematics with Applications",
+                        "issn_l": "0898-1221",
+                        "issn": [
+                            "0898-1221",
+                            "1873-7668"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "publisher-specific-oa",
+                    "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/20.500.11824/82",
+                    "pdf_url": "https://bird.bcamath.org/bitstream/20.500.11824/82/1/CAMWA_GPU6.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401608",
+                        "display_name": "BIRD (Basque Center for Applied Mathematics)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I2802176441",
+                        "host_organization_name": "Basque Center for Applied Mathematics",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I2802176441"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Basque Center for Applied Mathematics"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-nc-sa",
+                    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.camwa.2014.03.017",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210205691",
+                    "display_name": "Computers & Mathematics with Applications",
+                    "issn_l": "0898-1221",
+                    "issn": [
+                        "0898-1221",
+                        "1873-7668"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.82,
+                    "id": "https://metadata.un.org/sdg/16",
+                    "display_name": "Peace, justice, and strong institutions"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 45,
+            "referenced_works": [
+                "https://openalex.org/W1540625694",
+                "https://openalex.org/W1542243431",
+                "https://openalex.org/W1970066120",
+                "https://openalex.org/W1979099121",
+                "https://openalex.org/W1980952974",
+                "https://openalex.org/W1984921897",
+                "https://openalex.org/W1989512090",
+                "https://openalex.org/W1989607418",
+                "https://openalex.org/W1993806428",
+                "https://openalex.org/W2017964653",
+                "https://openalex.org/W2018010614",
+                "https://openalex.org/W2020119123",
+                "https://openalex.org/W2031567600",
+                "https://openalex.org/W2037430620",
+                "https://openalex.org/W2040390596",
+                "https://openalex.org/W2041828018",
+                "https://openalex.org/W2043033882",
+                "https://openalex.org/W2060066038",
+                "https://openalex.org/W2063675347",
+                "https://openalex.org/W2071362730",
+                "https://openalex.org/W2074623661",
+                "https://openalex.org/W2106678274",
+                "https://openalex.org/W2110186881",
+                "https://openalex.org/W2120963340",
+                "https://openalex.org/W2125494828",
+                "https://openalex.org/W2125759902",
+                "https://openalex.org/W2134581432",
+                "https://openalex.org/W2142769604",
+                "https://openalex.org/W2145257815",
+                "https://openalex.org/W2146472543",
+                "https://openalex.org/W2148144583",
+                "https://openalex.org/W2154122281",
+                "https://openalex.org/W2154198080",
+                "https://openalex.org/W2159605465",
+                "https://openalex.org/W2161826850",
+                "https://openalex.org/W2165107278",
+                "https://openalex.org/W2167334577",
+                "https://openalex.org/W2168802994",
+                "https://openalex.org/W2243933622",
+                "https://openalex.org/W2555826189",
+                "https://openalex.org/W2596290099",
+                "https://openalex.org/W2605732856",
+                "https://openalex.org/W4248236114",
+                "https://openalex.org/W642107583",
+                "https://openalex.org/W987354225"
+            ],
+            "related_works": [
+                "https://openalex.org/W935100125",
+                "https://openalex.org/W4400763223",
+                "https://openalex.org/W4310230578",
+                "https://openalex.org/W4238758668",
+                "https://openalex.org/W4226075649",
+                "https://openalex.org/W3047380045",
+                "https://openalex.org/W2314563283",
+                "https://openalex.org/W2099061025",
+                "https://openalex.org/W2057411328",
+                "https://openalex.org/W1922059553"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "this": [
+                    1
+                ],
+                "paper": [
+                    2
+                ],
+                "we": [
+                    3
+                ],
+                "present": [
+                    4
+                ],
+                "computational": [
+                    5,
+                    63
+                ],
+                "cost": [
+                    6
+                ],
+                "estimates": [
+                    7,
+                    16,
+                    124
+                ],
+                "for": [
+                    8,
+                    30,
+                    35,
+                    41,
+                    90,
+                    96,
+                    103
+                ],
+                "parallel": [
+                    9,
+                    24,
+                    69
+                ],
+                "shared": [
+                    10,
+                    22,
+                    67,
+                    109
+                ],
+                "memory": [
+                    11,
+                    23,
+                    68,
+                    110
+                ],
+                "isogeometric": [
+                    12,
+                    21,
+                    70,
+                    81
+                ],
+                "multi-frontal": [
+                    13
+                ],
+                "solvers.": [
+                    14
+                ],
+                "The": [
+                    15,
+                    62,
+                    108
+                ],
+                "show": [
+                    17
+                ],
+                "that": [
+                    18
+                ],
+                "the": [
+                    19,
+                    48,
+                    57,
+                    66,
+                    79,
+                    85,
+                    91,
+                    97,
+                    104,
+                    115
+                ],
+                "ideal": [
+                    20
+                ],
+                "direct": [
+                    25,
+                    71,
+                    82
+                ],
+                "solver": [
+                    26,
+                    72
+                ],
+                "scales": [
+                    27
+                ],
+                "as": [
+                    28
+                ],
+                "O(p2log(N/p))": [
+                    29
+                ],
+                "one": [
+                    31,
+                    92,
+                    140
+                ],
+                "dimensional": [
+                    32,
+                    37,
+                    43,
+                    93,
+                    99,
+                    106
+                ],
+                "problems,": [
+                    33,
+                    38,
+                    44
+                ],
+                "O(Np2)": [
+                    34,
+                    89
+                ],
+                "two": [
+                    36,
+                    98,
+                    142
+                ],
+                "and": [
+                    39,
+                    54,
+                    101,
+                    121,
+                    136,
+                    141
+                ],
+                "O(N4/3p2)": [
+                    40
+                ],
+                "three": [
+                    42,
+                    105
+                ],
+                "where": [
+                    45
+                ],
+                "N": [
+                    46,
+                    120
+                ],
+                "is": [
+                    47,
+                    56
+                ],
+                "number": [
+                    49
+                ],
+                "of": [
+                    50,
+                    52,
+                    60,
+                    65,
+                    119
+                ],
+                "degrees": [
+                    51
+                ],
+                "freedom,": [
+                    53
+                ],
+                "p": [
+                    55
+                ],
+                "polynomial": [
+                    58
+                ],
+                "order": [
+                    59
+                ],
+                "approximation.": [
+                    61
+                ],
+                "costs": [
+                    64
+                ],
+                "are": [
+                    73,
+                    125
+                ],
+                "compared": [
+                    74,
+                    126
+                ],
+                "with": [
+                    75,
+                    127,
+                    131
+                ],
+                "those": [
+                    76
+                ],
+                "corresponding": [
+                    77
+                ],
+                "to": [
+                    78,
+                    88
+                ],
+                "sequential": [
+                    80
+                ],
+                "solver,": [
+                    83
+                ],
+                "being": [
+                    84
+                ],
+                "latest": [
+                    86
+                ],
+                "equal": [
+                    87
+                ],
+                "case,": [
+                    94,
+                    100
+                ],
+                "O(N1.5p3)": [
+                    95
+                ],
+                "O(N2p3)": [
+                    102
+                ],
+                "case.": [
+                    107
+                ],
+                "version": [
+                    111
+                ],
+                "significantly": [
+                    112
+                ],
+                "reduces": [
+                    113
+                ],
+                "both": [
+                    114
+                ],
+                "scalability": [
+                    116
+                ],
+                "in": [
+                    117,
+                    139
+                ],
+                "terms": [
+                    118
+                ],
+                "p.": [
+                    122
+                ],
+                "Theoretical": [
+                    123
+                ],
+                "numerical": [
+                    128
+                ],
+                "experiments": [
+                    129
+                ],
+                "performed": [
+                    130
+                ],
+                "linear,": [
+                    132
+                ],
+                "quadratic,": [
+                    133
+                ],
+                "cubic,": [
+                    134
+                ],
+                "quartic,": [
+                    135
+                ],
+                "quintic": [
+                    137
+                ],
+                "B-splines,": [
+                    138
+                ],
+                "spatial": [
+                    143
+                ],
+                "dimensions.": [
+                    144
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2088717811",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 6
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 6
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 6
+                }
+            ],
+            "updated_date": "2024-09-18T10:11:33.590152",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2017964653",
+            "doi": "https://doi.org/10.1016/j.procs.2012.04.160",
+            "title": "Graph Grammar-Based Multi-Frontal Parallel Direct Solver for Two-Dimensional Isogeometric Analysis",
+            "display_name": "Graph Grammar-Based Multi-Frontal Parallel Direct Solver for Two-Dimensional Isogeometric Analysis",
+            "publication_year": 2012,
+            "publication_date": "2012-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2017964653",
+                "doi": "https://doi.org/10.1016/j.procs.2012.04.160",
+                "mag": "2017964653"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2012.04.160",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2012.04.160",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5003329521",
+                        "display_name": "Krzysztof Kuźnik",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Kuźnik",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075191779",
+                        "display_name": "Maciej Paszyński",
+                        "orcid": "https://orcid.org/0000-0001-7766-6052"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Maciej Paszyński",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5024876563",
+                        "display_name": "Victor M. Calo",
+                        "orcid": "https://orcid.org/0000-0002-1805-4045"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I71920554",
+                            "display_name": "King Abdullah University of Science and Technology",
+                            "ror": "https://ror.org/01q3tbs38",
+                            "country_code": "SA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Victor Calo",
+                    "raw_affiliation_strings": [
+                        "King Abdullah University of Science and Technology Thuwal, Saudi Arabia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah University of Science and Technology Thuwal, Saudi Arabia",
+                            "institution_ids": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 1.712,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 10,
+            "citation_normalized_percentile": {
+                "value": 0.736911,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 85,
+                "max": 86
+            },
+            "biblio": {
+                "volume": "9",
+                "issue": null,
+                "first_page": "1454",
+                "last_page": "1463"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11245",
+                "display_name": "Isogeometric Analysis in Computational Engineering",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11245",
+                    "display_name": "Isogeometric Analysis in Computational Engineering",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9777,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11159",
+                    "display_name": "Design for Manufacture and Assembly in Manufacturing",
+                    "score": 0.9295,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2209",
+                        "display_name": "Industrial and Manufacturing Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.7542366
+                },
+                {
+                    "id": "https://openalex.org/keywords/planar-graph-embedding",
+                    "display_name": "Planar Graph Embedding",
+                    "score": 0.537947
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.88198173
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.7542366
+                },
+                {
+                    "id": "https://openalex.org/C132525143",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141488",
+                    "display_name": "Graph",
+                    "level": 2,
+                    "score": 0.57383025
+                },
+                {
+                    "id": "https://openalex.org/C26022165",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8091",
+                    "display_name": "Grammar",
+                    "level": 2,
+                    "score": 0.49683717
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.36876595
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.26206005
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2012.04.160",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/10754/552428",
+                    "pdf_url": "https://repository.kaust.edu.sa/bitstreams/a91a0dc0-82da-420a-9c61-33269ba5fe4c/download",
+                    "source": {
+                        "id": "https://openalex.org/S4306401596",
+                        "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I71920554",
+                        "host_organization_name": "King Abdullah University of Science and Technology",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I71920554"
+                        ],
+                        "host_organization_lineage_names": [
+                            "King Abdullah University of Science and Technology"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-nc-nd",
+                    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/20.500.11937/51461",
+                    "pdf_url": "https://espace.curtin.edu.au/bitstream/20.500.11937/51461/2/250758.pdf",
+                    "source": {
+                        "id": "https://openalex.org/S4306401790",
+                        "display_name": "eSpace (Curtin University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205640436",
+                        "host_organization_name": "Curtin University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205640436"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Curtin University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-nc-nd",
+                    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2012.04.160",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.67,
+                    "id": "https://metadata.un.org/sdg/16",
+                    "display_name": "Peace, justice, and strong institutions"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W1592730613",
+                "https://openalex.org/W1601517105",
+                "https://openalex.org/W1742154315",
+                "https://openalex.org/W1984921897",
+                "https://openalex.org/W2040390596",
+                "https://openalex.org/W2063675347",
+                "https://openalex.org/W2071362730",
+                "https://openalex.org/W2106150226",
+                "https://openalex.org/W2146472543",
+                "https://openalex.org/W2495211843",
+                "https://openalex.org/W4237713727",
+                "https://openalex.org/W4239704419",
+                "https://openalex.org/W4248236114",
+                "https://openalex.org/W627933951",
+                "https://openalex.org/W642107583"
+            ],
+            "related_works": [
+                "https://openalex.org/W4255427455",
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2390279801",
+                "https://openalex.org/W2382290278",
+                "https://openalex.org/W2376932109",
+                "https://openalex.org/W2358668433",
+                "https://openalex.org/W2350741829",
+                "https://openalex.org/W2186864281",
+                "https://openalex.org/W2001405890"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "introduces": [
+                    2
+                ],
+                "the": [
+                    3,
+                    23,
+                    30,
+                    36,
+                    40,
+                    90,
+                    101,
+                    104,
+                    141
+                ],
+                "graph": [
+                    4,
+                    33,
+                    51,
+                    78,
+                    94,
+                    106
+                ],
+                "grammar": [
+                    5,
+                    34,
+                    52,
+                    79,
+                    95,
+                    107
+                ],
+                "based": [
+                    6
+                ],
+                "model": [
+                    7
+                ],
+                "for": [
+                    8,
+                    15,
+                    82
+                ],
+                "developing": [
+                    9
+                ],
+                "multi-thread": [
+                    10
+                ],
+                "multi-frontal": [
+                    11,
+                    123
+                ],
+                "parallel": [
+                    12
+                ],
+                "direct": [
+                    13
+                ],
+                "solver": [
+                    14,
+                    24,
+                    91,
+                    124
+                ],
+                "two": [
+                    16
+                ],
+                "dimensional": [
+                    17
+                ],
+                "isogeometric": [
+                    18
+                ],
+                "finite": [
+                    19,
+                    47
+                ],
+                "element": [
+                    20,
+                    55
+                ],
+                "method.Execution": [
+                    21
+                ],
+                "of": [
+                    22,
+                    32,
+                    50,
+                    74,
+                    103,
+                    113,
+                    143,
+                    145,
+                    157,
+                    159
+                ],
+                "algorithm": [
+                    25,
+                    92,
+                    125
+                ],
+                "has": [
+                    26
+                ],
+                "been": [
+                    27
+                ],
+                "expressed": [
+                    28
+                ],
+                "as": [
+                    29
+                ],
+                "sequence": [
+                    31,
+                    49
+                ],
+                "productions.At": [
+                    35
+                ],
+                "beginning": [
+                    37
+                ],
+                "productions": [
+                    38,
+                    53,
+                    80,
+                    96,
+                    108
+                ],
+                "construct": [
+                    39
+                ],
+                "elimination": [
+                    41
+                ],
+                "tree": [
+                    42
+                ],
+                "with": [
+                    43,
+                    161
+                ],
+                "leaves": [
+                    44
+                ],
+                "corresponding": [
+                    45,
+                    69
+                ],
+                "to": [
+                    46,
+                    70,
+                    99,
+                    154
+                ],
+                "elements.Following": [
+                    48
+                ],
+                "generates": [
+                    54
+                ],
+                "frontal": [
+                    56
+                ],
+                "matrices": [
+                    57,
+                    62
+                ],
+                "at": [
+                    58,
+                    63
+                ],
+                "leaf": [
+                    59
+                ],
+                "nodes,": [
+                    60
+                ],
+                "merges": [
+                    61
+                ],
+                "parent": [
+                    64
+                ],
+                "nodes": [
+                    65
+                ],
+                "and": [
+                    66,
+                    86,
+                    128
+                ],
+                "eliminates": [
+                    67
+                ],
+                "rows": [
+                    68
+                ],
+                "fully": [
+                    71
+                ],
+                "assembled": [
+                    72
+                ],
+                "degrees": [
+                    73,
+                    144,
+                    158
+                ],
+                "freedom.Finally,": [
+                    75
+                ],
+                "there": [
+                    76
+                ],
+                "are": [
+                    77,
+                    109
+                ],
+                "responsible": [
+                    81
+                ],
+                "root": [
+                    83
+                ],
+                "problem": [
+                    84
+                ],
+                "solution": [
+                    85
+                ],
+                "recursive": [
+                    87
+                ],
+                "backward": [
+                    88
+                ],
+                "substitutions.Expressing": [
+                    89
+                ],
+                "by": [
+                    93,
+                    151
+                ],
+                "allows": [
+                    97
+                ],
+                "us": [
+                    98
+                ],
+                "explore": [
+                    100
+                ],
+                "concurrency": [
+                    102
+                ],
+                "algorithm.The": [
+                    105
+                ],
+                "grouped": [
+                    110
+                ],
+                "into": [
+                    111
+                ],
+                "sets": [
+                    112
+                ],
+                "independent": [
+                    114
+                ],
+                "tasks": [
+                    115
+                ],
+                "that": [
+                    116
+                ],
+                "can": [
+                    117
+                ],
+                "be": [
+                    118
+                ],
+                "executed": [
+                    119
+                ],
+                "concurrently.The": [
+                    120
+                ],
+                "resulting": [
+                    121
+                ],
+                "concurrent": [
+                    122
+                ],
+                "is": [
+                    126,
+                    140
+                ],
+                "implemented": [
+                    127
+                ],
+                "tested": [
+                    129
+                ],
+                "on": [
+                    130
+                ],
+                "NVIDIA": [
+                    131
+                ],
+                "GPU,": [
+                    132
+                ],
+                "providing": [
+                    133
+                ],
+                "O(NlogN)": [
+                    134
+                ],
+                "execution": [
+                    135
+                ],
+                "time": [
+                    136
+                ],
+                "complexity": [
+                    137,
+                    150
+                ],
+                "where": [
+                    138
+                ],
+                "N": [
+                    139
+                ],
+                "number": [
+                    142
+                ],
+                "freedom.We": [
+                    146
+                ],
+                "have": [
+                    147
+                ],
+                "confirmed": [
+                    148
+                ],
+                "this": [
+                    149
+                ],
+                "solving": [
+                    152
+                ],
+                "up": [
+                    153
+                ],
+                "1": [
+                    155
+                ],
+                "million": [
+                    156
+                ],
+                "freedom": [
+                    160
+                ],
+                "448": [
+                    162
+                ],
+                "cores": [
+                    163
+                ],
+                "GPU.": [
+                    164
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2017964653",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-25T20:28:52.279240",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1993806428",
+            "doi": "https://doi.org/10.1016/j.procs.2013.05.325",
+            "title": "Grammar-Based Multi-Frontal Solver for One Dimensional Isogeometric Analysis with Multiple Right-Hand-Sides",
+            "display_name": "Grammar-Based Multi-Frontal Solver for One Dimensional Isogeometric Analysis with Multiple Right-Hand-Sides",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1993806428",
+                "doi": "https://doi.org/10.1016/j.procs.2013.05.325",
+                "mag": "1993806428"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.325",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2013.05.325",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5003329521",
+                        "display_name": "Krzysztof Kuźnik",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Kuźnik",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075191779",
+                        "display_name": "Maciej Paszyński",
+                        "orcid": "https://orcid.org/0000-0001-7766-6052"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Maciej Paszyński",
+                    "raw_affiliation_strings": [
+                        "AGH Univ. of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH Univ. of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5024876563",
+                        "display_name": "Victor M. Calo",
+                        "orcid": "https://orcid.org/0000-0002-1805-4045"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I71920554",
+                            "display_name": "King Abdullah University of Science and Technology",
+                            "ror": "https://ror.org/01q3tbs38",
+                            "country_code": "SA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Victor Calo",
+                    "raw_affiliation_strings": [
+                        "King Abdullah University of Science and Technology Thuwal, Saudi Arabia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah University of Science and Technology Thuwal, Saudi Arabia",
+                            "institution_ids": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.936,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 5,
+            "citation_normalized_percentile": {
+                "value": 0.691581,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 80,
+                "max": 82
+            },
+            "biblio": {
+                "volume": "18",
+                "issue": null,
+                "first_page": "1574",
+                "last_page": "1583"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11245",
+                "display_name": "Isogeometric Analysis in Computational Engineering",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11245",
+                    "display_name": "Isogeometric Analysis in Computational Engineering",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11435",
+                    "display_name": "Symbolic Computing in Algebraic Geometry and Cryptography",
+                    "score": 0.9865,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9708,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.7029008
+                },
+                {
+                    "id": "https://openalex.org/keywords/multiscale-modeling",
+                    "display_name": "Multiscale Modeling",
+                    "score": 0.510611
+                },
+                {
+                    "id": "https://openalex.org/keywords/isogeometric-analysis",
+                    "display_name": "Isogeometric analysis",
+                    "score": 0.44350392
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.91607594
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.7029008
+                },
+                {
+                    "id": "https://openalex.org/C26022165",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8091",
+                    "display_name": "Grammar",
+                    "level": 2,
+                    "score": 0.47906265
+                },
+                {
+                    "id": "https://openalex.org/C2780737243",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17082433",
+                    "display_name": "Isogeometric analysis",
+                    "level": 3,
+                    "score": 0.44350392
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.39182222
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.26673427
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.15108028
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.060386837
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 2,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.325",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://hdl.handle.net/10754/552434",
+                    "pdf_url": "https://repository.kaust.edu.sa/bitstreams/1c0616d0-ab3d-4f3c-8c47-268a3163fd79/download",
+                    "source": {
+                        "id": "https://openalex.org/S4306401596",
+                        "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I71920554",
+                        "host_organization_name": "King Abdullah University of Science and Technology",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I71920554"
+                        ],
+                        "host_organization_lineage_names": [
+                            "King Abdullah University of Science and Technology"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": "cc-by-nc-nd",
+                    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2013.05.325",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.76,
+                    "id": "https://metadata.un.org/sdg/4",
+                    "display_name": "Quality education"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 21,
+            "referenced_works": [
+                "https://openalex.org/W1542243431",
+                "https://openalex.org/W1973166496",
+                "https://openalex.org/W1984921897",
+                "https://openalex.org/W2022017302",
+                "https://openalex.org/W2037430620",
+                "https://openalex.org/W2040390596",
+                "https://openalex.org/W2041828018",
+                "https://openalex.org/W2063675347",
+                "https://openalex.org/W2070299075",
+                "https://openalex.org/W2070571481",
+                "https://openalex.org/W2071362730",
+                "https://openalex.org/W2125759902",
+                "https://openalex.org/W2145257815",
+                "https://openalex.org/W2154198080",
+                "https://openalex.org/W2168802994",
+                "https://openalex.org/W4237713727",
+                "https://openalex.org/W4239704419",
+                "https://openalex.org/W4248236114",
+                "https://openalex.org/W627933951",
+                "https://openalex.org/W642107583",
+                "https://openalex.org/W987354225"
+            ],
+            "related_works": [
+                "https://openalex.org/W3025313650",
+                "https://openalex.org/W2989939614",
+                "https://openalex.org/W2989766329",
+                "https://openalex.org/W2981315515",
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2352095914",
+                "https://openalex.org/W2129372062",
+                "https://openalex.org/W1940709639",
+                "https://openalex.org/W1924025565"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "introduces": [
+                    2
+                ],
+                "a": [
+                    3,
+                    8
+                ],
+                "grammar-based": [
+                    4
+                ],
+                "model": [
+                    5,
+                    20,
+                    94
+                ],
+                "for": [
+                    6,
+                    14,
+                    26,
+                    72,
+                    87,
+                    108,
+                    132
+                ],
+                "developing": [
+                    7
+                ],
+                "multi-thread": [
+                    9
+                ],
+                "multi-frontal": [
+                    10,
+                    35,
+                    80
+                ],
+                "parallel": [
+                    11
+                ],
+                "direct": [
+                    12
+                ],
+                "solver": [
+                    13,
+                    36,
+                    41,
+                    81,
+                    131
+                ],
+                "onedimensional": [
+                    15
+                ],
+                "isogeometric": [
+                    16
+                ],
+                "finite": [
+                    17
+                ],
+                "element": [
+                    18,
+                    30
+                ],
+                "method.The": [
+                    19
+                ],
+                "includes": [
+                    21
+                ],
+                "the": [
+                    22,
+                    29,
+                    34,
+                    40,
+                    50,
+                    63,
+                    70,
+                    73,
+                    76,
+                    116,
+                    120,
+                    130,
+                    139
+                ],
+                "integration": [
+                    23,
+                    38,
+                    78
+                ],
+                "of": [
+                    24,
+                    28,
+                    60,
+                    62,
+                    75,
+                    91,
+                    141
+                ],
+                "B-splines": [
+                    25
+                ],
+                "construction": [
+                    27
+                ],
+                "local": [
+                    31
+                ],
+                "matrices": [
+                    32
+                ],
+                "and": [
+                    33,
+                    39,
+                    79,
+                    98,
+                    112
+                ],
+                "algorithm.The": [
+                    37
+                ],
+                "algorithm": [
+                    42
+                ],
+                "are": [
+                    43
+                ],
+                "partitioned": [
+                    44
+                ],
+                "into": [
+                    45
+                ],
+                "basic": [
+                    46,
+                    64
+                ],
+                "indivisible": [
+                    47
+                ],
+                "tasks,": [
+                    48
+                ],
+                "namely": [
+                    49
+                ],
+                "grammar": [
+                    51,
+                    84,
+                    127
+                ],
+                "productions,": [
+                    52
+                ],
+                "that": [
+                    53
+                ],
+                "can": [
+                    54
+                ],
+                "be": [
+                    55
+                ],
+                "executed": [
+                    56
+                ],
+                "squentially.The": [
+                    57
+                ],
+                "partial": [
+                    58
+                ],
+                "order": [
+                    59,
+                    114
+                ],
+                "execution": [
+                    61,
+                    74,
+                    90,
+                    106
+                ],
+                "tasks": [
+                    65
+                ],
+                "is": [
+                    66
+                ],
+                "analyzed": [
+                    67
+                ],
+                "to": [
+                    68,
+                    138
+                ],
+                "provide": [
+                    69
+                ],
+                "scheduling": [
+                    71
+                ],
+                "concurrent": [
+                    77,
+                    89
+                ],
+                "algorithm.This": [
+                    82
+                ],
+                "graph": [
+                    83,
+                    126
+                ],
+                "analysis": [
+                    85
+                ],
+                "allows": [
+                    86
+                ],
+                "optimal": [
+                    88,
+                    121
+                ],
+                "all": [
+                    92
+                ],
+                "tasks.The": [
+                    93
+                ],
+                "has": [
+                    95
+                ],
+                "been": [
+                    96
+                ],
+                "implemented": [
+                    97
+                ],
+                "tested": [
+                    99
+                ],
+                "on": [
+                    100
+                ],
+                "NVIDIA": [
+                    101
+                ],
+                "CUDA": [
+                    102,
+                    117
+                ],
+                "GPU,": [
+                    103
+                ],
+                "delivering": [
+                    104
+                ],
+                "logarithmic": [
+                    105
+                ],
+                "time": [
+                    107
+                ],
+                "linear,": [
+                    109
+                ],
+                "quadratic,": [
+                    110
+                ],
+                "cubic": [
+                    111
+                ],
+                "higher": [
+                    113
+                ],
+                "B-splines.Thus,": [
+                    115
+                ],
+                "implementation": [
+                    118
+                ],
+                "delivers": [
+                    119
+                ],
+                "performance": [
+                    122
+                ],
+                "predicted": [
+                    123
+                ],
+                "by": [
+                    124
+                ],
+                "our": [
+                    125
+                ],
+                "analysis.We": [
+                    128
+                ],
+                "utilize": [
+                    129
+                ],
+                "multiple": [
+                    133
+                ],
+                "right": [
+                    134
+                ],
+                "hand": [
+                    135
+                ],
+                "sides": [
+                    136
+                ],
+                "related": [
+                    137
+                ],
+                "solution": [
+                    140
+                ],
+                "non-stationary": [
+                    142
+                ],
+                "or": [
+                    143
+                ],
+                "inverse": [
+                    144
+                ],
+                "problems.": [
+                    145
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1993806428",
+            "counts_by_year": [
+                {
+                    "year": 2017,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-26T16:43:07.423755",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W407730396",
+            "doi": "https://doi.org/10.1007/978-3-642-55195-6_50",
+            "title": "An Automatic Way of Finding Robust Elimination Trees for a Multi-frontal Sparse Solver for Radical 2D Hierarchical Meshes",
+            "display_name": "An Automatic Way of Finding Robust Elimination Trees for a Multi-frontal Sparse Solver for Radical 2D Hierarchical Meshes",
+            "publication_year": 2014,
+            "publication_date": "2014-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W407730396",
+                "doi": "https://doi.org/10.1007/978-3-642-55195-6_50",
+                "mag": "407730396"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-642-55195-6_50",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5043633754",
+                        "display_name": "Hassan AbouEisha",
+                        "orcid": "https://orcid.org/0000-0003-4560-7175"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I71920554",
+                            "display_name": "King Abdullah University of Science and Technology",
+                            "ror": "https://ror.org/01q3tbs38",
+                            "country_code": "SA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hassan AbouEisha",
+                    "raw_affiliation_strings": [
+                        "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+                            "institution_ids": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5066309349",
+                        "display_name": "Piotr Gurgul",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Piotr Gurgul",
+                    "raw_affiliation_strings": [
+                        "AGH University of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH University of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5021667268",
+                        "display_name": "Anna Paszyńska",
+                        "orcid": "https://orcid.org/0000-0002-0716-0619"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I126596746",
+                            "display_name": "Jagiellonian University",
+                            "ror": "https://ror.org/03bqmcz70",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I126596746"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Anna Paszyńska",
+                    "raw_affiliation_strings": [
+                        "Jagiellonian University, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Jagiellonian University, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I126596746"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075191779",
+                        "display_name": "Maciej Paszyński",
+                        "orcid": "https://orcid.org/0000-0001-7766-6052"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Maciek Paszyński",
+                    "raw_affiliation_strings": [
+                        "AGH University of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH University of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003329521",
+                        "display_name": "Krzysztof Kuźnik",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Kuźnik",
+                    "raw_affiliation_strings": [
+                        "AGH University of Science and Technology, Krakow, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH University of Science and Technology, Krakow, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5009085292",
+                        "display_name": "Mikhail Moshkov",
+                        "orcid": "https://orcid.org/0000-0003-0085-9483"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I71920554",
+                            "display_name": "King Abdullah University of Science and Technology",
+                            "ror": "https://ror.org/01q3tbs38",
+                            "country_code": "SA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "SA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mikhail Moshkov",
+                    "raw_affiliation_strings": [
+                        "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
+                            "institution_ids": [
+                                "https://openalex.org/I71920554"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 2,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.933,
+            "has_fulltext": false,
+            "cited_by_count": 4,
+            "citation_normalized_percentile": {
+                "value": 0.734088,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 79,
+                "max": 81
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "531",
+                "last_page": "540"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10996",
+                "display_name": "Mesh Generation Algorithms",
+                "score": 0.9989,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1704",
+                    "display_name": "Computer Graphics and Computer-Aided Design"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9989,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10481",
+                    "display_name": "Computer Graphics and Visualization Techniques",
+                    "score": 0.9978,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.9967,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.82330596
+                },
+                {
+                    "id": "https://openalex.org/keywords/geometric-optimization",
+                    "display_name": "Geometric Optimization",
+                    "score": 0.517625
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.82330596
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.721382
+                },
+                {
+                    "id": "https://openalex.org/C31487907",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1154597",
+                    "display_name": "Polygon mesh",
+                    "level": 2,
+                    "score": 0.687043
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.5596158
+                },
+                {
+                    "id": "https://openalex.org/C2778119891",
+                    "wikidata": "https://www.wikidata.org/wiki/Q477690",
+                    "display_name": "CUDA",
+                    "level": 2,
+                    "score": 0.45837522
+                },
+                {
+                    "id": "https://openalex.org/C173801870",
+                    "wikidata": "https://www.wikidata.org/wiki/Q201413",
+                    "display_name": "Heuristic",
+                    "level": 2,
+                    "score": 0.44863835
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.439095
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.34047642
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.20032734
+                },
+                {
+                    "id": "https://openalex.org/C154945302",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11660",
+                    "display_name": "Artificial intelligence",
+                    "level": 1,
+                    "score": 0.13498983
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-642-55195-6_50",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 15,
+            "referenced_works": [
+                "https://openalex.org/W1489970908",
+                "https://openalex.org/W1592730613",
+                "https://openalex.org/W1601517105",
+                "https://openalex.org/W1973166496",
+                "https://openalex.org/W1974310110",
+                "https://openalex.org/W1984921897",
+                "https://openalex.org/W2017964653",
+                "https://openalex.org/W2020119123",
+                "https://openalex.org/W2063675347",
+                "https://openalex.org/W2070299075",
+                "https://openalex.org/W2070571481",
+                "https://openalex.org/W2125759902",
+                "https://openalex.org/W2168802994",
+                "https://openalex.org/W2465315152",
+                "https://openalex.org/W62823550"
+            ],
+            "related_works": [
+                "https://openalex.org/W3213381848",
+                "https://openalex.org/W3062287",
+                "https://openalex.org/W2939411666",
+                "https://openalex.org/W2392023973",
+                "https://openalex.org/W2380390332",
+                "https://openalex.org/W2096672917",
+                "https://openalex.org/W2017587301",
+                "https://openalex.org/W2012954338",
+                "https://openalex.org/W2009169896",
+                "https://openalex.org/W2005148983"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "this": [
+                    1
+                ],
+                "paper": [
+                    2
+                ],
+                "we": [
+                    3,
+                    57
+                ],
+                "present": [
+                    4
+                ],
+                "a": [
+                    5,
+                    38,
+                    67,
+                    82
+                ],
+                "dynamic": [
+                    6
+                ],
+                "programming": [
+                    7
+                ],
+                "algorithm": [
+                    8,
+                    19,
+                    35,
+                    56,
+                    64,
+                    79,
+                    89
+                ],
+                "for": [
+                    9,
+                    14
+                ],
+                "finding": [
+                    10
+                ],
+                "optimal": [
+                    11,
+                    49
+                ],
+                "elimination": [
+                    12,
+                    29,
+                    50
+                ],
+                "trees": [
+                    13
+                ],
+                "the": [
+                    15,
+                    33,
+                    48,
+                    54
+                ],
+                "multi-frontal": [
+                    16,
+                    61,
+                    76
+                ],
+                "direct": [
+                    17,
+                    44,
+                    62,
+                    77
+                ],
+                "solver": [
+                    18,
+                    63,
+                    78
+                ],
+                "executed": [
+                    20
+                ],
+                "over": [
+                    21
+                ],
+                "two": [
+                    22
+                ],
+                "dimensional": [
+                    23
+                ],
+                "meshes": [
+                    24
+                ],
+                "with": [
+                    25
+                ],
+                "point": [
+                    26
+                ],
+                "singularities.": [
+                    27
+                ],
+                "The": [
+                    28,
+                    86
+                ],
+                "tree": [
+                    30,
+                    51
+                ],
+                "found": [
+                    31,
+                    52
+                ],
+                "by": [
+                    32,
+                    53
+                ],
+                "optimization": [
+                    34,
+                    55
+                ],
+                "results": [
+                    36
+                ],
+                "in": [
+                    37,
+                    66,
+                    81
+                ],
+                "linear": [
+                    39,
+                    68
+                ],
+                "computational": [
+                    40,
+                    69,
+                    84
+                ],
+                "cost": [
+                    41,
+                    70
+                ],
+                "of": [
+                    42
+                ],
+                "sequential": [
+                    43,
+                    60
+                ],
+                "solver.": [
+                    45
+                ],
+                "Based": [
+                    46
+                ],
+                "on": [
+                    47,
+                    92,
+                    98
+                ],
+                "construct": [
+                    58
+                ],
+                "heuristic": [
+                    59,
+                    74
+                ],
+                "resulting": [
+                    65,
+                    80,
+                    87
+                ],
+                "as": [
+                    71,
+                    73
+                ],
+                "well": [
+                    72
+                ],
+                "parallel": [
+                    75,
+                    88
+                ],
+                "logarithmic": [
+                    83
+                ],
+                "cost.": [
+                    85
+                ],
+                "is": [
+                    90
+                ],
+                "implemented": [
+                    91
+                ],
+                "NVIDIA": [
+                    93
+                ],
+                "CUDA": [
+                    94
+                ],
+                "GPU": [
+                    95
+                ],
+                "architecture": [
+                    96
+                ],
+                "based": [
+                    97
+                ],
+                "our": [
+                    99
+                ],
+                "graph-grammar": [
+                    100
+                ],
+                "approach.": [
+                    101
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W407730396",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-25T17:28:11.356383",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2022017302",
+            "doi": "https://doi.org/10.3850/s2010428613000676",
+            "title": "Graph Grammar Based Multi-Frontal Solver for Isogeometric FEM Simulations On GPU",
+            "display_name": "Graph Grammar Based Multi-Frontal Solver for Isogeometric FEM Simulations On GPU",
+            "publication_year": 2013,
+            "publication_date": "2013-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2022017302",
+                "doi": "https://doi.org/10.3850/s2010428613000676",
+                "mag": "2022017302"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.3850/s2010428613000676",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210193436",
+                    "display_name": "International Journal of Aerospace and Lightweight Structures (IJALS) -",
+                    "issn_l": "2010-4286",
+                    "issn": [
+                        "2010-4286",
+                        "2010-4294"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5075191779",
+                        "display_name": "Maciej Paszyński",
+                        "orcid": "https://orcid.org/0000-0001-7766-6052"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Maciej Paszyński",
+                    "raw_affiliation_strings": [
+                        "AGH University of Science and Technology ,"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH University of Science and Technology ,",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003329521",
+                        "display_name": "Krzysztof Kuźnik",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Kuźnik",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5024876563",
+                        "display_name": "Victor M. Calo",
+                        "orcid": "https://orcid.org/0000-0002-1805-4045"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Victor Manuel Calo",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5082696717",
+                        "display_name": "David Pardo",
+                        "orcid": "https://orcid.org/0000-0002-1101-2248"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "David Pardo",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.312,
+            "has_fulltext": false,
+            "cited_by_count": 2,
+            "citation_normalized_percentile": {
+                "value": 0.585799,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 72,
+                "max": 76
+            },
+            "biblio": {
+                "volume": "3",
+                "issue": "2",
+                "first_page": "277",
+                "last_page": "277"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11245",
+                "display_name": "Isogeometric Analysis in Computational Engineering",
+                "score": 0.9997,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11245",
+                    "display_name": "Isogeometric Analysis in Computational Engineering",
+                    "score": 0.9997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11435",
+                    "display_name": "Symbolic Computing in Algebraic Geometry and Cryptography",
+                    "score": 0.9677,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10996",
+                    "display_name": "Mesh Generation Algorithms",
+                    "score": 0.9395,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1704",
+                        "display_name": "Computer Graphics and Computer-Aided Design"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.73312616
+                },
+                {
+                    "id": "https://openalex.org/keywords/planar-graph-embedding",
+                    "display_name": "Planar Graph Embedding",
+                    "score": 0.546419
+                },
+                {
+                    "id": "https://openalex.org/keywords/computational-geometry",
+                    "display_name": "Computational Geometry",
+                    "score": 0.523189
+                },
+                {
+                    "id": "https://openalex.org/keywords/symbolic-computing",
+                    "display_name": "Symbolic Computing",
+                    "score": 0.51571
+                },
+                {
+                    "id": "https://openalex.org/keywords/geometric-optimization",
+                    "display_name": "Geometric Optimization",
+                    "score": 0.514888
+                },
+                {
+                    "id": "https://openalex.org/keywords/shape-optimization",
+                    "display_name": "Shape Optimization",
+                    "score": 0.50654
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.73312616
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.72795844
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.5271099
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.4964593
+                },
+                {
+                    "id": "https://openalex.org/C26022165",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8091",
+                    "display_name": "Grammar",
+                    "level": 2,
+                    "score": 0.48800007
+                },
+                {
+                    "id": "https://openalex.org/C132525143",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141488",
+                    "display_name": "Graph",
+                    "level": 2,
+                    "score": 0.47423476
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.45946217
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.3410735
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.22789276
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.14909855
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.08336523
+                },
+                {
+                    "id": "https://openalex.org/C41895202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8162",
+                    "display_name": "Linguistics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.3850/s2010428613000676",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210193436",
+                        "display_name": "International Journal of Aerospace and Lightweight Structures (IJALS) -",
+                        "issn_l": "2010-4286",
+                        "issn": [
+                            "2010-4286",
+                            "2010-4294"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 8,
+            "referenced_works": [
+                "https://openalex.org/W1984921897",
+                "https://openalex.org/W2017964653",
+                "https://openalex.org/W2063675347",
+                "https://openalex.org/W2146472543",
+                "https://openalex.org/W2168802994",
+                "https://openalex.org/W2495211843",
+                "https://openalex.org/W4237713727",
+                "https://openalex.org/W627933951"
+            ],
+            "related_works": [
+                "https://openalex.org/W4367553810",
+                "https://openalex.org/W4283162424",
+                "https://openalex.org/W2981935664",
+                "https://openalex.org/W2804126825",
+                "https://openalex.org/W2731831065",
+                "https://openalex.org/W2144429051",
+                "https://openalex.org/W2104142636",
+                "https://openalex.org/W2011940952",
+                "https://openalex.org/W1604758548",
+                "https://openalex.org/W1549048322"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    64,
+                    88,
+                    132
+                ],
+                "present": [
+                    1
+                ],
+                "a": [
+                    2,
+                    7,
+                    45,
+                    74,
+                    135
+                ],
+                "graph": [
+                    3
+                ],
+                "grammar": [
+                    4
+                ],
+                "model": [
+                    5
+                ],
+                "of": [
+                    6,
+                    42,
+                    97,
+                    112,
+                    127,
+                    130,
+                    140
+                ],
+                "multi-frontal": [
+                    8
+                ],
+                "direct": [
+                    9,
+                    101
+                ],
+                "solver": [
+                    10,
+                    102,
+                    125
+                ],
+                "for": [
+                    11,
+                    28,
+                    44,
+                    51,
+                    54,
+                    61,
+                    73,
+                    79,
+                    82,
+                    86,
+                    149
+                ],
+                "one": [
+                    12
+                ],
+                "and": [
+                    13,
+                    24,
+                    33,
+                    84
+                ],
+                "two": [
+                    14
+                ],
+                "dimensional": [
+                    15
+                ],
+                "isogeometric": [
+                    16,
+                    114,
+                    124
+                ],
+                "finite": [
+                    17
+                ],
+                "element": [
+                    18
+                ],
+                "method": [
+                    19
+                ],
+                "simulations": [
+                    20
+                ],
+                "with": [
+                    21,
+                    69,
+                    92,
+                    120,
+                    134
+                ],
+                "NVIDIA": [
+                    22
+                ],
+                "CUDA": [
+                    23
+                ],
+                "perform": [
+                    25
+                ],
+                "numerical": [
+                    26
+                ],
+                "experiments": [
+                    27
+                ],
+                "linear,": [
+                    29
+                ],
+                "quadratic,": [
+                    30
+                ],
+                "cubic,": [
+                    31
+                ],
+                "quartic": [
+                    32
+                ],
+                "quintic": [
+                    34
+                ],
+                "B-splines.": [
+                    35
+                ],
+                "Finally,": [
+                    36
+                ],
+                "we": [
+                    37,
+                    107
+                ],
+                "estimate": [
+                    38
+                ],
+                "the": [
+                    39,
+                    43,
+                    66,
+                    70,
+                    90,
+                    98,
+                    109,
+                    113,
+                    128
+                ],
+                "computational": [
+                    40,
+                    95
+                ],
+                "cost": [
+                    41,
+                    96
+                ],
+                "parallel": [
+                    46,
+                    67
+                ],
+                "shared": [
+                    47,
+                    99
+                ],
+                "memory": [
+                    48,
+                    100,
+                    146
+                ],
+                "implementation:": [
+                    49,
+                    77
+                ],
+                "O(p^2log(N/p))": [
+                    50
+                ],
+                "1D,": [
+                    52,
+                    80
+                ],
+                "O(Np^2)": [
+                    53
+                ],
+                "2D,": [
+                    55
+                ],
+                "as": [
+                    56,
+                    58
+                ],
+                "well": [
+                    57
+                ],
+                "O(N^1.33": [
+                    59
+                ],
+                "p^2)": [
+                    60
+                ],
+                "3D": [
+                    62
+                ],
+                "problems.": [
+                    63
+                ],
+                "compare": [
+                    65
+                ],
+                "costs": [
+                    68
+                ],
+                "corresponding": [
+                    71
+                ],
+                "estimates": [
+                    72
+                ],
+                "standard": [
+                    75
+                ],
+                "sequential": [
+                    76,
+                    123
+                ],
+                "O((N/p)p^2)": [
+                    78
+                ],
+                "O(N^1.5p^3)": [
+                    81
+                ],
+                "2D": [
+                    83
+                ],
+                "O(N^2p^3)": [
+                    85
+                ],
+                "3D.": [
+                    87,
+                    150
+                ],
+                "conclude": [
+                    89,
+                    133
+                ],
+                "presentation": [
+                    91
+                ],
+                "observation": [
+                    93
+                ],
+                "that": [
+                    94
+                ],
+                "scales": [
+                    103
+                ],
+                "like": [
+                    104
+                ],
+                "p^2": [
+                    105
+                ],
+                "when": [
+                    106
+                ],
+                "increase": [
+                    108
+                ],
+                "global": [
+                    110
+                ],
+                "continuity": [
+                    111
+                ],
+                "solution,": [
+                    115
+                ],
+                "which": [
+                    116
+                ],
+                "is": [
+                    117
+                ],
+                "an": [
+                    118
+                ],
+                "adventage": [
+                    119
+                ],
+                "respect": [
+                    121
+                ],
+                "to": [
+                    122,
+                    145
+                ],
+                "scalability": [
+                    126
+                ],
+                "order": [
+                    129
+                ],
+                "p^3.": [
+                    131
+                ],
+                "discussion": [
+                    136
+                ],
+                "on": [
+                    137
+                ],
+                "practical": [
+                    138
+                ],
+                "limitations": [
+                    139
+                ],
+                "such": [
+                    141
+                ],
+                "GPU": [
+                    142
+                ],
+                "implementations,": [
+                    143
+                ],
+                "related": [
+                    144
+                ],
+                "usage": [
+                    147
+                ],
+                "especially": [
+                    148
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2022017302",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-08-22T08:19:01.326744",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2622867017",
+            "doi": null,
+            "title": "Graph grammar based parallel direct solver for 1D and 2D isogeometric finite element method",
+            "display_name": "Graph grammar based parallel direct solver for 1D and 2D isogeometric finite element method",
+            "publication_year": 2012,
+            "publication_date": "2012-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2622867017",
+                "mag": "2622867017"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://espace.curtin.edu.au/handle/20.500.11937/51421",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5075191779",
+                        "display_name": "Maciej Paszyński",
+                        "orcid": "https://orcid.org/0000-0001-7766-6052"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "M. Paszynski",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5003329521",
+                        "display_name": "Krzysztof Kuźnik",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "K. Kuznik",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5024876563",
+                        "display_name": "Victor M. Calo",
+                        "orcid": "https://orcid.org/0000-0002-1805-4045"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Victor Calo",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 0,
+            "institutions_distinct_count": 0,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 65
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "849",
+                "last_page": "858"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11245",
+                "display_name": "Isogeometric Analysis in Computational Engineering",
+                "score": 0.9904,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11245",
+                    "display_name": "Isogeometric Analysis in Computational Engineering",
+                    "score": 0.9904,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10571",
+                    "display_name": "Kinematic and Dynamic Analysis of Robot Manipulators",
+                    "score": 0.937,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2207",
+                        "display_name": "Control and Systems Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/isogeometric-analysis",
+                    "display_name": "Isogeometric analysis",
+                    "score": 0.5739282
+                },
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.570304
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-elements",
+                    "display_name": "Finite Elements",
+                    "score": 0.532472
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-mechanisms",
+                    "display_name": "Parallel Mechanisms",
+                    "score": 0.531925
+                },
+                {
+                    "id": "https://openalex.org/keywords/shape-optimization",
+                    "display_name": "Shape Optimization",
+                    "score": 0.517649
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2780737243",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17082433",
+                    "display_name": "Isogeometric analysis",
+                    "level": 3,
+                    "score": 0.5739282
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.570304
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.51778066
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.47782305
+                },
+                {
+                    "id": "https://openalex.org/C132525143",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141488",
+                    "display_name": "Graph",
+                    "level": 2,
+                    "score": 0.4594399
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.4566781
+                },
+                {
+                    "id": "https://openalex.org/C136119220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1000660",
+                    "display_name": "Algebra over a field",
+                    "level": 2,
+                    "score": 0.3584169
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.26136172
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.2513524
+                },
+                {
+                    "id": "https://openalex.org/C118615104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121416",
+                    "display_name": "Discrete mathematics",
+                    "level": 1,
+                    "score": 0.20302293
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.15660623
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.08817163
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://espace.curtin.edu.au/handle/20.500.11937/51421",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W75063540",
+                "https://openalex.org/W616314714",
+                "https://openalex.org/W3204324484",
+                "https://openalex.org/W3176896796",
+                "https://openalex.org/W3136457573",
+                "https://openalex.org/W3088793545",
+                "https://openalex.org/W3049745945",
+                "https://openalex.org/W3027674720",
+                "https://openalex.org/W2582683440",
+                "https://openalex.org/W2573754011",
+                "https://openalex.org/W2298083683",
+                "https://openalex.org/W2109389549",
+                "https://openalex.org/W2087237377",
+                "https://openalex.org/W1970785257",
+                "https://openalex.org/W1966787309",
+                "https://openalex.org/W1932527011",
+                "https://openalex.org/W1866162570",
+                "https://openalex.org/W1601517105",
+                "https://openalex.org/W1592730613",
+                "https://openalex.org/W1510429179"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2622867017",
+            "counts_by_year": [],
+            "updated_date": "2024-09-16T22:08:57.477442",
+            "created_date": "2017-06-15"
+        }
+    ],
+    "group_by": []
+}

@@ -1,0 +1,3725 @@
+{
+    "meta": {
+        "count": 5,
+        "db_response_time_ms": 99,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2020861426",
+            "doi": "https://doi.org/10.1016/j.camwa.2014.01.021",
+            "title": "Numerical integration on GPUs for higher order finite elements",
+            "display_name": "Numerical integration on GPUs for higher order finite elements",
+            "publication_year": 2014,
+            "publication_date": "2014-04-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2020861426",
+                "doi": "https://doi.org/10.1016/j.camwa.2014.01.021",
+                "mag": "2020861426"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.camwa.2014.01.021",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210205691",
+                    "display_name": "Computers & Mathematics with Applications",
+                    "issn_l": "0898-1221",
+                    "issn": [
+                        "0898-1221",
+                        "1873-7668"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "arxiv",
+                "crossref",
+                "datacite"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "https://doi.org/10.1016/j.camwa.2014.01.021",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5068703401",
+                        "display_name": "Krzysztof Banaś",
+                        "orcid": "https://orcid.org/0000-0002-4045-1530"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Banaś",
+                    "raw_affiliation_strings": [
+                        "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5033980788",
+                        "display_name": "Przemysław Płaszewski",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Przemysław Płaszewski",
+                    "raw_affiliation_strings": [
+                        "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5040565868",
+                        "display_name": "Paweł Macioł",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24881138",
+                            "display_name": "Cracow University of Technology",
+                            "ror": "https://ror.org/00pdej676",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I4210087266",
+                            "display_name": "Institute of Computer Science",
+                            "ror": "https://ror.org/003fvp964",
+                            "country_code": "PL",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I4210087266",
+                                "https://openalex.org/I99542240"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paweł Macioł",
+                    "raw_affiliation_strings": [
+                        "Institute of Computer Science, Cracow University of Technology, Warszawska 24, 31-155 Kraków, Poland#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute of Computer Science, Cracow University of Technology, Warszawska 24, 31-155 Kraków, Poland#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I24881138",
+                                "https://openalex.org/I4210087266"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 3,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 3480,
+                "currency": "USD",
+                "value_usd": 3480,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 5.144,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 32,
+            "citation_normalized_percentile": {
+                "value": 0.888333,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 93,
+                "max": 94
+            },
+            "biblio": {
+                "volume": "67",
+                "issue": "6",
+                "first_page": "1319",
+                "last_page": "1344"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10339",
+                "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                "score": 0.9944,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9944,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13020",
+                    "display_name": "Mechanical Engineering and Materials Science Research",
+                    "score": 0.9858,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2210",
+                        "display_name": "Mechanical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13685",
+                    "display_name": "Railway Engineering and Material Science",
+                    "score": 0.9772,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2210",
+                        "display_name": "Mechanical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/kernel",
+                    "display_name": "Kernel (algebra)",
+                    "score": 0.6377877
+                },
+                {
+                    "id": "https://openalex.org/keywords/numerical-modeling",
+                    "display_name": "Numerical Modeling",
+                    "score": 0.487226
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C127349201",
+                    "wikidata": "https://www.wikidata.org/wiki/Q753445",
+                    "display_name": "Numerical integration",
+                    "level": 2,
+                    "score": 0.76508945
+                },
+                {
+                    "id": "https://openalex.org/C74193536",
+                    "wikidata": "https://www.wikidata.org/wiki/Q574844",
+                    "display_name": "Kernel (algebra)",
+                    "level": 2,
+                    "score": 0.6377877
+                },
+                {
+                    "id": "https://openalex.org/C2779343474",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+                    "display_name": "Context (archaeology)",
+                    "level": 2,
+                    "score": 0.60666436
+                },
+                {
+                    "id": "https://openalex.org/C21442007",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+                    "display_name": "Graphics",
+                    "level": 2,
+                    "score": 0.58436126
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.5260636
+                },
+                {
+                    "id": "https://openalex.org/C182306322",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+                    "display_name": "Order (exchange)",
+                    "level": 2,
+                    "score": 0.49755576
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.45639345
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.44527936
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.42498404
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.4100797
+                },
+                {
+                    "id": "https://openalex.org/C136119220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1000660",
+                    "display_name": "Algebra over a field",
+                    "level": 2,
+                    "score": 0.38372838
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.34685886
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.3449738
+                },
+                {
+                    "id": "https://openalex.org/C80444323",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+                    "display_name": "Theoretical computer science",
+                    "level": 1,
+                    "score": 0.32141486
+                },
+                {
+                    "id": "https://openalex.org/C118615104",
+                    "wikidata": "https://www.wikidata.org/wiki/Q121416",
+                    "display_name": "Discrete mathematics",
+                    "level": 1,
+                    "score": 0.14492896
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.13573307
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.09804559
+                },
+                {
+                    "id": "https://openalex.org/C151730666",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7205",
+                    "display_name": "Paleontology",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C10138342",
+                    "wikidata": "https://www.wikidata.org/wiki/Q43015",
+                    "display_name": "Finance",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 3,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.camwa.2014.01.021",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210205691",
+                        "display_name": "Computers & Mathematics with Applications",
+                        "issn_l": "0898-1221",
+                        "issn": [
+                            "0898-1221",
+                            "1873-7668"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": "publisher-specific-oa",
+                    "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/1310.1191",
+                    "pdf_url": "https://arxiv.org/pdf/1310.1191",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://api.datacite.org/dois/10.48550/arxiv.1310.1191",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4393179698",
+                        "display_name": "DataCite API",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I4210145204",
+                        "host_organization_name": "DataCite",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I4210145204"
+                        ],
+                        "host_organization_lineage_names": [
+                            "DataCite"
+                        ],
+                        "type": "metadata"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.camwa.2014.01.021",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210205691",
+                    "display_name": "Computers & Mathematics with Applications",
+                    "issn_l": "0898-1221",
+                    "issn": [
+                        "0898-1221",
+                        "1873-7668"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": "publisher-specific-oa",
+                "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320322511",
+                    "funder_display_name": "Narodowe Centrum Nauki",
+                    "award_id": "DEC-2011/01/B/ST6/00674"
+                }
+            ],
+            "datasets": [],
+            "versions": [
+                "https://openalex.org/W2020861426"
+            ],
+            "referenced_works_count": 84,
+            "referenced_works": [
+                "https://openalex.org/W1023512227",
+                "https://openalex.org/W103247053",
+                "https://openalex.org/W106575872",
+                "https://openalex.org/W138765943",
+                "https://openalex.org/W148206876",
+                "https://openalex.org/W1508339477",
+                "https://openalex.org/W1592688127",
+                "https://openalex.org/W1600301286",
+                "https://openalex.org/W170562765",
+                "https://openalex.org/W1717365219",
+                "https://openalex.org/W181225834",
+                "https://openalex.org/W1946796247",
+                "https://openalex.org/W1967345544",
+                "https://openalex.org/W1976110206",
+                "https://openalex.org/W1976584147",
+                "https://openalex.org/W1977146902",
+                "https://openalex.org/W1978064247",
+                "https://openalex.org/W1978466194",
+                "https://openalex.org/W1978470352",
+                "https://openalex.org/W1980005758",
+                "https://openalex.org/W1987225733",
+                "https://openalex.org/W1997743695",
+                "https://openalex.org/W1999534369",
+                "https://openalex.org/W2008060144",
+                "https://openalex.org/W2010580757",
+                "https://openalex.org/W2021261510",
+                "https://openalex.org/W2037414284",
+                "https://openalex.org/W2040092451",
+                "https://openalex.org/W2041523977",
+                "https://openalex.org/W2047535928",
+                "https://openalex.org/W2053501666",
+                "https://openalex.org/W2057630513",
+                "https://openalex.org/W2063186542",
+                "https://openalex.org/W2063675347",
+                "https://openalex.org/W2071300345",
+                "https://openalex.org/W2071430609",
+                "https://openalex.org/W2077368913",
+                "https://openalex.org/W2087237377",
+                "https://openalex.org/W2093884258",
+                "https://openalex.org/W2097865459",
+                "https://openalex.org/W2099084006",
+                "https://openalex.org/W2100418324",
+                "https://openalex.org/W2102076631",
+                "https://openalex.org/W2107597489",
+                "https://openalex.org/W2108157916",
+                "https://openalex.org/W2109493417",
+                "https://openalex.org/W2110195531",
+                "https://openalex.org/W2110343499",
+                "https://openalex.org/W2114912436",
+                "https://openalex.org/W2115378644",
+                "https://openalex.org/W2117752372",
+                "https://openalex.org/W2120919211",
+                "https://openalex.org/W2125759902",
+                "https://openalex.org/W2128095813",
+                "https://openalex.org/W2137854291",
+                "https://openalex.org/W2145018926",
+                "https://openalex.org/W2147217459",
+                "https://openalex.org/W2151714839",
+                "https://openalex.org/W2155503253",
+                "https://openalex.org/W2159612519",
+                "https://openalex.org/W2163798155",
+                "https://openalex.org/W2333869848",
+                "https://openalex.org/W2399715892",
+                "https://openalex.org/W2419000901",
+                "https://openalex.org/W2489611073",
+                "https://openalex.org/W2491027207",
+                "https://openalex.org/W2495211843",
+                "https://openalex.org/W3098366547",
+                "https://openalex.org/W3100379323",
+                "https://openalex.org/W3122718397",
+                "https://openalex.org/W329019432",
+                "https://openalex.org/W4234174879",
+                "https://openalex.org/W4239704419",
+                "https://openalex.org/W4245654886",
+                "https://openalex.org/W4248073216",
+                "https://openalex.org/W4285719527",
+                "https://openalex.org/W50182133",
+                "https://openalex.org/W627933951",
+                "https://openalex.org/W635768826",
+                "https://openalex.org/W642107583",
+                "https://openalex.org/W648930399",
+                "https://openalex.org/W73123583",
+                "https://openalex.org/W801949504",
+                "https://openalex.org/W83625010"
+            ],
+            "related_works": [
+                "https://openalex.org/W4254660938",
+                "https://openalex.org/W4237740072",
+                "https://openalex.org/W4233243960",
+                "https://openalex.org/W3119290153",
+                "https://openalex.org/W2361495640",
+                "https://openalex.org/W2263119459",
+                "https://openalex.org/W2226133288",
+                "https://openalex.org/W2105196846",
+                "https://openalex.org/W1985081275",
+                "https://openalex.org/W1945408838"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    20,
+                    42,
+                    67
+                ],
+                "paper": [
+                    1
+                ],
+                "considers": [
+                    2
+                ],
+                "the": [
+                    3,
+                    29,
+                    47,
+                    51
+                ],
+                "problem": [
+                    4,
+                    48
+                ],
+                "of": [
+                    5,
+                    10,
+                    22,
+                    31,
+                    46,
+                    54,
+                    64,
+                    91
+                ],
+                "implementation": [
+                    6
+                ],
+                "on": [
+                    7
+                ],
+                "graphics": [
+                    8
+                ],
+                "processors": [
+                    9
+                ],
+                "numerical": [
+                    11
+                ],
+                "integration": [
+                    12,
+                    34,
+                    83
+                ],
+                "routines": [
+                    13
+                ],
+                "for": [
+                    14,
+                    85
+                ],
+                "higher": [
+                    15
+                ],
+                "order": [
+                    16
+                ],
+                "finite": [
+                    17
+                ],
+                "element": [
+                    18
+                ],
+                "approximations.": [
+                    19
+                ],
+                "design": [
+                    21,
+                    80
+                ],
+                "suitable": [
+                    23
+                ],
+                "GPU": [
+                    24
+                ],
+                "kernels": [
+                    25
+                ],
+                "is": [
+                    26,
+                    50,
+                    77
+                ],
+                "investigated": [
+                    27,
+                    49
+                ],
+                "in": [
+                    28,
+                    99
+                ],
+                "context": [
+                    30
+                ],
+                "general": [
+                    32
+                ],
+                "purpose": [
+                    33
+                ],
+                "procedures,": [
+                    35
+                ],
+                "as": [
+                    36,
+                    38
+                ],
+                "well": [
+                    37
+                ],
+                "particular": [
+                    39
+                ],
+                "example": [
+                    40
+                ],
+                "applications.": [
+                    41
+                ],
+                "most": [
+                    43
+                ],
+                "important": [
+                    44
+                ],
+                "characteristic": [
+                    45
+                ],
+                "large": [
+                    52
+                ],
+                "variation": [
+                    53
+                ],
+                "required": [
+                    55
+                ],
+                "processor": [
+                    56
+                ],
+                "and": [
+                    57,
+                    88,
+                    93
+                ],
+                "memory": [
+                    58
+                ],
+                "resources": [
+                    59
+                ],
+                "associated": [
+                    60
+                ],
+                "with": [
+                    61
+                ],
+                "different": [
+                    62,
+                    86,
+                    89
+                ],
+                "degrees": [
+                    63
+                ],
+                "approximating": [
+                    65
+                ],
+                "polynomials.": [
+                    66
+                ],
+                "questions": [
+                    68
+                ],
+                "that": [
+                    69
+                ],
+                "we": [
+                    70
+                ],
+                "try": [
+                    71
+                ],
+                "to": [
+                    72,
+                    79
+                ],
+                "answer": [
+                    73
+                ],
+                "are": [
+                    74
+                ],
+                "whether": [
+                    75
+                ],
+                "it": [
+                    76
+                ],
+                "possible": [
+                    78
+                ],
+                "a": [
+                    81,
+                    101
+                ],
+                "single": [
+                    82
+                ],
+                "kernel": [
+                    84
+                ],
+                "GPUs": [
+                    87
+                ],
+                "orders": [
+                    90
+                ],
+                "approximation": [
+                    92
+                ],
+                "what": [
+                    94
+                ],
+                "performance": [
+                    95
+                ],
+                "can": [
+                    96
+                ],
+                "be": [
+                    97
+                ],
+                "expected": [
+                    98
+                ],
+                "such": [
+                    100
+                ],
+                "case.": [
+                    102
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2020861426",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-08-31T17:43:54.207722",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2093884258",
+            "doi": "https://doi.org/10.1016/j.procs.2010.04.121",
+            "title": "3D finite element numerical integration on GPUs",
+            "display_name": "3D finite element numerical integration on GPUs",
+            "publication_year": 2010,
+            "publication_date": "2010-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2093884258",
+                "doi": "https://doi.org/10.1016/j.procs.2010.04.121",
+                "mag": "2093884258"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2010.04.121",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "gold",
+                "oa_url": "https://doi.org/10.1016/j.procs.2010.04.121",
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5040565868",
+                        "display_name": "Paweł Macioł",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24881138",
+                            "display_name": "Cracow University of Technology",
+                            "ror": "https://ror.org/00pdej676",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paweł Macioł",
+                    "raw_affiliation_strings": [
+                        "Institute of Computer Modelling, Cracow University of Technology, Warszawska 24, 31-155 Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute of Computer Modelling, Cracow University of Technology, Warszawska 24, 31-155 Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5033980788",
+                        "display_name": "Przemysław Płaszewski",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Przemysław Płaszewski",
+                    "raw_affiliation_strings": [
+                        "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5068703401",
+                        "display_name": "Krzysztof Banaś",
+                        "orcid": "https://orcid.org/0000-0002-4045-1530"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Banaś",
+                    "raw_affiliation_strings": [
+                        "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Mickiewicza 30, 30-059 Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 3.676,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 28,
+            "citation_normalized_percentile": {
+                "value": 0.903419,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 91,
+                "max": 92
+            },
+            "biblio": {
+                "volume": "1",
+                "issue": "1",
+                "first_page": "1093",
+                "last_page": "1100"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11245",
+                "display_name": "Isogeometric Analysis in Computational Engineering",
+                "score": 0.9875,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11245",
+                    "display_name": "Isogeometric Analysis in Computational Engineering",
+                    "score": 0.9875,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13267",
+                    "display_name": "Geometric Modeling and Nanomaterial Applications in Engineering",
+                    "score": 0.9871,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2204",
+                        "display_name": "Biomedical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9857,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/finite-element-methods",
+                    "display_name": "Finite Element Methods",
+                    "score": 0.544816
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-elements",
+                    "display_name": "Finite Elements",
+                    "score": 0.511827
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8780652
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.7817787
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.56205255
+                },
+                {
+                    "id": "https://openalex.org/C127349201",
+                    "wikidata": "https://www.wikidata.org/wiki/Q753445",
+                    "display_name": "Numerical integration",
+                    "level": 2,
+                    "score": 0.5060658
+                },
+                {
+                    "id": "https://openalex.org/C200288055",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2621792",
+                    "display_name": "Element (criminal law)",
+                    "level": 2,
+                    "score": 0.4658998
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.46209353
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.06778994
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.06001249
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.1016/j.procs.2010.04.121",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S120348307",
+                        "display_name": "Procedia Computer Science",
+                        "issn_l": "1877-0509",
+                        "issn": [
+                            "1877-0509"
+                        ],
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "publishedVersion",
+                    "is_accepted": true,
+                    "is_published": true
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.1016/j.procs.2010.04.121",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S120348307",
+                    "display_name": "Procedia Computer Science",
+                    "issn_l": "1877-0509",
+                    "issn": [
+                        "1877-0509"
+                    ],
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "publishedVersion",
+                "is_accepted": true,
+                "is_published": true
+            },
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 5,
+            "referenced_works": [
+                "https://openalex.org/W1977146902",
+                "https://openalex.org/W2021261510",
+                "https://openalex.org/W2041523977",
+                "https://openalex.org/W2117752372",
+                "https://openalex.org/W2151714839"
+            ],
+            "related_works": [
+                "https://openalex.org/W4254660938",
+                "https://openalex.org/W4233243960",
+                "https://openalex.org/W3119290153",
+                "https://openalex.org/W2755775996",
+                "https://openalex.org/W2405661381",
+                "https://openalex.org/W2380000090",
+                "https://openalex.org/W2374797863",
+                "https://openalex.org/W2226133288",
+                "https://openalex.org/W2055836843",
+                "https://openalex.org/W1945408838"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    18,
+                    40
+                ],
+                "algorithmic": [
+                    1
+                ],
+                "and": [
+                    2,
+                    37,
+                    50,
+                    55
+                ],
+                "computational": [
+                    3,
+                    46
+                ],
+                "aspects": [
+                    4
+                ],
+                "of": [
+                    5,
+                    33,
+                    48
+                ],
+                "3D": [
+                    6
+                ],
+                "finite": [
+                    7
+                ],
+                "element": [
+                    8
+                ],
+                "numerical": [
+                    9
+                ],
+                "integration": [
+                    10
+                ],
+                "on": [
+                    11,
+                    23
+                ],
+                "GPUs": [
+                    12,
+                    49
+                ],
+                "are": [
+                    13
+                ],
+                "investigated": [
+                    14
+                ],
+                "in": [
+                    15
+                ],
+                "the": [
+                    16,
+                    25,
+                    31,
+                    44,
+                    51
+                ],
+                "paper.": [
+                    17
+                ],
+                "special": [
+                    19
+                ],
+                "stress": [
+                    20
+                ],
+                "is": [
+                    21,
+                    58
+                ],
+                "put": [
+                    22
+                ],
+                "selecting": [
+                    24
+                ],
+                "proper": [
+                    26
+                ],
+                "parallelization": [
+                    27
+                ],
+                "strategies": [
+                    28,
+                    54
+                ],
+                "depending": [
+                    29
+                ],
+                "upon": [
+                    30
+                ],
+                "properties": [
+                    32
+                ],
+                "FEM": [
+                    34
+                ],
+                "problems": [
+                    35
+                ],
+                "solved": [
+                    36
+                ],
+                "approximations": [
+                    38
+                ],
+                "used.": [
+                    39
+                ],
+                "close": [
+                    41
+                ],
+                "interplay": [
+                    42
+                ],
+                "between": [
+                    43
+                ],
+                "available": [
+                    45
+                ],
+                "resources": [
+                    47
+                ],
+                "possible": [
+                    52
+                ],
+                "implementation": [
+                    53
+                ],
+                "obtained": [
+                    56
+                ],
+                "results": [
+                    57
+                ],
+                "observed.": [
+                    59
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2093884258",
+            "counts_by_year": [
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 7
+                }
+            ],
+            "updated_date": "2024-09-25T04:29:13.825678",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1997743695",
+            "doi": "https://doi.org/10.1109/imcsit.2010.5679646",
+            "title": "Higher order FEM numerical integration on GPUs with OpenCL",
+            "display_name": "Higher order FEM numerical integration on GPUs with OpenCL",
+            "publication_year": 2010,
+            "publication_date": "2010-10-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1997743695",
+                "doi": "https://doi.org/10.1109/imcsit.2010.5679646",
+                "mag": "1997743695"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/imcsit.2010.5679646",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210192132",
+                    "display_name": "Proceedings of the International Multiconference on Computer Science and Information Technology",
+                    "issn_l": "1896-7094",
+                    "issn": [
+                        "1896-7094",
+                        "2157-5525",
+                        "2157-5533"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319808",
+                    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319808"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electrical and Electronics Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5033980788",
+                        "display_name": "Przemysław Płaszewski",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Przemyslaw Plaszewski",
+                    "raw_affiliation_strings": [
+                        "AGH University of Science and Technology, Department of Applied Computer Science and Modelling, al. Mickiewicza 30, 30-059 Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH University of Science and Technology, Department of Applied Computer Science and Modelling, al. Mickiewicza 30, 30-059 Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5068703401",
+                        "display_name": "Krzysztof Banaś",
+                        "orcid": "https://orcid.org/0000-0002-4045-1530"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Banas",
+                    "raw_affiliation_strings": [
+                        "AGH University of Science and Technology, Department of Applied Computer Science and Modelling, al. Mickiewicza 30, 30-059 Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "AGH University of Science and Technology, Department of Applied Computer Science and Modelling, al. Mickiewicza 30, 30-059 Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5040565868",
+                        "display_name": "Paweł Macioł",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24881138",
+                            "display_name": "Cracow University of Technology",
+                            "ror": "https://ror.org/00pdej676",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Pawel Maciol",
+                    "raw_affiliation_strings": [
+                        "Cracow University of Technology, Insitute of Computer Modelling, ul. Warszawska 24, 31-155 Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Cracow University of Technology, Insitute of Computer Modelling, ul. Warszawska 24, 31-155 Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 2.265,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 15,
+            "citation_normalized_percentile": {
+                "value": 0.852341,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10369",
+                "display_name": "Microelectromechanical Systems",
+                "score": 0.977,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2208",
+                    "display_name": "Electrical and Electronic Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10369",
+                    "display_name": "Microelectromechanical Systems",
+                    "score": 0.977,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12206",
+                    "display_name": "Analysis and Control of Axially Moving Dynamics",
+                    "score": 0.9715,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2207",
+                        "display_name": "Control and Systems Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11694",
+                    "display_name": "Smoothed Particle Hydrodynamics in Fluid Dynamics",
+                    "score": 0.9662,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/porting",
+                    "display_name": "Porting",
+                    "score": 0.9485379
+                },
+                {
+                    "id": "https://openalex.org/keywords/implementation",
+                    "display_name": "Implementation",
+                    "score": 0.4866572
+                },
+                {
+                    "id": "https://openalex.org/keywords/nanomechanical-testing",
+                    "display_name": "Nanomechanical testing",
+                    "score": 0.483602
+                },
+                {
+                    "id": "https://openalex.org/keywords/linear-algebra",
+                    "display_name": "Linear algebra",
+                    "score": 0.41069168
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C106251023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q851989",
+                    "display_name": "Porting",
+                    "level": 3,
+                    "score": 0.9485379
+                },
+                {
+                    "id": "https://openalex.org/C2778119891",
+                    "wikidata": "https://www.wikidata.org/wiki/Q477690",
+                    "display_name": "CUDA",
+                    "level": 2,
+                    "score": 0.85198826
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.73346245
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.64377993
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.6081596
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.5612608
+                },
+                {
+                    "id": "https://openalex.org/C14198674",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3851930",
+                    "display_name": "Stiffness matrix",
+                    "level": 3,
+                    "score": 0.5137142
+                },
+                {
+                    "id": "https://openalex.org/C26713055",
+                    "wikidata": "https://www.wikidata.org/wiki/Q245962",
+                    "display_name": "Implementation",
+                    "level": 2,
+                    "score": 0.4866572
+                },
+                {
+                    "id": "https://openalex.org/C123657996",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12271",
+                    "display_name": "Architecture",
+                    "level": 2,
+                    "score": 0.44398248
+                },
+                {
+                    "id": "https://openalex.org/C50630238",
+                    "wikidata": "https://www.wikidata.org/wiki/Q971505",
+                    "display_name": "General-purpose computing on graphics processing units",
+                    "level": 3,
+                    "score": 0.43008238
+                },
+                {
+                    "id": "https://openalex.org/C139352143",
+                    "wikidata": "https://www.wikidata.org/wiki/Q82571",
+                    "display_name": "Linear algebra",
+                    "level": 2,
+                    "score": 0.41069168
+                },
+                {
+                    "id": "https://openalex.org/C21442007",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+                    "display_name": "Graphics",
+                    "level": 2,
+                    "score": 0.14779016
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.14547065
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.12284511
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.08585164
+                },
+                {
+                    "id": "https://openalex.org/C115903868",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80993",
+                    "display_name": "Software engineering",
+                    "level": 1,
+                    "score": 0.08550385
+                },
+                {
+                    "id": "https://openalex.org/C2777904410",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7397",
+                    "display_name": "Software",
+                    "level": 2,
+                    "score": 0.0736582
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.06697023
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.06649941
+                },
+                {
+                    "id": "https://openalex.org/C142362112",
+                    "wikidata": "https://www.wikidata.org/wiki/Q735",
+                    "display_name": "Art",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153349607",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36649",
+                    "display_name": "Visual arts",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/imcsit.2010.5679646",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210192132",
+                        "display_name": "Proceedings of the International Multiconference on Computer Science and Information Technology",
+                        "issn_l": "1896-7094",
+                        "issn": [
+                            "1896-7094",
+                            "2157-5525",
+                            "2157-5533"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319808",
+                        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319808"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electrical and Electronics Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Affordable and clean energy",
+                    "score": 0.42,
+                    "id": "https://metadata.un.org/sdg/7"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 2,
+            "referenced_works": [
+                "https://openalex.org/W3147736755",
+                "https://openalex.org/W4234174879"
+            ],
+            "related_works": [
+                "https://openalex.org/W3177128669",
+                "https://openalex.org/W3048701459",
+                "https://openalex.org/W2991848348",
+                "https://openalex.org/W2621501241",
+                "https://openalex.org/W240129890",
+                "https://openalex.org/W2389600408",
+                "https://openalex.org/W2364044215",
+                "https://openalex.org/W2208757713",
+                "https://openalex.org/W2149078538",
+                "https://openalex.org/W1963859303"
+            ],
+            "abstract_inverted_index": {
+                "Paper": [
+                    0
+                ],
+                "presents": [
+                    1
+                ],
+                "results": [
+                    2
+                ],
+                "obtained": [
+                    3
+                ],
+                "when": [
+                    4
+                ],
+                "porting": [
+                    5
+                ],
+                "FEM": [
+                    6
+                ],
+                "2D": [
+                    7
+                ],
+                "linear": [
+                    8
+                ],
+                "elastostatic": [
+                    9
+                ],
+                "local": [
+                    10
+                ],
+                "stiffness": [
+                    11
+                ],
+                "matrix": [
+                    12
+                ],
+                "calculations": [
+                    13
+                ],
+                "to": [
+                    14
+                ],
+                "Tesla": [
+                    15
+                ],
+                "architecture": [
+                    16
+                ],
+                "with": [
+                    17,
+                    21
+                ],
+                "OpenCL": [
+                    18
+                ],
+                "framework.": [
+                    19
+                ],
+                "Comparison": [
+                    20
+                ],
+                "native": [
+                    22
+                ],
+                "NVIDIA": [
+                    23
+                ],
+                "CUDA": [
+                    24
+                ],
+                "implementations": [
+                    25
+                ],
+                "has": [
+                    26
+                ],
+                "been": [
+                    27
+                ],
+                "provided.": [
+                    28
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1997743695",
+            "counts_by_year": [
+                {
+                    "year": 2020,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 5
+                }
+            ],
+            "updated_date": "2024-09-23T23:41:06.083092",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1592688127",
+            "doi": "https://doi.org/10.1007/978-3-642-14390-8_43",
+            "title": "Finite Element Numerical Integration on GPUs",
+            "display_name": "Finite Element Numerical Integration on GPUs",
+            "publication_year": 2010,
+            "publication_date": "2010-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1592688127",
+                "doi": "https://doi.org/10.1007/978-3-642-14390-8_43",
+                "mag": "1592688127"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-642-14390-8_43",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5033980788",
+                        "display_name": "Przemysław Płaszewski",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Przemysław Płaszewski",
+                    "raw_affiliation_strings": [
+                        "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5040565868",
+                        "display_name": "Paweł Macioł",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24881138",
+                            "display_name": "Cracow University of Technology",
+                            "ror": "https://ror.org/00pdej676",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paweł Macioł",
+                    "raw_affiliation_strings": [
+                        "Institute of Computer Modelling, Cracow University of Technology, Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Institute of Computer Modelling, Cracow University of Technology, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5068703401",
+                        "display_name": "Krzysztof Banaś",
+                        "orcid": "https://orcid.org/0000-0002-4045-1530"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I24881138",
+                            "display_name": "Cracow University of Technology",
+                            "ror": "https://ror.org/00pdej676",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Krzysztof Banaś",
+                    "raw_affiliation_strings": [
+                        "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Kraków, Poland",
+                        "Institute of Computer Modelling, Cracow University of Technology, Kraków, Poland"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Applied Computer Science and Modelling, AGH University of Science and Technology, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Institute of Computer Modelling, Cracow University of Technology, Kraków, Poland",
+                            "institution_ids": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 6.244,
+            "has_fulltext": false,
+            "cited_by_count": 12,
+            "citation_normalized_percentile": {
+                "value": 0.950509,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 85,
+                "max": 86
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "411",
+                "last_page": "420"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10339",
+                "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                "score": 0.9818,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9818,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12809",
+                    "display_name": "Computational Contact Mechanics and Variational Inequalities",
+                    "score": 0.9286,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11416",
+                    "display_name": "Numerical Integration Methods for Differential Equations",
+                    "score": 0.9183,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2612",
+                        "display_name": "Numerical Analysis"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/numerical-integration",
+                    "display_name": "Numerical Integration",
+                    "score": 0.535714
+                },
+                {
+                    "id": "https://openalex.org/keywords/finite-element-methods",
+                    "display_name": "Finite Element Methods",
+                    "score": 0.522207
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.79348254
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.7725476
+                },
+                {
+                    "id": "https://openalex.org/C193702766",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1414548",
+                    "display_name": "Concurrency",
+                    "level": 2,
+                    "score": 0.62613577
+                },
+                {
+                    "id": "https://openalex.org/C127349201",
+                    "wikidata": "https://www.wikidata.org/wiki/Q753445",
+                    "display_name": "Numerical integration",
+                    "level": 2,
+                    "score": 0.5900375
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.5566135
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.52155614
+                },
+                {
+                    "id": "https://openalex.org/C200288055",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2621792",
+                    "display_name": "Element (criminal law)",
+                    "level": 2,
+                    "score": 0.4371361
+                },
+                {
+                    "id": "https://openalex.org/C177605945",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11007230",
+                    "display_name": "Smoothed finite element method",
+                    "level": 5,
+                    "score": 0.41939414
+                },
+                {
+                    "id": "https://openalex.org/C52890695",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4949966",
+                    "display_name": "Boundary knot method",
+                    "level": 4,
+                    "score": 0.1620718
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.14368376
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0940308
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.091245174
+                },
+                {
+                    "id": "https://openalex.org/C63632240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1935004",
+                    "display_name": "Boundary element method",
+                    "level": 3,
+                    "score": 0.08264062
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-642-14390-8_43",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 4,
+            "referenced_works": [
+                "https://openalex.org/W1967345544",
+                "https://openalex.org/W2151714839",
+                "https://openalex.org/W2155503253",
+                "https://openalex.org/W4234174879"
+            ],
+            "related_works": [
+                "https://openalex.org/W59382029",
+                "https://openalex.org/W4254660938",
+                "https://openalex.org/W4233243960",
+                "https://openalex.org/W3085024073",
+                "https://openalex.org/W2997101070",
+                "https://openalex.org/W2477601761",
+                "https://openalex.org/W2135424310",
+                "https://openalex.org/W2071875410",
+                "https://openalex.org/W1945408838",
+                "https://openalex.org/W1888970550"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    46
+                ],
+                "investigate": [
+                    1
+                ],
+                "the": [
+                    2
+                ],
+                "opportunities": [
+                    3
+                ],
+                "for": [
+                    4,
+                    11,
+                    25,
+                    60
+                ],
+                "using": [
+                    5
+                ],
+                "GPUs": [
+                    6,
+                    43,
+                    59
+                ],
+                "to": [
+                    7,
+                    38,
+                    58
+                ],
+                "perform": [
+                    8
+                ],
+                "numerical": [
+                    9,
+                    35,
+                    56
+                ],
+                "integration": [
+                    10,
+                    57
+                ],
+                "finite": [
+                    12,
+                    29,
+                    61
+                ],
+                "element": [
+                    13,
+                    30,
+                    62
+                ],
+                "simulations.": [
+                    14
+                ],
+                "The": [
+                    15,
+                    32
+                ],
+                "degree": [
+                    16
+                ],
+                "of": [
+                    17,
+                    28,
+                    34,
+                    54
+                ],
+                "concurrency": [
+                    18
+                ],
+                "and": [
+                    19,
+                    52
+                ],
+                "memory": [
+                    20
+                ],
+                "usage": [
+                    21
+                ],
+                "patterns": [
+                    22
+                ],
+                "are": [
+                    23,
+                    44
+                ],
+                "analyzed": [
+                    24
+                ],
+                "different": [
+                    26
+                ],
+                "types": [
+                    27
+                ],
+                "approximations.": [
+                    31
+                ],
+                "results": [
+                    33
+                ],
+                "experiments": [
+                    36
+                ],
+                "designed": [
+                    37
+                ],
+                "test": [
+                    39
+                ],
+                "execution": [
+                    40
+                ],
+                "efficiency": [
+                    41
+                ],
+                "on": [
+                    42
+                ],
+                "presented.": [
+                    45
+                ],
+                "draw": [
+                    47
+                ],
+                "some": [
+                    48
+                ],
+                "conclusions": [
+                    49
+                ],
+                "concerning": [
+                    50
+                ],
+                "advantages": [
+                    51
+                ],
+                "disadvantages": [
+                    53
+                ],
+                "off-loading": [
+                    55
+                ],
+                "calculations.": [
+                    63
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1592688127",
+            "counts_by_year": [
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 4
+                }
+            ],
+            "updated_date": "2024-09-26T12:40:36.980261",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W1987225733",
+            "doi": "https://doi.org/10.1109/imcsit.2008.4747253",
+            "title": "Testing Tesla architecture for scientific computing: The performance of matrix-vector product",
+            "display_name": "Testing Tesla architecture for scientific computing: The performance of matrix-vector product",
+            "publication_year": 2008,
+            "publication_date": "2008-10-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1987225733",
+                "doi": "https://doi.org/10.1109/imcsit.2008.4747253",
+                "mag": "1987225733"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/imcsit.2008.4747253",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210192132",
+                    "display_name": "Proceedings of the International Multiconference on Computer Science and Information Technology",
+                    "issn_l": "1896-7094",
+                    "issn": [
+                        "1896-7094",
+                        "2157-5525",
+                        "2157-5533"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319808",
+                    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319808"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Institute of Electrical and Electronics Engineers"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5040565868",
+                        "display_name": "Paweł Macioł",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I24881138",
+                            "display_name": "Cracow University of Technology",
+                            "ror": "https://ror.org/00pdej676",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "P. Maciol",
+                    "raw_affiliation_strings": [
+                        "Inst. of Comput. Modelling, Cracow Univ. of Technol., Cracow"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Inst. of Comput. Modelling, Cracow Univ. of Technol., Cracow",
+                            "institution_ids": [
+                                "https://openalex.org/I24881138"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5068703401",
+                        "display_name": "Krzysztof Banaś",
+                        "orcid": "https://orcid.org/0000-0002-4045-1530"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I686019",
+                            "display_name": "AGH University of Krakow",
+                            "ror": "https://ror.org/00bas1c41",
+                            "country_code": "PL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "PL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "K. Banas",
+                    "raw_affiliation_strings": [
+                        "Dept. of Appl. Comput. Sci. & Modelling, AGH Univ. of Sci. & Technol., Krakow"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Dept. of Appl. Comput. Sci. & Modelling, AGH Univ. of Sci. & Technol., Krakow",
+                            "institution_ids": [
+                                "https://openalex.org/I686019"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.354,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 7,
+            "citation_normalized_percentile": {
+                "value": 0.759727,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 81,
+                "max": 82
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10054",
+                "display_name": "Parallel Computing and Performance Optimization",
+                "score": 0.9996,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1708",
+                    "display_name": "Hardware and Architecture"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10054",
+                    "display_name": "Parallel Computing and Performance Optimization",
+                    "score": 0.9996,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1708",
+                        "display_name": "Hardware and Architecture"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.9968,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10715",
+                    "display_name": "Distributed Grid Computing Systems",
+                    "score": 0.9965,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1705",
+                        "display_name": "Computer Networks and Communications"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/xeon-phi",
+                    "display_name": "Xeon Phi",
+                    "score": 0.7213688
+                },
+                {
+                    "id": "https://openalex.org/keywords/gpu-computing",
+                    "display_name": "GPU Computing",
+                    "score": 0.578396
+                },
+                {
+                    "id": "https://openalex.org/keywords/xeon",
+                    "display_name": "Xeon",
+                    "score": 0.5543046
+                },
+                {
+                    "id": "https://openalex.org/keywords/multicore-architectures",
+                    "display_name": "Multicore Architectures",
+                    "score": 0.537645
+                },
+                {
+                    "id": "https://openalex.org/keywords/simulation-platforms",
+                    "display_name": "Simulation Platforms",
+                    "score": 0.517354
+                },
+                {
+                    "id": "https://openalex.org/keywords/high-performance-computing",
+                    "display_name": "High-Performance Computing",
+                    "score": 0.509599
+                },
+                {
+                    "id": "https://openalex.org/keywords/matrix",
+                    "display_name": "Matrix (chemical analysis)",
+                    "score": 0.5089047
+                },
+                {
+                    "id": "https://openalex.org/keywords/performance-optimization",
+                    "display_name": "Performance Optimization",
+                    "score": 0.502419
+                },
+                {
+                    "id": "https://openalex.org/keywords/double-precision-floating-point-format",
+                    "display_name": "Double-precision floating-point format",
+                    "score": 0.41068357
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.783247
+                },
+                {
+                    "id": "https://openalex.org/C96972482",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1049168",
+                    "display_name": "Xeon Phi",
+                    "level": 2,
+                    "score": 0.7213688
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.6849294
+                },
+                {
+                    "id": "https://openalex.org/C17349429",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1049914",
+                    "display_name": "Matrix multiplication",
+                    "level": 3,
+                    "score": 0.6773027
+                },
+                {
+                    "id": "https://openalex.org/C21442007",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+                    "display_name": "Graphics",
+                    "level": 2,
+                    "score": 0.6615747
+                },
+                {
+                    "id": "https://openalex.org/C145108525",
+                    "wikidata": "https://www.wikidata.org/wiki/Q656154",
+                    "display_name": "Xeon",
+                    "level": 2,
+                    "score": 0.5543046
+                },
+                {
+                    "id": "https://openalex.org/C106487976",
+                    "wikidata": "https://www.wikidata.org/wiki/Q685816",
+                    "display_name": "Matrix (chemical analysis)",
+                    "level": 2,
+                    "score": 0.5089047
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.50005436
+                },
+                {
+                    "id": "https://openalex.org/C123657996",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12271",
+                    "display_name": "Architecture",
+                    "level": 2,
+                    "score": 0.47699693
+                },
+                {
+                    "id": "https://openalex.org/C2778119891",
+                    "wikidata": "https://www.wikidata.org/wiki/Q477690",
+                    "display_name": "CUDA",
+                    "level": 2,
+                    "score": 0.45888525
+                },
+                {
+                    "id": "https://openalex.org/C2780595030",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3860309",
+                    "display_name": "Multiplication (music)",
+                    "level": 2,
+                    "score": 0.45482188
+                },
+                {
+                    "id": "https://openalex.org/C56372850",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1050404",
+                    "display_name": "Sparse matrix",
+                    "level": 3,
+                    "score": 0.43390018
+                },
+                {
+                    "id": "https://openalex.org/C35912277",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1243369",
+                    "display_name": "Double-precision floating-point format",
+                    "level": 3,
+                    "score": 0.41068357
+                },
+                {
+                    "id": "https://openalex.org/C121684516",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+                    "display_name": "Computer graphics (images)",
+                    "level": 1,
+                    "score": 0.23563895
+                },
+                {
+                    "id": "https://openalex.org/C45374587",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12525525",
+                    "display_name": "Computation",
+                    "level": 2,
+                    "score": 0.2113218
+                },
+                {
+                    "id": "https://openalex.org/C11413529",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8366",
+                    "display_name": "Algorithm",
+                    "level": 1,
+                    "score": 0.19387743
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.09357363
+                },
+                {
+                    "id": "https://openalex.org/C163716315",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901177",
+                    "display_name": "Gaussian",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C142362112",
+                    "wikidata": "https://www.wikidata.org/wiki/Q735",
+                    "display_name": "Art",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C153349607",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36649",
+                    "display_name": "Visual arts",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C192562407",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228736",
+                    "display_name": "Materials science",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C159985019",
+                    "wikidata": "https://www.wikidata.org/wiki/Q181790",
+                    "display_name": "Composite material",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C84114770",
+                    "wikidata": "https://www.wikidata.org/wiki/Q46344",
+                    "display_name": "Quantum",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C114614502",
+                    "wikidata": "https://www.wikidata.org/wiki/Q76592",
+                    "display_name": "Combinatorics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/imcsit.2008.4747253",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210192132",
+                        "display_name": "Proceedings of the International Multiconference on Computer Science and Information Technology",
+                        "issn_l": "1896-7094",
+                        "issn": [
+                            "1896-7094",
+                            "2157-5525",
+                            "2157-5533"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319808",
+                        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319808"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Institute of Electrical and Electronics Engineers"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [
+                {
+                    "display_name": "Affordable and clean energy",
+                    "score": 0.65,
+                    "id": "https://metadata.un.org/sdg/7"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 6,
+            "referenced_works": [
+                "https://openalex.org/W1575701986",
+                "https://openalex.org/W2028499920",
+                "https://openalex.org/W2097865459",
+                "https://openalex.org/W2145018926",
+                "https://openalex.org/W2155503253",
+                "https://openalex.org/W2187691968"
+            ],
+            "related_works": [
+                "https://openalex.org/W4214765606",
+                "https://openalex.org/W2739740241",
+                "https://openalex.org/W2550374317",
+                "https://openalex.org/W2526069705",
+                "https://openalex.org/W2475524688",
+                "https://openalex.org/W2279642117",
+                "https://openalex.org/W2085105049",
+                "https://openalex.org/W2024016913",
+                "https://openalex.org/W1981810806",
+                "https://openalex.org/W1974923383"
+            ],
+            "abstract_inverted_index": {
+                "The": [
+                    0,
+                    62
+                ],
+                "paper": [
+                    1
+                ],
+                "presents": [
+                    2
+                ],
+                "results": [
+                    3
+                ],
+                "of": [
+                    4,
+                    10,
+                    48,
+                    74,
+                    81
+                ],
+                "several": [
+                    5
+                ],
+                "experiments": [
+                    6,
+                    65
+                ],
+                "evaluating": [
+                    7
+                ],
+                "the": [
+                    8,
+                    49,
+                    79
+                ],
+                "performance": [
+                    9
+                ],
+                "NVIDIA": [
+                    11,
+                    35,
+                    40
+                ],
+                "processors,": [
+                    12,
+                    53
+                ],
+                "implementing": [
+                    13
+                ],
+                "a": [
+                    14
+                ],
+                "new": [
+                    15
+                ],
+                "Tesla": [
+                    16,
+                    36
+                ],
+                "architecture,": [
+                    17
+                ],
+                "in": [
+                    18,
+                    78
+                ],
+                "matrix-vector": [
+                    19
+                ],
+                "multiplication.": [
+                    20
+                ],
+                "Three": [
+                    21
+                ],
+                "matrix": [
+                    22
+                ],
+                "forms,": [
+                    23
+                ],
+                "dense,": [
+                    24
+                ],
+                "banded": [
+                    25
+                ],
+                "and": [
+                    26,
+                    46
+                ],
+                "sparse,": [
+                    27
+                ],
+                "are": [
+                    28,
+                    84
+                ],
+                "considered": [
+                    29,
+                    87
+                ],
+                "together": [
+                    30
+                ],
+                "with": [
+                    31,
+                    55
+                ],
+                "three": [
+                    32
+                ],
+                "hardware": [
+                    33
+                ],
+                "platforms:": [
+                    34
+                ],
+                "C870": [
+                    37
+                ],
+                "computing": [
+                    38
+                ],
+                "board,": [
+                    39
+                ],
+                "GeForce": [
+                    41
+                ],
+                "8800": [
+                    42
+                ],
+                "GTX": [
+                    43
+                ],
+                "graphics": [
+                    44
+                ],
+                "card": [
+                    45
+                ],
+                "one": [
+                    47
+                ],
+                "newest": [
+                    50
+                ],
+                "Intel": [
+                    51
+                ],
+                "Xeon": [
+                    52
+                ],
+                "E5462,": [
+                    54
+                ],
+                "1.6": [
+                    56
+                ],
+                "GHz": [
+                    57
+                ],
+                "front": [
+                    58
+                ],
+                "side": [
+                    59
+                ],
+                "bus": [
+                    60
+                ],
+                "speed.": [
+                    61
+                ],
+                "conclusions": [
+                    63
+                ],
+                "from": [
+                    64
+                ],
+                "indicate": [
+                    66
+                ],
+                "what": [
+                    67
+                ],
+                "speed-ups": [
+                    68
+                ],
+                "can": [
+                    69
+                ],
+                "be": [
+                    70
+                ],
+                "expected": [
+                    71
+                ],
+                "when,": [
+                    72
+                ],
+                "instead": [
+                    73
+                ],
+                "standard": [
+                    75
+                ],
+                "CPUs,": [
+                    76
+                ],
+                "accelerators": [
+                    77
+                ],
+                "form": [
+                    80
+                ],
+                "presented": [
+                    82
+                ],
+                "GPUs": [
+                    83
+                ],
+                "used": [
+                    85
+                ],
+                "for": [
+                    86
+                ],
+                "computational": [
+                    88
+                ],
+                "kernels.": [
+                    89
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1987225733",
+            "counts_by_year": [
+                {
+                    "year": 2018,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T08:40:28.857739",
+            "created_date": "2016-06-24"
+        }
+    ],
+    "group_by": []
+}

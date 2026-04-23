@@ -1,0 +1,3377 @@
+{
+    "meta": {
+        "count": 4,
+        "db_response_time_ms": 219,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W3131006499",
+            "doi": "https://doi.org/10.1016/j.jocs.2021.101330",
+            "title": "Hybrid parallel iterative sparse linear solver framework for reservoir geomechanical and flow simulation",
+            "display_name": "Hybrid parallel iterative sparse linear solver framework for reservoir geomechanical and flow simulation",
+            "publication_year": 2021,
+            "publication_date": "2021-02-21",
+            "ids": {
+                "openalex": "https://openalex.org/W3131006499",
+                "doi": "https://doi.org/10.1016/j.jocs.2021.101330",
+                "mag": "3131006499"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1016/j.jocs.2021.101330",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S192071280",
+                    "display_name": "Journal of Computational Science",
+                    "issn_l": "1877-7503",
+                    "issn": [
+                        "1877-7503",
+                        "1877-7511"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320990",
+                    "host_organization_name": "Elsevier BV",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310320990"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Elsevier BV"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5076013327",
+                        "display_name": "Leonardo da Silva Gasparini",
+                        "orcid": "https://orcid.org/0000-0003-1327-3924"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I32393484",
+                            "display_name": "Petrobras (Brazil)",
+                            "ror": "https://ror.org/0235kyq22",
+                            "country_code": "BR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Leonardo Gasparini",
+                    "raw_affiliation_strings": [
+                        "PETROBRAS R&D Center (CENPES), Av. Horácio Macedo, 950, Rio de Janeiro - RJ, 21941-915, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "PETROBRAS R&D Center (CENPES), Av. Horácio Macedo, 950, Rio de Janeiro - RJ, 21941-915, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5084213098",
+                        "display_name": "José Roberto Pereira Rodrigues",
+                        "orcid": "https://orcid.org/0000-0003-4839-3176"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I32393484",
+                            "display_name": "Petrobras (Brazil)",
+                            "ror": "https://ror.org/0235kyq22",
+                            "country_code": "BR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "José R.P. Rodrigues",
+                    "raw_affiliation_strings": [
+                        "PETROBRAS R&D Center (CENPES), Av. Horácio Macedo, 950, Rio de Janeiro - RJ, 21941-915, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "PETROBRAS R&D Center (CENPES), Av. Horácio Macedo, 950, Rio de Janeiro - RJ, 21941-915, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5029199758",
+                        "display_name": "Douglas A. Augusto",
+                        "orcid": "https://orcid.org/0000-0001-5719-6786"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I52325",
+                            "display_name": "Fundação Oswaldo Cruz",
+                            "ror": "https://ror.org/04jhswv08",
+                            "country_code": "BR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I52325"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Douglas A. Augusto",
+                    "raw_affiliation_strings": [
+                        "Oswaldo Cruz Foundation, Av. Brasil, 4365, Rio de Janeiro - RJ, 21040-900, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oswaldo Cruz Foundation, Av. Brasil, 4365, Rio de Janeiro - RJ, 21040-900, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I52325"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5067913093",
+                        "display_name": "Luiz Mariano Carvalho",
+                        "orcid": "https://orcid.org/0000-0002-4829-2917"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I40034438",
+                            "display_name": "Universidade do Estado do Rio de Janeiro",
+                            "ror": "https://ror.org/0198v2949",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I40034438"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Luiz M. Carvalho",
+                    "raw_affiliation_strings": [
+                        "Rio de Janeiro State University, Rua São Francisco Xavier, 524, Rio de Janeiro - RJ 20559-900, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rio de Janeiro State University, Rua São Francisco Xavier, 524, Rio de Janeiro - RJ 20559-900, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I40034438"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075559736",
+                        "display_name": "Cesar Conopoima",
+                        "orcid": "https://orcid.org/0000-0002-8381-5269"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I122140584",
+                            "display_name": "Universidade Federal do Rio de Janeiro",
+                            "ror": "https://ror.org/03490as77",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cesar Conopoima",
+                    "raw_affiliation_strings": [
+                        "Rio de Janeiro Federal University, Avenida Athos da Silveira Ramos, 149, Rio de Janeiro - RJ 21941-909, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rio de Janeiro Federal University, Avenida Athos da Silveira Ramos, 149, Rio de Janeiro - RJ 21941-909, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5069519192",
+                        "display_name": "Paulo Goldfeld",
+                        "orcid": "https://orcid.org/0000-0002-1851-788X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I122140584",
+                            "display_name": "Universidade Federal do Rio de Janeiro",
+                            "ror": "https://ror.org/03490as77",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paulo Goldfeld",
+                    "raw_affiliation_strings": [
+                        "Rio de Janeiro Federal University, Avenida Athos da Silveira Ramos, 149, Rio de Janeiro - RJ 21941-909, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rio de Janeiro Federal University, Avenida Athos da Silveira Ramos, 149, Rio de Janeiro - RJ 21941-909, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5022956545",
+                        "display_name": "Jairo Panetta",
+                        "orcid": "https://orcid.org/0000-0002-7798-3979"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107428990",
+                            "display_name": "Instituto Tecnológico de Aeronáutica",
+                            "ror": "https://ror.org/05vh67662",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I107428990"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jairo Panetta",
+                    "raw_affiliation_strings": [
+                        "Aeronautics Institute of Technology (ITA), Praça Marechal Eduardo Gomes, 50, São José dos Campos - SP, 12228-900, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Aeronautics Institute of Technology (ITA), Praça Marechal Eduardo Gomes, 50, São José dos Campos - SP, 12228-900, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I107428990"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102824382",
+                        "display_name": "Joao Paulo Ramirez",
+                        "orcid": "https://orcid.org/0000-0002-8465-4524"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I122140584",
+                            "display_name": "Universidade Federal do Rio de Janeiro",
+                            "ror": "https://ror.org/03490as77",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "João P. Ramirez",
+                    "raw_affiliation_strings": [
+                        "Rio de Janeiro Federal University, Avenida Athos da Silveira Ramos, 149, Rio de Janeiro - RJ 21941-909, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rio de Janeiro Federal University, Avenida Athos da Silveira Ramos, 149, Rio de Janeiro - RJ 21941-909, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5031494894",
+                        "display_name": "Michael Souza",
+                        "orcid": "https://orcid.org/0000-0001-6751-2877"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I243754102",
+                            "display_name": "Universidade Federal do Ceará",
+                            "ror": "https://ror.org/03srtnf24",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I243754102"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michael Souza",
+                    "raw_affiliation_strings": [
+                        "Federal University of Ceara, Av. Humberto Monte, s/n, Campus do Pici - Bloco 914, Fortaleza, CE 60455-760, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Federal University of Ceara, Av. Humberto Monte, s/n, Campus do Pici - Bloco 914, Fortaleza, CE 60455-760, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I243754102"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055221436",
+                        "display_name": "Mateus O. de Figueiredo",
+                        "orcid": "https://orcid.org/0000-0001-9588-2998"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I32393484",
+                            "display_name": "Petrobras (Brazil)",
+                            "ror": "https://ror.org/0235kyq22",
+                            "country_code": "BR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mateus O. Figueiredo",
+                    "raw_affiliation_strings": [
+                        "PETROBRAS R&D Center (CENPES), Av. Horácio Macedo, 950, Rio de Janeiro - RJ, 21941-915, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "PETROBRAS R&D Center (CENPES), Av. Horácio Macedo, 950, Rio de Janeiro - RJ, 21941-915, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5052084314",
+                        "display_name": "Victor Leite",
+                        "orcid": "https://orcid.org/0000-0003-2491-7174"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I1329807341",
+                            "display_name": "Serviço Nacional de Aprendizagem Industrial",
+                            "ror": "https://ror.org/035c3nf67",
+                            "country_code": "BR",
+                            "type": "nonprofit",
+                            "lineage": [
+                                "https://openalex.org/I1329807341"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Victor M.D.M. Leite",
+                    "raw_affiliation_strings": [
+                        "Supercomputing Center for Industrial Innovation, SENAI CIMATEC, Av. Orlando Gomes, 1845 - Piatã, Salvador - BA 41650-010, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Supercomputing Center for Industrial Innovation, SENAI CIMATEC, Av. Orlando Gomes, 1845 - Piatã, Salvador - BA 41650-010, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I1329807341"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 7,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5067913093"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I40034438"
+            ],
+            "apc_list": {
+                "value": 2810,
+                "currency": "USD",
+                "value_usd": 2810,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 1.328,
+            "has_fulltext": false,
+            "cited_by_count": 9,
+            "citation_normalized_percentile": {
+                "value": 0.999916,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 88
+            },
+            "biblio": {
+                "volume": "51",
+                "issue": null,
+                "first_page": "101330",
+                "last_page": "101330"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10339",
+                "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9998,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12100",
+                    "display_name": "Multiscale Methods for Heterogeneous Systems",
+                    "score": 0.9978,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10792",
+                    "display_name": "Matrix Algorithms and Iterative Methods",
+                    "score": 0.996,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.8528076
+                },
+                {
+                    "id": "https://openalex.org/keywords/sparse-linear-systems",
+                    "display_name": "Sparse Linear Systems",
+                    "score": 0.580782
+                },
+                {
+                    "id": "https://openalex.org/keywords/multi-core-processor",
+                    "display_name": "Multi-core processor",
+                    "score": 0.56789005
+                },
+                {
+                    "id": "https://openalex.org/keywords/parallel-computing",
+                    "display_name": "Parallel Computing",
+                    "score": 0.564322
+                },
+                {
+                    "id": "https://openalex.org/keywords/workstation",
+                    "display_name": "Workstation",
+                    "score": 0.5641071
+                },
+                {
+                    "id": "https://openalex.org/keywords/reservoir-simulation",
+                    "display_name": "Reservoir simulation",
+                    "score": 0.55738395
+                },
+                {
+                    "id": "https://openalex.org/keywords/microscopic-simulators",
+                    "display_name": "Microscopic Simulators",
+                    "score": 0.548663
+                },
+                {
+                    "id": "https://openalex.org/keywords/subsurface-flow",
+                    "display_name": "Subsurface Flow",
+                    "score": 0.50729
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.8528076
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.8059474
+                },
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.7687243
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.74575585
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.5987941
+                },
+                {
+                    "id": "https://openalex.org/C78766204",
+                    "wikidata": "https://www.wikidata.org/wiki/Q555032",
+                    "display_name": "Multi-core processor",
+                    "level": 2,
+                    "score": 0.56789005
+                },
+                {
+                    "id": "https://openalex.org/C67953723",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192525",
+                    "display_name": "Workstation",
+                    "level": 2,
+                    "score": 0.5641071
+                },
+                {
+                    "id": "https://openalex.org/C2778668878",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6380338",
+                    "display_name": "Reservoir simulation",
+                    "level": 2,
+                    "score": 0.55738395
+                },
+                {
+                    "id": "https://openalex.org/C38349280",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+                    "display_name": "Flow (mathematics)",
+                    "level": 2,
+                    "score": 0.4461292
+                },
+                {
+                    "id": "https://openalex.org/C56372850",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1050404",
+                    "display_name": "Sparse matrix",
+                    "level": 3,
+                    "score": 0.43682122
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.14667404
+                },
+                {
+                    "id": "https://openalex.org/C78762247",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+                    "display_name": "Petroleum engineering",
+                    "level": 1,
+                    "score": 0.13998583
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.10312274
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.06777397
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C163716315",
+                    "wikidata": "https://www.wikidata.org/wiki/Q901177",
+                    "display_name": "Gaussian",
+                    "level": 2,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1016/j.jocs.2021.101330",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S192071280",
+                        "display_name": "Journal of Computational Science",
+                        "issn_l": "1877-7503",
+                        "issn": [
+                            "1877-7503",
+                            "1877-7511"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320990",
+                        "host_organization_name": "Elsevier BV",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310320990"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Elsevier BV"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [
+                {
+                    "funder": "https://openalex.org/F4320323909",
+                    "funder_display_name": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
+                    "award_id": null
+                }
+            ],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 69,
+            "referenced_works": [
+                "https://openalex.org/W1506342804",
+                "https://openalex.org/W1542243431",
+                "https://openalex.org/W1600301286",
+                "https://openalex.org/W1845641575",
+                "https://openalex.org/W1965034778",
+                "https://openalex.org/W1974419766",
+                "https://openalex.org/W1979127199",
+                "https://openalex.org/W1983139887",
+                "https://openalex.org/W1987957243",
+                "https://openalex.org/W1988729251",
+                "https://openalex.org/W1992208469",
+                "https://openalex.org/W1992829029",
+                "https://openalex.org/W1996138408",
+                "https://openalex.org/W2001977795",
+                "https://openalex.org/W2003479192",
+                "https://openalex.org/W2003637147",
+                "https://openalex.org/W2009532193",
+                "https://openalex.org/W2032970190",
+                "https://openalex.org/W2039239283",
+                "https://openalex.org/W2039789965",
+                "https://openalex.org/W2041876368",
+                "https://openalex.org/W2043522943",
+                "https://openalex.org/W2047871364",
+                "https://openalex.org/W2050075173",
+                "https://openalex.org/W2050892063",
+                "https://openalex.org/W2054211070",
+                "https://openalex.org/W2061593509",
+                "https://openalex.org/W2079777558",
+                "https://openalex.org/W2080114591",
+                "https://openalex.org/W2080741363",
+                "https://openalex.org/W2082842676",
+                "https://openalex.org/W2089099677",
+                "https://openalex.org/W2090617086",
+                "https://openalex.org/W2118293712",
+                "https://openalex.org/W2127774428",
+                "https://openalex.org/W2134237243",
+                "https://openalex.org/W2140153041",
+                "https://openalex.org/W2141374519",
+                "https://openalex.org/W2155216327",
+                "https://openalex.org/W2181846018",
+                "https://openalex.org/W2183902778",
+                "https://openalex.org/W2316564661",
+                "https://openalex.org/W2346759620",
+                "https://openalex.org/W2423319358",
+                "https://openalex.org/W2442014412",
+                "https://openalex.org/W2512101742",
+                "https://openalex.org/W2557261701",
+                "https://openalex.org/W2626438487",
+                "https://openalex.org/W2759484396",
+                "https://openalex.org/W2899660524",
+                "https://openalex.org/W2934149888",
+                "https://openalex.org/W2944108582",
+                "https://openalex.org/W2954726033",
+                "https://openalex.org/W2963889991",
+                "https://openalex.org/W2965475975",
+                "https://openalex.org/W2993109347",
+                "https://openalex.org/W3006501671",
+                "https://openalex.org/W3014582609",
+                "https://openalex.org/W3034651469",
+                "https://openalex.org/W3037607569",
+                "https://openalex.org/W3088330823",
+                "https://openalex.org/W3098281632",
+                "https://openalex.org/W4230906109",
+                "https://openalex.org/W4238596264",
+                "https://openalex.org/W4247600657",
+                "https://openalex.org/W4250119831",
+                "https://openalex.org/W593406250",
+                "https://openalex.org/W656657393",
+                "https://openalex.org/W993511226"
+            ],
+            "related_works": [
+                "https://openalex.org/W2791088446",
+                "https://openalex.org/W2584886384",
+                "https://openalex.org/W2378667902",
+                "https://openalex.org/W2355089277",
+                "https://openalex.org/W2352028719",
+                "https://openalex.org/W233983175",
+                "https://openalex.org/W2312486021",
+                "https://openalex.org/W2052769075",
+                "https://openalex.org/W2045348955",
+                "https://openalex.org/W2030992542"
+            ],
+            "abstract_inverted_index": {
+                "We": [
+                    0,
+                    76
+                ],
+                "discuss": [
+                    1
+                ],
+                "new": [
+                    2
+                ],
+                "developments": [
+                    3
+                ],
+                "of": [
+                    4,
+                    32,
+                    79,
+                    85,
+                    91,
+                    95
+                ],
+                "a": [
+                    5,
+                    41,
+                    57,
+                    61
+                ],
+                "hybrid": [
+                    6
+                ],
+                "parallel": [
+                    7,
+                    53
+                ],
+                "iterative": [
+                    8
+                ],
+                "sparse": [
+                    9
+                ],
+                "linear": [
+                    10
+                ],
+                "solver": [
+                    11,
+                    64,
+                    68
+                ],
+                "framework": [
+                    12
+                ],
+                "focused": [
+                    13
+                ],
+                "on": [
+                    14,
+                    24,
+                    98,
+                    102
+                ],
+                "petroleum": [
+                    15
+                ],
+                "reservoir": [
+                    16,
+                    89
+                ],
+                "flow": [
+                    17
+                ],
+                "and": [
+                    18,
+                    48,
+                    60,
+                    87,
+                    100
+                ],
+                "geomechanical": [
+                    19
+                ],
+                "simulation.": [
+                    20
+                ],
+                "It": [
+                    21
+                ],
+                "runs": [
+                    22
+                ],
+                "efficiently": [
+                    23
+                ],
+                "several": [
+                    25
+                ],
+                "platforms,": [
+                    26
+                ],
+                "from": [
+                    27
+                ],
+                "desktop": [
+                    28
+                ],
+                "workstations": [
+                    29
+                ],
+                "to": [
+                    30,
+                    83,
+                    93,
+                    104
+                ],
+                "clusters": [
+                    31
+                ],
+                "multicore": [
+                    33
+                ],
+                "nodes,": [
+                    34
+                ],
+                "with": [
+                    35,
+                    56,
+                    71
+                ],
+                "or": [
+                    36
+                ],
+                "without": [
+                    37
+                ],
+                "multiple": [
+                    38
+                ],
+                "GPUs,": [
+                    39
+                ],
+                "using": [
+                    40
+                ],
+                "two-tier": [
+                    42
+                ],
+                "hierarchical": [
+                    43
+                ],
+                "architecture": [
+                    44
+                ],
+                "for": [
+                    45
+                ],
+                "distributed": [
+                    46
+                ],
+                "matrices": [
+                    47
+                ],
+                "vectors.": [
+                    49
+                ],
+                "Results": [
+                    50
+                ],
+                "show": [
+                    51
+                ],
+                "good": [
+                    52
+                ],
+                "scalability.": [
+                    54
+                ],
+                "Comparisons": [
+                    55
+                ],
+                "well-established": [
+                    58
+                ],
+                "library": [
+                    59
+                ],
+                "proprietary": [
+                    62
+                ],
+                "commercial": [
+                    63
+                ],
+                "indicate": [
+                    65
+                ],
+                "that": [
+                    66
+                ],
+                "our": [
+                    67
+                ],
+                "is": [
+                    69
+                ],
+                "competitive": [
+                    70
+                ],
+                "the": [
+                    72,
+                    80
+                ],
+                "best": [
+                    73
+                ],
+                "available": [
+                    74
+                ],
+                "tools.": [
+                    75
+                ],
+                "present": [
+                    77
+                ],
+                "results": [
+                    78
+                ],
+                "solver's": [
+                    81
+                ],
+                "application": [
+                    82
+                ],
+                "simulations": [
+                    84
+                ],
+                "real": [
+                    86
+                ],
+                "synthetic": [
+                    88
+                ],
+                "models": [
+                    90
+                ],
+                "up": [
+                    92,
+                    103
+                ],
+                "billions": [
+                    94
+                ],
+                "unknowns,": [
+                    96
+                ],
+                "running": [
+                    97
+                ],
+                "CPUs": [
+                    99
+                ],
+                "GPUs": [
+                    101
+                ],
+                "2000": [
+                    105
+                ],
+                "processes.": [
+                    106
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3131006499",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T12:20:34.109034",
+            "created_date": "2021-03-01"
+        },
+        {
+            "id": "https://openalex.org/W2965475975",
+            "doi": "https://doi.org/10.1109/ipdpsw.2019.00119",
+            "title": "A Linear Solver Framework for Flow and Geomechanics Reservoir Simulation",
+            "display_name": "A Linear Solver Framework for Flow and Geomechanics Reservoir Simulation",
+            "publication_year": 2019,
+            "publication_date": "2019-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2965475975",
+                "doi": "https://doi.org/10.1109/ipdpsw.2019.00119",
+                "mag": "2965475975"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1109/ipdpsw.2019.00119",
+                "pdf_url": null,
+                "source": null,
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5076013327",
+                        "display_name": "Leonardo da Silva Gasparini",
+                        "orcid": "https://orcid.org/0000-0003-1327-3924"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I32393484",
+                            "display_name": "Petrobras (Brazil)",
+                            "ror": "https://ror.org/0235kyq22",
+                            "country_code": "BR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Leonardo Gasparini",
+                    "raw_affiliation_strings": [
+                        "PETROBRAS, Rio de Janeiro, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "PETROBRAS, Rio de Janeiro, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103134922",
+                        "display_name": "José Roberto Rodrigues",
+                        "orcid": "https://orcid.org/0000-0001-9790-3502"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I32393484",
+                            "display_name": "Petrobras (Brazil)",
+                            "ror": "https://ror.org/0235kyq22",
+                            "country_code": "BR",
+                            "type": "company",
+                            "lineage": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jose Roberto P. Rodrigues",
+                    "raw_affiliation_strings": [
+                        "PETROBRAS, Rio de Janeiro, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "PETROBRAS, Rio de Janeiro, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I32393484"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5075559736",
+                        "display_name": "Cesar Conopoima",
+                        "orcid": "https://orcid.org/0000-0002-8381-5269"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cesar Conopoima",
+                    "raw_affiliation_strings": [
+                        "Federal University of Juiz de Fora, Juiz de Fora, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Federal University of Juiz de Fora, Juiz de Fora, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5029199758",
+                        "display_name": "Douglas A. Augusto",
+                        "orcid": "https://orcid.org/0000-0001-5719-6786"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I52325",
+                            "display_name": "Fundação Oswaldo Cruz",
+                            "ror": "https://ror.org/04jhswv08",
+                            "country_code": "BR",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I52325"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Douglas A. Augusto",
+                    "raw_affiliation_strings": [
+                        "Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Oswaldo Cruz Foundation, Rio de Janeiro, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I52325"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5103862218",
+                        "display_name": "Michael de Souza",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I243754102",
+                            "display_name": "Universidade Federal do Ceará",
+                            "ror": "https://ror.org/03srtnf24",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I243754102"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Michael de Souza",
+                    "raw_affiliation_strings": [
+                        "Federal University of Ceará, Fortaleza, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Federal University of Ceará, Fortaleza, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I243754102"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5067913093",
+                        "display_name": "Luiz Mariano Carvalho",
+                        "orcid": "https://orcid.org/0000-0002-4829-2917"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I40034438",
+                            "display_name": "Universidade do Estado do Rio de Janeiro",
+                            "ror": "https://ror.org/0198v2949",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I40034438"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Luiz Mariano Carvalho",
+                    "raw_affiliation_strings": [
+                        "Rio de Janeiro State University, Rio de Janeiro, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Rio de Janeiro State University, Rio de Janeiro, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I40034438"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5069519192",
+                        "display_name": "Paulo Goldfeld",
+                        "orcid": "https://orcid.org/0000-0002-1851-788X"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I122140584",
+                            "display_name": "Universidade Federal do Rio de Janeiro",
+                            "ror": "https://ror.org/03490as77",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Paulo Goldfeld",
+                    "raw_affiliation_strings": [
+                        "Federal University of Rio de Janeiro, Rio de Janeiro, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Federal University of Rio de Janeiro, Rio de Janeiro, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5102824382",
+                        "display_name": "Joao Paulo Ramirez",
+                        "orcid": "https://orcid.org/0000-0002-8465-4524"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I122140584",
+                            "display_name": "Universidade Federal do Rio de Janeiro",
+                            "ror": "https://ror.org/03490as77",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Joao Paulo Ramirez",
+                    "raw_affiliation_strings": [
+                        "Federal University of Rio de Janeiro, Rio de Janeiro, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Federal University of Rio de Janeiro, Rio de Janeiro, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I122140584"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5022956545",
+                        "display_name": "Jairo Panetta",
+                        "orcid": "https://orcid.org/0000-0002-7798-3979"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I107428990",
+                            "display_name": "Instituto Tecnológico de Aeronáutica",
+                            "ror": "https://ror.org/05vh67662",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I107428990"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jairo Panetta",
+                    "raw_affiliation_strings": [
+                        "Aeronautics Institute of Technology (ITA), São José dos Campos, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Aeronautics Institute of Technology (ITA), São José dos Campos, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I107428990"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 7,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.175,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 2,
+            "citation_normalized_percentile": {
+                "value": 0.472788,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 70,
+                "max": 74
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10339",
+                "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                "score": 0.9994,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2206",
+                    "display_name": "Computational Mechanics"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10339",
+                    "display_name": "Finite Element Methods for Fluid-Structure Interaction",
+                    "score": 0.9994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2206",
+                        "display_name": "Computational Mechanics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11801",
+                    "display_name": "Advanced Techniques in Reservoir Management",
+                    "score": 0.9983,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2212",
+                        "display_name": "Ocean Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T12100",
+                    "display_name": "Multiscale Methods for Heterogeneous Systems",
+                    "score": 0.9952,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1703",
+                        "display_name": "Computational Theory and Mathematics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/multi-core-processor",
+                    "display_name": "Multi-core processor",
+                    "score": 0.73494184
+                },
+                {
+                    "id": "https://openalex.org/keywords/geomechanics",
+                    "display_name": "Geomechanics",
+                    "score": 0.704698
+                },
+                {
+                    "id": "https://openalex.org/keywords/workstation",
+                    "display_name": "Workstation",
+                    "score": 0.66061896
+                },
+                {
+                    "id": "https://openalex.org/keywords/solver",
+                    "display_name": "Solver",
+                    "score": 0.6046682
+                },
+                {
+                    "id": "https://openalex.org/keywords/microscopic-simulators",
+                    "display_name": "Microscopic Simulators",
+                    "score": 0.542479
+                },
+                {
+                    "id": "https://openalex.org/keywords/reservoir-simulation",
+                    "display_name": "Reservoir simulation",
+                    "score": 0.53428364
+                },
+                {
+                    "id": "https://openalex.org/keywords/subsurface-flow",
+                    "display_name": "Subsurface Flow",
+                    "score": 0.509013
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C48044578",
+                    "wikidata": "https://www.wikidata.org/wiki/Q727490",
+                    "display_name": "Scalability",
+                    "level": 2,
+                    "score": 0.84387374
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.81317985
+                },
+                {
+                    "id": "https://openalex.org/C78766204",
+                    "wikidata": "https://www.wikidata.org/wiki/Q555032",
+                    "display_name": "Multi-core processor",
+                    "level": 2,
+                    "score": 0.73494184
+                },
+                {
+                    "id": "https://openalex.org/C185715996",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2670285",
+                    "display_name": "Geomechanics",
+                    "level": 2,
+                    "score": 0.704698
+                },
+                {
+                    "id": "https://openalex.org/C173608175",
+                    "wikidata": "https://www.wikidata.org/wiki/Q232661",
+                    "display_name": "Parallel computing",
+                    "level": 1,
+                    "score": 0.6915415
+                },
+                {
+                    "id": "https://openalex.org/C67953723",
+                    "wikidata": "https://www.wikidata.org/wiki/Q192525",
+                    "display_name": "Workstation",
+                    "level": 2,
+                    "score": 0.66061896
+                },
+                {
+                    "id": "https://openalex.org/C2778770139",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1966904",
+                    "display_name": "Solver",
+                    "level": 2,
+                    "score": 0.6046682
+                },
+                {
+                    "id": "https://openalex.org/C2778668878",
+                    "wikidata": "https://www.wikidata.org/wiki/Q6380338",
+                    "display_name": "Reservoir simulation",
+                    "level": 2,
+                    "score": 0.53428364
+                },
+                {
+                    "id": "https://openalex.org/C459310",
+                    "wikidata": "https://www.wikidata.org/wiki/Q117801",
+                    "display_name": "Computational science",
+                    "level": 1,
+                    "score": 0.48882338
+                },
+                {
+                    "id": "https://openalex.org/C204323151",
+                    "wikidata": "https://www.wikidata.org/wiki/Q905424",
+                    "display_name": "Range (aeronautics)",
+                    "level": 2,
+                    "score": 0.43920398
+                },
+                {
+                    "id": "https://openalex.org/C38349280",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1434290",
+                    "display_name": "Flow (mathematics)",
+                    "level": 2,
+                    "score": 0.4280272
+                },
+                {
+                    "id": "https://openalex.org/C120314980",
+                    "wikidata": "https://www.wikidata.org/wiki/Q180634",
+                    "display_name": "Distributed computing",
+                    "level": 1,
+                    "score": 0.3801837
+                },
+                {
+                    "id": "https://openalex.org/C127313418",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1069",
+                    "display_name": "Geology",
+                    "level": 0,
+                    "score": 0.08048898
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.08026126
+                },
+                {
+                    "id": "https://openalex.org/C111919701",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9135",
+                    "display_name": "Operating system",
+                    "level": 1,
+                    "score": 0.078671575
+                },
+                {
+                    "id": "https://openalex.org/C2524010",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8087",
+                    "display_name": "Geometry",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C187320778",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+                    "display_name": "Geotechnical engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C146978453",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+                    "display_name": "Aerospace engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C78762247",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+                    "display_name": "Petroleum engineering",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199360897",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9143",
+                    "display_name": "Programming language",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1109/ipdpsw.2019.00119",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 19,
+            "referenced_works": [
+                "https://openalex.org/W1506342804",
+                "https://openalex.org/W1600301286",
+                "https://openalex.org/W1780245888",
+                "https://openalex.org/W1983139887",
+                "https://openalex.org/W2032970190",
+                "https://openalex.org/W2050075173",
+                "https://openalex.org/W2050892063",
+                "https://openalex.org/W2080741363",
+                "https://openalex.org/W2082842676",
+                "https://openalex.org/W2134237243",
+                "https://openalex.org/W2141374519",
+                "https://openalex.org/W2167868137",
+                "https://openalex.org/W2759484396",
+                "https://openalex.org/W2954726033",
+                "https://openalex.org/W3034651469",
+                "https://openalex.org/W4245517618",
+                "https://openalex.org/W593406250",
+                "https://openalex.org/W656657393",
+                "https://openalex.org/W90568776"
+            ],
+            "related_works": [
+                "https://openalex.org/W3131006499",
+                "https://openalex.org/W2965475975",
+                "https://openalex.org/W2914401739",
+                "https://openalex.org/W2231919141",
+                "https://openalex.org/W2207052351",
+                "https://openalex.org/W2011940952",
+                "https://openalex.org/W2009002108",
+                "https://openalex.org/W1964406497",
+                "https://openalex.org/W1676486909",
+                "https://openalex.org/W1561683466"
+            ],
+            "abstract_inverted_index": {
+                "This": [
+                    0
+                ],
+                "paper": [
+                    1
+                ],
+                "describes": [
+                    2
+                ],
+                "a": [
+                    3,
+                    23,
+                    43,
+                    52
+                ],
+                "parallel": [
+                    4,
+                    59,
+                    86
+                ],
+                "solver": [
+                    5
+                ],
+                "framework": [
+                    6,
+                    44
+                ],
+                "focused": [
+                    7
+                ],
+                "on": [
+                    8,
+                    22,
+                    51,
+                    61,
+                    89
+                ],
+                "flow": [
+                    9
+                ],
+                "and": [
+                    10,
+                    48,
+                    85
+                ],
+                "geomechanics": [
+                    11
+                ],
+                "reservoir": [
+                    12
+                ],
+                "simulation": [
+                    13
+                ],
+                "applications.": [
+                    14
+                ],
+                "It": [
+                    15
+                ],
+                "has": [
+                    16
+                ],
+                "been": [
+                    17
+                ],
+                "designed": [
+                    18
+                ],
+                "to": [
+                    19,
+                    32
+                ],
+                "run": [
+                    20
+                ],
+                "efficiently": [
+                    21
+                ],
+                "wide": [
+                    24
+                ],
+                "range": [
+                    25
+                ],
+                "of": [
+                    26,
+                    35,
+                    63
+                ],
+                "target": [
+                    27
+                ],
+                "platforms,": [
+                    28
+                ],
+                "from": [
+                    29
+                ],
+                "desktop": [
+                    30
+                ],
+                "workstations": [
+                    31
+                ],
+                "heterogeneous": [
+                    33
+                ],
+                "clusters": [
+                    34,
+                    62
+                ],
+                "multicore": [
+                    36,
+                    64
+                ],
+                "nodes,": [
+                    37
+                ],
+                "with": [
+                    38,
+                    67,
+                    75
+                ],
+                "or": [
+                    39
+                ],
+                "without": [
+                    40
+                ],
+                "GPUs,": [
+                    41
+                ],
+                "using": [
+                    42
+                ],
+                "for": [
+                    45
+                ],
+                "distributed": [
+                    46
+                ],
+                "matrices": [
+                    47
+                ],
+                "vectors": [
+                    49
+                ],
+                "based": [
+                    50
+                ],
+                "two-tier": [
+                    53
+                ],
+                "hierarchical": [
+                    54
+                ],
+                "architecture.": [
+                    55
+                ],
+                "Results": [
+                    56
+                ],
+                "show": [
+                    57
+                ],
+                "good": [
+                    58,
+                    83
+                ],
+                "scalability": [
+                    60,
+                    87
+                ],
+                "nodes.": [
+                    65
+                ],
+                "Comparisons": [
+                    66
+                ],
+                "the": [
+                    68,
+                    76
+                ],
+                "PETSc": [
+                    69
+                ],
+                "library": [
+                    70
+                ],
+                "indicate": [
+                    71,
+                    82
+                ],
+                "it": [
+                    72
+                ],
+                "is": [
+                    73
+                ],
+                "competitive": [
+                    74
+                ],
+                "best": [
+                    77
+                ],
+                "available": [
+                    78
+                ],
+                "tools.": [
+                    79
+                ],
+                "Preliminary": [
+                    80
+                ],
+                "tests": [
+                    81
+                ],
+                "speedups": [
+                    84
+                ],
+                "also": [
+                    88
+                ],
+                "multiple": [
+                    90
+                ],
+                "GPUs.": [
+                    91
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2965475975",
+            "counts_by_year": [
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-24T07:59:29.762936",
+            "created_date": "2019-08-13"
+        },
+        {
+            "id": "https://openalex.org/W2773246892",
+            "doi": "https://doi.org/10.20906/cps/cilamce2017-0097",
+            "title": "Mortar Finite Element Method for solving cells response to applied electric field",
+            "display_name": "Mortar Finite Element Method for solving cells response to applied electric field",
+            "publication_year": 2017,
+            "publication_date": "2017-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2773246892",
+                "doi": "https://doi.org/10.20906/cps/cilamce2017-0097",
+                "mag": "2773246892"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.20906/cps/cilamce2017-0097",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S4210168516",
+                    "display_name": "Anais do ... Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia",
+                    "issn_l": "2178-4949",
+                    "issn": [
+                        "2178-4949"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": null,
+                    "host_organization_name": null,
+                    "host_organization_lineage": [],
+                    "host_organization_lineage_names": [],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "proceedings-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5075559736",
+                        "display_name": "Cesar Conopoima",
+                        "orcid": "https://orcid.org/0000-0002-8381-5269"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cesar Conopoima",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007890534",
+                        "display_name": "Bernardo Martins Rocha",
+                        "orcid": "https://orcid.org/0000-0002-0508-8959"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bernardo Martins Rocha",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5082345470",
+                        "display_name": "Iury Igreja",
+                        "orcid": "https://orcid.org/0000-0003-2486-1190"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Iury Igreja",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5006900285",
+                        "display_name": "Rodrigo Weber dos Santos",
+                        "orcid": "https://orcid.org/0000-0002-0633-1391"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Rodrigo Weber Dos Santos",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": false,
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 64
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T12976",
+                "display_name": "Influence of Magnetic Fields on Biological Systems",
+                "score": 0.9917,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1314",
+                    "display_name": "Physiology"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/13",
+                    "display_name": "Biochemistry, Genetics and Molecular Biology"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/1",
+                    "display_name": "Life Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T12976",
+                    "display_name": "Influence of Magnetic Fields on Biological Systems",
+                    "score": 0.9917,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1314",
+                        "display_name": "Physiology"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/13",
+                        "display_name": "Biochemistry, Genetics and Molecular Biology"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/1",
+                        "display_name": "Life Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T11255",
+                    "display_name": "Microfluidic Techniques for Particle Manipulation and Separation",
+                    "score": 0.9629,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2204",
+                        "display_name": "Biomedical Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/cell-sorting",
+                    "display_name": "Cell Sorting",
+                    "score": 0.515483
+                },
+                {
+                    "id": "https://openalex.org/keywords/magnetic-fields",
+                    "display_name": "Magnetic Fields",
+                    "score": 0.508317
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.75742555
+                },
+                {
+                    "id": "https://openalex.org/C130767629",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7905205",
+                    "display_name": "Mortar",
+                    "level": 2,
+                    "score": 0.5999494
+                },
+                {
+                    "id": "https://openalex.org/C60799052",
+                    "wikidata": "https://www.wikidata.org/wiki/Q46221",
+                    "display_name": "Electric field",
+                    "level": 2,
+                    "score": 0.5976932
+                },
+                {
+                    "id": "https://openalex.org/C9652623",
+                    "wikidata": "https://www.wikidata.org/wiki/Q190109",
+                    "display_name": "Field (mathematics)",
+                    "level": 2,
+                    "score": 0.42678744
+                },
+                {
+                    "id": "https://openalex.org/C192562407",
+                    "wikidata": "https://www.wikidata.org/wiki/Q228736",
+                    "display_name": "Materials science",
+                    "level": 0,
+                    "score": 0.40116602
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.36849803
+                },
+                {
+                    "id": "https://openalex.org/C66938386",
+                    "wikidata": "https://www.wikidata.org/wiki/Q633538",
+                    "display_name": "Structural engineering",
+                    "level": 1,
+                    "score": 0.29703826
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.2598475
+                },
+                {
+                    "id": "https://openalex.org/C127413603",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                    "display_name": "Engineering",
+                    "level": 0,
+                    "score": 0.2242198
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.20541885
+                },
+                {
+                    "id": "https://openalex.org/C159985019",
+                    "wikidata": "https://www.wikidata.org/wiki/Q181790",
+                    "display_name": "Composite material",
+                    "level": 1,
+                    "score": 0.20443213
+                },
+                {
+                    "id": "https://openalex.org/C62520636",
+                    "wikidata": "https://www.wikidata.org/wiki/Q944",
+                    "display_name": "Quantum mechanics",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C202444582",
+                    "wikidata": "https://www.wikidata.org/wiki/Q837863",
+                    "display_name": "Pure mathematics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.20906/cps/cilamce2017-0097",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S4210168516",
+                        "display_name": "Anais do ... Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia",
+                        "issn_l": "2178-4949",
+                        "issn": [
+                            "2178-4949"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": null,
+                        "host_organization_name": null,
+                        "host_organization_lineage": [],
+                        "host_organization_lineage_names": [],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W4388998267",
+                "https://openalex.org/W4200100433",
+                "https://openalex.org/W348076851",
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2898370298",
+                "https://openalex.org/W2744391499",
+                "https://openalex.org/W2368761274",
+                "https://openalex.org/W2027971144",
+                "https://openalex.org/W2002789351",
+                "https://openalex.org/W1994277682"
+            ],
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2773246892",
+            "counts_by_year": [],
+            "updated_date": "2024-09-14T17:26:06.553069",
+            "created_date": "2017-12-22"
+        },
+        {
+            "id": "https://openalex.org/W2948789064",
+            "doi": "https://doi.org/10.1007/978-3-030-22750-0_60",
+            "title": "Stabilized Variational Formulation for Solving Cell Response to Applied Electric Field",
+            "display_name": "Stabilized Variational Formulation for Solving Cell Response to Applied Electric Field",
+            "publication_year": 2019,
+            "publication_date": "2019-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2948789064",
+                "doi": "https://doi.org/10.1007/978-3-030-22750-0_60",
+                "mag": "2948789064"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/978-3-030-22750-0_60",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S106296714",
+                    "display_name": "Lecture notes in computer science",
+                    "issn_l": "0302-9743",
+                    "issn": [
+                        "0302-9743",
+                        "1611-3349"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310319900",
+                    "host_organization_name": "Springer Science+Business Media",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310319900"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Science+Business Media"
+                    ],
+                    "type": "book series"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "book-chapter",
+            "type_crossref": "book-chapter",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null,
+                "any_repository_has_fulltext": false
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5075559736",
+                        "display_name": "Cesar Conopoima",
+                        "orcid": "https://orcid.org/0000-0002-8381-5269"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cesar Augusto Conopoima",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5007890534",
+                        "display_name": "Bernardo Martins Rocha",
+                        "orcid": "https://orcid.org/0000-0002-0508-8959"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bernardo Martins Rocha",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5082345470",
+                        "display_name": "Iury Igreja",
+                        "orcid": "https://orcid.org/0000-0003-2486-1190"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": true,
+                    "raw_author_name": "Iury Igreja",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5006900285",
+                        "display_name": "Rodrigo Weber dos Santos",
+                        "orcid": "https://orcid.org/0000-0002-0633-1391"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I101100930",
+                            "display_name": "Universidade Federal de Juiz de Fora",
+                            "ror": "https://ror.org/04yqw9c44",
+                            "country_code": "BR",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Rodrigo Weber Dos Santos",
+                    "raw_affiliation_strings": [
+                        "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Universidade Federal de Juiz de Fora, Juiz de Fora, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I101100930"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5014852334",
+                        "display_name": "Abimael F. D. Loula",
+                        "orcid": "https://orcid.org/0000-0002-3535-2917"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I4210142352",
+                            "display_name": "Laboratório Nacional de Computação Científica",
+                            "ror": "https://ror.org/0498ekt05",
+                            "country_code": "BR",
+                            "type": "government",
+                            "lineage": [
+                                "https://openalex.org/I4210142352"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "BR"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Abimael Fernando Dourado Loula",
+                    "raw_affiliation_strings": [
+                        "Laboratório Nacional de Computação Científica, Petropolis, Brazil"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Laboratório Nacional de Computação Científica, Petropolis, Brazil",
+                            "institution_ids": [
+                                "https://openalex.org/I4210142352"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 2,
+            "corresponding_author_ids": [
+                "https://openalex.org/A5082345470"
+            ],
+            "corresponding_institution_ids": [
+                "https://openalex.org/I101100930"
+            ],
+            "apc_list": {
+                "value": 5000,
+                "currency": "EUR",
+                "value_usd": 5392,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 0.0,
+            "has_fulltext": true,
+            "fulltext_origin": "ngrams",
+            "cited_by_count": 0,
+            "citation_normalized_percentile": {
+                "value": 0.0,
+                "is_in_top_1_percent": false,
+                "is_in_top_10_percent": false
+            },
+            "cited_by_percentile_year": {
+                "min": 0,
+                "max": 62
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": "627",
+                "last_page": "634"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T11263",
+                "display_name": "Finite-Difference Time-Domain Methods in Electromagnetics",
+                "score": 0.9975,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/2208",
+                    "display_name": "Electrical and Electronic Engineering"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/22",
+                    "display_name": "Engineering"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T11263",
+                    "display_name": "Finite-Difference Time-Domain Methods in Electromagnetics",
+                    "score": 0.9975,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2208",
+                        "display_name": "Electrical and Electronic Engineering"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10288",
+                    "display_name": "Anomalous Diffusion Modeling and Analysis",
+                    "score": 0.9974,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2611",
+                        "display_name": "Modeling and Simulation"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/26",
+                        "display_name": "Mathematics"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10514",
+                    "display_name": "Fracture Mechanics Modeling and Simulation",
+                    "score": 0.997,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/2211",
+                        "display_name": "Mechanics of Materials"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/22",
+                        "display_name": "Engineering"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/stability-analysis",
+                    "display_name": "Stability Analysis",
+                    "score": 0.535193
+                },
+                {
+                    "id": "https://openalex.org/keywords/unconditionally-stable-schemes",
+                    "display_name": "Unconditionally Stable Schemes",
+                    "score": 0.518335
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C73684929",
+                    "wikidata": "https://www.wikidata.org/wiki/Q598870",
+                    "display_name": "Lagrange multiplier",
+                    "level": 2,
+                    "score": 0.76627004
+                },
+                {
+                    "id": "https://openalex.org/C73000952",
+                    "wikidata": "https://www.wikidata.org/wiki/Q17007827",
+                    "display_name": "Discretization",
+                    "level": 2,
+                    "score": 0.6954479
+                },
+                {
+                    "id": "https://openalex.org/C135628077",
+                    "wikidata": "https://www.wikidata.org/wiki/Q220184",
+                    "display_name": "Finite element method",
+                    "level": 2,
+                    "score": 0.6494716
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.54320645
+                },
+                {
+                    "id": "https://openalex.org/C28826006",
+                    "wikidata": "https://www.wikidata.org/wiki/Q33521",
+                    "display_name": "Applied mathematics",
+                    "level": 1,
+                    "score": 0.5218281
+                },
+                {
+                    "id": "https://openalex.org/C2777303404",
+                    "wikidata": "https://www.wikidata.org/wiki/Q759757",
+                    "display_name": "Convergence (economics)",
+                    "level": 2,
+                    "score": 0.50097895
+                },
+                {
+                    "id": "https://openalex.org/C126255220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q141495",
+                    "display_name": "Mathematical optimization",
+                    "level": 1,
+                    "score": 0.45455018
+                },
+                {
+                    "id": "https://openalex.org/C33923547",
+                    "wikidata": "https://www.wikidata.org/wiki/Q395",
+                    "display_name": "Mathematics",
+                    "level": 0,
+                    "score": 0.32680854
+                },
+                {
+                    "id": "https://openalex.org/C134306372",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7754",
+                    "display_name": "Mathematical analysis",
+                    "level": 1,
+                    "score": 0.20997265
+                },
+                {
+                    "id": "https://openalex.org/C121332964",
+                    "wikidata": "https://www.wikidata.org/wiki/Q413",
+                    "display_name": "Physics",
+                    "level": 0,
+                    "score": 0.10859415
+                },
+                {
+                    "id": "https://openalex.org/C50522688",
+                    "wikidata": "https://www.wikidata.org/wiki/Q189833",
+                    "display_name": "Economic growth",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C162324750",
+                    "wikidata": "https://www.wikidata.org/wiki/Q8134",
+                    "display_name": "Economics",
+                    "level": 0,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C97355855",
+                    "wikidata": "https://www.wikidata.org/wiki/Q11473",
+                    "display_name": "Thermodynamics",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/978-3-030-22750-0_60",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S106296714",
+                        "display_name": "Lecture notes in computer science",
+                        "issn_l": "0302-9743",
+                        "issn": [
+                            "0302-9743",
+                            "1611-3349"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310319900",
+                        "host_organization_name": "Springer Science+Business Media",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310319900"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Science+Business Media"
+                        ],
+                        "type": "book series"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": null,
+            "sustainable_development_goals": [],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 9,
+            "referenced_works": [
+                "https://openalex.org/W176939601",
+                "https://openalex.org/W1986041092",
+                "https://openalex.org/W1988230026",
+                "https://openalex.org/W1994484297",
+                "https://openalex.org/W2022659038",
+                "https://openalex.org/W2096448109",
+                "https://openalex.org/W2155126547",
+                "https://openalex.org/W2162447272",
+                "https://openalex.org/W2763945434"
+            ],
+            "related_works": [
+                "https://openalex.org/W946352265",
+                "https://openalex.org/W3020787026",
+                "https://openalex.org/W2799209613",
+                "https://openalex.org/W2364741597",
+                "https://openalex.org/W2334479858",
+                "https://openalex.org/W2006251942",
+                "https://openalex.org/W1971388572",
+                "https://openalex.org/W1864774435",
+                "https://openalex.org/W1507702947",
+                "https://openalex.org/W1492103595"
+            ],
+            "abstract_inverted_index": {
+                "In": [
+                    0
+                ],
+                "this": [
+                    1
+                ],
+                "work": [
+                    2
+                ],
+                "a": [
+                    3,
+                    41,
+                    63
+                ],
+                "stabilized": [
+                    4,
+                    27,
+                    70
+                ],
+                "variational": [
+                    5,
+                    65
+                ],
+                "formulation": [
+                    6,
+                    28,
+                    66
+                ],
+                "is": [
+                    7,
+                    29,
+                    60
+                ],
+                "proposed": [
+                    8,
+                    26,
+                    69
+                ],
+                "to": [
+                    9,
+                    20,
+                    108,
+                    127
+                ],
+                "solve": [
+                    10,
+                    109
+                ],
+                "the": [
+                    11,
+                    15,
+                    32,
+                    57,
+                    68,
+                    79,
+                    83,
+                    86,
+                    94,
+                    102,
+                    114,
+                    129,
+                    133
+                ],
+                "interface": [
+                    12,
+                    54
+                ],
+                "problem": [
+                    13,
+                    55
+                ],
+                "describing": [
+                    14,
+                    56
+                ],
+                "electric": [
+                    16,
+                    23
+                ],
+                "response": [
+                    17,
+                    59
+                ],
+                "of": [
+                    18,
+                    78,
+                    82,
+                    93,
+                    101,
+                    105,
+                    117,
+                    132
+                ],
+                "cells": [
+                    19
+                ],
+                "an": [
+                    21,
+                    118
+                ],
+                "applied": [
+                    22
+                ],
+                "field.": [
+                    24
+                ],
+                "The": [
+                    25,
+                    53,
+                    90
+                ],
+                "attractive": [
+                    30
+                ],
+                "since": [
+                    31
+                ],
+                "discrete": [
+                    33
+                ],
+                "operator": [
+                    34
+                ],
+                "resulting": [
+                    35
+                ],
+                "from": [
+                    36
+                ],
+                "finite": [
+                    37
+                ],
+                "element": [
+                    38
+                ],
+                "discretization": [
+                    39
+                ],
+                "generates": [
+                    40
+                ],
+                "definite": [
+                    42
+                ],
+                "linear": [
+                    43
+                ],
+                "system": [
+                    44
+                ],
+                "for": [
+                    45
+                ],
+                "which": [
+                    46
+                ],
+                "efficient": [
+                    47
+                ],
+                "iterative": [
+                    48
+                ],
+                "solvers": [
+                    49
+                ],
+                "can": [
+                    50
+                ],
+                "be": [
+                    51
+                ],
+                "applied.": [
+                    52
+                ],
+                "cell": [
+                    58
+                ],
+                "solved": [
+                    61
+                ],
+                "with": [
+                    62
+                ],
+                "primal": [
+                    64,
+                    84
+                ],
+                "and": [
+                    67,
+                    85
+                ],
+                "formulation.": [
+                    71
+                ],
+                "Both": [
+                    72
+                ],
+                "methods": [
+                    73,
+                    95
+                ],
+                "are": [
+                    74,
+                    96,
+                    125
+                ],
+                "compared": [
+                    75,
+                    98
+                ],
+                "in": [
+                    76,
+                    99
+                ],
+                "terms": [
+                    77,
+                    100
+                ],
+                "approximation": [
+                    80
+                ],
+                "properties": [
+                    81,
+                    131
+                ],
+                "Lagrange": [
+                    87
+                ],
+                "multiplier": [
+                    88
+                ],
+                "variable.": [
+                    89
+                ],
+                "computational": [
+                    91
+                ],
+                "performance": [
+                    92
+                ],
+                "also": [
+                    97
+                ],
+                "mean": [
+                    103
+                ],
+                "number": [
+                    104
+                ],
+                "iterations": [
+                    106
+                ],
+                "needed": [
+                    107
+                ],
+                "one": [
+                    110
+                ],
+                "time": [
+                    111
+                ],
+                "step": [
+                    112
+                ],
+                "during": [
+                    113
+                ],
+                "polarization": [
+                    115
+                ],
+                "process": [
+                    116
+                ],
+                "isolated": [
+                    119
+                ],
+                "square": [
+                    120
+                ],
+                "cell.": [
+                    121
+                ],
+                "Moreover,": [
+                    122
+                ],
+                "numerical": [
+                    123
+                ],
+                "experiments": [
+                    124
+                ],
+                "performed": [
+                    126
+                ],
+                "validate": [
+                    128
+                ],
+                "convergence": [
+                    130
+                ],
+                "methods.": [
+                    134
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2948789064",
+            "counts_by_year": [],
+            "updated_date": "2024-09-25T12:26:27.417560",
+            "created_date": "2019-06-14"
+        }
+    ],
+    "group_by": []
+}
